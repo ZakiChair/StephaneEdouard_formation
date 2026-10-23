@@ -10,7 +10,7 @@ mots_fiche: 3022
 mots_verbatim: 35
 mots_annonce: 0
 programme: 0
-sections_annonce: 0
+sections_annonce: 1
 points_annonce: 0
 documents_materiau: 2
 idees_forces: 6
@@ -21,6 +21,10 @@ doublon_titre: oui
 # C'est pour offrir
 
 **C160** · Seduction & Rencontres · 3022 mots
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/offrir/ — 0 mots de sa prose.*
 
 ## La matière qu'il a lui-même déclarée
 

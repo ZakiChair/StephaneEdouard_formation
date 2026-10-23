@@ -1992,8 +1992,80 @@
   ]
  },
  "C020": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "5 DO s"
+   },
+   {
+    "n": 2,
+    "texte": "4 DON’T"
+   },
+   {
+    "n": 3,
+    "texte": "Donner l’envie d’avoir envie"
+   },
+   {
+    "n": 4,
+    "texte": "Voler l’attention au lecteur"
+   },
+   {
+    "n": 5,
+    "texte": "Conclure en beauté"
+   },
+   {
+    "n": 6,
+    "texte": "2h20 sur ton réseau préféré (moyenne nationale)"
+   },
+   {
+    "n": 7,
+    "texte": "encore 1h ou plus pour ceux d’entre vous qui utilisent les [sites de rencontre](https://www.hommesdinfluence.com/tag/sites-apps)"
+   },
+   {
+    "n": 8,
+    "texte": "encore plusieurs heures sur des emails à convaincre vos collègues de bureau du bien-fondé de vos décisions. Vous connaissez la fameuse dialectique du savoir- faire vs le faire-savoir ? Et comment fait-on savoir à notre époque à votre avis ? Au travers des multiples écrits qui jalonnent votre journée, et qui peuvent être une purge… ou un plaisir"
+   },
+   {
+    "n": 9,
+    "texte": "plusieurs nuits (certes plus rarement) à rédiger les exposés, mémoires, projets et autres rapports dont dépendront vos évaluations, qu’elles soient scolaires ou professionnelles"
+   },
+   {
+    "n": 10,
+    "texte": "etc."
+   },
+   {
+    "n": 11,
+    "texte": "transformer des expériences en concepts"
+   },
+   {
+    "n": 12,
+    "texte": "peaufiner des techniques d’écriture qui rendent ces concepts séduisants et pas ennuyeux comme dans la plupart des livres de sociologie"
+   },
+   {
+    "n": 13,
+    "texte": "accessoirement, écrire pour [La Furia](https://mat-consulting.fr/catalogue/la-furia/) et ce depuis le tout premier numéro"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "99% du temps, vous devez convaincre à l’écrit avant de pouvoir passer à l’oral…",
+    "mots": 233,
+    "points": [],
+    "puces": [
+     "transformer des expériences en _concepts_",
+     "peaufiner des **techniques d’écriture** qui rendent ces concepts **séduisants** et pas ennuyeux comme dans la plupart des livres de sociologie",
+     "accessoirement, écrire pour La Furia et ce depuis le tout premier numéro"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "AU PROGRAMME",
+    "mots": 64,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -3479,65 +3551,62 @@
   "programme": [
    {
     "n": 1,
-    "texte": "Test de compatibilité"
+    "texte": "AVANT VS APRÈS CETTE JOURNÉE"
    },
    {
     "n": 2,
-    "texte": "Mutisme dans le couple"
+    "texte": "Avant: Flashback"
    },
    {
     "n": 3,
-    "texte": "Les étapes-clés"
+    "texte": "Après la journée du 24 oct 2015 (si vous venez)"
    },
    {
     "n": 4,
-    "texte": "3 âges du couple"
+    "texte": "POURQUOI VOUS AVEZ BESOIN DE CE CONTENU ?"
    },
    {
     "n": 5,
-    "texte": "TD : vie quotidienne"
+    "texte": "CONCRÈTEMENT, UN SÉMINAIRE, C’EST QUOI, JE VIENS OÙ, ETC."
    },
    {
     "n": 6,
-    "texte": "Sexe, désir et fidélité sont sur un bateau"
+    "texte": "Exceptionnel: venez avec votre conjoint(e), il paye la moitié"
    },
    {
     "n": 7,
-    "texte": "Les conversations-clés"
-   },
-   {
-    "n": 8,
-    "texte": "10 questions de maturité"
-   },
-   {
-    "n": 9,
-    "texte": "Le secret c’est la re-séduction"
-   },
-   {
-    "n": 10,
-    "texte": "Votre couple donner envie aux autres de lui ressembler"
+    "texte": "COMMENT RÉSERVER"
    }
   ],
   "annonce": [
    {
-    "titre": "_AVANT_ VS _APRÈS_ CETTE JOURNÉE",
+    "titre": "Description du Produit",
+    "mots": 72,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "AVANT  VS  APRÈS  CETTE JOURNÉE",
     "mots": 0,
     "points": [],
     "puces": [],
     "citations": []
    },
    {
-    "titre": "Avant : _Flashback_",
-    "mots": 407,
-    "points": [
-     "vous vous imaginez la manière dont vous allez rencontrer quelqu’un (sur internet / dans la rue / au bureau / au sport / etc.)",
+    "titre": "Avant:  Flashback",
+    "mots": 403,
+    "points": [],
+    "puces": [
+     "vous vous imaginez la manière dont vous allez rencontrer quelqu’un (sur internet / dans la rue / au dureau / au sport / etc.)",
      "rien ne se déroule exactement comme prévu",
      "vous finissez par rencontrer quelqu’un d’une manière complètement inattendue (souvent, vous la connaissiez déjà avant d’avoir « commencé »)",
-     "vous oubliez 80 % des fondamentaux. Normal, ça ne sert à rien, la personne est acquise (du moins le croyez-vous). Elle habite peut-être même chez vous",
+     "vous oubliez 80% des fondamentaux de la séduction. Normal, ça ne sert à rien, la personne est acquise. Elle habite peut-être même chez vous",
      "un certain nombre de comportements s’insinuent en vous, d’autant plus insidieux qu’ils sont globalement indétectables. Under the radar. Dans le langage sportif, on appelle ça « relâcher l’effort dans la ligne droite ».",
      "progressivement, vous vous coupez du monde extérieur et vivez sur les « réserves » d’un niveau d’intérêt mutuel qui ne cesse de diminuer jour après jour. Bien sûr, vous niez l’évidence à quiconque vous la ferait remarquer",
+     "soudain, à l’occasion d’une date symbolique (anniversaire, examen, licenciement, déménagement, liste non exhaustive), le couperet tombe: votre conjoint(e) vous annonce froidement qu’il est temps de « penser à soi », qu’il/elle a besoin de « son espace »*. Voire qu’il/elle vous a trompé dans les 6 derniers mois. C’est TOUJOURS dans les 6 derniers mois.",
      "une boule de douleur viscérale vous envahit en une seconde, vous déglutissez péniblement, ça ne « passe pas »",
-     "vous raisonnez logiquement (logique H) pour essayer de comprendre rétrospectivement que vous n’avez rien compris",
+     "vous raisonnez logiquement (logique H) pour essayer de comprendre rétrospectivement que vous n’avez rien compris.",
      "vous appelez à l’aide",
      "vous amis hommes s’en foutent, et vous regardent avec une commisération affectée si vous insistez trop pour obtenir de l’écoute",
      "vos amies filles ne s’en foutent pas, mais ne vous donnent que des conseils à côté de la plaque, vous conseillant toutes globalement de demander pardon pour tous les affreux méfaits que vous auriez commis, même (et surtout) ceux qui n’existent pas",
@@ -3545,6 +3614,61 @@
      "un jour, par hasard, après de multiples mésaventures, vous finissez par rencontrer une autre personne. L’excitation et la surprise occasionnées par la nouveauté enterrent les souvenirs anciens de l’ancienne déception, qui ne sera désormais jamais comprise, mais qu’importe",
      "retour au point 3…"
     ],
+    "citations": []
+   },
+   {
+    "titre": "Après la journée du 24 oct 2015 (si vous venez)",
+    "mots": 350,
+    "points": [],
+    "puces": [
+     "vous avez compris le ridicule des expressions comme « se caser », se « maquer », et cie.",
+     "vous avez compris que le couple est une  entité provisoire de survie  (définition à venir pendant le séminaire)",
+     "vous avez compris que les situations les plus stables en apparence sont celles dont l’éclatement peut-être le plus soudain (et le plus douloureux)",
+     "vous savez d’avance que les sentiments initiaux d’excitation / attraction / envie etc. sont essentiellement circonstanciés et  temporaires , et donc qu’il va falloir les remplacer à brève échéance",
+     "vous n’allez pas éviter / retarder les conflits, mais les accepter et les prendre de front, comme un homme",
+     "vous allez savoir fixer vos limites",
+     "vous allez apprendre à faire des surprises vraiment surprenantes",
+     "vous n’allez pas chercher à apaiser les tensions en allant dans le sens de ses reproches, car vous aurez compris que  la tension c’est l’attention",
+     "vous savez concilier vie en commun et désir: un paradoxe, sachant que celui-ci se base surtout sur l’absence, et que l’absence se crée par le manque",
+     "vous avez des techniques pour combattre votre pire ennemi: la solution de facilité",
+     "vous avez des réponses en avance aux conflits qui vont inévitablement se poser",
+     "vous savez gérer les vacances ensemble, soit une (sur)vie en commun de 24h sur 24",
+     "vous anticipez les pièges posés par la présence d’un enfant qui n’est pas le vôtre, le cas échéant",
+     "bref, vous avez  des coups d’avance"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "POURQUOI VOUS AVEZ BESOIN DE CE CONTENU ?",
+    "mots": 119,
+    "points": [],
+    "puces": [
+     "Parce que vous savez pertinemment, qu’être séduisant en couple est autant (voir plus) difficile que de faire des rencontres dans l’absolu",
+     "Parce que vous avez déjà été agacé de voir l’inéluctabilité avec laquelle vos relations de couple se terminent",
+     "Parce que vous êtes assez mûr pour comprendre et accepter que le couple est une destination « normale » de l’individu sensé; que vivre seul, c’est trop dur",
+     "Parce que vous savez que Stéphane dit la vérité, et ne vous vendra pas du vent, des conseils contrefaits, ou du  wishful thinking  (en français: voir la réalité comme on voudrait qu’elle soit, au lieu de la voir comme elle est réellement)",
+     "Parce que vous aimez comprendre"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "CONCRÈTEMENT, UN SÉMINAIRE, C’EST QUOI, JE VIENS OÙ, ETC.",
+    "mots": 82,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Exceptionnel: venez avec votre conjoint(e), il paye la moitié",
+    "mots": 39,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "COMMENT RÉSERVER",
+    "mots": 66,
+    "points": [],
     "puces": [],
     "citations": []
    }
@@ -3691,8 +3815,67 @@
   ]
  },
  "C036": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Si l’homme est un animal visuel, alors quel type d’animal sont-elles ?"
+   },
+   {
+    "n": 2,
+    "texte": "Quelque chose qui nous dépasse"
+   },
+   {
+    "n": 3,
+    "texte": "Femme et artifice"
+   },
+   {
+    "n": 4,
+    "texte": "1+1=3, l’importance du tiers"
+   },
+   {
+    "n": 5,
+    "texte": "Locataire vs propriétaire de son corps"
+   },
+   {
+    "n": 6,
+    "texte": "L’infirmière qui sommeille"
+   },
+   {
+    "n": 7,
+    "texte": "Nécessaire et suffisante"
+   },
+   {
+    "n": 8,
+    "texte": "Anticipation"
+   },
+   {
+    "n": 9,
+    "texte": "Accordage"
+   },
+   {
+    "n": 10,
+    "texte": "Accoutumance"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Un seul (conn)aître vous manque…",
+    "mots": 99,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "…et tout est dépeuplé",
+    "mots": 168,
+    "points": [
+     "une succession de caresses et de «positions» (même originales, inventives, ou studieuses) ne créera pas de véritable connexion sexuelle avec une femme (et n’en créera jamais)",
+     "de même que la connexion émotionnelle est nécessaire lors de la rencontre, la connexion sexuelle est indispensable pour que le niveau d’intérêt d’une femme crève la plafond"
+    ],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -4129,8 +4312,88 @@
   ]
  },
  "C042": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Les professions objets de fantasmes"
+   },
+   {
+    "n": 2,
+    "texte": "Le « rôle du local » (vieille réf. de connaisseur)"
+   },
+   {
+    "n": 3,
+    "texte": "La passe décisive"
+   },
+   {
+    "n": 4,
+    "texte": "Droit vs injonction au plaisir"
+   },
+   {
+    "n": 5,
+    "texte": "Transgression et normativité"
+   },
+   {
+    "n": 6,
+    "texte": "Une relation de kalitay"
+   },
+   {
+    "n": 7,
+    "texte": "L’épineuse contraception"
+   },
+   {
+    "n": 8,
+    "texte": "L’abdication"
+   },
+   {
+    "n": 9,
+    "texte": "La (position latérale de) sécurité"
+   },
+   {
+    "n": 10,
+    "texte": "6 scénarii piquants comme un cactus"
+   },
+   {
+    "n": 11,
+    "texte": "remorquer une F (consentante) sur une app’ de rencontre"
+   },
+   {
+    "n": 12,
+    "texte": "essuyer avec grâce – et un semblant de détachement – une [addition au restaurant](https://www.hommesdinfluence.com/articles/2258paye-laddition.html) plus ou moins salée"
+   },
+   {
+    "n": 13,
+    "texte": "un enchaînement plus ou moins hésitant et foireux pour prolonger la soirée chez l’un ou chez l’autre, sous couvert d’un prétexte risible"
+   },
+   {
+    "n": 14,
+    "texte": "un effeuillage penaud conclu par une pénétration vigoureuse et empressée avant le réglementaire repos du guerrier"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Ce qui ne va pas sans poser quelques petits problèmes :",
+    "mots": 207,
+    "points": [
+     "Problème n°1 : les femmes n’aiment pas les dick pics. À moins qu’ils ne soient spécifiquement réclamés avec insistance. Ce qui arrive relativement rarement.",
+     "Problème n°2 : plus de 50% du plaisir ressenti par une femme vient de son cerveau"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Rappels pour les nouveaux 🐒",
+    "mots": 70,
+    "points": [],
+    "puces": [
+     "Un séminaire c’est « mieux » que ce que vous pouvez lire sur mes sites ou voir sur youtube. C’est la crème de la crème. Du caviar d’information.",
+     "Tous les séminaires que vous avez commandés depuis la naissance de Jésus Christ sont disponibles dans votre espace mon compte",
+     "Une facture est disponible sur simple demande par email",
+     "Recevez tous mes séminaires, toute l’année en devenant VIP"
+    ],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -6963,8 +7226,108 @@
   ]
  },
  "C073": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Le facteur aléatoire"
+   },
+   {
+    "n": 2,
+    "texte": "Parler simple"
+   },
+   {
+    "n": 3,
+    "texte": "Personne n’a accès au réel en prise directe"
+   },
+   {
+    "n": 4,
+    "texte": "L’autre n’est jamais fou (parti pris)"
+   },
+   {
+    "n": 5,
+    "texte": "Concepts-clés"
+   },
+   {
+    "n": 6,
+    "texte": "Ces biais cognitifs qui nous font croire n’importe quoi"
+   },
+   {
+    "n": 7,
+    "texte": "Embrasser une part d’irrationalité"
+   },
+   {
+    "n": 8,
+    "texte": "Contourner l’irrationalité"
+   },
+   {
+    "n": 9,
+    "texte": "Agir en dépit"
+   },
+   {
+    "n": 10,
+    "texte": "Apprendre à apprendre"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "IMMERSION DANS LE MONDE PASSIONNANT DE LA PSYCHO-SOCIOLOGIE !",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Axiome 1",
+    "mots": 50,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Axiome 2",
+    "mots": 190,
+    "points": [
+     "Parce que, justement, ils refusent l’idée d’être régis par un autre mécanisme qu’eux-mêmes (c’est idiot : la liberté absolue est à la fois une utopie et un désespoir si jamais elle venait à se réaliser)",
+     "Parce qu’en sciences humaines, contrairement à la chirurgie, la mécanique ou l’informatique, ils pensent tout savoir sans rien avoir étudié (« je connais les femmes, j’en suis une » / « je connais les hommes, j’en suis un ». Ben voyons…)"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Axiome 3",
+    "mots": 100,
+    "points": [
+     "Les sociologues jargonnent (je vous mets au défi de vous coltiner le dernier ouvrage des gurus de la sociologie des organisations sans éprouver ennuis, maux de tête et nausée)",
+     "Les psychologues verboient (combien d’heures, de mois, d’années d’analyse, pour combien de concepts vraiment « décoiffants » ?)",
+     "Et sinon, les quelques exceptions qui comprennent les mécanismes humains sont trop occupés à les exploiter (cf les escrocs notoires, Christophe et Oussama pour ne citer qu’eux) pour perdre leur temps à vous expliquer quoique ce soit."
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "COMPRENDRE LES GENS EST SANS AUCUN DOUTE LA MÉCANIQUE LA PLUS PUISSANTE QUI SOIT",
+    "mots": 18,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "« On ne peut comprendre les gens que si on les sent en soi-même. » – Steinbeck"
+    ]
+   },
+   {
+    "titre": "…et la plus importante de votre vie.",
+    "mots": 17,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Révélation (pour certains)",
+    "mots": 145,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -7269,122 +7632,8 @@
   ]
  },
  "C077": {
-  "programme": [
-   {
-    "n": 1,
-    "texte": "Qu’avez-vous à échanger ?"
-   },
-   {
-    "n": 2,
-    "texte": "Exemples concrets de ressources"
-   },
-   {
-    "n": 3,
-    "texte": "Zone d’incertitude"
-   },
-   {
-    "n": 4,
-    "texte": "La puissance du sentiment d’impuissance"
-   },
-   {
-    "n": 5,
-    "texte": "Analyse de cas : qui a vraiment le pouvoir dans cet exemple"
-   },
-   {
-    "n": 6,
-    "texte": "Radiographie du pouvoir"
-   },
-   {
-    "n": 7,
-    "texte": "Modèle de l’anarchie organisée"
-   },
-   {
-    "n": 8,
-    "texte": "Les habitudes du pouvoir"
-   },
-   {
-    "n": 9,
-    "texte": "Hacker le pouvoir objectif"
-   }
-  ],
-  "annonce": [
-   {
-    "titre": "Elles ont vu quoi, les lunettes du sociologue ?",
-    "mots": 188,
-    "points": [
-     "Le pouvoir rend attirant",
-     "Le pouvoir rend intéressant",
-     "Le pouvoir rend tout pardonnable"
-    ],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Vulgarisations sociologique, _start_ :",
-    "mots": 196,
-    "points": [
-     "toutes les relations sont des relations de pouvoir. Postulat",
-     "le pouvoir est une caractéristique de la nature de la relation. Tout comme peut l’être sa sincérité, sa durabilité, son exclusivité, etc."
-    ],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Évaluez objectivement votre niveau de connaissance sur le pouvoir aujourd’hui",
-    "mots": 199,
-    "points": [
-     "A quoi tient le pouvoir ? Donnez du pouvoir une définition simple et compréhensible par tous",
-     "Qui a le pouvoir sur un terrain de foot ?",
-     "Un leader d’opinion a t-il le pouvoir absolu ? Quels sont les limites du leader en termes de pouvoir ?",
-     "Comment transformer une ressource pertinente en ressource mobilisable ?",
-     "Quel est l’enjeu caché d’un entretien d’embauche ?",
-     "Et d’une relation amoureuse ?",
-     "Citez 5 habitudes du pouvoir",
-     "Donnez 2 exemples de situation où le pouvoir entre les acteurs s’est brusquement retourné",
-     "Quels sont les recours possibles en situation de carence de pouvoir ?",
-     "Pouvoir législatif, exécutif, judiciaire : lequel s’applique le mieux à la vie quotidienne et pourquoi ?"
-    ],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Le premier séminaire à vous donner les clefs (interdites) du pouvoir",
-    "mots": 225,
-    "points": [],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Ce que vous y apprendrez (entre autres)",
-    "mots": 106,
-    "points": [],
-    "puces": [
-     "Comprendre la puissance et les enjeux du pouvoir",
-     "Comment agrandir vos sphères de pouvoir : affectives, amicales, professionnelles",
-     "Comment élargir votre réseau d’influence",
-     "Comment démarrer le jeu du pouvoir, lorsqu’on n’a pas de réseau",
-     "Comment inclure le pouvoir à votre grille de lecture des relations",
-     "Comment utiliser le pouvoir en séduction",
-     "Comment utiliser le pouvoir dans votre vie professionnelle",
-     "Comment utiliser le pouvoir dans votre vie amicale et affective",
-     "Comment le conserver"
-    ],
-    "citations": []
-   },
-   {
-    "titre": "Vos 5 enjeux de cette journée",
-    "mots": 50,
-    "points": [
-     "Devenir celui que les autres recherchent, plutôt que celui qui cherche leur compagnie",
-     "Devenir respecté sans discussions inutiles",
-     "Commencer à vaincre ses peurs",
-     "\\[compléter ici\\]",
-     "\\[ici aussi\\]"
-    ],
-    "puces": [],
-    "citations": []
-   }
-  ],
+  "programme": [],
+  "annonce": [],
   "materiau": [
    {
     "kind": "synthese",
@@ -10141,8 +10390,129 @@
   ]
  },
  "C112": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "3 stratégies féminines en ligne"
+   },
+   {
+    "n": 2,
+    "texte": "6 bases de l’attraction"
+   },
+   {
+    "n": 3,
+    "texte": "Une question de survie"
+   },
+   {
+    "n": 4,
+    "texte": "Imaginer c’est connaître"
+   },
+   {
+    "n": 5,
+    "texte": "8 erreurs à éviter"
+   },
+   {
+    "n": 6,
+    "texte": "4 indices sur la connexion"
+   },
+   {
+    "n": 7,
+    "texte": "Les étapes de la connexion"
+   },
+   {
+    "n": 8,
+    "texte": "Améliorer son empathie en se posant ces 9 questions"
+   },
+   {
+    "n": 9,
+    "texte": "Pourquoi verbaliser la connexion"
+   },
+   {
+    "n": 10,
+    "texte": "Prérequis à la connexion"
+   },
+   {
+    "n": 11,
+    "texte": "Acronyme SPECIAL"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Ce que les femmes en disent :",
+    "mots": 81,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "_« Je l’ai su tout de suite »_",
+     "_« J’aurais été prête à tout pour lui »_",
+     "_« Ca ne s’explique pas, ça se ressent »_"
+    ]
+   },
+   {
+    "titre": "FAISONS SIMPLE",
+    "mots": 192,
+    "points": [
+     "Le test d’attraction physique (voir séminaire changez d’image)",
+     "La connexion",
+     "Le secret agenda (voir séminaire secret agenda)"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Ne confondez pas, la connexion n’est PAS :",
+    "mots": 29,
+    "points": [],
+    "puces": [
+     "Se chercher des points communs (« Tu adores _Games of Thrones_, moi aussi ! »)",
+     "Demander à l’autre de vous prouver qu’il/elle est assez bien pour vous"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "Ce qu’est la connexion",
+    "mots": 52,
+    "points": [
+     "Le « deuxième étage de la fusée », après avoir brisé la glace",
+     "Une façon rarement entendue de créer des sensations chez l’autre",
+     "La preuve irréfutable que vous êtes différent et intéressant",
+     "L’unique manière de témoigner votre intérêt comme un homme",
+     "La meilleure raison de vous revoir"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Et (bonus)",
+    "mots": 61,
+    "points": [],
+    "puces": [
+     "la seule façon de construire un réseau pertinent car mobilisable (car connaître plein de gens à qui vous ne pouvez jamais rien demander est une vision du monde aussi artistique qu’inutile)."
+    ],
+    "citations": []
+   },
+   {
+    "titre": "CADEAU",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Extrait de mon livre L’homme Idéal (Flammarion), sur la connexion",
+    "mots": 3,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "UNE JOURNÉE POUR ALLER AU BOUT DE LA CONNEXION",
+    "mots": 48,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -13351,7 +13721,35 @@
  },
  "C153": {
   "programme": [],
-  "annonce": [],
+  "annonce": [
+   {
+    "titre": "Extraits et témoignages",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Sommaire",
+    "mots": 3,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Témoignages",
+    "mots": 498,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "« Je suis en train de lire le livre, j’adore. Le concept des entretiens est sympa, rien ne remplace à mon avis la transmission orale, et là on s’en rapproche »",
+     "« Comme beaucoup l’on déjà dit, le passage sur l’énergie m’a laissé sur le cul. C’est comme le fil à couper le beurre… C’est simple, mais fallait y penser »",
+     "« C’est avec grand plaisir que j’ai écouté dans son intégralité l’entretien audio. Le fait qu’il vienne accompagner le livre est une bonne chose, il facilite la compréhension de ce dernier. J’ai été agréablement surpris du fait que la durée initialement prévue (52min) ait été quelque peu rallongée. Clair, détaillé, et toujours pertinent »",
+     "« J’étais un peu sceptique au début, mais c’est (très) vite passé. Les concepts que Stéphane développe, à travers diverses histoires plus ou moins personnelles, passent très bien à l’écrit. Et au delà des mots, on visualise très bien la scène d’entretien, les conversations, les exemples, les expériences, le vécu, et les situations authentiques »",
+     "« L’entretien audio est excellent, aucun passage inintéressant, que d’excellentes réflexions »"
+    ]
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -13678,7 +14076,15 @@
  },
  "C160": {
   "programme": [],
-  "annonce": [],
+  "annonce": [
+   {
+    "titre": "Informations complémentaires",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -15409,8 +15815,165 @@
   ]
  },
  "C184": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Rôle des filtres cognitifs"
+   },
+   {
+    "n": 2,
+    "texte": "H-adulte VS H-enfant"
+   },
+   {
+    "n": 3,
+    "texte": "Quand devient-on adulte ?"
+   },
+   {
+    "n": 4,
+    "texte": "Conception récente du monde sans peur"
+   },
+   {
+    "n": 5,
+    "texte": "Bénéfices de la peur"
+   },
+   {
+    "n": 6,
+    "texte": "Deux techniques pour commencer à se détacher de sa peur"
+   },
+   {
+    "n": 7,
+    "texte": "Trouver des marqueurs personnels pour définir la peur"
+   },
+   {
+    "n": 8,
+    "texte": "Se rassembler"
+   },
+   {
+    "n": 9,
+    "texte": "Avoir un modèle de personnalité adulte"
+   },
+   {
+    "n": 10,
+    "texte": "Choisir ses sensations"
+   },
+   {
+    "n": 11,
+    "texte": "Analogie aux radars de recul"
+   },
+   {
+    "n": 12,
+    "texte": "Négocier avec sa peur"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "L’anecdote du mois",
+    "mots": 85,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "FLASHBACK : LA PEUR EST LA NORME DE L’ENFANT",
+    "mots": 180,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "En grandissant, elle disparaît…",
+    "mots": 135,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "« Tout est bruit pour qui a peur »"
+    ]
+   },
+   {
+    "titre": "… ENFIN ÇA, C’EST LA THÉORIE",
+    "mots": 333,
+    "points": [],
+    "puces": [
+     "peur de l’indifférence d’une belle femme,",
+     "peur du rejet,",
+     "peur de parler en public,",
+     "peur de regarder en face quelqu’un qui vous dépasse (que ce soit symboliquement, physiquement, statutairement, bref quel que soit la nature de votre subordination à son égard)",
+     "peur du jugement de l’autre,",
+     "peur de la solitude,",
+     "peur de vous-même",
+     "etc. (liste loin d’être exhaustive)"
+    ],
+    "citations": [
+     "« Quand on tombe dans l’eau, la pluie ne fait plus peur. »"
+    ]
+   },
+   {
+    "titre": "Les réponses habituelles à la peur ne sont pas appropriées",
+    "mots": 141,
+    "points": [],
+    "puces": [
+     "« il/elle ne va pas te manger »",
+     "« qui ne tente rien n’a rien »",
+     "« ne t’inquiète pas tout va bien se passer »",
+     "il faut s’accepter tel que l’on est"
+    ],
+    "citations": [
+     "« Fais-peur au lion avant qu’il ne te fasse peur »"
+    ]
+   },
+   {
+    "titre": "LA PEUR _PEUT_ DEVENIR UN SOUVENIR",
+    "mots": 47,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Pourquoi nos conseils fonctionnent (témoignages)",
+    "mots": 217,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "_« Je valide les commentaires plus haut. Matinée théorique (du costaud!) et après-midi plus pratique, de nombreux exemples pratiques, ce séminaire a définitivement un gros potentiel._",
+     "_Il nécessitera plusieurs écoutes selon moi tellement on y entend d’informations nouvelles et pertinentes._ _Les bons points: le fond musical jazzy et les toujours très bonnes interventions des participants. » (extrait du témoignage sur_ comprendre les gens _)_"
+    ]
+   },
+   {
+    "titre": "12 EXTRAITS DE CE QUE VOUS ALLEZ ENTENDRE POUR LA PREMIÈRE FOIS AU COURS DE CETTE JOURNÉE",
+    "mots": 160,
+    "points": [
+     "celui qui a peur passera toujours pour froid, voire temporairement pour méchant",
+     "négocier avec sa peur comme on négocierait avec un être vivant",
+     "analyse fine des répercussions physiques et physiologiques de la peur",
+     "quand faut-il se confronter à ses peurs, et au contraire quand les éviter",
+     "les 2 phrases à se répéter à l’infini",
+     "les peurs légitimes",
+     "les méthodes des autres pour vous faire peur",
+     "la peur comme biais décisionnel et acte d’achat (« La peur mène à la colère, la colère mène à la haine, la haine mène à la souffrance » George Lucas, Star Wars ép. 1″)",
+     "l’adrénaline, ou le sain pendant de la peur",
+     "la technique du « remplissage de frigo » ou faire son « nid de survie » au milieu de la peur",
+     "la peur de soi-même, ou pourquoi se regarder dans le miroir",
+     "comment se sentent les autres en ce moment précis"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Vos 5 bénéfices à commander cette journée",
+    "mots": 78,
+    "points": [
+     "devenir plus sexué",
+     "acquérir une plus grande maîtrise de soi-même",
+     "augmenter votre niveau de discernement (rappel : « tout est bruit pour qui a peur »)",
+     "libérer son potentiel",
+     "énergie, force mentale et aptitude au combat"
+    ],
+    "puces": [],
+    "citations": [
+     "« Sachez que dans la vie l’homme doit traverser un pont très, très étroit, mais ce qui est essentiel, le plus essentiel, c’est qu’il n’ait pas peur. Pas peur du tout. » Rabbi Naham de Brazlaw"
+    ]
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -15527,8 +16090,119 @@
   ]
  },
  "C186": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Bénéfices visibles et invisibles à bien s’habiller"
+   },
+   {
+    "n": 2,
+    "texte": "20 indispensables d’une garde-robe masculine"
+   },
+   {
+    "n": 3,
+    "texte": "Les budgets à allouer à chacun"
+   },
+   {
+    "n": 4,
+    "texte": "5 associations de couleurs"
+   },
+   {
+    "n": 5,
+    "texte": "4 actions pour avoir l’air plus frais et sain"
+   },
+   {
+    "n": 6,
+    "texte": "Être un prince (pour plaire aux princesses)"
+   },
+   {
+    "n": 7,
+    "texte": "11 marqueurs de votre classe sociale (le n°7 va vous laisser sur le cul)"
+   },
+   {
+    "n": 8,
+    "texte": "4 archétypes"
+   },
+   {
+    "n": 9,
+    "texte": "La perception que les autres ont de nous"
+   },
+   {
+    "n": 10,
+    "texte": "Changer d’image au travail"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "1\\. Une raison de hiérarchie",
+    "mots": 77,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "2\\. Une raison de diversité",
+    "mots": 137,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "3\\. Une raison d’expérience",
+    "mots": 65,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "…POUR CHANGER DE LOOK ? PAS SEULEMENT : POUR CHANGER D’ _IMAGE_",
+    "mots": 8,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Niveau 1 : la connaissance des vêtements…",
+    "mots": 122,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Niveau 2 : les codes sociaux derrière les vêtements",
+    "mots": 280,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Niveau 3 : l’utilisation des niveaux 1 et 2 pour changer son image (en profondeur)",
+    "mots": 406,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "LE DOUBLE EFFET KISS KOOL",
+    "mots": 168,
+    "points": [
+     "d’un « cours sur le vêtement », que l’on aurait aussi pu appeler « cours de relooking »,",
+     "et d’une partie plus advanced, consacrée aux ressorts psychologiques du changement, et qui s’appuie sur le simple constat suivant :"
+    ],
+    "puces": [
+     "Pour changer « simplement » de vêtements, il vous faut un cours sur le vêtement,",
+     "Mais pour changer de vêtements **et d’image**, il vous faut plus : une méthode de changement"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "Note à ceux qui se focaliseraient sur la matinée (au détriment de l’apm)",
+    "mots": 66,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -16726,8 +17400,88 @@
   ]
  },
  "C199": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Énergie et amour-propre"
+   },
+   {
+    "n": 2,
+    "texte": "L’énergie dans le groupe"
+   },
+   {
+    "n": 3,
+    "texte": "Le passage à l’action"
+   },
+   {
+    "n": 4,
+    "texte": "Les cercles vertueux énergétiques ( no bullshit intended)"
+   },
+   {
+    "n": 5,
+    "texte": "Les meilleures pratiques pour ne pas perdre en énergie tout au long de la journée"
+   },
+   {
+    "n": 6,
+    "texte": "Vous avez l’impression de faire tout ce qu’il faut pour être le meilleur vous-même mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant."
+   },
+   {
+    "n": 7,
+    "texte": "Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l’impression que les autres s’entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant."
+   },
+   {
+    "n": 8,
+    "texte": "Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l’impression que les « portes » qui vous auraient permis de le faire se referment quelques secondes avant que vous n’ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant"
+   },
+   {
+    "n": 9,
+    "texte": "Vous ne parlez jamais assez fort ? Etc. etc."
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "TOUT SUR L’ÉNERGIE",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "LA CRÉER, LA NOURRIR, ET LA METTRE À PROFIT POUR ATTIRER LES AUTRES ET DÉCUPLER VOS RÉALISATIONS",
+    "mots": 11,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Avoir de l’énergie : découvrez le «logiciel» des gens qui en ont",
+    "mots": 205,
+    "points": [
+     "La mauvaise nouvelle : la réponse n’est pas simple",
+     "La bonne nouvelle : la réponse existe !"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Avoir de l’énergie c’est aussi entretenir l’énergie",
+    "mots": 121,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Avoir de l’énergie pour attirer les autres et décuplez vos réalisations",
+    "mots": 98,
+    "points": [],
+    "puces": [
+     "Dynamiser vos conversations",
+     "Augmenter votre degré de pouvoir",
+     "Augmenter votre degré d’influence sur les autres"
+    ],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -16895,8 +17649,67 @@
   ]
  },
  "C202": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Si l’homme est un animal visuel, alors quel type d’animal sont-elles ?"
+   },
+   {
+    "n": 2,
+    "texte": "Quelque chose qui nous dépasse"
+   },
+   {
+    "n": 3,
+    "texte": "Femme et artifice"
+   },
+   {
+    "n": 4,
+    "texte": "1+1=3, l’importance du tiers"
+   },
+   {
+    "n": 5,
+    "texte": "Locataire vs propriétaire de son corps"
+   },
+   {
+    "n": 6,
+    "texte": "L’infirmière qui sommeille"
+   },
+   {
+    "n": 7,
+    "texte": "Nécessaire et suffisante"
+   },
+   {
+    "n": 8,
+    "texte": "Anticipation"
+   },
+   {
+    "n": 9,
+    "texte": "Accordage"
+   },
+   {
+    "n": 10,
+    "texte": "Accoutumance"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Un seul (conn)aître vous manque…",
+    "mots": 99,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "…et tout est dépeuplé",
+    "mots": 168,
+    "points": [
+     "une succession de caresses et de «positions» (même originales, inventives, ou studieuses) ne créera pas de véritable connexion sexuelle avec une femme (et n’en créera jamais)",
+     "de même que la connexion émotionnelle est nécessaire lors de la rencontre, la connexion sexuelle est indispensable pour que le niveau d’intérêt d’une femme crève la plafond"
+    ],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -18564,8 +19377,80 @@
   ]
  },
  "C221": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "5 DO s"
+   },
+   {
+    "n": 2,
+    "texte": "4 DON’T"
+   },
+   {
+    "n": 3,
+    "texte": "Donner l’envie d’avoir envie"
+   },
+   {
+    "n": 4,
+    "texte": "Voler l’attention au lecteur"
+   },
+   {
+    "n": 5,
+    "texte": "Conclure en beauté"
+   },
+   {
+    "n": 6,
+    "texte": "2h20 sur ton réseau préféré (moyenne nationale)"
+   },
+   {
+    "n": 7,
+    "texte": "encore 1h ou plus pour ceux d’entre vous qui utilisent les [sites de rencontre](https://www.hommesdinfluence.com/tag/sites-apps)"
+   },
+   {
+    "n": 8,
+    "texte": "encore plusieurs heures sur des emails à convaincre vos collègues de bureau du bien-fondé de vos décisions. Vous connaissez la fameuse dialectique du savoir- faire vs le faire-savoir ? Et comment fait-on savoir à notre époque à votre avis ? Au travers des multiples écrits qui jalonnent votre journée, et qui peuvent être une purge… ou un plaisir"
+   },
+   {
+    "n": 9,
+    "texte": "plusieurs nuits (certes plus rarement) à rédiger les exposés, mémoires, projets et autres rapports dont dépendront vos évaluations, qu’elles soient scolaires ou professionnelles"
+   },
+   {
+    "n": 10,
+    "texte": "etc."
+   },
+   {
+    "n": 11,
+    "texte": "transformer des expériences en concepts"
+   },
+   {
+    "n": 12,
+    "texte": "peaufiner des techniques d’écriture qui rendent ces concepts séduisants et pas ennuyeux comme dans la plupart des livres de sociologie"
+   },
+   {
+    "n": 13,
+    "texte": "accessoirement, écrire pour [La Furia](https://mat-consulting.fr/catalogue/la-furia/) et ce depuis le tout premier numéro"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "99% du temps, vous devez convaincre à l’écrit avant de pouvoir passer à l’oral…",
+    "mots": 233,
+    "points": [],
+    "puces": [
+     "transformer des expériences en _concepts_",
+     "peaufiner des **techniques d’écriture** qui rendent ces concepts **séduisants** et pas ennuyeux comme dans la plupart des livres de sociologie",
+     "accessoirement, écrire pour La Furia et ce depuis le tout premier numéro"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "AU PROGRAMME",
+    "mots": 64,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -19201,8 +20086,129 @@
   ]
  },
  "C228": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "3 stratégies féminines en ligne"
+   },
+   {
+    "n": 2,
+    "texte": "6 bases de l’attraction"
+   },
+   {
+    "n": 3,
+    "texte": "Une question de survie"
+   },
+   {
+    "n": 4,
+    "texte": "Imaginer c’est connaître"
+   },
+   {
+    "n": 5,
+    "texte": "8 erreurs à éviter"
+   },
+   {
+    "n": 6,
+    "texte": "4 indices sur la connexion"
+   },
+   {
+    "n": 7,
+    "texte": "Les étapes de la connexion"
+   },
+   {
+    "n": 8,
+    "texte": "Améliorer son empathie en se posant ces 9 questions"
+   },
+   {
+    "n": 9,
+    "texte": "Pourquoi verbaliser la connexion"
+   },
+   {
+    "n": 10,
+    "texte": "Prérequis à la connexion"
+   },
+   {
+    "n": 11,
+    "texte": "Acronyme SPECIAL"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Ce que les femmes en disent :",
+    "mots": 81,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "_« Je l’ai su tout de suite »_",
+     "_« J’aurais été prête à tout pour lui »_",
+     "_« Ca ne s’explique pas, ça se ressent »_"
+    ]
+   },
+   {
+    "titre": "FAISONS SIMPLE",
+    "mots": 192,
+    "points": [
+     "Le test d’attraction physique (voir séminaire changez d’image)",
+     "La connexion",
+     "Le secret agenda (voir séminaire secret agenda)"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Ne confondez pas, la connexion n’est PAS :",
+    "mots": 29,
+    "points": [],
+    "puces": [
+     "Se chercher des points communs (« Tu adores _Games of Thrones_, moi aussi ! »)",
+     "Demander à l’autre de vous prouver qu’il/elle est assez bien pour vous"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "Ce qu’est la connexion",
+    "mots": 52,
+    "points": [
+     "Le « deuxième étage de la fusée », après avoir brisé la glace",
+     "Une façon rarement entendue de créer des sensations chez l’autre",
+     "La preuve irréfutable que vous êtes différent et intéressant",
+     "L’unique manière de témoigner votre intérêt comme un homme",
+     "La meilleure raison de vous revoir"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Et (bonus)",
+    "mots": 61,
+    "points": [],
+    "puces": [
+     "la seule façon de construire un réseau pertinent car mobilisable (car connaître plein de gens à qui vous ne pouvez jamais rien demander est une vision du monde aussi artistique qu’inutile)."
+    ],
+    "citations": []
+   },
+   {
+    "titre": "CADEAU",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Extrait de mon livre L’homme Idéal (Flammarion), sur la connexion",
+    "mots": 3,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "UNE JOURNÉE POUR ALLER AU BOUT DE LA CONNEXION",
+    "mots": 48,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -19688,7 +20694,15 @@
  },
  "C233": {
   "programme": [],
-  "annonce": [],
+  "annonce": [
+   {
+    "titre": "Informations complémentaires",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -21595,8 +22609,88 @@
   ]
  },
  "C253": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Les professions objets de fantasmes"
+   },
+   {
+    "n": 2,
+    "texte": "Le « rôle du local » (vieille réf. de connaisseur)"
+   },
+   {
+    "n": 3,
+    "texte": "La passe décisive"
+   },
+   {
+    "n": 4,
+    "texte": "Droit vs injonction au plaisir"
+   },
+   {
+    "n": 5,
+    "texte": "Transgression et normativité"
+   },
+   {
+    "n": 6,
+    "texte": "Une relation de kalitay"
+   },
+   {
+    "n": 7,
+    "texte": "L’épineuse contraception"
+   },
+   {
+    "n": 8,
+    "texte": "L’abdication"
+   },
+   {
+    "n": 9,
+    "texte": "La (position latérale de) sécurité"
+   },
+   {
+    "n": 10,
+    "texte": "6 scénarii piquants comme un cactus"
+   },
+   {
+    "n": 11,
+    "texte": "remorquer une F (consentante) sur une app’ de rencontre"
+   },
+   {
+    "n": 12,
+    "texte": "essuyer avec grâce – et un semblant de détachement – une [addition au restaurant](https://www.hommesdinfluence.com/articles/2258paye-laddition.html) plus ou moins salée"
+   },
+   {
+    "n": 13,
+    "texte": "un enchaînement plus ou moins hésitant et foireux pour prolonger la soirée chez l’un ou chez l’autre, sous couvert d’un prétexte risible"
+   },
+   {
+    "n": 14,
+    "texte": "un effeuillage penaud conclu par une pénétration vigoureuse et empressée avant le réglementaire repos du guerrier"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Ce qui ne va pas sans poser quelques petits problèmes :",
+    "mots": 207,
+    "points": [
+     "Problème n°1 : les femmes n’aiment pas les dick pics. À moins qu’ils ne soient spécifiquement réclamés avec insistance. Ce qui arrive relativement rarement.",
+     "Problème n°2 : plus de 50% du plaisir ressenti par une femme vient de son cerveau"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Rappels pour les nouveaux 🐒",
+    "mots": 70,
+    "points": [],
+    "puces": [
+     "Un séminaire c’est « mieux » que ce que vous pouvez lire sur mes sites ou voir sur youtube. C’est la crème de la crème. Du caviar d’information.",
+     "Tous les séminaires que vous avez commandés depuis la naissance de Jésus Christ sont disponibles dans votre espace mon compte",
+     "Une facture est disponible sur simple demande par email",
+     "Recevez tous mes séminaires, toute l’année en devenant VIP"
+    ],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -23026,8 +24120,129 @@
   ]
  },
  "C272": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "3 stratégies féminines en ligne"
+   },
+   {
+    "n": 2,
+    "texte": "6 bases de l’attraction"
+   },
+   {
+    "n": 3,
+    "texte": "Une question de survie"
+   },
+   {
+    "n": 4,
+    "texte": "Imaginer c’est connaître"
+   },
+   {
+    "n": 5,
+    "texte": "8 erreurs à éviter"
+   },
+   {
+    "n": 6,
+    "texte": "4 indices sur la connexion"
+   },
+   {
+    "n": 7,
+    "texte": "Les étapes de la connexion"
+   },
+   {
+    "n": 8,
+    "texte": "Améliorer son empathie en se posant ces 9 questions"
+   },
+   {
+    "n": 9,
+    "texte": "Pourquoi verbaliser la connexion"
+   },
+   {
+    "n": 10,
+    "texte": "Prérequis à la connexion"
+   },
+   {
+    "n": 11,
+    "texte": "Acronyme SPECIAL"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Ce que les femmes en disent :",
+    "mots": 81,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "_« Je l’ai su tout de suite »_",
+     "_« J’aurais été prête à tout pour lui »_",
+     "_« Ca ne s’explique pas, ça se ressent »_"
+    ]
+   },
+   {
+    "titre": "FAISONS SIMPLE",
+    "mots": 192,
+    "points": [
+     "Le test d’attraction physique (voir séminaire changez d’image)",
+     "La connexion",
+     "Le secret agenda (voir séminaire secret agenda)"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Ne confondez pas, la connexion n’est PAS :",
+    "mots": 29,
+    "points": [],
+    "puces": [
+     "Se chercher des points communs (« Tu adores _Games of Thrones_, moi aussi ! »)",
+     "Demander à l’autre de vous prouver qu’il/elle est assez bien pour vous"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "Ce qu’est la connexion",
+    "mots": 52,
+    "points": [
+     "Le « deuxième étage de la fusée », après avoir brisé la glace",
+     "Une façon rarement entendue de créer des sensations chez l’autre",
+     "La preuve irréfutable que vous êtes différent et intéressant",
+     "L’unique manière de témoigner votre intérêt comme un homme",
+     "La meilleure raison de vous revoir"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Et (bonus)",
+    "mots": 61,
+    "points": [],
+    "puces": [
+     "la seule façon de construire un réseau pertinent car mobilisable (car connaître plein de gens à qui vous ne pouvez jamais rien demander est une vision du monde aussi artistique qu’inutile)."
+    ],
+    "citations": []
+   },
+   {
+    "titre": "CADEAU",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Extrait de mon livre L’homme Idéal (Flammarion), sur la connexion",
+    "mots": 3,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "UNE JOURNÉE POUR ALLER AU BOUT DE LA CONNEXION",
+    "mots": 48,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -23050,8 +24265,129 @@
   ]
  },
  "C273": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "3 stratégies féminines en ligne"
+   },
+   {
+    "n": 2,
+    "texte": "6 bases de l’attraction"
+   },
+   {
+    "n": 3,
+    "texte": "Une question de survie"
+   },
+   {
+    "n": 4,
+    "texte": "Imaginer c’est connaître"
+   },
+   {
+    "n": 5,
+    "texte": "8 erreurs à éviter"
+   },
+   {
+    "n": 6,
+    "texte": "4 indices sur la connexion"
+   },
+   {
+    "n": 7,
+    "texte": "Les étapes de la connexion"
+   },
+   {
+    "n": 8,
+    "texte": "Améliorer son empathie en se posant ces 9 questions"
+   },
+   {
+    "n": 9,
+    "texte": "Pourquoi verbaliser la connexion"
+   },
+   {
+    "n": 10,
+    "texte": "Prérequis à la connexion"
+   },
+   {
+    "n": 11,
+    "texte": "Acronyme SPECIAL"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Ce que les femmes en disent :",
+    "mots": 81,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "_« Je l’ai su tout de suite »_",
+     "_« J’aurais été prête à tout pour lui »_",
+     "_« Ca ne s’explique pas, ça se ressent »_"
+    ]
+   },
+   {
+    "titre": "FAISONS SIMPLE",
+    "mots": 192,
+    "points": [
+     "Le test d’attraction physique (voir séminaire changez d’image)",
+     "La connexion",
+     "Le secret agenda (voir séminaire secret agenda)"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Ne confondez pas, la connexion n’est PAS :",
+    "mots": 29,
+    "points": [],
+    "puces": [
+     "Se chercher des points communs (« Tu adores _Games of Thrones_, moi aussi ! »)",
+     "Demander à l’autre de vous prouver qu’il/elle est assez bien pour vous"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "Ce qu’est la connexion",
+    "mots": 52,
+    "points": [
+     "Le « deuxième étage de la fusée », après avoir brisé la glace",
+     "Une façon rarement entendue de créer des sensations chez l’autre",
+     "La preuve irréfutable que vous êtes différent et intéressant",
+     "L’unique manière de témoigner votre intérêt comme un homme",
+     "La meilleure raison de vous revoir"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Et (bonus)",
+    "mots": 61,
+    "points": [],
+    "puces": [
+     "la seule façon de construire un réseau pertinent car mobilisable (car connaître plein de gens à qui vous ne pouvez jamais rien demander est une vision du monde aussi artistique qu’inutile)."
+    ],
+    "citations": []
+   },
+   {
+    "titre": "CADEAU",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Extrait de mon livre L’homme Idéal (Flammarion), sur la connexion",
+    "mots": 3,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "UNE JOURNÉE POUR ALLER AU BOUT DE LA CONNEXION",
+    "mots": 48,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -24205,8 +25541,108 @@
   ]
  },
  "C293": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Le facteur aléatoire"
+   },
+   {
+    "n": 2,
+    "texte": "Parler simple"
+   },
+   {
+    "n": 3,
+    "texte": "Personne n’a accès au réel en prise directe"
+   },
+   {
+    "n": 4,
+    "texte": "L’autre n’est jamais fou (parti pris)"
+   },
+   {
+    "n": 5,
+    "texte": "Concepts-clés"
+   },
+   {
+    "n": 6,
+    "texte": "Ces biais cognitifs qui nous font croire n’importe quoi"
+   },
+   {
+    "n": 7,
+    "texte": "Embrasser une part d’irrationalité"
+   },
+   {
+    "n": 8,
+    "texte": "Contourner l’irrationalité"
+   },
+   {
+    "n": 9,
+    "texte": "Agir en dépit"
+   },
+   {
+    "n": 10,
+    "texte": "Apprendre à apprendre"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "IMMERSION DANS LE MONDE PASSIONNANT DE LA PSYCHO-SOCIOLOGIE !",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Axiome 1",
+    "mots": 50,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Axiome 2",
+    "mots": 190,
+    "points": [
+     "Parce que, justement, ils refusent l’idée d’être régis par un autre mécanisme qu’eux-mêmes (c’est idiot : la liberté absolue est à la fois une utopie et un désespoir si jamais elle venait à se réaliser)",
+     "Parce qu’en sciences humaines, contrairement à la chirurgie, la mécanique ou l’informatique, ils pensent tout savoir sans rien avoir étudié (« je connais les femmes, j’en suis une » / « je connais les hommes, j’en suis un ». Ben voyons…)"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Axiome 3",
+    "mots": 100,
+    "points": [
+     "Les sociologues jargonnent (je vous mets au défi de vous coltiner le dernier ouvrage des gurus de la sociologie des organisations sans éprouver ennuis, maux de tête et nausée)",
+     "Les psychologues verboient (combien d’heures, de mois, d’années d’analyse, pour combien de concepts vraiment « décoiffants » ?)",
+     "Et sinon, les quelques exceptions qui comprennent les mécanismes humains sont trop occupés à les exploiter (cf les escrocs notoires, Christophe et Oussama pour ne citer qu’eux) pour perdre leur temps à vous expliquer quoique ce soit."
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "COMPRENDRE LES GENS EST SANS AUCUN DOUTE LA MÉCANIQUE LA PLUS PUISSANTE QUI SOIT",
+    "mots": 18,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "« On ne peut comprendre les gens que si on les sent en soi-même. » – Steinbeck"
+    ]
+   },
+   {
+    "titre": "…et la plus importante de votre vie.",
+    "mots": 17,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Révélation (pour certains)",
+    "mots": 145,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -24502,8 +25938,88 @@
   ]
  },
  "C297": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Les professions objets de fantasmes"
+   },
+   {
+    "n": 2,
+    "texte": "Le « rôle du local » (vieille réf. de connaisseur)"
+   },
+   {
+    "n": 3,
+    "texte": "La passe décisive"
+   },
+   {
+    "n": 4,
+    "texte": "Droit vs injonction au plaisir"
+   },
+   {
+    "n": 5,
+    "texte": "Transgression et normativité"
+   },
+   {
+    "n": 6,
+    "texte": "Une relation de kalitay"
+   },
+   {
+    "n": 7,
+    "texte": "L’épineuse contraception"
+   },
+   {
+    "n": 8,
+    "texte": "L’abdication"
+   },
+   {
+    "n": 9,
+    "texte": "La (position latérale de) sécurité"
+   },
+   {
+    "n": 10,
+    "texte": "6 scénarii piquants comme un cactus"
+   },
+   {
+    "n": 11,
+    "texte": "remorquer une F (consentante) sur une app’ de rencontre"
+   },
+   {
+    "n": 12,
+    "texte": "essuyer avec grâce – et un semblant de détachement – une [addition au restaurant](https://www.hommesdinfluence.com/articles/2258paye-laddition.html) plus ou moins salée"
+   },
+   {
+    "n": 13,
+    "texte": "un enchaînement plus ou moins hésitant et foireux pour prolonger la soirée chez l’un ou chez l’autre, sous couvert d’un prétexte risible"
+   },
+   {
+    "n": 14,
+    "texte": "un effeuillage penaud conclu par une pénétration vigoureuse et empressée avant le réglementaire repos du guerrier"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "Ce qui ne va pas sans poser quelques petits problèmes :",
+    "mots": 207,
+    "points": [
+     "Problème n°1 : les femmes n’aiment pas les dick pics. À moins qu’ils ne soient spécifiquement réclamés avec insistance. Ce qui arrive relativement rarement.",
+     "Problème n°2 : plus de 50% du plaisir ressenti par une femme vient de son cerveau"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Rappels pour les nouveaux 🐒",
+    "mots": 70,
+    "points": [],
+    "puces": [
+     "Un séminaire c’est « mieux » que ce que vous pouvez lire sur mes sites ou voir sur youtube. C’est la crème de la crème. Du caviar d’information.",
+     "Tous les séminaires que vous avez commandés depuis la naissance de Jésus Christ sont disponibles dans votre espace mon compte",
+     "Une facture est disponible sur simple demande par email",
+     "Recevez tous mes séminaires, toute l’année en devenant VIP"
+    ],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -25389,7 +26905,15 @@
  },
  "C312": {
   "programme": [],
-  "annonce": [],
+  "annonce": [
+   {
+    "titre": "Informations complémentaires",
+    "mots": 0,
+    "points": [],
+    "puces": [],
+    "citations": []
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",
@@ -26301,122 +27825,8 @@
   ]
  },
  "C321": {
-  "programme": [
-   {
-    "n": 1,
-    "texte": "Qu’avez-vous à échanger ?"
-   },
-   {
-    "n": 2,
-    "texte": "Exemples concrets de ressources"
-   },
-   {
-    "n": 3,
-    "texte": "Zone d’incertitude"
-   },
-   {
-    "n": 4,
-    "texte": "La puissance du sentiment d’impuissance"
-   },
-   {
-    "n": 5,
-    "texte": "Analyse de cas : qui a vraiment le pouvoir dans cet exemple"
-   },
-   {
-    "n": 6,
-    "texte": "Radiographie du pouvoir"
-   },
-   {
-    "n": 7,
-    "texte": "Modèle de l’anarchie organisée"
-   },
-   {
-    "n": 8,
-    "texte": "Les habitudes du pouvoir"
-   },
-   {
-    "n": 9,
-    "texte": "Hacker le pouvoir objectif"
-   }
-  ],
-  "annonce": [
-   {
-    "titre": "Elles ont vu quoi, les lunettes du sociologue ?",
-    "mots": 188,
-    "points": [
-     "Le pouvoir rend attirant",
-     "Le pouvoir rend intéressant",
-     "Le pouvoir rend tout pardonnable"
-    ],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Vulgarisations sociologique, _start_ :",
-    "mots": 196,
-    "points": [
-     "toutes les relations sont des relations de pouvoir. Postulat",
-     "le pouvoir est une caractéristique de la nature de la relation. Tout comme peut l’être sa sincérité, sa durabilité, son exclusivité, etc."
-    ],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Évaluez objectivement votre niveau de connaissance sur le pouvoir aujourd’hui",
-    "mots": 199,
-    "points": [
-     "A quoi tient le pouvoir ? Donnez du pouvoir une définition simple et compréhensible par tous",
-     "Qui a le pouvoir sur un terrain de foot ?",
-     "Un leader d’opinion a t-il le pouvoir absolu ? Quels sont les limites du leader en termes de pouvoir ?",
-     "Comment transformer une ressource pertinente en ressource mobilisable ?",
-     "Quel est l’enjeu caché d’un entretien d’embauche ?",
-     "Et d’une relation amoureuse ?",
-     "Citez 5 habitudes du pouvoir",
-     "Donnez 2 exemples de situation où le pouvoir entre les acteurs s’est brusquement retourné",
-     "Quels sont les recours possibles en situation de carence de pouvoir ?",
-     "Pouvoir législatif, exécutif, judiciaire : lequel s’applique le mieux à la vie quotidienne et pourquoi ?"
-    ],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Le premier séminaire à vous donner les clefs (interdites) du pouvoir",
-    "mots": 225,
-    "points": [],
-    "puces": [],
-    "citations": []
-   },
-   {
-    "titre": "Ce que vous y apprendrez (entre autres)",
-    "mots": 106,
-    "points": [],
-    "puces": [
-     "Comprendre la puissance et les enjeux du pouvoir",
-     "Comment agrandir vos sphères de pouvoir : affectives, amicales, professionnelles",
-     "Comment élargir votre réseau d’influence",
-     "Comment démarrer le jeu du pouvoir, lorsqu’on n’a pas de réseau",
-     "Comment inclure le pouvoir à votre grille de lecture des relations",
-     "Comment utiliser le pouvoir en séduction",
-     "Comment utiliser le pouvoir dans votre vie professionnelle",
-     "Comment utiliser le pouvoir dans votre vie amicale et affective",
-     "Comment le conserver"
-    ],
-    "citations": []
-   },
-   {
-    "titre": "Vos 5 enjeux de cette journée",
-    "mots": 50,
-    "points": [
-     "Devenir celui que les autres recherchent, plutôt que celui qui cherche leur compagnie",
-     "Devenir respecté sans discussions inutiles",
-     "Commencer à vaincre ses peurs",
-     "\\[compléter ici\\]",
-     "\\[ici aussi\\]"
-    ],
-    "puces": [],
-    "citations": []
-   }
-  ],
+  "programme": [],
+  "annonce": [],
   "materiau": [
    {
     "kind": "synthese",
@@ -28240,65 +29650,62 @@
   "programme": [
    {
     "n": 1,
-    "texte": "Test de compatibilité"
+    "texte": "AVANT VS APRÈS CETTE JOURNÉE"
    },
    {
     "n": 2,
-    "texte": "Mutisme dans le couple"
+    "texte": "Avant: Flashback"
    },
    {
     "n": 3,
-    "texte": "Les étapes-clés"
+    "texte": "Après la journée du 24 oct 2015 (si vous venez)"
    },
    {
     "n": 4,
-    "texte": "3 âges du couple"
+    "texte": "POURQUOI VOUS AVEZ BESOIN DE CE CONTENU ?"
    },
    {
     "n": 5,
-    "texte": "TD : vie quotidienne"
+    "texte": "CONCRÈTEMENT, UN SÉMINAIRE, C’EST QUOI, JE VIENS OÙ, ETC."
    },
    {
     "n": 6,
-    "texte": "Sexe, désir et fidélité sont sur un bateau"
+    "texte": "Exceptionnel: venez avec votre conjoint(e), il paye la moitié"
    },
    {
     "n": 7,
-    "texte": "Les conversations-clés"
-   },
-   {
-    "n": 8,
-    "texte": "10 questions de maturité"
-   },
-   {
-    "n": 9,
-    "texte": "Le secret c’est la re-séduction"
-   },
-   {
-    "n": 10,
-    "texte": "Votre couple donner envie aux autres de lui ressembler"
+    "texte": "COMMENT RÉSERVER"
    }
   ],
   "annonce": [
    {
-    "titre": "_AVANT_ VS _APRÈS_ CETTE JOURNÉE",
+    "titre": "Description du Produit",
+    "mots": 72,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "AVANT  VS  APRÈS  CETTE JOURNÉE",
     "mots": 0,
     "points": [],
     "puces": [],
     "citations": []
    },
    {
-    "titre": "Avant : _Flashback_",
-    "mots": 407,
-    "points": [
-     "vous vous imaginez la manière dont vous allez rencontrer quelqu’un (sur internet / dans la rue / au bureau / au sport / etc.)",
+    "titre": "Avant:  Flashback",
+    "mots": 403,
+    "points": [],
+    "puces": [
+     "vous vous imaginez la manière dont vous allez rencontrer quelqu’un (sur internet / dans la rue / au dureau / au sport / etc.)",
      "rien ne se déroule exactement comme prévu",
      "vous finissez par rencontrer quelqu’un d’une manière complètement inattendue (souvent, vous la connaissiez déjà avant d’avoir « commencé »)",
-     "vous oubliez 80 % des fondamentaux. Normal, ça ne sert à rien, la personne est acquise (du moins le croyez-vous). Elle habite peut-être même chez vous",
+     "vous oubliez 80% des fondamentaux de la séduction. Normal, ça ne sert à rien, la personne est acquise. Elle habite peut-être même chez vous",
      "un certain nombre de comportements s’insinuent en vous, d’autant plus insidieux qu’ils sont globalement indétectables. Under the radar. Dans le langage sportif, on appelle ça « relâcher l’effort dans la ligne droite ».",
      "progressivement, vous vous coupez du monde extérieur et vivez sur les « réserves » d’un niveau d’intérêt mutuel qui ne cesse de diminuer jour après jour. Bien sûr, vous niez l’évidence à quiconque vous la ferait remarquer",
+     "soudain, à l’occasion d’une date symbolique (anniversaire, examen, licenciement, déménagement, liste non exhaustive), le couperet tombe: votre conjoint(e) vous annonce froidement qu’il est temps de « penser à soi », qu’il/elle a besoin de « son espace »*. Voire qu’il/elle vous a trompé dans les 6 derniers mois. C’est TOUJOURS dans les 6 derniers mois.",
      "une boule de douleur viscérale vous envahit en une seconde, vous déglutissez péniblement, ça ne « passe pas »",
-     "vous raisonnez logiquement (logique H) pour essayer de comprendre rétrospectivement que vous n’avez rien compris",
+     "vous raisonnez logiquement (logique H) pour essayer de comprendre rétrospectivement que vous n’avez rien compris.",
      "vous appelez à l’aide",
      "vous amis hommes s’en foutent, et vous regardent avec une commisération affectée si vous insistez trop pour obtenir de l’écoute",
      "vos amies filles ne s’en foutent pas, mais ne vous donnent que des conseils à côté de la plaque, vous conseillant toutes globalement de demander pardon pour tous les affreux méfaits que vous auriez commis, même (et surtout) ceux qui n’existent pas",
@@ -28306,6 +29713,61 @@
      "un jour, par hasard, après de multiples mésaventures, vous finissez par rencontrer une autre personne. L’excitation et la surprise occasionnées par la nouveauté enterrent les souvenirs anciens de l’ancienne déception, qui ne sera désormais jamais comprise, mais qu’importe",
      "retour au point 3…"
     ],
+    "citations": []
+   },
+   {
+    "titre": "Après la journée du 24 oct 2015 (si vous venez)",
+    "mots": 350,
+    "points": [],
+    "puces": [
+     "vous avez compris le ridicule des expressions comme « se caser », se « maquer », et cie.",
+     "vous avez compris que le couple est une  entité provisoire de survie  (définition à venir pendant le séminaire)",
+     "vous avez compris que les situations les plus stables en apparence sont celles dont l’éclatement peut-être le plus soudain (et le plus douloureux)",
+     "vous savez d’avance que les sentiments initiaux d’excitation / attraction / envie etc. sont essentiellement circonstanciés et  temporaires , et donc qu’il va falloir les remplacer à brève échéance",
+     "vous n’allez pas éviter / retarder les conflits, mais les accepter et les prendre de front, comme un homme",
+     "vous allez savoir fixer vos limites",
+     "vous allez apprendre à faire des surprises vraiment surprenantes",
+     "vous n’allez pas chercher à apaiser les tensions en allant dans le sens de ses reproches, car vous aurez compris que  la tension c’est l’attention",
+     "vous savez concilier vie en commun et désir: un paradoxe, sachant que celui-ci se base surtout sur l’absence, et que l’absence se crée par le manque",
+     "vous avez des techniques pour combattre votre pire ennemi: la solution de facilité",
+     "vous avez des réponses en avance aux conflits qui vont inévitablement se poser",
+     "vous savez gérer les vacances ensemble, soit une (sur)vie en commun de 24h sur 24",
+     "vous anticipez les pièges posés par la présence d’un enfant qui n’est pas le vôtre, le cas échéant",
+     "bref, vous avez  des coups d’avance"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "POURQUOI VOUS AVEZ BESOIN DE CE CONTENU ?",
+    "mots": 119,
+    "points": [],
+    "puces": [
+     "Parce que vous savez pertinemment, qu’être séduisant en couple est autant (voir plus) difficile que de faire des rencontres dans l’absolu",
+     "Parce que vous avez déjà été agacé de voir l’inéluctabilité avec laquelle vos relations de couple se terminent",
+     "Parce que vous êtes assez mûr pour comprendre et accepter que le couple est une destination « normale » de l’individu sensé; que vivre seul, c’est trop dur",
+     "Parce que vous savez que Stéphane dit la vérité, et ne vous vendra pas du vent, des conseils contrefaits, ou du  wishful thinking  (en français: voir la réalité comme on voudrait qu’elle soit, au lieu de la voir comme elle est réellement)",
+     "Parce que vous aimez comprendre"
+    ],
+    "citations": []
+   },
+   {
+    "titre": "CONCRÈTEMENT, UN SÉMINAIRE, C’EST QUOI, JE VIENS OÙ, ETC.",
+    "mots": 82,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Exceptionnel: venez avec votre conjoint(e), il paye la moitié",
+    "mots": 39,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "COMMENT RÉSERVER",
+    "mots": 66,
+    "points": [],
     "puces": [],
     "citations": []
    }
@@ -30010,8 +31472,165 @@
   ]
  },
  "C364": {
-  "programme": [],
-  "annonce": [],
+  "programme": [
+   {
+    "n": 1,
+    "texte": "Rôle des filtres cognitifs"
+   },
+   {
+    "n": 2,
+    "texte": "H-adulte VS H-enfant"
+   },
+   {
+    "n": 3,
+    "texte": "Quand devient-on adulte ?"
+   },
+   {
+    "n": 4,
+    "texte": "Conception récente du monde sans peur"
+   },
+   {
+    "n": 5,
+    "texte": "Bénéfices de la peur"
+   },
+   {
+    "n": 6,
+    "texte": "Deux techniques pour commencer à se détacher de sa peur"
+   },
+   {
+    "n": 7,
+    "texte": "Trouver des marqueurs personnels pour définir la peur"
+   },
+   {
+    "n": 8,
+    "texte": "Se rassembler"
+   },
+   {
+    "n": 9,
+    "texte": "Avoir un modèle de personnalité adulte"
+   },
+   {
+    "n": 10,
+    "texte": "Choisir ses sensations"
+   },
+   {
+    "n": 11,
+    "texte": "Analogie aux radars de recul"
+   },
+   {
+    "n": 12,
+    "texte": "Négocier avec sa peur"
+   }
+  ],
+  "annonce": [
+   {
+    "titre": "L’anecdote du mois",
+    "mots": 85,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "FLASHBACK : LA PEUR EST LA NORME DE L’ENFANT",
+    "mots": 180,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "En grandissant, elle disparaît…",
+    "mots": 135,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "« Tout est bruit pour qui a peur »"
+    ]
+   },
+   {
+    "titre": "… ENFIN ÇA, C’EST LA THÉORIE",
+    "mots": 333,
+    "points": [],
+    "puces": [
+     "peur de l’indifférence d’une belle femme,",
+     "peur du rejet,",
+     "peur de parler en public,",
+     "peur de regarder en face quelqu’un qui vous dépasse (que ce soit symboliquement, physiquement, statutairement, bref quel que soit la nature de votre subordination à son égard)",
+     "peur du jugement de l’autre,",
+     "peur de la solitude,",
+     "peur de vous-même",
+     "etc. (liste loin d’être exhaustive)"
+    ],
+    "citations": [
+     "« Quand on tombe dans l’eau, la pluie ne fait plus peur. »"
+    ]
+   },
+   {
+    "titre": "Les réponses habituelles à la peur ne sont pas appropriées",
+    "mots": 141,
+    "points": [],
+    "puces": [
+     "« il/elle ne va pas te manger »",
+     "« qui ne tente rien n’a rien »",
+     "« ne t’inquiète pas tout va bien se passer »",
+     "il faut s’accepter tel que l’on est"
+    ],
+    "citations": [
+     "« Fais-peur au lion avant qu’il ne te fasse peur »"
+    ]
+   },
+   {
+    "titre": "LA PEUR _PEUT_ DEVENIR UN SOUVENIR",
+    "mots": 47,
+    "points": [],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Pourquoi nos conseils fonctionnent (témoignages)",
+    "mots": 217,
+    "points": [],
+    "puces": [],
+    "citations": [
+     "_« Je valide les commentaires plus haut. Matinée théorique (du costaud!) et après-midi plus pratique, de nombreux exemples pratiques, ce séminaire a définitivement un gros potentiel._",
+     "_Il nécessitera plusieurs écoutes selon moi tellement on y entend d’informations nouvelles et pertinentes._ _Les bons points: le fond musical jazzy et les toujours très bonnes interventions des participants. » (extrait du témoignage sur_ comprendre les gens _)_"
+    ]
+   },
+   {
+    "titre": "12 EXTRAITS DE CE QUE VOUS ALLEZ ENTENDRE POUR LA PREMIÈRE FOIS AU COURS DE CETTE JOURNÉE",
+    "mots": 160,
+    "points": [
+     "celui qui a peur passera toujours pour froid, voire temporairement pour méchant",
+     "négocier avec sa peur comme on négocierait avec un être vivant",
+     "analyse fine des répercussions physiques et physiologiques de la peur",
+     "quand faut-il se confronter à ses peurs, et au contraire quand les éviter",
+     "les 2 phrases à se répéter à l’infini",
+     "les peurs légitimes",
+     "les méthodes des autres pour vous faire peur",
+     "la peur comme biais décisionnel et acte d’achat (« La peur mène à la colère, la colère mène à la haine, la haine mène à la souffrance » George Lucas, Star Wars ép. 1″)",
+     "l’adrénaline, ou le sain pendant de la peur",
+     "la technique du « remplissage de frigo » ou faire son « nid de survie » au milieu de la peur",
+     "la peur de soi-même, ou pourquoi se regarder dans le miroir",
+     "comment se sentent les autres en ce moment précis"
+    ],
+    "puces": [],
+    "citations": []
+   },
+   {
+    "titre": "Vos 5 bénéfices à commander cette journée",
+    "mots": 78,
+    "points": [
+     "devenir plus sexué",
+     "acquérir une plus grande maîtrise de soi-même",
+     "augmenter votre niveau de discernement (rappel : « tout est bruit pour qui a peur »)",
+     "libérer son potentiel",
+     "énergie, force mentale et aptitude au combat"
+    ],
+    "puces": [],
+    "citations": [
+     "« Sachez que dans la vie l’homme doit traverser un pont très, très étroit, mais ce qui est essentiel, le plus essentiel, c’est qu’il n’ait pas peur. Pas peur du tout. » Rabbi Naham de Brazlaw"
+    ]
+   }
+  ],
   "materiau": [
    {
     "kind": "synthese",

@@ -36,7 +36,7 @@ développements sur le sujet.
 | `C017` | Atelier Dream Job | Carriere & Leadership | voix-ecrite | 0 | 272 | 4 | 16 | [→](formations/Carriere-Leadership/C017__atelier-dream-job.md) |
 | `C018` | Ameliorer sa voix (avec une chanteuse professionnelle) (apres-midi) | Communication | non-reconstituable | 0 | 0 | 5 | 11 | [→](formations/Communication/C018__ameliorer-sa-voix-avec-une-chanteuse-professionnelle-apres-midi.md) |
 | `C019` | Ameliorer sa voix (avec une chanteuse professionnelle) (matin) | Communication | non-reconstituable | 0 | 0 | 5 | 11 | [→](formations/Communication/C019__ameliorer-sa-voix-avec-une-chanteuse-professionnelle-matin.md) |
-| `C020` | Convaincre à l'écrit | Communication | voix-ecrite | 0 | 0 | 7 | 30 | [→](formations/Communication/C020__convaincre-a-lecrit.md) |
+| `C020` | Convaincre à l'écrit | Communication | voix-ecrite | 13 | 297 | 7 | 30 | [→](formations/Communication/C020__convaincre-a-lecrit.md) |
 | `C021` | Devenez interessant III : l'art du story telling | Communication | voix-ecrite | 13 | 769 | 4 | 19 | [→](formations/Communication/C021__devenez-interessant-iii-lart-du-story-telling.md) |
 | `C022` | Trouver son timbre et recentrer sa voix | Communication | voix-ecrite | 6 | 323 | 5 | 17 | [→](formations/Communication/C022__trouver-son-timbre-et-recentrer-sa-voix.md) |
 | `C023` | 100 jours pour la rendre amoureuse (apres-midi) | Couple Relations Longues | reconstituee | 0 | 0 | 5 | 22 | [→](formations/Couple-Relations-Longues/C023__100-jours-pour-la-rendre-amoureuse-apres-midi.md) |
@@ -50,15 +50,15 @@ développements sur le sujet.
 | `C031` | Relations longues I : le vaccin anti obsession amoureuse | Couple Relations Longues | voix-ecrite | 7 | 0 | 5 | 8 | [→](formations/Couple-Relations-Longues/C031__relations-longues-i-le-vaccin-anti-obsession-amoureuse.md) |
 | `C032` | Rester seduisant en couple (apres-midi) | Couple Relations Longues | reconstituee | 0 | 0 | 5 | 8 | [→](formations/Couple-Relations-Longues/C032__rester-seduisant-en-couple-apres-midi.md) |
 | `C033` | Rester seduisant en couple (matin) | Couple Relations Longues | reconstituee | 0 | 0 | 5 | 12 | [→](formations/Couple-Relations-Longues/C033__rester-seduisant-en-couple-matin.md) |
-| `C034` | Rester seduisant en couple | Couple Relations Longues | voix-ecrite | 10 | 407 | 5 | 8 | [→](formations/Couple-Relations-Longues/C034__rester-seduisant-en-couple.md) |
+| `C034` | Rester seduisant en couple | Couple Relations Longues | voix-ecrite | 7 | 1131 | 5 | 8 | [→](formations/Couple-Relations-Longues/C034__rester-seduisant-en-couple.md) |
 | `C035` | Productivité | Developpement Personnel | voix-ecrite | 8 | 0 | 3 | 12 | [→](formations/Developpement-Personnel/C035__productivite.md) |
-| `C036` | L'amant ideal | Developpement Personnel | voix-ecrite | 0 | 0 | 4 | 5 | [→](formations/Developpement-Personnel/C036__lamant-ideal.md) |
+| `C036` | L'amant ideal | Developpement Personnel | voix-ecrite | 10 | 267 | 4 | 5 | [→](formations/Developpement-Personnel/C036__lamant-ideal.md) |
 | `C037` | Le bonheur – matin | Developpement Personnel | reconstituee | 0 | 0 | 4 | 11 | [→](formations/Developpement-Personnel/C037__le-bonheur-matin.md) |
 | `C038` | Le bonheur : 7 techniques pour être heureux et surfer la vie | Developpement Personnel | voix-ecrite | 18 | 184 | 4 | 6 | [→](formations/Developpement-Personnel/C038__le-bonheur-7-techniques-pour-etre-heureux-et-surfer-la-vie.md) |
 | `C039` | Fabriquer sa chance (apres-midi) | Developpement Personnel | non-reconstituable | 0 | 0 | 4 | 10 | [→](formations/Developpement-Personnel/C039__fabriquer-sa-chance-apres-midi.md) |
 | `C040` | Fabriquer sa chance (matin) | Developpement Personnel | non-reconstituable | 0 | 0 | 4 | 10 | [→](formations/Developpement-Personnel/C040__fabriquer-sa-chance-matin.md) |
 | `C041` | L'amant idéal, 2 (après-midi) | Developpement Personnel | reconstituee | 0 | 0 | 5 | 16 | [→](formations/Developpement-Personnel/C041__lamant-ideal-2-apres-midi.md) |
-| `C042` | L'amant, 2 | Developpement Personnel | voix-ecrite | 0 | 0 | 5 | 5 | [→](formations/Developpement-Personnel/C042__lamant-2.md) |
+| `C042` | L'amant, 2 | Developpement Personnel | voix-ecrite | 14 | 277 | 5 | 5 | [→](formations/Developpement-Personnel/C042__lamant-2.md) |
 | `C043` | Développe ta force mentale et prépare-toi aux combats de la vie | Developpement Personnel | voix-ecrite | 10 | 703 | 5 | 22 | [→](formations/Developpement-Personnel/C043__developpe-ta-force-mentale-et-prepare-toi-aux-combats-de-la-vie.md) |
 | `C044` | Développe ta force mentale (après-midi) | Developpement Personnel | reconstituee | 0 | 0 | 5 | 24 | [→](formations/Developpement-Personnel/C044__developpe-ta-force-mentale-apres-midi.md) |
 | `C045` | Développe ta force mentale (matin) | Developpement Personnel | reconstituee | 0 | 0 | 4 | 18 | [→](formations/Developpement-Personnel/C045__developpe-ta-force-mentale-matin.md) |
@@ -89,11 +89,11 @@ développements sur le sujet.
 | `C070` | Cultivez votre INTELLIGENCE ÉMOTIONNELLE | Intelligence Sociale | voix-ecrite | 7 | 717 | 5 | 48 | [→](formations/Intelligence-Sociale/C070__cultivez-votre-intelligence-emotionnelle.md) |
 | `C071` | Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi) | Intelligence Sociale | paywall | 0 | 0 | 4 | 20 | [→](formations/Intelligence-Sociale/C071__intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) |
 | `C072` | Intelligence relationnelle, 2: Les secrets du POUVOIR (matin) | Intelligence Sociale | paywall | 0 | 0 | 4 | 21 | [→](formations/Intelligence-Sociale/C072__intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) |
-| `C073` | Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l'école | Intelligence Sociale | voix-ecrite | 0 | 0 | 5 | 8 | [→](formations/Intelligence-Sociale/C073__comprendre-les-gens-rattrapage-de-sociologie-pour-ceux-qui-ont-pris-ma.md) |
+| `C073` | Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l'école | Intelligence Sociale | voix-ecrite | 10 | 520 | 5 | 8 | [→](formations/Intelligence-Sociale/C073__comprendre-les-gens-rattrapage-de-sociologie-pour-ceux-qui-ont-pris-ma.md) |
 | `C074` | Manipulation II (apres-midi) | Intelligence Sociale | paywall | 0 | 0 | 3 | 9 | [→](formations/Intelligence-Sociale/C074__manipulation-ii-apres-midi.md) |
 | `C075` | Manipulation II (matin) | Intelligence Sociale | paywall | 0 | 0 | 3 | 11 | [→](formations/Intelligence-Sociale/C075__manipulation-ii-matin.md) |
 | `C076` | Manipulation II : obtenez ce que vous méritez | Intelligence Sociale | voix-ecrite | 13 | 217 | 3 | 9 | [→](formations/Intelligence-Sociale/C076__manipulation-ii-obtenez-ce-que-vous-meritez.md) |
-| `C077` | Intelligence relationnelle, 2 : Les secrets du POUVOIR | Intelligence Sociale | voix-ecrite | 9 | 964 | 4 | 10 | [→](formations/Intelligence-Sociale/C077__intelligence-relationnelle-2-les-secrets-du-pouvoir.md) |
+| `C077` | Intelligence relationnelle, 2 : Les secrets du POUVOIR | Intelligence Sociale | voix-ecrite | 0 | 0 | 4 | 10 | [→](formations/Intelligence-Sociale/C077__intelligence-relationnelle-2-les-secrets-du-pouvoir.md) |
 | `C078` | Formations — Stéphane Édouard | Non categorise | non-reconstituable | 0 | 0 | 0 | 0 | [→](formations/Non-categorise/C078__formations-stephane-edouard.md) |
 | `C079` | Langage des femmes | Relations H-F | voix-ecrite | 14 | 0 | 5 | 34 | [→](formations/Relations-H-F/C079__langage-des-femmes.md) |
 | `C080` | Ce que veulent les femmes (ancien titre : attentes féminines) | Relations H-F | voix-ecrite | 11 | 0 | 5 | 7 | [→](formations/Relations-H-F/C080__ce-que-veulent-les-femmes-ancien-titre-attentes-feminines.md) |
@@ -128,7 +128,7 @@ développements sur le sujet.
 | `C109` | Langage des femmes : le chaud-froid-chaud-froid-chaud-… | Relations H-F | voix-ecrite | 6 | 229 | 4 | 11 | [→](formations/Relations-H-F/C109__langage-des-femmes-le-chaud-froid-chaud-froid-chaud.md) |
 | `C110` | Relations longues II : typologie de femmes | Relations H-F | voix-ecrite | 6 | 478 | 3 | 0 | [→](formations/Relations-H-F/C110__relations-longues-ii-typologie-de-femmes.md) |
 | `C111` | Changer de classe sociale | Reseau & Influence | voix-ecrite | 5 | 485 | 5 | 17 | [→](formations/Reseau-Influence/C111__changer-de-classe-sociale.md) |
-| `C112` | L'art delicat de la connexion | Reseau & Influence | voix-ecrite | 0 | 0 | 5 | 0 | [→](formations/Reseau-Influence/C112__lart-delicat-de-la-connexion.md) |
+| `C112` | L'art delicat de la connexion | Reseau & Influence | voix-ecrite | 11 | 466 | 5 | 0 | [→](formations/Reseau-Influence/C112__lart-delicat-de-la-connexion.md) |
 | `C113` | Intelligence sociale III : Internet, réseaux, applications | Reseau & Influence | voix-ecrite | 12 | 427 | 4 | 11 | [→](formations/Reseau-Influence/C113__intelligence-sociale-iii-internet-reseaux-applications.md) |
 | `C114` | Intelligence relationnelle, 1: Doubler son RESEAU (après-midi) | Reseau & Influence | reconstituee | 0 | 0 | 4 | 26 | [→](formations/Reseau-Influence/C114__intelligence-relationnelle-1-doubler-son-reseau-apres-midi.md) |
 | `C115` | Intelligence relationnelle, 1: Doubler son RESEAU (matin) | Reseau & Influence | reconstituee | 0 | 0 | 3 | 10 | [→](formations/Reseau-Influence/C115__intelligence-relationnelle-1-doubler-son-reseau-matin.md) |
@@ -169,7 +169,7 @@ développements sur le sujet.
 | `C150` | Développe ta force mentale et prépare-toi aux combats de la vie | Seduction & Rencontres | doctrine | 10 | 703 | 4 | 22 | [→](formations/Seduction-Rencontres/C150__developpe-ta-force-mentale-et-prepare-toi-aux-combats-de-la-vie.md) |
 | `C151` | Get a life (apres-midi) | Seduction & Rencontres | reconstituee | 0 | 0 | 1 | 0 | [→](formations/Seduction-Rencontres/C151__get-a-life-apres-midi.md) |
 | `C152` | Get a life (matin) | Seduction & Rencontres | reconstituee | 0 | 0 | 0 | 0 | [→](formations/Seduction-Rencontres/C152__get-a-life-matin.md) |
-| `C153` | Page d'accueil | Seduction & Rencontres | voix-ecrite | 0 | 0 | 5 | 12 | [→](formations/Seduction-Rencontres/C153__page-daccueil.md) |
+| `C153` | Page d'accueil | Seduction & Rencontres | voix-ecrite | 0 | 501 | 5 | 12 | [→](formations/Seduction-Rencontres/C153__page-daccueil.md) |
 | `C154` | Reçois ton La Furia© dédicacé ! | Seduction & Rencontres | voix-ecrite | 0 | 133 | 1 | 0 | [→](formations/Seduction-Rencontres/C154__recois-ton-la-furia-dedicace.md) |
 | `C155` | La peur (apres-midi) La supporter, l affronter, la vaincre | Seduction & Rencontres | reconstituee | 0 | 0 | 4 | 4 | [→](formations/Seduction-Rencontres/C155__la-peur-apres-midi-la-supporter-l-affronter-la-vaincre.md) |
 | `C156` | La peur (matin) La supporter, l affronter, la vaincre | Seduction & Rencontres | reconstituee | 0 | 0 | 4 | 4 | [→](formations/Seduction-Rencontres/C156__la-peur-matin-la-supporter-l-affronter-la-vaincre.md) |
@@ -200,9 +200,9 @@ développements sur le sujet.
 | `C181` | Small talk (badinage) (matin) | Seduction & Rencontres | reconstituee | 0 | 0 | 1 | 0 | [→](formations/Seduction-Rencontres/C181__small-talk-badinage-matin.md) |
 | `C182` | Small talk (badinage) | Seduction & Rencontres | voix-ecrite | 10 | 252 | 1 | 0 | [→](formations/Seduction-Rencontres/C182__small-talk-badinage.md) |
 | `C183` | Briller en ligne, le charme discret du texto parfait ? | Seduction & Rencontres | voix-ecrite | 14 | 171 | 3 | 6 | [→](formations/Seduction-Rencontres/C183__briller-en-ligne-le-charme-discret-du-texto-parfait.md) |
-| `C184` | La peur : La supporter, l'affronter, la vaincre | Seduction & Rencontres | voix-ecrite | 0 | 0 | 4 | 4 | [→](formations/Seduction-Rencontres/C184__la-peur-la-supporter-laffronter-la-vaincre.md) |
+| `C184` | La peur : La supporter, l'affronter, la vaincre | Seduction & Rencontres | voix-ecrite | 12 | 1376 | 4 | 4 | [→](formations/Seduction-Rencontres/C184__la-peur-la-supporter-laffronter-la-vaincre.md) |
 | `C185` | Vivez de ce que vous aimez | Seduction & Rencontres | voix-ecrite | 0 | 0 | 4 | 23 | [→](formations/Seduction-Rencontres/C185__vivez-de-ce-que-vous-aimez.md) |
-| `C186` | Changez d'image | Style & Image | voix-ecrite | 0 | 0 | 6 | 39 | [→](formations/Style-Image/C186__changez-dimage.md) |
+| `C186` | Changez d'image | Style & Image | voix-ecrite | 10 | 1329 | 6 | 39 | [→](formations/Style-Image/C186__changez-dimage.md) |
 | `C187` | Changez d'image (apres-midi) | Style & Image | reconstituee | 0 | 0 | 5 | 11 | [→](formations/Style-Image/C187__changez-dimage-apres-midi.md) |
 | `C188` | Changez d'image (matin) | Style & Image | reconstituee | 0 | 0 | 1 | 7 | [→](formations/Style-Image/C188__changez-dimage-matin.md) |
 | `C189` | Relookings (apprendre à bien s'habiller) | Style & Image | voix-ecrite | 0 | 428 | 3 | 12 | [→](formations/Style-Image/C189__relookings-apprendre-a-bien-shabiller.md) |
@@ -215,10 +215,10 @@ développements sur le sujet.
 | `C196` | Au secours, mon chef est une femme (/un homme) | Relations professionnelles | citations | 10 | 339 | 3 | 17 | [→](formations/Relations-professionnelles/C196__au-secours-mon-chef-est-une-femme-un-homme.md) |
 | `C197` | Productivité | Developpement Personnel | citations | 8 | 0 | 2 | 6 | [→](formations/Developpement-Personnel/C197__productivite.md) |
 | `C198` | Get lucky | Developpement Personnel | citations | 10 | 663 | 2 | 21 | [→](formations/Developpement-Personnel/C198__get-lucky.md) |
-| `C199` | Dégagez l'énergie d'un boxeur | Sante Mentale | citations | 0 | 0 | 5 | 9 | [→](formations/Sante-Mentale/C199__degagez-lenergie-dun-boxeur.md) |
+| `C199` | Dégagez l'énergie d'un boxeur | Sante Mentale | citations | 9 | 435 | 5 | 9 | [→](formations/Sante-Mentale/C199__degagez-lenergie-dun-boxeur.md) |
 | `C200` | Avoir des buts et les atteindre | Developpement Personnel | citations | 0 | 0 | 1 | 0 | [→](formations/Developpement-Personnel/C200__avoir-des-buts-et-les-atteindre.md) |
 | `C201` | Avoir la classe | Developpement Personnel | citations | 0 | 0 | 5 | 33 | [→](formations/Developpement-Personnel/C201__avoir-la-classe.md) |
-| `C202` | L'amant idéal | Relations H-F | citations | 0 | 0 | 3 | 5 | [→](formations/Relations-H-F/C202__lamant-ideal.md) |
+| `C202` | L'amant idéal | Relations H-F | citations | 10 | 267 | 3 | 5 | [→](formations/Relations-H-F/C202__lamant-ideal.md) |
 | `C203` | Le bonheur : 7 techniques pour être heureux et surfer la vie | Sante Mentale | citations | 18 | 184 | 3 | 6 | [→](formations/Sante-Mentale/C203__le-bonheur-7-techniques-pour-etre-heureux-et-surfer-la-vie.md) |
 | `C204` | Bonne réputation | Developpement Personnel | citations | 0 | 0 | 4 | 24 | [→](formations/Developpement-Personnel/C204__bonne-reputation.md) |
 | `C205` | Briller en ligne, le charme discret du texto parfait | Seduction & Rencontres | citations | 14 | 171 | 3 | 6 | [→](formations/Seduction-Rencontres/C205__briller-en-ligne-le-charme-discret-du-texto-parfait.md) |
@@ -237,14 +237,14 @@ développements sur le sujet.
 | `C218` | Comment sortir d'un conflit | Developpement Personnel | citations | 0 | 0 | 2 | 11 | [→](formations/Developpement-Personnel/C218__comment-sortir-dun-conflit.md) |
 | `C219` | Comment acheter des vêtements | Developpement Personnel | citations | 0 | 0 | 5 | 18 | [→](formations/Developpement-Personnel/C219__comment-acheter-des-vetements.md) |
 | `C220` | Communication avec son manager | Carriere & Leadership | citations | 0 | 0 | 5 | 24 | [→](formations/Carriere-Leadership/C220__communication-avec-son-manager.md) |
-| `C221` | Convaincre à l'écrit | Non categorise | citations | 0 | 0 | 3 | 18 | [→](formations/Non-categorise/C221__convaincre-a-lecrit.md) |
+| `C221` | Convaincre à l'écrit | Non categorise | citations | 13 | 297 | 3 | 18 | [→](formations/Non-categorise/C221__convaincre-a-lecrit.md) |
 | `C222` | Communication Non Violente | Communication | citations | 0 | 0 | 5 | 11 | [→](formations/Communication/C222__communication-non-violente.md) |
 | `C223` | Communiquer avec ses proches | Communication | citations | 0 | 0 | 4 | 12 | [→](formations/Communication/C223__communiquer-avec-ses-proches.md) |
 | `C224` | Logique des femmes | Relations H-F | citations | 26 | 754 | 1 | 0 | [→](formations/Relations-H-F/C224__logique-des-femmes.md) |
 | `C225` | Comprendre les gens, 2 (matin) | Divers | reconstituee | 0 | 0 | 0 | 0 | [→](formations/Divers/C225__comprendre-les-gens-2-matin.md) |
 | `C226` | Logique des hommes — le côté obscur de H pur | Relations H-F | citations | 10 | 0 | 1 | 0 | [→](formations/Relations-H-F/C226__logique-des-hommes-le-cote-obscur-de-h-pur.md) |
 | `C227` | Confiance en soi | Developpement Personnel | citations | 10 | 837 | 4 | 0 | [→](formations/Developpement-Personnel/C227__confiance-en-soi.md) |
-| `C228` | L'art delicat de la connexion | Relations H-F | citations | 0 | 0 | 4 | 0 | [→](formations/Relations-H-F/C228__lart-delicat-de-la-connexion.md) |
+| `C228` | L'art delicat de la connexion | Relations H-F | citations | 11 | 466 | 4 | 0 | [→](formations/Relations-H-F/C228__lart-delicat-de-la-connexion.md) |
 | `C229` | 100 jours pour la rendre amoureuse | Relations H-F | citations | 10 | 990 | 4 | 16 | [→](formations/Relations-H-F/C229__100-jours-pour-la-rendre-amoureuse.md) |
 | `C230` | Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures LIKE A BOSS | Non categorise | doctrine | 14 | 0 | 4 | 18 | [→](formations/Non-categorise/C230__le-couple-a-lrsquoancienne-crsquoest-du-passe-encaissez-les-ruptures-l.md) |
 | `C231` | Couples et ruptures difficiles | Relations H-F | citations | 0 | 0 | 4 | 19 | [→](formations/Relations-H-F/C231__couples-et-ruptures-difficiles.md) |
@@ -269,7 +269,7 @@ développements sur le sujet.
 | `C250` | Ce qu&rsquo;il est URGENT d&rsquo;apprendre à vos (futurs ?) enfants | Non categorise | doctrine | 13 | 400 | 2 | 6 | [→](formations/Non-categorise/C250__ce-qursquoil-est-urgent-drsquoapprendre-a-vos-futurs-enfants.md) |
 | `C251` | Entouré pour réussir (matin) | Divers | reconstituee | 0 | 0 | 2 | 5 | [→](formations/Divers/C251__entoure-pour-reussir-matin.md) |
 | `C252` | Être aimé et respecté | Developpement Personnel | citations | 0 | 0 | 3 | 10 | [→](formations/Developpement-Personnel/C252__etre-aime-et-respecte.md) |
-| `C253` | L&rsquo;amant, 2 | Non categorise | doctrine | 0 | 0 | 4 | 5 | [→](formations/Non-categorise/C253__lrsquoamant-2.md) |
+| `C253` | L&rsquo;amant, 2 | Non categorise | doctrine | 14 | 277 | 4 | 5 | [→](formations/Non-categorise/C253__lrsquoamant-2.md) |
 | `C254` | Like a boss, 3 : Séduire et fidéliser ses clients A VIE | Non categorise | doctrine | 11 | 235 | 3 | 10 | [→](formations/Non-categorise/C254__like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie.md) |
 | `C255` | Développe ta force mentale et prépare-toi aux combats de la vie | Non categorise | doctrine | 10 | 703 | 3 | 22 | [→](formations/Non-categorise/C255__developpe-ta-force-mentale-et-prepare-toi-aux-combats-de-la-vie.md) |
 | `C256` | Gestion des Émotions | Sante Mentale | citations | 0 | 0 | 4 | 13 | [→](formations/Sante-Mentale/C256__gestion-des-emotions.md) |
@@ -288,8 +288,8 @@ développements sur le sujet.
 | `C269` | La santé mentale – après-midi | Sante Mentale | citations | 0 | 0 | 3 | 0 | [→](formations/Sante-Mentale/C269__la-sante-mentale-apres-midi.md) |
 | `C270` | Langage des hommes | Divers | reconstituee | 5 | 49 | 2 | 5 | [→](formations/Divers/C270__langage-des-hommes.md) |
 | `C271` | Langage des hommes | Non categorise | doctrine | 5 | 49 | 2 | 5 | [→](formations/Non-categorise/C271__langage-des-hommes.md) |
-| `C272` | L'art de la négociation | Carriere & Leadership | citations | 0 | 0 | 2 | 0 | [→](formations/Carriere-Leadership/C272__lart-de-la-negociation.md) |
-| `C273` | L'art de la négociation | Carriere & Leadership | citations | 0 | 0 | 2 | 0 | [→](formations/Carriere-Leadership/C273__lart-de-la-negociation.md) |
+| `C272` | L'art de la négociation | Carriere & Leadership | citations | 11 | 466 | 2 | 0 | [→](formations/Carriere-Leadership/C272__lart-de-la-negociation.md) |
+| `C273` | L'art de la négociation | Carriere & Leadership | citations | 11 | 466 | 2 | 0 | [→](formations/Carriere-Leadership/C273__lart-de-la-negociation.md) |
 | `C274` | Le bonheur : 7 techniques pour être heureux et surfer la vie | Sante Mentale | reconstituee | 18 | 184 | 3 | 6 | [→](formations/Sante-Mentale/C274__le-bonheur-7-techniques-pour-etre-heureux-et-surfer-la-vie.md) |
 | `C275` | Le bonheur – matin | Sante Mentale | reconstituee | 0 | 0 | 0 | 0 | [→](formations/Sante-Mentale/C275__le-bonheur-matin.md) |
 | `C276` | Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS | Couple & Relations | doctrine | 14 | 0 | 4 | 13 | [→](formations/Couple-Relations/C276__le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss.md) |
@@ -309,11 +309,11 @@ développements sur le sujet.
 | `C290` | Like a boss, 2 : des presentations (écrites et orales) qui TUENT | Carriere & Leadership | reconstituee | 10 | 1300 | 1 | 5 | [→](formations/Carriere-Leadership/C290__like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent.md) |
 | `C291` | Like a boss, 3: Seduire et fideliser ses clients A VIE (après midi) | Carriere & Leadership | non-reconstituable | 0 | 0 | 3 | 0 | [→](formations/Carriere-Leadership/C291__like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-apres-midi.md) |
 | `C292` | Like a boss, 3: Seduire et fideliser ses clients A VIE (matin) | Carriere & Leadership | reconstituee | 0 | 0 | 2 | 0 | [→](formations/Carriere-Leadership/C292__like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-matin.md) |
-| `C293` | Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l&rsquo;école | Non categorise | doctrine | 0 | 0 | 5 | 8 | [→](formations/Non-categorise/C293__comprendre-les-gens-rattrapage-de-sociologie-pour-ceux-qui-ont-pris-ma.md) |
+| `C293` | Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l&rsquo;école | Non categorise | doctrine | 10 | 520 | 5 | 8 | [→](formations/Non-categorise/C293__comprendre-les-gens-rattrapage-de-sociologie-pour-ceux-qui-ont-pris-ma.md) |
 | `C294` | Logique de l&rsquo;Homme (matin) | Divers | reconstituee | 0 | 0 | 0 | 0 | [→](formations/Divers/C294__logique-de-lrsquohomme-matin.md) |
 | `C295` | Logique des hommes – le côté obscur de H pur | Divers | reconstituee | 10 | 0 | 2 | 6 | [→](formations/Divers/C295__logique-des-hommes-le-cote-obscur-de-h-pur.md) |
 | `C296` | Logique des femmes II | Non categorise | doctrine | 14 | 644 | 2 | 0 | [→](formations/Non-categorise/C296__logique-des-femmes-ii.md) |
-| `C297` | L&rsquo;amant, 2 | Relations H-F | reconstituee | 0 | 0 | 1 | 5 | [→](formations/Relations-H-F/C297__lrsquoamant-2.md) |
+| `C297` | L&rsquo;amant, 2 | Relations H-F | reconstituee | 14 | 277 | 1 | 5 | [→](formations/Relations-H-F/C297__lrsquoamant-2.md) |
 | `C298` | L&rsquo;amant idéal, 2 : faire jouir une femme (matin) | Relations H-F | reconstituee | 0 | 0 | 2 | 0 | [→](formations/Relations-H-F/C298__lrsquoamant-ideal-2-faire-jouir-une-femme-matin.md) |
 | `C299` | L&rsquo;amant idéal, 2 (après-midi) | Relations H-F | reconstituee | 0 | 0 | 4 | 5 | [→](formations/Relations-H-F/C299__lrsquoamant-ideal-2-apres-midi.md) |
 | `C300` | L&rsquo;école des hommes | Divers | reconstituee | 0 | 0 | 1 | 11 | [→](formations/Divers/C300__lrsquoecole-des-hommes.md) |
@@ -337,7 +337,7 @@ développements sur le sujet.
 | `C318` | Plus de rencontres | Seduction & Rencontres | reconstituee | 10 | 374 | 3 | 2 | [→](formations/Seduction-Rencontres/C318__plus-de-rencontres.md) |
 | `C319` | Premier rendez-vous 10 scenarii parfaits | Non categorise | doctrine | 11 | 787 | 4 | 12 | [→](formations/Non-categorise/C319__premier-rendez-vous-10-scenarii-parfaits.md) |
 | `C320` | Premier rendez-vous | Seduction & Rencontres | citations | 11 | 787 | 4 | 12 | [→](formations/Seduction-Rencontres/C320__premier-rendez-vous.md) |
-| `C321` | Intelligence relationnelle, 2 : Les secrets du POUVOIR | Non categorise | doctrine | 9 | 964 | 2 | 10 | [→](formations/Non-categorise/C321__intelligence-relationnelle-2-les-secrets-du-pouvoir.md) |
+| `C321` | Intelligence relationnelle, 2 : Les secrets du POUVOIR | Non categorise | doctrine | 0 | 0 | 2 | 10 | [→](formations/Non-categorise/C321__intelligence-relationnelle-2-les-secrets-du-pouvoir.md) |
 | `C322` | Like a boss, 2 : des presentations (écrites et orales) qui TUENT | Non categorise | doctrine | 10 | 1300 | 2 | 11 | [→](formations/Non-categorise/C322__like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent.md) |
 | `C323` | Prises de parole en public | Developpement Personnel | citations | 0 | 0 | 5 | 16 | [→](formations/Developpement-Personnel/C323__prises-de-parole-en-public.md) |
 | `C324` | Vivre avec la procrastination | Non categorise | doctrine | 9 | 443 | 3 | 14 | [→](formations/Non-categorise/C324__vivre-avec-la-procrastination.md) |
@@ -356,7 +356,7 @@ développements sur le sujet.
 | `C337` | 2h pour se simplifier la vie | Non categorise | doctrine | 9 | 480 | 0 | 0 | [→](formations/Non-categorise/C337__2h-pour-se-simplifier-la-vie.md) |
 | `C338` | Agenda secret / feuille de route | Non categorise | doctrine | 10 | 639 | 3 | 9 | [→](formations/Non-categorise/C338__agenda-secret-feuille-de-route.md) |
 | `C339` | Etre sexué II : dans les contraintes du réel | Non categorise | doctrine | 5 | 911 | 2 | 0 | [→](formations/Non-categorise/C339__etre-sexue-ii-dans-les-contraintes-du-reel.md) |
-| `C340` | Rester seduisant en couple | Non categorise | doctrine | 10 | 407 | 4 | 8 | [→](formations/Non-categorise/C340__rester-seduisant-en-couple.md) |
+| `C340` | Rester seduisant en couple | Non categorise | doctrine | 7 | 1131 | 4 | 8 | [→](formations/Non-categorise/C340__rester-seduisant-en-couple.md) |
 | `C341` | Etre sexué | Non categorise | doctrine | 6 | 290 | 1 | 0 | [→](formations/Non-categorise/C341__etre-sexue.md) |
 | `C342` | Sexualité et désir | Relations H-F | citations | 0 | 0 | 2 | 6 | [→](formations/Relations-H-F/C342__sexualite-et-desir.md) |
 | `C343` | Sexualité homme et plaisir | Relations H-F | citations | 0 | 0 | 2 | 6 | [→](formations/Relations-H-F/C343__sexualite-homme-et-plaisir.md) |
@@ -380,7 +380,7 @@ développements sur le sujet.
 | `C361` | Timidite | Non categorise | doctrine | 0 | 0 | 0 | 0 | [→](formations/Non-categorise/C361__timidite.md) |
 | `C362` | Trouver son timbre et recentrer sa voix | Non categorise | doctrine | 6 | 323 | 4 | 6 | [→](formations/Non-categorise/C362__trouver-son-timbre-et-recentrer-sa-voix.md) |
 | `C363` | Relations longues II : typologie de femmes | Non categorise | doctrine | 6 | 478 | 3 | 0 | [→](formations/Non-categorise/C363__relations-longues-ii-typologie-de-femmes.md) |
-| `C364` | La peur : La supporter, l'affronter, la vaincre | Sante Mentale | citations | 0 | 0 | 2 | 4 | [→](formations/Sante-Mentale/C364__la-peur-la-supporter-laffronter-la-vaincre.md) |
+| `C364` | La peur : La supporter, l'affronter, la vaincre | Sante Mentale | citations | 12 | 1376 | 2 | 4 | [→](formations/Sante-Mentale/C364__la-peur-la-supporter-laffronter-la-vaincre.md) |
 | `C365` | DOUBLE ton RÉSEAU | Non categorise | doctrine | 10 | 407 | 3 | 6 | [→](formations/Non-categorise/C365__double-ton-reseau.md) |
 | `C366` | Vivre avec la procrastination | Developpement Personnel | reconstituee | 9 | 443 | 1 | 12 | [→](formations/Developpement-Personnel/C366__vivre-avec-la-procrastination.md) |
 | `C367` | Ils en parleront mieux que moi | Non categorise | doctrine | 0 | 0 | 2 | 12 | [→](formations/Non-categorise/C367__ils-en-parleront-mieux-que-moi.md) |

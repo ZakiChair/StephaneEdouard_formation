@@ -23,12 +23,12 @@ provenance.
 | | |
 |---|---|
 | Fiches | **369** |
-| Points de programme | **1 615** |
-| Annonces développées | **67 628 mots** de la prose de l'auteur |
+| Points de programme | **1 786** |
+| Annonces développées | **77 028 mots** de la prose de l'auteur |
 | Documents de matière | **1 159** — les liens que l'auteur pose lui-même |
 | Idées fortes extraites | **3 506** |
-| Sections d'annonce | **705** |
-| Mots dans le dépôt | **338 545** |
+| Sections d'annonce | **803** |
+| Mots dans le dépôt | **353 930** |
 
 ### Les statuts
 
@@ -46,7 +46,7 @@ provenance.
 **Les pages produit mat-consulting.fr** (201 pages). Elles ne sont pas une
 fiche éditoriale : l'auteur y écrit l'annonce de son séminaire, en prose, avec
 le déroulé de la journée (« 12 extraits de ce que vous allez entendre pour la
-première fois »), ses bénéfices, ses citations. **67 628 mots** de sa main.
+première fois »), ses bénéfices, ses citations. **77 028 mots** de sa main.
 Les pages des produits retirés du site ont été récupérées par la **Wayback
 Machine** (97 captures) et converties.
 
@@ -55,6 +55,17 @@ Machine** (97 captures) et converties.
 fiches liées » qui désigne explicitement les fiches concernées : **1 159 liens**,
 tous résolus vers le canon des 369 fiches. C'est l'auteur qui a indexé sa
 propre matière. On en extrait ses **3 506 idées fortes** et ses verdicts.
+
+## Comment une formation est rattachée à sa page produit
+
+Par son **titre normalisé**, jamais par son slug : le canon attribue le même
+slug à plusieurs formations (`lart-de-la-negociation` désigne à la fois
+« Apprenez à négocier » et « L'art de la négociation »). Le titre est
+normalisé — accents, apostrophes typographiques, préfixe de date
+(« 6 mai 2017 : comprendre les gens, 2 ») — puis comparé.
+
+Résultat : **317 formations rattachées à leur page, 0 appariement douteux**,
+186 des 201 pages catalogue utilisées.
 
 ## La règle qui compte : verbatim ou reconstitution
 
@@ -88,7 +99,7 @@ Contrôles passés sur l'ensemble du dépôt :
 
 - **3 506 / 3 506** idées fortes retrouvées **mot pour mot** dans le document
   que la fiche cite.
-- **474 / 474** sections d'annonce retrouvées dans leur page produit.
+- **544 / 544** sections d'annonce retrouvées dans leur page produit.
 - **257 / 257** citations de fiche vérifiées mot pour mot.
 - **0** fichier contenant du déchet de page (widgets YouTube, navigation).
 - **0** secret dans l'arbre.

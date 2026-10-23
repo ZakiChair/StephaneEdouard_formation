@@ -8,9 +8,9 @@ url: "https://mat-consulting.fr/produit/communication-ecrite/"
 statut: voix-ecrite
 mots_fiche: 2480
 mots_verbatim: 244
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
+mots_annonce: 297
+programme: 13
+sections_annonce: 2
 points_annonce: 0
 documents_materiau: 7
 idees_forces: 30
@@ -21,6 +21,49 @@ doublon_titre: oui
 # Convaincre à l'écrit
 
 **C020** · Communication · 2480 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. 5 DO s
+2. 4 DON’T
+3. Donner l’envie d’avoir envie
+4. Voler l’attention au lecteur
+5. Conclure en beauté
+6. 2h20 sur ton réseau préféré (moyenne nationale)
+7. encore 1h ou plus pour ceux d’entre vous qui utilisent les [sites de rencontre](https://www.hommesdinfluence.com/tag/sites-apps)
+8. encore plusieurs heures sur des emails à convaincre vos collègues de bureau du bien-fondé de vos décisions. Vous connaissez la fameuse dialectique du savoir- faire vs le faire-savoir ? Et comment fait-on savoir à notre époque à votre avis ? Au travers des multiples écrits qui jalonnent votre journée, et qui peuvent être une purge… ou un plaisir
+9. plusieurs nuits (certes plus rarement) à rédiger les exposés, mémoires, projets et autres rapports dont dépendront vos évaluations, qu’elles soient scolaires ou professionnelles
+10. etc.
+11. transformer des expériences en concepts
+12. peaufiner des techniques d’écriture qui rendent ces concepts séduisants et pas ennuyeux comme dans la plupart des livres de sociologie
+13. accessoirement, écrire pour [La Furia](https://mat-consulting.fr/catalogue/la-furia/) et ce depuis le tout premier numéro
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/communication-ecrite/ — 297 mots de sa prose.*
+
+### 99% du temps, vous devez convaincre à l’écrit avant de pouvoir passer à l’oral…
+
+À votre avis, si je ne savais pas m’exprimer de manière convaincante à l’écrit, seriez-vous en train de me lire aujourd’hui ? Probablement pas. Mon site serait noyé dans la marée des blogs médiocres qui pullulent sur le sujet. Si ma seule compétence avait été baragouiner à l’oral, si je n’avais pas su
+
+- transformer des expériences en _concepts_
+- peaufiner des **techniques d’écriture** qui rendent ces concepts **séduisants** et pas ennuyeux comme dans la plupart des livres de sociologie
+- accessoirement, écrire pour La Furia et ce depuis le tout premier numéro
+
+Dans la vie comme aux concours des grandes écoles, **99% du temps l’épreuve de l’écrit précède celle de l’oral**. Si vous ne savez pas convaincre des interlocuteurs à l’écrit, vous n’aurez certainement jamais la chance de les rencontrer pour démontrer le reste de toutes vos belles qualités. Et encore une fois, il n’y a pas à aller bien loin pour chercher le meilleur exemple : si je n’avais pas su rédiger un beau projet de manuscrit pour le soumettre aux éditeurs, mon premier livre ne n’aurait jamais été remarqué par Flammarion.
+
+Et l’exemple vaut pour tout projet quelle qu’en soit la nature : pour négocier l’achat d’un appartement, une lettre de proposition bien tournée, bien argumentée, mais surtout **convaincante** peut vous faire économiser plusieurs dizaines de milliers d’euros. Histoire vécue… Vous avez besoin d’autres exemples ? Je pense que non.
+
+
+- transformer des expériences en _concepts_
+- peaufiner des **techniques d’écriture** qui rendent ces concepts **séduisants** et pas ennuyeux comme dans la plupart des livres de sociologie
+- accessoirement, écrire pour La Furia et ce depuis le tout premier numéro
+
+### AU PROGRAMME
+
+Ce séminaire n’est **pas** un cours d’orthographe, pas plus que de grammaire ou je-ne-sais-quoi qui ressemblait déjà à du somnifère en barres sur les bancs de la petite école. Vous n’aurez pas droit à d’interminables et maladroites études de texte. Ce séminaire est l’occasion de découvrir de vraies **techniques de conviction** qui ont fait leur preuve sur les lecteurs les plus difficiles : vous.
 
 ## La matière qu'il a lui-même déclarée
 

@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/catalogue/bon-amant/"
 statut: citations
 mots_fiche: 3927
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 267
+programme: 10
+sections_annonce: 2
+points_annonce: 2
 documents_materiau: 3
 idees_forces: 5
 citations: 3
@@ -21,6 +21,46 @@ doublon_titre: oui
 # L'amant idéal
 
 **C202** · Relations H-F · 3927 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Si l’homme est un animal visuel, alors quel type d’animal sont-elles ?
+2. Quelque chose qui nous dépasse
+3. Femme et artifice
+4. 1+1=3, l’importance du tiers
+5. Locataire vs propriétaire de son corps
+6. L’infirmière qui sommeille
+7. Nécessaire et suffisante
+8. Anticipation
+9. Accordage
+10. Accoutumance
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/bon-amant/ — 267 mots de sa prose.*
+
+### Un seul (conn)aître vous manque…
+
+Que vous ayez ou non participé à être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case _confident_, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler.
+
+Mais une attitude sexuée, bien que pré-requise, ne reste qu’une entrée en matière. Une (belle) promesse, qu’il vous faudra tenir lorsque l’intimité sera votre seul témoin. En clair, je vous réserve un séminaire à ma façon sur le sexe.
+
+### …et tout est dépeuplé
+
+Il y a longtemps, j’avais invité une femme (écrivain) à nous faire part de ses **réflexions sur le désir et le plaisir féminin**. Malheureusement, elle s’est concentrée (arrêtée) sur leur anatomie (le clitoris, le point G, etc. etc), et le résultat de la conférence fût aussi plat que son anatomie à elle. Depuis, personne n’avait – à ma connaissance – proposé d’analyse sérieuse, concrète, pratique, sur ce lien pourtant crucial entre la **sexualité féminine et la psychologie**.
+
+**« Les femmes jouissent par l’oreille (Paul Valéry) » ? À condition de savoir ce qu’il faut leur dire, dans cette oreille !**
+
+Résumons. Nous sommes une fois de plus en présence d’une belle fausse croyance.
+
+1. une succession de caresses et de «positions» (même originales, inventives, ou studieuses) ne créera **pas** de véritable connexion sexuelle avec une femme (et n’en créera jamais)
+2. de même que la connexion émotionnelle est nécessaire lors de la rencontre, la connexion sexuelle est indispensable pour que le niveau d’intérêt d’une femme crève la plafond
+
+
+- une succession de caresses et de «positions» (même originales, inventives, ou studieuses) ne créera pas de véritable connexion sexuelle avec une femme (et n’en créera jamais)
+- de même que la connexion émotionnelle est nécessaire lors de la rencontre, la connexion sexuelle est indispensable pour que le niveau d’intérêt d’une femme crève la plafond
 
 ## La matière qu'il a lui-même déclarée
 
