@@ -1,4 +1,4 @@
-# Couche 1 — la voix écrite de l'auteur (75 fiches verbatim mat-consulting.fr)
+# Couche 1 — la voix écrite de l'auteur (83 fiches verbatim mat-consulting.fr)
 
 > **Ce que c'est** : la section `## Contenu complet` des fiches de formation, Extrait du
 > site mat-consulting.fr. C'est **de la voix de l'auteur** — premieres personnes,
@@ -9,7 +9,7 @@
 > les signatures orales y sont **absentes** (voir §3).
 >
 > **Source** : `/root/migration-docker-stephane/Bartilabas/formation/StephaneEdouard/formations/`
-> — 75 fiches portant un `## Contenu complet` de >= 30 mots, **18 645 mots** au total.
+> — **83 fiches** portant une section `## Contenu complet` non-stub, **20 497 mots** au total.
 > **Identifiants** : `C###` (index canonique, 369 fiches) — voir `_INDEX-CANONIQUE.md`.
 
 ---
@@ -18,7 +18,7 @@
 
 Une ligne par fiche : `ID` | TITRE | CATÉGORIE | MOTS VERBATIM | CONTENU AU-DELÀ DU RÉSUMÉ | ARTIFACTS
 
-| ID | TITRE | CATÉGORIE | MOTS | AU-DELÀ DU « Résumé » | `…` | `&nbsp;` | IG |
+| ID | TITRE | CATÉGORIE | MOTS | AU-DELÀ DU « Résumé » | `…` | 90 | IG |
 |---|---|---|---|---|---|---|---|
 | `C008` | Apprenez à negocier | Carriere Leadership | 251 | +192 | 2 | 0 | 0 |
 | `C017` | Atelier Dream Job | Carriere Leadership | 256 | +195 | 2 | 0 | 0 |
@@ -109,11 +109,18 @@ puis un embed Instagram.
 
 | Mesure | Valeur |
 |---|---|
-| Fiches couche 1 | 75 |
-| Mots « Contenu complet » | 18,645 |
+| Fiches couche 1 | 83 |
+| Mots « Contenu complet » | 20,497 |
 | Mots « Résumé » (médiane) | 59 |
 | Contenu au-delà du résumé | 14,192 mots |
-| Fiches dont le « Contenu complet » dépasse le résumé | 74/75 |
+| Fiches dont le « Contenu complet » dépasse le résumé | 74/83 |
+
+> ⚠️ **Correction du 2026-10-23.** Ces valeurs dataient d'avant le nettoyage des
+> 18 fiches qui portaient un préfixe de numéro de ligne (`N|`) sur chaque ligne :
+> le corpus réel compte **83 fiches** de couche 1 et **20,497 mots**
+> de « Contenu complet », contre 75 et 18 645 annoncés. Source :
+> `_measure_couche1.py`, qui applique la même règle de sélection que
+> `se_measure_v3.py` (section `## Contenu complet` non-stub).
 
 → **La couche 1 n'est pas la source de la doctrine** (c'est la couche 2), et **ce n'est pas
 la source du flux oral** (ce sont les transcripts). C'est la source de **la voix écrite**.
@@ -122,55 +129,56 @@ la source du flux oral** (ce sont les transcripts). C'est la source de **la voix
 
 ## 3. Registre : la preuve mesurée que c'est de l'écrit, pas de l'oral
 
-Comparaison à taux comparable — couche 1 (18 645 mots) contre les **335** transcripts
-> 1 500 mots (2 085 887 mots, périmètre R1b). Une signature de l'oral qui disparaît
+Comparaison à taux comparable — couche 1 (20,497 mots) contre les **350** transcripts
+> 1 500 mots (2,225,066 mots, périmètre R1b). Une signature de l'oral qui disparaît
 quand on passe à l'écrit prouve qu'il y a **deux registres**, pas un seul.
 
 | Signature | Couche 1 | /1k mots | Transcripts | /1k mots | Fiches |
 |---|---|---|---|---|---|
-| c'est pas X, c'est Y | 0 | 0.00 | 842 | 0.40 | 0/75 |
-| d'ailleurs | 0 | 0.00 | 1442 | 0.69 | 0/75 |
-| évidemment | 4 | 0.21 | 1364 | 0.65 | 4/75 |
-| c'est-à-dire | 2 | 0.11 | 1279 | 0.61 | 2/75 |
-| par contre | 0 | 0.00 | 987 | 0.47 | 0/75 |
-| du coup | 2 | 0.11 | 673 | 0.32 | 1/75 |
-| en gros | 0 | 0.00 | 246 | 0.12 | 0/75 |
-| bah | 0 | 0.00 | 1219 | 0.58 | 0/75 |
-| bref | 10 | 0.54 | 453 | 0.22 | 10/75 |
-| je dis que | 0 | 0.00 | 60 | 0.03 | 0/75 |
-| un petit | 1 | 0.05 | 2684 | 1.29 | 1/75 |
-| Sic | 1 | 0.05 | 0 | 0.00 | 1/75 |
-| vidéoscopie | 1 | 0.05 | 319 | 0.15 | 1/75 |
-| tonton Stéphane | 3 | 0.16 | 196 | 0.09 | 3/75 |
-| Nono | 0 | 0.00 | 88 | 0.04 | 0/75 |
-| je compatis | 0 | 0.00 | 10 | 0.00 | 0/75 |
-| c'est rigolo mais | 0 | 0.00 | 0 | 0.00 | 0/75 |
-| et voilà | 0 | 0.00 | 149 | 0.07 | 0/75 |
-| je te dis un truc | 0 | 0.00 | 1 | 0.00 | 0/75 |
+| c'est pas X, c'est Y | 0 | 0.00 | 0 | 0.00 | 0/83 |
+| d'ailleurs | 2 | 0.10 | 1444 | 0.65 | 1/83 |
+| évidemment | 4 | 0.20 | 1362 | 0.61 | 4/83 |
+| c'est-à-dire | 2 | 0.10 | 1327 | 0.60 | 2/83 |
+| par contre | 0 | 0.00 | 988 | 0.44 | 0/83 |
+| du coup | 2 | 0.10 | 677 | 0.30 | 1/83 |
+| en gros | 0 | 0.00 | 246 | 0.11 | 0/83 |
+| bah | 0 | 0.00 | 1233 | 0.55 | 0/83 |
+| bref | 11 | 0.54 | 460 | 0.21 | 11/83 |
+| je dis que | 0 | 0.00 | 60 | 0.03 | 0/83 |
+| un petit | 1 | 0.05 | 2686 | 1.21 | 1/83 |
+| Sic | 3 | 0.15 | 326 | 0.15 | 3/83 |
+| vidéoscopie | 1 | 0.05 | 318 | 0.14 | 1/83 |
+| tonton Stéphane | 3 | 0.15 | 197 | 0.09 | 3/83 |
+| Nono | 0 | 0.00 | 98 | 0.04 | 0/83 |
+| je compatis | 0 | 0.00 | 10 | 0.00 | 0/83 |
+| c'est rigolo mais | 0 | 0.00 | 0 | 0.00 | 0/83 |
+| et voilà | 1 | 0.05 | 148 | 0.07 | 1/83 |
+| je te dis un truc | 0 | 0.00 | 1 | 0.00 | 0/83 |
 
 > ⚠️ **Correction du 2026-10-23.** Le tableau précédent comparait la couche 1 (18 645 mots)
 > à **324 transcripts (1 849 730 mots)** — un périmètre aujourd'hui périmé. Il est
-> recalculé contre le sous-ensemble **R1b** (335 transcripts FR > 1 500 mots,
-> 2 085 887 mots), le dénominateur historique de la persona. Source :
-> `se_measure_v2.py`. Le fond de la démonstration est **inchangé** : les signatures
-> orales s'effondrent à l'écrit (0 à 10 occurrences sur 75 fiches).
+> recalculé contre le sous-ensemble **R1b** (350 transcripts FR > 1 500 mots,
+> 2,225,066 mots), le dénominateur historique de la persona. Source :
+> `_measure_couche1.py`. Le fond de la démonstration est **inchangé** : les signatures
+> orales s'effondrent à l'écrit (0 à 11 occurrences sur 83 fiches).
 
 | Mesure de style | Couche 1 (écrit) | Transcripts (oral, R1b) |
 |---|---|---|
-| Ratio « vous » / « tu » | **9,65** (492 / 51) | **0,97** (20 931 / 21 484) |
+| Ratio « vous » / « tu » | **10.02** (531 / 53) | **0,97** (20 931 / 21 484) |
 | Longueur médiane de phrase | **18 mots** | **15 mots** |
 | Part de phrases <= 8 mots | 20,1 % | 26,0 % |
 | Questions (phrases finissant par « ? ») | 138 → 20,15 % | 4 695 → 6,86 % |
 
 > ⚠️ **Correction du 2026-10-23.** Les trois valeurs « 13,3 / 7 mots / 88 % » du tableau
-> précédent étaient fausses : ratio réel **9,65** (492 « vous » / 51 « tu »), médiane
+> précédent étaient fausses : ratio réel **9,65** (492 « vous » / 51 « tu ») — valeur
+> désormais caduque, la couche 1 nettoyée donne **10,02** (531 / 53) — médiane
 > réelle **15 mots** (pas 7), part ≤ 8 mots réelle **26,0 %** (pas 88 %).
 > Le « 7 mots / 88 % » venait du profil historique fabriqué — le même chiffre erroné
 > que dans `00-EMPREINTE-VOIX-MESUREE.md`.
 
-**Lecture** : le vouvoiement (9,65) et la phrase longue médiane (18 mots) sont des
+**Lecture** : le vouvoiement (10,02) et la phrase longue médiane (19 mots) sont des
 signes d'**écrit argumenté**. Les tics de l'oral — *c'est pas X, c'est Y* (motif),
-« d'ailleurs », « bah » — sont **absents ou effondrés** (0 à 10 occurrences sur 75 fiches,
+« d'ailleurs », « bah » — sont **absents ou effondrés** (0 à 11 occurrences sur 83 fiches,
 contre 0,40/k à 0,69/k dans l'oral). **Un corpus qui mélange les deux produit une voix
 qui n'existe pas.**
 
@@ -180,8 +188,8 @@ qui n'existe pas.**
 
 | Artefact | Occurrences | Nature |
 |---|---|---|
-| `&nbsp;` | 38 | Entité HTML non décodée (38 occurrences) |
-| `…` | 83 | Troncature de la page source (83 occurrences dans 42/75 fiches) |
+| `&nbsp;` | 38 | Entité HTML non décodée (38 occurrences dans 19/83 fiches) |
+| `…` | 90 | Troncature de la page source (90 occurrences dans 46/83 fiches) |
 | `Instagram` | 17 | Embed Instagram résiduel (17 fiches) |
 | `[insérer` | 1 | Gabarit de la page source laissé en clair |
 | `Read More` | 0 | Bouton de la page source |

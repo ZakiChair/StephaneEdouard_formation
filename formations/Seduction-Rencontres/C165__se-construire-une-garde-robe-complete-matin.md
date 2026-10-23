@@ -8,9 +8,9 @@ url: "https://mat-consulting.fr/produit/se-construire-une-garde-robe-complete-ma
 statut: reconstituee
 mots_fiche: 1438
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
+mots_annonce: 128
+programme: 10
+sections_annonce: 1
 points_annonce: 0
 documents_materiau: 2
 idees_forces: 0
@@ -25,6 +25,33 @@ confiance: 1.0
 # Se construire une garde robe complete (matin)
 
 **C165** · Seduction & Rencontres · 1438 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. 3 approches du vêtement
+2. Les indispensables
+3. Les vêtements de tonton Stéphane…
+4. … et ses + grosses erreurs
+5. Comprendre ce que vous achetez
+6. Le coût caché d’une affaire
+7. L’inconscient collectif
+8. Les budgets à allouer à sa garde-robe
+9. S’arrêter quand on a trouvé son style
+10. Conserver ses vêtements plus longtemps
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/comment-acheter-des-vetements/ — 128 mots de sa prose.*
+
+### POURQUOI UN SÉMINAIRE SUR LA GARDE-ROBE ?
+
+Pensez à tous les experts de l’habillement que vous pouvez imaginer / croiser / voir. Sur le net ou ailleurs.
+
+Tous, je dis bien tous, ont perdu **des milliers d’€** dans des achats inutiles. Ce n’est ni une preuve d’incompétence, ni de naïveté, encore moins de stupidité. Il fallait faire son expérience. J’en suis passé par là. Aujourd’hui encore, j’ai dans ma garde-robe des pièces que je ne porte, pour ainsi dire, jamais.
+
+Si c’était à refaire, si je devais reconstruire une garde-robe aujourd’hui à partir de rien ou presque, je m’y prendrais complètement différemment. Comment ? Exactement de la manière dont je vais vous l’expliquer pendant cette journée. De manière rationnelle, calme. Sans délire de _fashionisto_ que vous n’êtes, de toutes manières, pas. Et moi non plus.
 
 ## La matière qu'il a lui-même déclarée
 
@@ -41,6 +68,14 @@ confiance: 1.0
 
 
 > "Ce qui sort ? Un truc de konk"
+
+## Ses développements sur le sujet
+
+### Synthèse : IA et conseils conjugaux — YviGf37I_JI — `Video-YviGf37I_JI-synthese`
+
+*« Video-YviGf37I_JI-synthese.md » · origine : corpus*
+
+> L'expérience de l'auteur Tonton Stéphane et son équipe (Nono + 10 bêta-testeurs) ont "gavé" une IA avec l'ensemble de ses productions depuis 20 ans. Le résultat : "Ça dépote" — niveau réponse, sagacité, pertinence incomparable avec ChatGPT standard. Prochaine étape : une expérience inédique en France où l'auteur confrontera la version entraînée de l'IA à ChatGPT standard.
 
 ---
 

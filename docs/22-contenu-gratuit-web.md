@@ -1,6 +1,6 @@
 # Le contenu gratuit de mat-consulting.fr — ce que le corpus local ne contient pas
 
-> **Pourquoi ce document.** Les 147 fiches de formation sans contenu ne peuvent pas être
+> **Pourquoi ce document.** Les 137 fiches de formation sans contenu ne peuvent pas être
 > reconstituées depuis le corpus local : il n'y a que la fiche catalogue. Mais le site
 > public donne, en gratuit, **le programme de chaque séminaire** et **la voix de l'auteur**
 > sur son propre travail. Ce document recense ce qui est publiquement accessible et le

@@ -23,12 +23,12 @@ provenance.
 | | |
 |---|---|
 | Fiches | **369** |
-| Points de programme | **1 786** |
-| Annonces développées | **77 028 mots** de la prose de l'auteur |
+| Points de programme | **2 866** (269 fiches) |
+| Annonces développées | **135 097 mots** de la prose de l'auteur (221 fiches) |
 | Documents de matière | **1 159** — les liens que l'auteur pose lui-même |
 | Idées fortes extraites | **3 506** |
-| Sections d'annonce | **803** |
-| Mots dans le dépôt | **353 930** |
+| Sections d'annonce | **1 357** |
+| Mots dans le dépôt | **446 537** |
 
 ### Les statuts
 
@@ -46,7 +46,7 @@ provenance.
 **Les pages produit mat-consulting.fr** (201 pages). Elles ne sont pas une
 fiche éditoriale : l'auteur y écrit l'annonce de son séminaire, en prose, avec
 le déroulé de la journée (« 12 extraits de ce que vous allez entendre pour la
-première fois »), ses bénéfices, ses citations. **77 028 mots** de sa main.
+première fois »), ses bénéfices, ses citations. **135 097 mots** de sa main.
 Les pages des produits retirés du site ont été récupérées par la **Wayback
 Machine** (97 captures) et converties.
 
@@ -58,16 +58,28 @@ propre matière. On en extrait ses **3 506 idées fortes** et ses verdicts.
 
 ## Comment une formation est rattachée à sa page produit
 
-Par son **titre normalisé**, jamais par son slug : le canon attribue le même
-slug à plusieurs formations (`lart-de-la-negociation` désigne à la fois
-« Apprenez à négocier » et « L'art de la négociation »). Le titre est
-normalisé — accents, apostrophes typographiques, préfixe de date
-(« 6 mai 2017 : comprendre les gens, 2 ») — puis comparé.
+Chaque fiche porte l'**URL mat-consulting.fr** dont elle est tirée. C'est la
+clé la plus fiable : elle nomme la page exacte, sans interprétation. **214
+fiches** se rattachent ainsi.
 
-Résultat : **317 formations rattachées à leur page, 0 appariement douteux**,
-186 des 201 pages catalogue utilisées.
+Quand cette URL ne désigne plus de page — le produit a été retiré du site, ou
+la capture de session est vide — on cherche la page du **même séminaire** :
 
-## La règle qui compte : verbatim ou reconstitution
+- le **stem du slug** (`like-a-boss-3-...-matin` → `like-a-boss-3-...`) relie
+  les captures d'une même journée ;
+- à défaut, le **mot le plus distinctif** du titre, à condition qu'une seule
+  page du catalogue le porte ;
+- dans les deux cas, les titres doivent **désigner le même séminaire** : le
+  site réutilise un slug pour un autre produit, et le seul contre-exemple
+  (`L'art de la négociation` vs `L'art délicat de la connexion`) a été
+  détecté par ce test.
+
+Résultat : **322 fiches rattachées à leur page, 12 dont le séminaire a été
+renommé par l'auteur** (« À mort la procrastination » est devenu « Vivre avec
+la procrastination »), **0 appariement douteux**, 47 formations sans page
+d(product aujourd'hui retirée du site, sans archive).
+
+## La règle qui compte : verbatim ou reconstitution## La règle qui compte : verbatim ou reconstitution
 
 Trois statuts ne se valent pas. Confondre les deux, c'est attribuer à l'auteur
 des phrases qu'il n'a pas écrites.
@@ -99,7 +111,7 @@ Contrôles passés sur l'ensemble du dépôt :
 
 - **3 506 / 3 506** idées fortes retrouvées **mot pour mot** dans le document
   que la fiche cite.
-- **544 / 544** sections d'annonce retrouvées dans leur page produit.
+- **947 / 947** sections d'annonce retrouvées dans leur page produit.
 - **257 / 257** citations de fiche vérifiées mot pour mot.
 - **0** fichier contenant du déchet de page (widgets YouTube, navigation).
 - **0** secret dans l'arbre.

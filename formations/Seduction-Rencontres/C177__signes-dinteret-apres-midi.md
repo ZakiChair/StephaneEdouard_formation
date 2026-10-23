@@ -8,9 +8,9 @@ url: "https://mat-consulting.fr/produit/signes-interet-apres-midi/"
 statut: reconstituee
 mots_fiche: 890
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
+mots_annonce: 71
+programme: 11
+sections_annonce: 1
 points_annonce: 0
 documents_materiau: 4
 idees_forces: 23
@@ -25,6 +25,32 @@ confiance: 1.0
 # Signes d'intérêt (après-midi)
 
 **C177** · Seduction & Rencontres · 890 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. 2 signes d’un rdv totalement raté
+2. L’acte réellement désintéressé existe-t-il ? l’instant philo
+3. Contextes propices à la concupiscence
+4. Déterminer sa valeur
+5. Augmenter sa valeur
+6. No pain no gain
+7. Signes d’intérêt physiques
+8. Signe d’intérêt émotionnels
+9. Signes d’intérêt sexuels
+10. Signes d’intérêt dans la communication
+11. \+ de signes d’intérêt
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/signes-interet/ — 71 mots de sa prose.*
+
+### Et si on arrêtait le massacre à l’information sauvage ?
+
+Souvent, en regardant des _tutos_ youtube sur la psychologie, les rapports hommes-femmes, le coaching ou encore la séduction, je me dis que ces gens devraient avoir la décence de fermer leur gueule et de reconnaître que, il y a encore 6 mois, ils n’y connaissaient rien et buvaient mes contenus comme tout le monde.
+
+Alors apprenez directement auprès de moi : en faisant sauter les intermédiaires vous allez gagner du temps.
 
 ## La matière qu'il a lui-même déclarée
 

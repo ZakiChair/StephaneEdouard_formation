@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/produit/premier-rendez-vous-apres-midi10-scenari
 statut: reconstituee
 mots_fiche: 1146
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 787
+programme: 11
+sections_annonce: 10
+points_annonce: 13
 documents_materiau: 4
 idees_forces: 12
 citations: 0
@@ -25,6 +25,130 @@ confiance: 1.0
 # Premier rendez-vous (apres-midi)10 scenarii parfaits
 
 **C102** · Relations H-F · 1146 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Le premier rendez-vous VS les premiers rendez-vous
+2. Raisons pour lesquelles une femme se rend aux rendez-vous
+3. Repérer si elle a un bon dosage H/F
+4. Sujets de conversation des premiers rendez-vous
+5. Changement des premiers rendez-vous lié à la technologie
+6. Les difficultés de F-enfant avec les premiers rendez-vous
+7. Gérer le timing des rendez-vous
+8. La charge émotionnelle idéale d’un rendez-vous et comment la déterminer
+9. Le rôle des rendez-vous
+10. Être ensemble VS faire ensemble
+11. Exemples de scénarios à haute valeur ajoutée
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/premier-rdv/ — 787 mots de sa prose.*
+
+### Version courte
+
+1. La séquence technologique de ces dernières années a profondément changé la façon de communiquer au quotidien.
+2. Les femmes sont les premières utilisatrices de leur smartphone et des applications à vocation sociale/tchat.
+3. Les premiers rendez-vous doivent donc voir leur scenarii évoluer en fonction, pour leur redonner un vraie **valeur ajoutée**
+
+
+- La séquence technologique de ces dernières années a profondément changé la façon de communiquer au quotidien.
+- Les femmes sont les premières utilisatrices de leur smartphone et des applications à vocation sociale/tchat.
+- Les premiers rendez-vous doivent donc voir leur scenarii évoluer en fonction, pour leur redonner un vraie valeur ajoutée
+
+### Version longue
+
+> « Le monde déteste le changement, c’est pourtant la seule chose qui lui a permis de progresser. » – Charles F. Kettering
+
+Le séminaire _100 jours_ (parmi nos meilleures ventes toutes catégories confondues) conceptualisait la **révolution numérique des rencontres**, sous l’angle des principales applications de dialogue, tchat, etc. qui sont apparues grosso modo depuis le lancement de Facebook.
+
+Je vous démontrais comment la possibilité de joindre (et de se faire joindre par) quelqu’un à tout moment avait modifié en profondeur le schéma de la pensée et donc la dynamique des échanges écrits.
+
+Vous avez adoré, c’est un de vos préférés, l’un des plus conceptuels et des plus pratiques à la fois.
+
+Aujourd’hui, je me lance le même défi : remettre à jour les concepts de « premiers rendez-vous réussis » à la lumière de la révolution numérique.
+
+
+> « Le monde déteste le changement, c’est pourtant la seule chose qui lui a permis de progresser. » – Charles F. Kettering
+
+### 50 ans de premiers rendez-vous
+
+La «belle époque» (fin xix – début xx) étant définitivement révolue, et les deux guerres ayant focalisées les peuples sur d’autres considérations que _faire la cour_, il n’est pas totalement dénué de raison de faire commencer le xxème siècle aux années 50. Du point de vue de la séduction tout du moins.
+
+Pendant 50 ans, donc, le **premier rendez-vous** était largement codifié. Après une promesse (généralement orale) de se revoir s’ensuivait une attente silencieuse, et puis la personne se présentait au point nommé. Ou pas. Un peu de recherche préalable permettant quelque fois de pallier aux déficiences de sens de l’orientation.
+
+Dans de rares cas particuliers, comme par exemple si l’on travaillait ensemble, il arrivait de recroiser la personne avant, mais dans l’immense majorité des cas de figure il suffisait d’espérer, attendre et se projeter dans l’inconnu.
+
+### … parce que les moyens de communiquer sont différents
+
+Extrait du fameux séminaire 100 j évoqué plus haut :
+
+> _« de la même façon qu’une langue entraîne une tournure d’esprit, une technologie entraîne une modification des comportements »_ – Stéphane Edouard
+
+Autrement dit, la capacité de pouvoir « enquêter » sur l’autre avant (et entre) les rencontres, de corroborer ou infirmer ses style de vie sur la base de ses « traces » _uploadées_ sur Internet au fil des années, etc. etc. a évidemment changé profondément la façon dont vous devriez mener vos **premiers rendez-vous**.
+
+
+> _« de la même façon qu’une langue entraîne une tournure d’esprit, une technologie entraîne une modification des comportements »_ – Stéphane Edouard
+
+### Changé, oui ; mais en bien ou en mal ?
+
+Là n’est pas la question. Elle n’est pas non plus d’accepter ou refuser le changement qui s’impose à nous. Il faut
+
+1. comprendre en quoi le(s) changement(s) consiste(nt)
+2. distinguer la vraie part d’innovation dans le changement (qui n’en constitue généralement que 10, 20 ou 30%)
+3. considérer cette innovation comme une **opportunité**
+
+
+- comprendre en quoi le(s) changement(s) consiste(nt)
+- distinguer la vraie part d’innovation dans le changement (qui n’en constitue généralement que 10, 20 ou 30%)
+- considérer cette innovation comme une opportunité
+
+### Des nouvelles **opportunités** de scenarii de premiers rendez-vous
+
+Au lieu de constater passivement l’évolution des usages et de déplorer que la plupart des filles (les vraies, les féminines et apprêtées) passent trop de temps à parcourir du contenu superficiel et inintéressant sur des sites d’agrégation de contenu et des applications de messagerie ( _WhatssApp_), venez comprendre **l’évolution générale des psychologies** et des mentalités et l’utiliser à votre avantage, pour apprendre à proposer des rendez-vous qui sont à la fois :
+
+- plus **variés** (être normal sans être banal)
+- plus **marquants** (comme d’habitude, je vous donnerai les clefs des symboles de l’inconscient collectif)
+- plus **intéressants** (pour vous notamment)
+- plus **performants** (autant épargner la peine et la dépense de X rendez-vous inutiles quand un seul suffit à tout savoir et tout comprendre)
+- plus **sexués** (si le _secret agenda_ le permet. Et si affinité.)
+
+
+- plus **variés** (être normal sans être banal)
+- plus **marquants** (comme d’habitude, je vous donnerai les clefs des symboles de l’inconscient collectif)
+- plus **intéressants** (pour vous notamment)
+- plus **performants** (autant épargner la peine et la dépense de X rendez-vous inutiles quand un seul suffit à tout savoir et tout comprendre)
+- plus **sexués** (si le _secret agenda_ le permet. Et si affinité.)
+
+### LES 7 BÉNÉFICES DE CETTE JOURNÉE POUR VOUS
+
+1. Du «triple v»: _v_ écu, _v_ rai, _v_ érifié
+2. Une méthode _step by step_. Claire, logique, compréhensible. Avec un plan et des exemples.
+3. Sortir des sentiers battus. Du jamais entendu ailleurs, comme d’habitude.
+4. Plus de compréhension du comment les choses se passent. Car vous ne voulez pas appliquer sans comprendre comme des cons.
+5. Du temps gagné sur ce que vous auriez appris partout ailleurs (quelqu’un a dit « vivre, c’est changer du temps en expérience»)
+6. Le courage de dire la réalité des rapports hommes-femmes, même quand elle n’est pas belle (ce qui, hélas, est souvent le cas)
+7. Toujours plus de discernement et d’exemples de _logique des femmes_ (contenant notamment du contenu trop énorme et trop polémique pour être publié ici ou sur nos réseaux sociaux)
+
+
+- Du «triple v»: v écu, v rai, v érifié
+- Une méthode step by step. Claire, logique, compréhensible. Avec un plan et des exemples.
+- Sortir des sentiers battus. Du jamais entendu ailleurs, comme d’habitude.
+- Plus de compréhension du comment les choses se passent. Car vous ne voulez pas appliquer sans comprendre comme des cons.
+- Du temps gagné sur ce que vous auriez appris partout ailleurs (quelqu’un a dit « vivre, c’est changer du temps en expérience»)
+- Le courage de dire la réalité des rapports hommes-femmes, même quand elle n’est pas belle (ce qui, hélas, est souvent le cas)
+- Toujours plus de discernement et d’exemples de logique des femmes (contenant notamment du contenu trop énorme et trop polémique pour être publié ici ou sur nos réseaux sociaux)
+
+### Souvenez-vous
+
+A l’heure où tout le monde est joignable d’un clic, vous devez apporter une **énorme valeur ajoutée** lors des premiers rendez-vous, sous peine de la voir préférer rester chez elle avec son _smartphone_.
+
+### Souvenez-vous (bis)
+
+Les boîtes qui ont loupé la révolution numérique sont toutes mortes.
+
+Après, vous faites ce que vous voulez.
 
 ## La matière qu'il a lui-même déclarée
 

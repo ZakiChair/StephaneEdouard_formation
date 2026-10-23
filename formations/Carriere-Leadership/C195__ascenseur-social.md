@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/catalogue/ascenseur-social/"
 statut: citations
 mots_fiche: 3003
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 485
+programme: 5
+sections_annonce: 10
+points_annonce: 2
 documents_materiau: 4
 idees_forces: 6
 citations: 2
@@ -21,6 +21,75 @@ doublon_titre: non
 # Ascenseur social
 
 **C195** · Carriere & Leadership · 3003 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Statistiques objectives sur vos chances de réussite
+2. Illusion rétrospective : la réussite de quelques-uns masque t-elle la forêt 🌳
+3. Théorie de la cellule : sortir de prison ou sortir la prison de soi
+4. Entourage toxique & complexe du clandestin
+5. Repérer / motiver / exploiter / économiser / générer : les 5 étapes de l’évasion
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/ascenseur-social/ — 485 mots de sa prose.*
+
+### Et à l’âge adulte ça se passe comment ?
+
+L’occident vous invite à changer tout ce que vous voulez, et ce le plus souvent possible. C’est qu’il ne faudrait pas réfréner l’envie de consommer. Changez de vêtements, changez de tête, changez de partenaire, changez de mobilier, de vaisselle, de ville et n’oubliez pas de changer de prénom et de sexe au passage. Il ne faudrait pas se priver, c’est remboursé par la collectivité.
+
+Mais vous le savez si vous avez le courage de me suivre… le chemin de l’enfer est pavé de bonnes intentions, et je ne vous inviterai jamais assez à vous méfier de toutes les invitations à la liberté, surtout quand elle est gratuite. La liberté n’est jamais gratuite, bien au contraire, et surtout elle ne s’applique qu’ **à l’accessoire et jamais à l’essentiel.**
+
+### … sauf de classe sociale
+
+Car s’il y a un bien une chose que le système vous attribue de manière définitive, c’est
+
+1. le numéro de sécu,
+2. votre classe.
+
+Et quand vous montrez quelques velléités d’en changer, il a tôt fait de vous rappeler où vous êtes né. Couchés, il n’y a rien à voir au-dessus.
+
+
+- le numéro de sécu,
+- votre classe.
+
+### Rien au dessus ? Vous êtes sûr ?
+
+J’ai bien conscience que ce séminaire ne concernera pas tout le monde. Tout le monde ne ressent pas la curiosité de s’aventurer en terre inconnue. Mais croyez-moi sur parole : pour l’avoir fait, c’est probablement l’aventure la plus longue et la plus cruciale de votre existence.
+
+Oubliez les régimes, le sport et le développement personnel sous toutes ses formes : c’est du pipi de chat eu égard à l’abnégation, à la bravoure et à la résilience que demande un **changement de classe sociale**.
+
+### du roman aux séries tv en passant par le cinéma
+
+Et ça ne peut cas être un hasard. De _Martin Eden_(Jack London) au _Prince de Bel Air_ en passant par _Le premier homme_ (Camus) et _Nana_ (Zola), mais encore _Bel-ami_ (Maupassant), _Les Hauts de Hurlevent_ (Emily Brontë), L _es Grandes Espérances_ & _Oliver Twist_ (Charles Dickens), _Jane Eyre_ (Charlotte Brontë) sans oublier _Les Misérables_ (qui vous savez), **l’aventure de l’ascension sociale constitue le ressort inusable des scénaristes** qui savent sur quelle corde jouer pour activer nos désir les plus refoulés.
+
+### J’ose des chiffres, invérifiables car purement déclaratifs mais – selon moi – réalistes :
+
+- **50%** environ de la population se contente de ce qu’elle a
+- **30%** aimerait upgrader mais n’a ni méthode ni abnégation ni l’intelligence nécessaire
+- **5-15%** y parviennent (dans des proportions variables)
+- **3-5%** font du multi-trans-classes (i.e ils sautent plusieurs trains à la fois)
+
+Will, un ado débrouillard, quitte son milieu modeste pour s’installer chez son oncle, dans le luxe de Bel Air. Et la suite… is history (oublions l’épisode de la claque, ça n’est pas le sujet ce soir)
+
+
+- **50%** environ de la population se contente de ce qu’elle a
+- **30%** aimerait upgrader mais n’a ni méthode ni abnégation ni l’intelligence nécessaire
+- **5-15%** y parviennent (dans des proportions variables)
+- **3-5%** font du multi-trans-classes (i.e ils sautent plusieurs trains à la fois)
+
+### Infos pratiques
+
+- Un contenu payant de tonton Stéphane, c’est (beaucoup) **plus travaillé** que ce que vous pouvez lire/voir/écouter gratuitement
+- Tous tes téléchargements restent disponibles **à vie** dans votre espace mon compte, pour peu que vous en ayez crée un (ça prend 1 minute)
+- Une facture avec TVA visible est disponible sur simple demande par email à notre cher Daniel Dellaconta
+
+
+- Un contenu payant de tonton Stéphane, c’est (beaucoup) **plus travaillé** que ce que vous pouvez lire/voir/écouter gratuitement
+- Tous tes téléchargements restent disponibles **à vie** dans votre espace mon compte, pour peu que vous en ayez crée un (ça prend 1 minute)
+- Une facture avec TVA visible est disponible sur simple demande par email à notre cher Daniel Dellaconta
 
 ## La matière qu'il a lui-même déclarée
 

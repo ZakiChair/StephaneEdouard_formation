@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/produit/manager-equipe-femmes-matin/"
 statut: reconstituee
 mots_fiche: 1517
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 339
+programme: 10
+sections_annonce: 4
+points_annonce: 5
 documents_materiau: 1
 idees_forces: 0
 citations: 0
@@ -25,6 +25,59 @@ confiance: 1.0
 # Au secours, mon chef est une femme (/un homme) – matin
 
 **C099** · Relations H-F · 1517 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Le discours d’entreprise comme catéchisme
+2. L’entreprise comme religion
+3. L’intelligence avec l’ennemi(e)
+4. F est la meilleure manager… en théorie
+5. Le management par les gays 🏳️‍🌈
+6. L’entreprise comme école (mais de quoi)
+7. Fonctionnaires VS actionnaires
+8. Qualités et défauts de F et de H en entreprise
+9. Grille de lecture utopiste vs tragique
+10. Les phrases clés pour se faire virer
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/manager-equipe-femmes/ — 339 mots de sa prose.*
+
+### 3 exemples de biais H/F (parmi plusieurs centaines)
+
+1. Les hommes et les femmes, bien que disposant d’une **intelligence moyenne similaire**, ne recourent pas aux mêmes stratégies pour asseoir leur autorité dans l’entreprise
+2. Les subordonnées femmes, **à productivité globale équivalente**, ne réagissent pas à l’autorité comme leurs homologues masculins, ayant plus tendance à fomenter et comploter dans leurs dos hors des évaluations frontales
+3. Les femmes, dans leur grande variété statistique, ne sont **pas sensibles au même type de rétribution** que les hommes (une cause, parmi d’autres, de l’inégalité salariale)
+
+
+- Les hommes et les femmes, bien que disposant d’une intelligence moyenne similaire, ne recourent pas aux mêmes stratégies pour asseoir leur autorité dans l’entreprise
+- Les subordonnées femmes, à productivité globale équivalente, ne réagissent pas à l’autorité comme leurs homologues masculins, ayant plus tendance à fomenter et comploter dans leurs dos hors des évaluations frontales
+- Les femmes, dans leur grande variété statistique, ne sont pas sensibles au même type de rétribution que les hommes (une cause, parmi d’autres, de l’inégalité salariale)
+
+### (par opposition à une équipe d’hommes)
+
+À moins de travailler sur une plateforme pétrolière ou dans une exploitation aurifère (et encore), il y a fort à parier que vous vous retrouviez sous peu dans l’un des deux cas suivants :
+
+1. managé par des femmes
+2. à manager des femmes
+
+Et là, à moins d’avoir un doctorat en différences psycho-sociologiques HF, vous êtes un peu mal barrés. Ne rigolez pas, un prix Nobel de médecine s’est fait prendre la main de sac… à dire l’exacte vérité sur les différences comportementales qu’il observait au sein de son labo
+
+Soyons réalistes : à tenter de tirer votre épingle du jeu dans un milieu à haute densité de femmes (et/ou de _gays_), sans un contenu spécifique, préparé aux petits oignons par quelqu’un ayant acquis la _street crédibilité_ sur le sujet, vous allez rapidement vous retrouver complètement à la rue. Croyez-moi, je me suis fait licencier trois fois, la dernière par un société de production audiovisuelle composée à 90 % de femmes et de gays. Oui, celle qui produisait une émission de TV pour M6.
+
+Et là, quand on y regarde sérieusement : allez fouiller Google, youtube, la Fnac, Amazon, votre librairie municipale et l’intégralité de votre cercle d’amis… puis posez vous la question :
+
+Qui, à part moi, peut décortiquer les caractéristiques du leadership féminin ?
+
+Qui d’autre que l’auteur des séminaires leadership, logique des femmes et logique des hommes ?
+
+Et puis, de toutes façons, citez-moi un autre expert des différences hommes-femmes en France ? J’écoute… ? Voilà voilà ( _faut le savoir ça_).
+
+
+- managé par des femmes
+- à manager des femmes
 
 ## La matière qu'il a lui-même déclarée
 

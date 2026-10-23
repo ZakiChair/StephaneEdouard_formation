@@ -8,9 +8,9 @@ url: "https://mat-consulting.fr/produit/intelligence-sociale-online-apres-midiin
 statut: reconstituee
 mots_fiche: 1093
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
+mots_annonce: 637
+programme: 5
+sections_annonce: 6
 points_annonce: 0
 documents_materiau: 2
 idees_forces: 0
@@ -26,6 +26,50 @@ confiance: 0.67
 
 **C116** · Reseau & Influence · 1093 mots
 
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. La base de l’intelligence sociale
+2. Intelligence ou compétence sociale ?
+3. Travaux pratiques
+4. 12 règles de savoir bien être
+5. Gérer et construire son réseau
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/intelligence-sociale/ — 637 mots de sa prose.*
+
+### JUSTE UN PEU D’HISTOIRE
+
+Vous ne devinerez jamais d’où provient l’expression _intelligence sociale_. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres outils à quatre roues pour utilisateurs pragmatiques qui n’ont que faire du style et du plaisir de conduire. Mais revenons à ce qui nous intéresse.
+
+Plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces _processus qualité_ dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur **capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail**. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants. C’est ainsi qu’est né le concept d’intelligence sociale.
+
+### \+ D’HISTOIRES
+
+Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, « diversifiée ») disponible sur les réseaux (as)sociaux, le niveau moyen des hommes (et des femmes) qui se sont intéressés au sujet est monté plus vite que le cours des actions Tesla ces dernières années. Et c’est tant mieux. Mais il reste que nous avons toujours un bon million d’années lumières de retard à rattraper sur les femmes en termes d’ _intelligence sociale_. Cette fameuse faculté issue d’un assemblage millénaire du meilleur de la psychologie, de l’intuition et de la manipulation, qui lubrifie les rouages de l’existence en donnant à ceux qui en sont dotés l’opportunité de s’imposer sans voir le monde entier… s’opposer à eux.
+
+« je vous ai préparé un petit graph' »
+
+Il y a un livre dont vous avez peut-être entendu parler, il s’intitule les 7 habitudes de ceux qui réussissent tout ce qu’ils entreprennent, ou quelque chose comme ça. Le titre est un peu erroné, il devrait s’intituler : leurs 7 habitudes + leur point commun, sous titré : _l’intelligence sociale_.
+
+Vous avez plus de chances de gagner le gros lot du loto en jouant une seule fois de votre vie et tous les numéros dans l’ordre (1,2,3,4…) que de réussir quoi que ce soit sans intelligence sociale. Les diplômes, c’est bien joli au début, ça remplit son office de théorie “du signal”, diraient les sociologues. Mais désolé de vous décevoir, c’est ensuite que tout se joue, sur d’autres qualités. A commencer par celles que vous allez devoir démontrer en société.
+
+Bien évidemment, vous vous doutez qu’il ne s’agira pas d’apprendre dans quelle main tenir ses couverts ou encore à mâcher la bouche fermée. Comme d’habitude le contenu fera appel à des concepts sociologiques puissants, traduits dans un langage simple et accessible à tous pour un regard inédit sur l’intelligence sociale.
+
+### Simplicité
+
+Vous le savez si vous me suivez par ailleurs, je n’enrobe pas le contenu dans un jargon technique foireux. Dans ce séminaire comme dans les autres, pas besoin de bagage technique sinon savoir écouter (plusieurs fois, au besoin ; ça tombe bien c’est le même prix)
+
+### Qualité
+
+Comme l’ont souligné les centaines de participants précédents, un séminaire n’est pas une simple discussion, ni l’occasion de répéter en les résumant des informations déjà disponibles en farfouillant à droite – à gauche. Afin que vous en ayez pour votre argent, et ce jusqu’au dernier euro (retour sur investissement), chaque séminaire fait l’objet d’un travail préparatoire long afin de vous délivrer un contenu **inédit et consistant 🍞**
+
+### Pertinence
+
+Si je suis aussi certain que ce séminaire va répondre à vos préoccupations, c’est aussi parce que je connais vos problématiques par coeur
+
 ## La matière qu'il a lui-même déclarée
 
 *Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
@@ -39,6 +83,14 @@ confiance: 0.67
 
 *podcast · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
 
+
+## Ses développements sur le sujet
+
+### SYNTHESE - 1EJbWzJtHS8 — `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese`
+
+*« Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md » · origine : corpus*
+
+> [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/Carriere Leadership/couple-rupture-difficile.md) [Développe ta force mentale (après-midi)](./formations/Developpement Personnel/gestion-crise-apres-midi.md) [Développe ta force mentale (matin)](./formations/Developpement Personnel/gestion-crise-matin.md) [# Sources et références croisées](./formations/Intelligence Sociale/intelligence-emotionnelle.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures L](./formations/couple-rupture-difficile.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/cultivez-votre-intelligence-emotionnelle.md) [Développe ta force mentale (matin)](./formations/developpe-ta-force-mentale.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/intelligence-emotionnelle.md)
 
 ---
 

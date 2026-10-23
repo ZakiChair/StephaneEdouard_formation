@@ -102,7 +102,8 @@ Chaque intégration change le dénominateur de toutes les mesures. Rejouer :
 - la phrase médiane ;
 - les tics par k mots ;
 - le nombre de transcripts et de mots ;
-- la taille du lot « sans contenu » (les 147 → ce qu'il en reste).
+- la taille du lot « sans contenu » (les 147 d'abord, puis **137** après la reprise
+  des 10 fiches dont le verbatim était masqué par un préfixe de numéro de ligne).
 
 Puis **ré-auditer les livrables dérivés** : un nouveau transcript peut rendre
 ambiguë une citation qui était vérifiée (une seconde occurrence de la même

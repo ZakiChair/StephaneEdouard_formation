@@ -9,7 +9,7 @@ statut: reconstituee
 mots_fiche: 3283
 mots_verbatim: 0
 mots_annonce: 0
-programme: 0
+programme: 10
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
@@ -25,6 +25,21 @@ confiance: 1.0
 # Ce que vos parents auraient du vous apprendre (apres-midi)
 
 **C135** · Seduction & Rencontres · 3283 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. La chasse aux outils de compréhension
+2. Comment utiliser ces outils
+3. Exercices pour mieux se connaître
+4. Gratification immédiate vs gratification différée
+5. Penser comme les gens qui réussissent
+6. 4 thèmes où nos parents ont failli
+7. Les fausses croyances sur F
+8. Les bugs féminins et comment les utiliser
+9. Faire le contraire de ce qu’on vous a toujours dit
+10. Point définitif sur l’amitié et les relations sociales
 
 ## La matière qu'il a lui-même déclarée
 

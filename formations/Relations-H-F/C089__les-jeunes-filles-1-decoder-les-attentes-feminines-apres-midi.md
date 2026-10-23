@@ -8,9 +8,9 @@ url: "https://mat-consulting.fr/produit/les-jeunes-filles-1-decoder-les-attentes
 statut: non-reconstituable
 mots_fiche: 2448
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
+mots_annonce: 1032
+programme: 2
+sections_annonce: 9
 points_annonce: 0
 documents_materiau: 4
 idees_forces: 16
@@ -25,6 +25,139 @@ confiance: 0
 # Les jeunes filles, 1: Decoder les attentes feminines (apres-midi)
 
 **C089** · Relations H-F · 2448 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. 3 informations pour les habitués
+2. 3 informations pour les nouveaux
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/les-jeunes-filles-1-decoder-les-attentes-feminines/ — 1032 mots de sa prose.*
+
+### Description du Produit
+
+Vous le savez probablement si vous vous tenez (au moins) un peu au courant de l’activité du site via un canal ou l’autre (Blog, pages Facebook, newslettre, etc.): j’ai été choisi par M6 pour faire partie d’un groupe d’experts dans le cadre d’une grande expérience de sciences-humaines mêlant psychologie et sociologie.
+
+Au total ce sont près de  1000 participants  qui sont passés entre nos mains; après les premières inévitables éliminations, ce sont une centaine d’hommes et de femmes à qui j’ai pu faire passer les  tests  et  questionnaires  de mon choix (et je ne me suis pas privé!), sans compter les entretiens où je les ai  floodé(e)s  de questions sur leurs exs, les raisons de leurs séparations, leur critères de choix, la façon dont elles se percevaient, etc. Certains d’entre vous voient déjà où je veux en venir… mais pour les autres:
+
+J’ai acquis, surtout ces derniers mois, une vision probablement inégalée des attentes de la femme de 20 à 40 ans aujourd’hui.
+
+Vision que je souhaite vous « passer » aujourd’hui sous la forme d’une journée spéciale en 2 parties.
+
+### PARTIE 1: DÉCODER LES ATTENTES DES FEMMES (EN GÉNÉRAL)
+
+Au croisement de la théorie et de l’expérience, cette journée vous donnera la vision  la plus claire et la plus exhaustive disponible à ce jour  sur les mystérieuses attentes féminines en termes de rencontres:
+
+- Les caractéristiques de l’homme « WANTED » par les femmes en 2016: taille, poids, style vestimentaire, traits de caractère, qualités, défauts, etc.
+
+- Pourquoi son portrait robot (à l’homme idéal) présente-il autant de similarités chez la plupart des filles interrogées
+
+- Pourquoi celui de l’homme avec qui elles sont restées le plus longtemps diffère t-il autant?
+
+- Quels sont les points communs aux hommes avec qui elles sont restées le plus longtemps? A quelle « catégorie d’hommes » appartenaient-ils?
+
+- La liberté, c’est avoir le choix: comment être le type d’homme à la croisée du plus grand nombre possible de « catégories »?
+
+- Les contradictions secrètes des filles, qu’elles ne se révèlent qu’entre elles ou bien qu’à leur psy (ce que, en quelque sorte, j’étais)
+
+- Quels traits de caractères principaux « dessinent » l’homme idéal aujourd’hui (vous seriez surpris, il ne s’agit évidemment  pas  seulement de banalités comme la gentillesse, l’humour et la prévenance)
+
+- Quels sont ses traits de caractères secondaires, les détails qui font marquer des points et qui ne sont  jamais  mentionnés à première vue?
+
+- Comment peut-on perdre une TONNE de points en une seconde, sans même s’en rendre compte (souvenez-vous la dernière fois où une fille a disparu sans laisser aucune explication logique, ça fait mal, hein)?
+
+- Comment celui-ci doit-il se comporter/réagir dans une liste de situations précises données? (exemples concrets)
+
+Je dispose de (beaucoup) plus d’informations que je n’en avais à l’époque où j’avais rédigé mon premier (et unique) livre  L’homme idéal  (2008-2009)!
+
+
+- Les caractéristiques de l’homme « WANTED » par les femmes en 2016: taille, poids, style vestimentaire, traits de caractère, qualités, défauts, etc.
+- Pourquoi son portrait robot (à l’homme idéal) présente-il autant de similarités chez la plupart des filles interrogées
+- Pourquoi celui de l’homme avec qui elles sont restées le plus longtemps diffère t-il autant?
+- Quels sont les points communs aux hommes avec qui elles sont restées le plus longtemps? A quelle « catégorie d’hommes » appartenaient-ils?
+- La liberté, c’est avoir le choix: comment être le type d’homme à la croisée du plus grand nombre possible de « catégories »?
+- Les contradictions secrètes des filles, qu’elles ne se révèlent qu’entre elles ou bien qu’à leur psy (ce que, en quelque sorte, j’étais)
+- Quels traits de caractères principaux « dessinent » l’homme idéal aujourd’hui (vous seriez surpris, il ne s’agit évidemment  pas  seulement de banalités comme la gentillesse, l’humour et la prévenance)
+- Quels sont ses traits de caractères secondaires, les détails qui font marquer des points et qui ne sont  jamais  mentionnés à première vue?
+- Comment peut-on perdre une TONNE de points en une seconde, sans même s’en rendre compte (souvenez-vous la dernière fois où une fille a disparu sans laisser aucune explication logique, ça fait mal, hein)?
+- Comment celui-ci doit-il se comporter/réagir dans une liste de situations précises données? (exemples concrets)
+
+### Jeu/interlude
+
+En guise d’interlude, un petit test: qu’est-ce qui est vrai et qu’est-ce qui est  bullshit  dans l’image suivante, et pourquoi?
+
+Pas si facile, hein, quand on s’y penche vraiment, de séparer la réalité du wishful thinking…
+
+### PARTIE 2: DÉCODER LES ATTENTES D’UNE FEMME (EN PARTICULIER)
+
+- Des outils pour décoder le  secret agenda  d’une femme que vous venez de rencontrer à 80% dans le premier mois! (sans ça, ça peut vous prendre jusqu’à 2 ans, croyez-moi ça m’est arrivé, il y a bien longtemps, et je m’en suis bien mordu les…). Et souvenez-vous, au dessus du secret agenda, il n’y a plus rien (cf séminaire secret agenda: « le S.A., c’est plus fort que toi)
+
+- Empathie communicationnelle : j’ai démontré en 2015 que la principale supériorité de la femme sur l’homme vient de sa maîtrise de l’empathie communicationnelle, une part significative de la journée sera utilisée à des  exercices avancés d’empathie
+
+-  Quelle  grille de lecture  adopter pour comprendre et décoder les histoires précédentes d’une femme (que faut-il retenir, rejeter, croire / ne pas croire)
+
+- Que faire si l’on ne correspond pas à ces attentes, vont-elles évoluer avec le temps, si oui à quel rythme et à partir de quand? (lien avec le passage Femme-Enfant => Femme-Femme => Femme-Adulte, mais pas seulement)
+
+- Est-il possible de les infléchir, si oui comment et dans quelle mesure? (indice: c’est oui)
+
+
+- Des outils pour décoder le  secret agenda  d’une femme que vous venez de rencontrer à 80% dans le premier mois! (sans ça, ça peut vous prendre jusqu’à 2 ans, croyez-moi ça m’est arrivé, il y a bien longtemps, et je m’en suis bien mordu les…). Et souvenez-vous, au dessus du secret agenda, il n’y a plus rien (cf séminaire secret agenda: « le S.A., c’est plus fort que toi)
+- Empathie communicationnelle : j’ai démontré en 2015 que la principale supériorité de la femme sur l’homme vient de sa maîtrise de l’empathie communicationnelle, une part significative de la journée sera utilisée à des  exercices avancés d’empathie
+- Quelle  grille de lecture  adopter pour comprendre et décoder les histoires précédentes d’une femme (que faut-il retenir, rejeter, croire / ne pas croire)
+- Que faire si l’on ne correspond pas à ces attentes, vont-elles évoluer avec le temps, si oui à quel rythme et à partir de quand? (lien avec le passage Femme-Enfant => Femme-Femme => Femme-Adulte, mais pas seulement)
+- Est-il possible de les infléchir, si oui comment et dans quelle mesure? (indice: c’est oui)
+
+### RÉSUMÉ
+
+En résumé, avec ce séminaire de janvier retardé pour raisons de tournage tv, vous avez certes attendu mais pas en vain, puisque je vais vous faire bénéficier de ce que j’ai tiré de cette expérience de sciences-humaines du point de vue de la compréhension des attentes des femmes  aujourd’hui (sans bien sûr rien révéler des participants ni du déroulement, au cas où la chaîne me lirait, il n’y a pas d’inquiétude à se faire, ce n’est pas ce qui intéresse mes clients de toutes façons)
+
+### 3 informations pour les habitués
+
+- Je ne répète jamais la même chose dans les nouveaux séminaires par rapport aux anciens, donc n’ayez aucune inquiétude de ce côté là
+
+- La forme change (un peu), mais la qualité du fond ne changera jamais!
+
+- Vous allez découvrir un paquet d’anecdotes nouvelles, et aussi des nouveaux concepts tirés de mes lectures récentes, notamment  Le sexe polygame  d’Esther Vilar qui est une véritable tue-rie
+
+
+- Je ne répète jamais la même chose dans les nouveaux séminaires par rapport aux anciens, donc n’ayez aucune inquiétude de ce côté là
+- La forme change (un peu), mais la qualité du fond ne changera jamais!
+- Vous allez découvrir un paquet d’anecdotes nouvelles, et aussi des nouveaux concepts tirés de mes lectures récentes, notamment  Le sexe polygame  d’Esther Vilar qui est une véritable tue-rie
+
+### 3 informations pour les nouveaux
+
+- Je suis probablement le meilleur psycho-sociologue (ou socio-psychologue 😉 quand il s’agit de relations hommes-femmes
+
+- Tout ce que j’explique est simple, clair, et vérifiable dans votre vie quotidienne
+
+- Le taux de fidélité de mes clients est de 90%, ce qui veut dire que, après le premier achat effectué, il y a 90% de chances qu’ils en fassent un second. A lui seul, ce chiffre en dit long sur la pertinence et l’utilité des contenus.
+
+
+- Je suis probablement le meilleur psycho-sociologue (ou socio-psychologue 😉 quand il s’agit de relations hommes-femmes
+- Tout ce que j’explique est simple, clair, et vérifiable dans votre vie quotidienne
+- Le taux de fidélité de mes clients est de 90%, ce qui veut dire que, après le premier achat effectué, il y a 90% de chances qu’ils en fassent un second. A lui seul, ce chiffre en dit long sur la pertinence et l’utilité des contenus.
+
+### Logistique: quand/où/comment
+
+- Paris (lieu exact en cours de réservation)
+
+- Une inscription vaut pour la place en salle ET (« et » ne veut pas dire « ou », ça veut dire « et ») l’enregistrement au format audio, ré-écoutable à volonté partout et pour une durée illimitée.
+
+- Après le 06 février, la possibilité de réserver votre enregistrement audio disparaît pour plusieurs mois. Pour être certain de ne pas manquer ce contenu, réservez-le AVANT.
+
+
+- Paris (lieu exact en cours de réservation)
+- Une inscription vaut pour la place en salle ET (« et » ne veut pas dire « ou », ça veut dire « et ») l’enregistrement au format audio, ré-écoutable à volonté partout et pour une durée illimitée.
+- Après le 06 février, la possibilité de réserver votre enregistrement audio disparaît pour plusieurs mois. Pour être certain de ne pas manquer ce contenu, réservez-le AVANT.
+
+### CONCLUSION
+
+Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables expériences au fil de l’eau depuis 10 ans, et d’en tirer tous les concepts pour aller plus loin que quiconque sur le sujet.
+
+<div class="panel entry-content wc-tab"
 
 ## La matière qu'il a lui-même déclarée
 

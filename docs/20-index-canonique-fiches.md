@@ -379,6 +379,6 @@ Remplace les anciens `F###` (index à 217 entrées, incomplet) utilisés dans le
 
 ★ = citée dans les chunks couche 2 (167 fiches sur 369).
 
-**Couche 1 (verbatim authentique)** : 75 fiches portant une section `## Contenu complet` de >= 30 mots.
-**Couche 2 (doctrine rédigée par tiers)** : 264 fiches.
+**Couche 1 (verbatim authentique)** : 83 fiches portant une section `## Contenu complet` non-stub.
+**Couche 2 (doctrine rédigée par tiers)** : 185 fiches.
 **Couche 0 (stubs)** : 30 fiches sans doctrine propre.

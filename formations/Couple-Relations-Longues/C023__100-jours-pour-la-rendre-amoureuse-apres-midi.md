@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/produit/100-jours-pour-la-rendre-amoureuse-apres
 statut: reconstituee
 mots_fiche: 2474
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 990
+programme: 10
+sections_annonce: 9
+points_annonce: 11
 documents_materiau: 5
 idees_forces: 22
 citations: 0
@@ -25,6 +25,108 @@ confiance: 1.0
 # 100 jours pour la rendre amoureuse (apres-midi)
 
 **C023** · Couple Relations Longues · 2474 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Femmes sous influence (des réseaux sociaux)
+2. Illusion d’optique : le « cercle élargi »
+3. « Dans ma logique à moi »
+4. Changement de comportement avec la technologie
+5. Ambitieux mais réaliste
+6. Femme-enfant / Femme-femme / Femme-mère
+7. Des poules à la finale 🏆
+8. La charge émotionnelle
+9. Le [secret agenda](https://mat-consulting.fr/produit/secret-agenda/)
+10. L’exclusivité
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/construire-une-relation/ — 990 mots de sa prose.*
+
+### Quand vous « improvisez » vos débuts de relation, il se passe quoi ?
+
+J’ai donné des centaines d’études de cas, à l’issue desquelles je puis affirmer une chose avec certitude : la plupart des problèmes (souvent irrattrapables et insurmontables) dans lesquels vous vous mettez viennent du fait que vous n’avez pas su « cadrer » les choses dans les 3 premiers mois.
+
+Si j’étais un _webmarketeur_ (ou un voleur, ce qui revient à peu près au même), je vous vendrais un pilule magique pour résoudre ce problème instantanément, ou bien je vous vendrais un ebook de 47 pages du style « casé en 1 semaine »… Mais aujourd’hui, se caser avec la première femme disponible n’ai rien de compliqué, n’importe quel con peut le faire ! Choisir une personne qui nous plaît, qui ne nous connaît ni d’Eve ni d’Adam, et faire monter son niveau d’intérêt de rien du tout à >90 % en trois mois, c’est une autre paire de manches, et c’est le sujet du séminaire.
+
+Réfléchissons ensemble un instant, avec notre fameuse « veste de sociologue » (les sociologues ont souvent une veste, souvent moche, mais c’est un autre débat)
+
+### Comment faisait votre grand-père ?
+
+A l’époque de nos grands-parents, les rencontres étaient rares, mais finalement assez simples. A vingt ou vingt cinq ans, si vous n’étiez toujours pas marié, la réputation courait dans le village que vous étiez « à prendre », on évaluait précisément votre patrimoine terrien, bovin et ovin, puis les familles s’arrangeaient sans effort de discrétion pour vous faire rencontrer **la seule femme disponible correspondant à votre tranche d’âge et à votre classe sociale**.
+
+De là, le reste de votre vie était à peu près tracée. L’attraction physique, l’amour, tout ça, venait loin, très derrière. Quand à vous tromper, aller voir ailleurs ou mener plusieurs relations de front, seules une poignée de rares inconscientes s’y risquait : les réputations de trainées étaient, à cette époque là, mortelles (au sens propre).
+
+### Et votre père ?
+
+A l’époque de nos parents, les choses étaient déjà différentes. Même si vous n’y avez probablement jamais réfléchi en ces termes, votre mère a probablement un peu « choisi » votre père, c’est-à-dire qu’elle a accepté en conscience de lui vouer (une partie de) sa vie **par opposition victorieuse aux hommes qui l’ont précédé**. Elle l’a peut-être également trompé, ce qui est est fort désagréable à imaginer mais statistiquement certain pour un petit groupe d’entre vous, au vu du nombre d’internautes qui liront cette page (plusieurs milliers).
+
+Mais bon, l’un dans l’autre, les débuts étaient encore relativement simples : votre père a fait l’effort de briser la glace, puis il l’a courtisée, invitée au restaurant, et quelques mois ou années plus tard, vous avez été conçu, pendant un week-end à la montagne, ou tout simplement un vendredi soir devant la télévision. (Ca a l’air cochon comme ça, mais là encore il est statistiquement plus que probable que bon nombre d’entre nous aient été conçus devant la télévision, les français la regardant 4h par jour en moyenne en ce temps là, travaillant 9 et dormant 7. Faites le compte.)
+
+### Et vous, vous faites comment avec les obstacles d’aujourd’hui ?
+
+Aujourd’hui, au cas où vous ne l’auriez pas encore remarqué, les rencontres et les débuts de relation sont 100 fois plus compliquées qu’avant. Un sondage de 2024 montre que **45% des moins de 25 ans n’ont jamais abordé une femme de leur vie**. Et quand bien même les échanges _online_ pallieraient cette carence, il n’empêche que l’enchaînement des premiers rendez-vous est d’autant moins évident qu’elle – que vous le vouliez ou non – **bien d’autres prétendants que vous**.
+
+### Quels sont ces fameux obstacles ?
+
+- la disparition pure et simple du statut de « célibataire » au profit d’une « solitude peuplée » (peuplée de tous ses exs, plus de ses courtisans du moment, plus des blaireaux qui la contactent sur Facebook et sur Internet, soit autant de fantômes et d’ennemis qu’il vous faudra stratégiquement dégager avant d’espérer une quelconque intégrité de sa part)
+- la confusion du libéral et du libertaire (« je suis libre », « je veux tout essayer », « ne rien m’interdire », etc.),
+- l’allongement de la durée de la vie (qui fait que nos 30 ans correspondent à nos 20 ans d’avant),
+- la surpondération du sentiment (du « feeling ») dans tous les choix, au détriment du rationnel
+- la quasi obligation sociale de goûter à l’interdit sous peine d’être vue comme une cruche
+- les fréquentes expatriations, erasmus, tour du monde, etc.
+- les inégalités sociales exacerbées entre les continents (femmes africaines, roumaines, russes, etc., je vous passe le bonjour mais essayez de rester bien loin de mon porte monnaie s’il vous plaît merci ! )
+
+Bref, tout concourt à vous mettre dans des situations de panade telles que je dois, chaque jour, en phone coaching,  vous fournir des stratégies diaboliquement compliquées pour vous sortir des situations **encore plus compliquées** dans lesquelles vous vous êtes mis vous-même !
+
+
+- la disparition pure et simple du statut de « célibataire » au profit d’une « solitude peuplée » (peuplée de tous ses exs, plus de ses courtisans du moment, plus des blaireaux qui la contactent sur Facebook et sur Internet, soit autant de fantômes et d’ennemis qu’il vous faudra stratégiquement dégager avant d’espérer une quelconque intégrité de sa part)
+- la confusion du libéral et du libertaire (« je suis libre », « je veux tout essayer », « ne rien m’interdire », etc.),
+- l’allongement de la durée de la vie (qui fait que nos 30 ans correspondent à nos 20 ans d’avant),
+- la surpondération du sentiment (du « feeling ») dans tous les choix, au détriment du rationnel
+- la quasi obligation sociale de goûter à l’interdit sous peine d’être vue comme une cruche
+- les fréquentes expatriations, erasmus, tour du monde, etc.
+- les inégalités sociales exacerbées entre les continents (femmes africaines, roumaines, russes, etc., je vous passe le bonjour mais essayez de rester bien loin de mon porte monnaie s’il vous plaît merci ! )
+
+### Un constat
+
+Si vous vous croyez « ensemble » parce que vous avez échangé furtivement quelques fluides, je peux vous **certifier** que, dans sa tête à elle, ce n’est pas le cas. Du moins vous _pouvez_ continuer de le voir comme ça, mais c’est tellement naïf que vous serez probablement :
+
+1. **utilisé**(ressource)
+2. **manipulé**(mensonges)
+3. **abusé**(exit, la confiance en soi)
+4. voire, dans le pire des cas, **trompé**(no comment…)
+
+dans des proportions dont vous n’avez même pas idée!
+
+
+- utilisé(ressource)
+- manipulé(mensonges)
+- abusé(exit, la confiance en soi)
+- voire, dans le pire des cas, trompé(no comment…)
+
+### LES 7 BÉNÉFICES DE CETTE JOURNÉE POUR VOUS
+
+1. Du « triple V »: Vécu, Vrai, Vérifié
+2. Une méthode « Step by step » (pas à pas)
+3. Plus de confiance en soi
+4. Anticipez et évitez toutes les embûches classiques qu’elles poseront sur votre chemin
+5. Du temps gagné sur ce que vous auriez appris partout ailleurs
+6. Le courage de dire la réalité des rapports hommes-femmes, même quand elle n’est pas belle (ce qui, hélas, est souvent le cas)
+7. Toujours plus de discernement et d’exemples de _langage des femmes_
+
+Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérêt (le sien) égal ou supérieur à 90 %… ou bien ce ne sera **jamais plus** le cas.
+
+
+- Du « triple V »: Vécu, Vrai, Vérifié
+- Une méthode « Step by step » (pas à pas)
+- Plus de confiance en soi
+- Anticipez et évitez toutes les embûches classiques qu’elles poseront sur votre chemin
+- Du temps gagné sur ce que vous auriez appris partout ailleurs
+- Le courage de dire la réalité des rapports hommes-femmes, même quand elle n’est pas belle (ce qui, hélas, est souvent le cas)
+- Toujours plus de discernement et d’exemples de langage des femmes
 
 ## La matière qu'il a lui-même déclarée
 

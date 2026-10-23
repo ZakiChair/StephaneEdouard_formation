@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/produit/education-parentale-apres-midi/"
 statut: reconstituee
 mots_fiche: 3330
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 400
+programme: 13
+sections_annonce: 1
+points_annonce: 2
 documents_materiau: 3
 idees_forces: 6
 citations: 0
@@ -25,6 +25,42 @@ confiance: 1.0
 # Ce qu'il est URGENT d'apprendre à vos (futurs ?) enfants – après-midi
 
 **C146** · Seduction & Rencontres · 3330 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Conseils aux enfants et conseils aux adultes
+2. Signification des surnoms
+3. Société moderne VS postmoderne
+4. La maternité, spiritualité de notre temps
+5. 5 paradigmes du monde contemporain
+6. Choisir ses combats
+7. Rester adulte face à son enfant
+8. Apprendre à apprendre
+9. L’intérêt du discernement
+10. Construction du goût
+11. Règles de réussite
+12. Choisir quel type de parent être
+13. ![](https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/656187352180879850045174165176755257101557028n.jpg?stp=dst-jpge35tt6&nccat=104&igcachekey=MzEwNDA3OTU0NjQwNzgxOTA0NQ%3D%3D.3-ccb7-5&ccb=7-5&ncsid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&ncohc=zweQa78LaEAQ7kNvwEGotmI&ncoc=AdoMAp2U9AJ20ez259WLwJBKWQj4F-KoLdQFgbG8TFC4L70vQJ0j4dZ06kJQAcASaag&nczt=23&ncht=scontent-lax3-1.cdninstagram.com&ncgid=xRlDvWLU67-zW-xp1ovmBw&ncss=7b689&oh=00AQNIrJkOca7b3np3tJetifZAr9NdycqAXYcju2ir5LJvNg&oe=6ADF756B)
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/education-parentale/ — 400 mots de sa prose.*
+
+### 3 types de séminaires
+
+1. certains atteignent des pics de vente hystériques, puis se normalisent jusqu’à une nouvelle communication de ma part à leur sujet (ex : _ce qui ne te tue pas…_)
+2. d’autres attendent sagement « d’entrer en percussion » avec un évènement d’actualité ou une saisonnalité pour voir leurs ventes décoller (ex : _productivité_, _plus de rencontres_)
+3. ceux de la dernière catégorie, enfin, recueillent un flux constant de suffrages depuis le premier jour de leur disponibilité au téléchargement. Et ce qu’il pleuve, qu’il vente ou qu’il neige. J’en vends même pendant la finale de la Coupe du Monde (véridique) ! J’en déduis qu’ils constituent le point sensible de mon oeuvre, qu’ils font écho aux inquiétudes les plus communément partagées. L’archétype de ces séminaires, c’est _« ce que vos parents »_… Un condensé de croyances limitantes, un extrait du prurit de la bienveillance coupable dans laquelle vos parents vous ont bercé(e)s des années durant. Mais il faut les comprendre, c’était « pour votre bien ». Vous savez bien. Aujourd’hui, **renversons la perspective**.
+
+Vous avez constaté (et digéré, je l’espère, sinon il n’est jamais trop tard pour commencer) les carences, les errances, les maladresses de vos parents à votre égard. C’est bien. Mais ce n’est pas si simple. Le monde s’est profondément transformé en une génération. Il est plus complexe, plus imprévisible, plus inégal, moins sûr (à la fois économiquement et sécuritairement). **Quelles sont les savoirs-clés à transmettre à vos descendants ?** Vous voudriez léguer à vos enfants une tête non seulement bien faite, mais également bien pleine : mais pleine **de quoi** ?
+
+L’école est une usine à fabriquer des employés de bureau serviles et corvéables. Et même à cette mission en apparence dénuée de subtilité, elle échoue lamentablement. Syntaxe déficiente, incapacité à maîtriser les ordres de grandeur, à faire une règle de 3 ou une division simple de tête (F, surtout) : arc boutée sur son obsession pour la non discrimination et les classes _arc en ciel_ « riches de toutes les diversités » que la France porte en son sein (comme la gamme de produit « Reflets de France » au supermarché), l’école publique produit une ribambelle d’employés interchangeables, bons à tout et donc bons à rien, mais tous couronnés d’un nième _master_ ou autre spécialité de troisième cycle, qui finit par avoir la même valeur que la couronne en papier insérée d’office avec la galette à la frangipane.
+
+
+- certains atteignent des pics de vente hystériques, puis se normalisent jusqu’à une nouvelle communication de ma part à leur sujet (ex : ce qui ne te tue pas…)
+- d’autres attendent sagement « d’entrer en percussion » avec un évènement d’actualité ou une saisonnalité pour voir leurs ventes décoller (ex : productivité, plus de rencontres)
 
 ## La matière qu'il a lui-même déclarée
 

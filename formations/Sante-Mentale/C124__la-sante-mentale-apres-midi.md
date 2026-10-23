@@ -9,8 +9,8 @@ statut: reconstituee
 mots_fiche: 3050
 mots_verbatim: 0
 mots_annonce: 0
-programme: 0
-sections_annonce: 0
+programme: 16
+sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
 idees_forces: 0
@@ -25,6 +25,31 @@ confiance: 1.0
 # La santé mentale – après-midi
 
 **C124** · Sante Mentale · 3050 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Moins il y a de fous plus on est anxieux
+2. L’anxiété, une contagion
+3. L’insatisfaction, une allergie
+4. Ça n’est pas l’homme qu’il faut déconstruire, ce sont les idées
+5. Pervers narcissique, social justice warrior, lanceur d’alerte, etc. : rétro-ingénierie des archétypes de l’époque
+6. Honte vs culpabilité : l’enfer c’est mal choisir son autre
+7. Vie privée (kind of)
+8. Tout est transitoire
+9. Résistez à la tentation de…
+10. Les 5 gifles de l’eldorado
+11. Miroirs déformants
+12. Quitte à s’enchaîner…
+13. Acceptez les superstitions
+14. Succès / insuccès
+15. La contestation contagieuse du vivant
+16. Prendre quelqu’un sous son aile
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/sante-mentale/ — 0 mots de sa prose.*
 
 ## La matière qu'il a lui-même déclarée
 

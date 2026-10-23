@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/produit/faire-lamour-a-une-femme-matin/"
 statut: reconstituee
 mots_fiche: 1214
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 277
+programme: 14
+sections_annonce: 2
+points_annonce: 2
 documents_materiau: 2
 idees_forces: 0
 citations: 0
@@ -25,6 +25,56 @@ confiance: 1.0
 # L'amant idéal, 2 : faire jouir une femme (matin)
 
 **C086** · Relations H-F · 1214 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Les professions objets de fantasmes
+2. Le « rôle du local » (vieille réf. de connaisseur)
+3. La passe décisive
+4. Droit vs injonction au plaisir
+5. Transgression et normativité
+6. Une relation de kalitay
+7. L’épineuse contraception
+8. L’abdication
+9. La (position latérale de) sécurité
+10. 6 scénarii piquants comme un cactus
+11. remorquer une F (consentante) sur une app’ de rencontre
+12. essuyer avec grâce – et un semblant de détachement – une [addition au restaurant](https://www.hommesdinfluence.com/articles/2258paye-laddition.html) plus ou moins salée
+13. un enchaînement plus ou moins hésitant et foireux pour prolonger la soirée chez l’un ou chez l’autre, sous couvert d’un prétexte risible
+14. un effeuillage penaud conclu par une pénétration vigoureuse et empressée avant le réglementaire repos du guerrier
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/faire-lamour-a-une-femme/ — 277 mots de sa prose.*
+
+### Ce qui ne va pas sans poser quelques petits problèmes :
+
+1. **Problème n°1 :** les femmes n’aiment pas les dick pics. À moins qu’ils ne soient spécifiquement réclamés avec insistance. Ce qui arrive relativement rarement.
+2. **Problème n°2 :** plus de 50% du plaisir ressenti par une femme vient de son cerveau
+3. **Problème n°3 :** les 50 % restants, le corps, c’est ultra spécifique à chaque personne. Donc à moins de savoir communiquer avec elle sur un plan sensoriel, il ne vous reste qu’à prier pour qu’elle vous donne le mode d’emploi. Sinon, avec le terrible déséquilibre offre-demande qui est en train de se créer, elle aura tôt fait de trouver un prof de beach volley ou autre coach en nutrition pour lui donner le plaisir que vous lui refusez.
+
+Désolé, je suis un peu tragique, mais globalement c’est comme ça que fonctionnent les relations en France aujourd’hui. Après, vous pouvez toujours choisir d’aller vous installer au Japon, en Chine, en Russie, en Afrique. Mais bon. J’en connais qui ont essayé. « Ils ont eu des problèmes ».
+
+En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la fois théorique mais aussi empirique (gnarf, gnarf) sur la sexualité féminine. Il est temps de poser le 2ème, tu ne crois pas ?
+
+
+- Problème n°1 : les femmes n’aiment pas les dick pics. À moins qu’ils ne soient spécifiquement réclamés avec insistance. Ce qui arrive relativement rarement.
+- Problème n°2 : plus de 50% du plaisir ressenti par une femme vient de son cerveau
+
+### Rappels pour les nouveaux 🐒
+
+- Un séminaire c’est « mieux » que ce que vous pouvez lire sur mes sites ou voir sur youtube. C’est la crème de la crème. Du caviar d’information.
+- Tous les séminaires que vous avez commandés depuis la naissance de Jésus Christ sont disponibles dans votre espace mon compte
+- Une facture est disponible sur simple demande par email
+- Recevez tous mes séminaires, toute l’année en devenant VIP
+
+
+- Un séminaire c’est « mieux » que ce que vous pouvez lire sur mes sites ou voir sur youtube. C’est la crème de la crème. Du caviar d’information.
+- Tous les séminaires que vous avez commandés depuis la naissance de Jésus Christ sont disponibles dans votre espace mon compte
+- Une facture est disponible sur simple demande par email
+- Recevez tous mes séminaires, toute l’année en devenant VIP
 
 ## La matière qu'il a lui-même déclarée
 

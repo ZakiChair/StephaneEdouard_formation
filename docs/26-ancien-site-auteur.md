@@ -35,7 +35,7 @@
 
 **Ratio vous/tu sur R4 : 4,43** (23 563 « vous » / 5 315 « tu ») — c'est le **registre 3**,
 le plus proche de sa pensée rédigée. À ne pas confondre avec le registre 2 (couche 1 des
-fiches mat-consulting, ratio 9,65) ni avec le registre 5.
+fiches mat-consulting, ratio 10,02) ni avec le registre 5.
 
 > ⚠️ **Correction du 2026-10-23.** La version précédente de ce document annonçait
 > « **315 pages** et 357 801 mots », avec une répartition `actualite` 279 / `articles` 36.

@@ -8,9 +8,9 @@ url: "https://mat-consulting.fr/produit/briser-la-glace-apres-midi/"
 statut: reconstituee
 mots_fiche: 1427
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
+mots_annonce: 30
+programme: 10
+sections_annonce: 2
 points_annonce: 0
 documents_materiau: 2
 idees_forces: 7
@@ -25,6 +25,29 @@ confiance: 1.0
 # Briser la glace (apres-midi)
 
 **C133** · Seduction & Rencontres · 1427 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Poser un regard honnête sur soi-même
+2. Briser la glace… ou la fondre
+3. Créer le besoin
+4. Nécessaire auto-persuasion
+5. Substituer l’acte à la pensée
+6. L’état de vacance
+7. Le charme des gens occupés
+8. Le retard à l’allumage
+9. 5 pratiques
+10. Vers la connexion
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/aborder-une-fille/ — 30 mots de sa prose.*
+
+### _Short story_
+
+Durant la journée, je vous dirai, expliquerai, décortiquerai tout ce que j’ai compris, une vie durant, sur l’art de **briser la glace avec les gens**. Les femmes ET les hommes.
 
 ## La matière qu'il a lui-même déclarée
 

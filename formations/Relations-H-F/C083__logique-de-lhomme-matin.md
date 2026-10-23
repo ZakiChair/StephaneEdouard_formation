@@ -9,7 +9,7 @@ statut: reconstituee
 mots_fiche: 1044
 mots_verbatim: 0
 mots_annonce: 0
-programme: 0
+programme: 10
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 2
@@ -25,6 +25,21 @@ confiance: 1.0
 # Logique de l'Homme (matin)
 
 **C083** · Relations H-F · 1044 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. L’accès aux femmes structure le rapport de H au beau (et au monde)
+2. H au beau
+3. H et les femmes
+4. Centres d’intérêt de H
+5. Le HBB (Hétéro Binaire de Base)
+6. H face à l’ésotérisme
+7. À la recherche de la grâce
+8. Injonctions paradoxales
+9. Incommunicabilité et but de la vie
+10. Archétypes d’hommes
 
 ## La matière qu'il a lui-même déclarée
 

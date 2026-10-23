@@ -1,6 +1,6 @@
 # Couche 2 — Les fiches de formation rédigées (couche 2, *Résumé / Points clés / Concepts enseignés* (paraphrase non sourcée))
 
-**Source** : `/root/migration-docker-stephane/Bartilabas/formation/StephaneEdouard/formations/` — 369 fiches, dont **143 de couche 2** (structure rédigée) et **75 de couche 1** (section `## Contenu complet` verbatim).
+**Source** : `/root/migration-docker-stephane/Bartilabas/formation/StephaneEdouard/formations/` — 369 fiches, dont **185 de couche 2** (structure rédigée) et **83 de couche 1** (section `## Contenu complet` verbatim).
 
 **Nettoyage appliqué (2026-10-21)** : 1 001 fichiers purgés — 771 blocs `<think>` (raisonnement de modèle exposé) + 20 408 tokens cyrilliques/CJK restaurés. **0 token étranger restant** dans le corpus vivant.
 
@@ -8,7 +8,7 @@
 
 **Système d'identifiants** : `C###` = identifiant canonique de fiche (369 entrées, ordre déterministe du système de fichiers). Il remplace les `F###` de l'ancien index à 217 entrées, incomplet — 74 de ses identifiants n'existaient que dans l'index large. Index complet : `_INDEX-CANONIQUE.md`.
 
-**Rappel critique** : les sections « Thème central » sont des **synthèses automatiques** (≈ 82 % de doublons). La voix verbatim authentique de l'auteur est dans les sections `## Contenu complet` (couche 1, 75 fiches) et dans les transcripts — jamais dans les blocs rédigés.
+**Rappel critique** : les sections « Thème central » sont des **synthèses automatiques** (≈ 82 % de doublons). La voix verbatim authentique de l'auteur est dans les sections `## Contenu complet` (couche 1, 83 fiches) et dans les transcripts — jamais dans les blocs rédigés.
 
 **Composition de ce document** : 7 chunks, concaténés dans l'ordre. Chaque chunk a été relu, réparé et re-vérifié individuellement avant assemblage.
 
@@ -3514,8 +3514,8 @@ s'investir* (`C368`) · *ni l'un ni l'autre* · *américanisation* (`C210`) · *
 > dominant, ratio vous/tu ≈ 13,3** (mesuré sur les 74 fiches de l'ancien corpus `produit/` qui la
 > portent : 385 « vous » / 29 « tu »).
 > ⚠️ **Remarqué le 2026-10-23** : ce « 13,3 » porte sur l'**ancien corpus `produit/`**, pas
-> sur le corpus restauré. Sur les **75 fiches couche 1** du corpus vivant, la mesure donne
-> **9,65** (492 « vous » / 51 « tu »). Les deux chiffres sont exacts mais sur deux
+> sur le corpus restauré. Sur les **83 fiches couche 1** du corpus vivant, la mesure donne
+> **10,02** (531 « vous » / 53 « tu »). Les deux chiffres sont exacts mais sur deux
 > populations différentes — ne pas les confondre.
 > **Le corpus restauré ne contient plus aucune section
 > `Contenu complet`** — 0 occurrence sur 143 fiches ; seuls `C350` et `C150` gardent une section
@@ -4241,8 +4241,8 @@ celle de Stéphane. La voix de l'auteur n'est accessible que par (a) les **`Cita
 **Tutoiement / vouvoiement.** Corpus clean, section `Citations de Stéphane` : **vous 68 / tu 26 → ratio 2,62**.
 Mon périmètre : **vous 28 / tu 7 → ratio 4,00** (le vouvoiement y domine plus encore). Dans la couche
 `Contenu complet` verbatim de l'ancien corpus : **ratio ≈ 13,3** (385 « vous » / 29 « tu » sur 74
-fichiers) — vouvoiement quasi systématique. (Sur les 75 fiches couche 1 du corpus **vivant** :
-**9,65** — 492 / 51. Deux populations, deux mesures.) Le « tu » apparaît dans les formules directes à l'homme,
+fichiers) — vouvoiement quasi systématique. (Sur les 83 fiches couche 1 du corpus **vivant** :
+**10,02** — 531 / 53. Deux populations, deux mesures.) Le « tu » apparaît dans les formules directes à l'homme,
 surtout dans les injonctions et les sentences à l'impératif.
 
 **Rapport au lecteur.** Il s'adresse à un homme, directement, sans condescendance ni paternalisme
@@ -4383,7 +4383,7 @@ dynamique naturelle », `C211`).
 | Guillemets " … " | 15 — **tous vérifiés** |
 | **Total guillemets / vérifiés / dé-quotés** | **326 / 301 vérifiés (92,3 %) / 25 dé-quotés** — **0 en échec** après correction |
 | Citations `Citations de Stéphane` | 207 distinctes dans le corpus, 62 dans le périmètre — **toutes vérifiées** |
-| Ratio vous/tu `Citations de Stéphane` | 2,62 (corpus) · 4,00 (périmètre) · 13,3 (couche `Contenu complet` de l'ancien corpus `produit/`) · **9,65** (75 fiches couche 1 du corpus vivant) |
+| Ratio vous/tu `Citations de Stéphane` | 2,62 (corpus) · 4,00 (périmètre) · 13,3 (couche `Contenu complet` de l'ancien corpus `produit/`) · **10,02** (83 fiches couche 1 du corpus vivant) |
 | Doublons « Thème central » | 167 occ / 37 distinctes = **77,8 %** (périmètre) ; 766 / 140 = **81,7 %** (corpus) |
 | Doublons « Concepts clés » | 88,4 % · « Distinctions importantes » 88,7 % · « Mécanismes / Logique » 79,7 % |
 | Fiches *gabarit vide* (paraphrase non sourcée) exclues | 53 (`_Non catégorisé_`, Résumé = _Non disponible_) |

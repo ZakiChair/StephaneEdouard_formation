@@ -8,10 +8,10 @@ url: "https://mat-consulting.fr/produit/bonheur-matin/"
 statut: reconstituee
 mots_fiche: 1262
 mots_verbatim: 0
-mots_annonce: 0
-programme: 0
-sections_annonce: 0
-points_annonce: 0
+mots_annonce: 184
+programme: 18
+sections_annonce: 2
+points_annonce: 6
 documents_materiau: 4
 idees_forces: 11
 citations: 0
@@ -25,6 +25,73 @@ confiance: 1.0
 # Le bonheur – matin
 
 **C037** · Developpement Personnel · 1262 mots
+
+## Le programme
+
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
+
+1. Définir l’indéfinissable
+2. Cinq manières d’être
+3. Les gens heureux sont agaçants
+4. Le bonheur c’est pas fait pour les chiens (ça tombe bien)
+5. Inconvénients d’être né
+6. La rat race 🐭
+7. Besoin du bonheur ?
+8. Anesthésie volontaire
+9. Sentir les choses
+10. La puissance des routines
+11. La solitude tue. Or être malheureux, c’est (à terme) être seul
+12. Les gens heureux ont plus d’amis…
+13. … et de partenaires sexuels (slurp)
+14. Les gens heureux sont 20% mieux payés que les autres (si)
+15. Les gens heureux vivent plus longtemps
+16. Les gens heureux perdent moins de temps à comparer leur niveau de vie à celui des autres ( keepin’up with the Jones)
+17. Les gens heureux n’ont pas besoin de lire des fictions à l’eau de rose mettant en scène des super héros ou des princesses pour
+18. Les gens heureux ont le sens du travail bien fait
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/bonheur/ — 184 mots de sa prose.*
+
+### Pourquoi être heureux est important
+
+Je dois vraiment vous le dire ? Bon, allez :
+
+- La solitude tue. Or être malheureux, c’est (à terme) être seul
+- Les gens heureux ont plus d’amis…
+- … et de partenaires sexuels (slurp)
+- Les gens heureux sont 20% mieux payés que les autres (si)
+- Les gens heureux vivent plus longtemps
+- Les gens heureux perdent moins de temps à comparer leur niveau de vie à celui des autres ( _keepin’up with the Jones_)
+- Les gens heureux n’ont pas besoin de lire des fictions à l’eau de rose mettant en scène des super héros ou des princesses pour
+- Les gens heureux ont le sens du travail bien fait
+
+
+- La solitude tue. Or être malheureux, c’est (à terme) être seul
+- Les gens heureux ont plus d’amis…
+- … et de partenaires sexuels (slurp)
+- Les gens heureux sont 20% mieux payés que les autres (si)
+- Les gens heureux vivent plus longtemps
+- Les gens heureux perdent moins de temps à comparer leur niveau de vie à celui des autres ( _keepin’up with the Jones_)
+- Les gens heureux n’ont pas besoin de lire des fictions à l’eau de rose mettant en scène des super héros ou des princesses pour
+- Les gens heureux ont le sens du travail bien fait
+
+### Les fameuses 7 techniques pour surfer la vie
+
+1. Technique pour être heureux, #1 : _kiss & go_
+2. Technique pour être heureux, #2 : l’anesthésie locale
+3. Technique pour être heureux, #3 : faire ce dont on a _envie_ vs ce qui nous fait nous sentir _en vie_
+4. Technique pour être heureux, #5 : ajuster son aspiration comme un aspirateur
+5. Technique pour être heureux, #6 : l’unanimisme
+6. Technique pour être heureux, #7 : verbaliser
+
+
+- Technique pour être heureux, #1 : kiss & go
+- Technique pour être heureux, #2 : l’anesthésie locale
+- Technique pour être heureux, #3 : faire ce dont on a envie vs ce qui nous fait nous sentir en vie
+- Technique pour être heureux, #5 : ajuster son aspiration comme un aspirateur
+- Technique pour être heureux, #6 : l’unanimisme
+- Technique pour être heureux, #7 : verbaliser
 
 ## La matière qu'il a lui-même déclarée
 

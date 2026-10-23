@@ -8,9 +8,9 @@ url: "https://mat-consulting.fr/catalogue/like-a-boss-3-seduire-et-fideliser-ses
 statut: non-reconstituable
 mots_fiche: 2127
 mots_verbatim: 0
-mots_annonce: 0
+mots_annonce: 176
 programme: 0
-sections_annonce: 0
+sections_annonce: 6
 points_annonce: 0
 documents_materiau: 3
 idees_forces: 0
@@ -25,6 +25,92 @@ confiance: 0
 # Like a boss, 3: Seduire et fideliser ses clients A VIE (après midi)
 
 **C291** · Carriere & Leadership · 2127 mots
+
+## L'annonce du séminaire, écrite par lui
+
+*Page produit : https://mat-consulting.fr/catalogue/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie/ — 176 mots de sa prose.*
+
+### 1 avis pour Like a boss, 3: Seduire et fideliser ses clients A VIE
+
+Il n'y pas encore d'avis.
+
+### Be the first to review “Like a boss, 3: Seduire et fideliser ses clients A VIE” Annuler la réponse.
+
+Votre vote 
+ Taux… 
+ Parfait 
+ Bon 
+ Moyen 
+ Pas mal 
+ Très mauvais
+
+Votre Avis
+
+Nom *
+
+Email *
+
+### Apprenez a negocier
+
+4.33 sur 5 sur 3 avis
+
+( 3 avis client)
+
+(difficulté)
+
+Conférencier Stéphane Edouard
+
+Type Place assise + enregistrement audio
+
+Objectifs appliquer les techniques de pouvoir et de manipulation pour négocier mieux
+
+Prix 150€
+
+Télécharger immédiatement
+
+### Séduire à l’écrit
+
+5 sur 5 sur 3 avis
+
+( 3 avis client)
+
+(difficulté)
+
+Conférencier Stéphane Edouard
+
+Type Place assise + enregistrement audio
+
+Objectifs maîtriser l'utilisation des techniques orales et de visualisation pour séduire et convaincre son interlocuteur à l'écrit
+
+Prix 150€
+
+Télécharger immédiatement
+
+### Intelligence sociale II
+
+5 sur 5 sur 3 avis
+
+( 3 avis client)
+
+(difficulté)
+
+Conférencier Stéphane Edouard
+
+Type Place assise + enregistrement audio
+
+Objectifs mettre en place les bonnes pratiques et développer l’état d’esprit permettant de faire des rencontres seul
+
+Prix 150€
+
+Télécharger immédiatement
+
+MAT-Consulting une société inscrite au registre du commerce (RCS 498529478)
+
+TVA FR 57498529478
+
+SIRET 49852947800014
+
+Ce logo signifie que l’intégralité du site est en http S et que toutes vos commandes sont donc sécurisées à la perfection
 
 ## La matière qu'il a lui-même déclarée
 
