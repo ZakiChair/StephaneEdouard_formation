@@ -4,15 +4,17 @@ titre: "L&rsquo;amant idéal, 2 (après-midi)"
 categorie: "Relations H-F"
 categorie_brute: "Relations H-F"
 slug: "lrsquoamant-ideal-2"
-slug_catalogue: "faire-lamour-a-une-femme-apres-midi"
 url: "https://mat-consulting.fr/catalogue/faire-lamour-a-une-femme-apres-midi/"
 statut: reconstituee
 mots_fiche: 1063
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 5
 citations: 0
-extraits_voix: 1
-tracklist: 0
 doublon_titre: non
 reconstitution: oui
 fiche_jumelle: C042
@@ -24,73 +26,42 @@ confiance: 1.0
 
 **C299** · Relations H-F · 1063 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-### Video _iPUMJzVTbE — `_iPUMJzVTbE`
+### Synthèse – VZDYK4RHd38 — `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese`
 
-*Rattachement : 0.1957 · `podcasts/transcripts/final/_iPUMJzVTbE-transcript.md`*
+*podcast · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
 
-### Video pz4o47xcekU — `pz4o47xcekU`
 
-*Rattachement : 0.1868 · `podcasts/transcripts/final/pz4o47xcekU-transcript.md`*
+### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
 
-### Video jCapVmSGg_A — `jCapVmSGg_A`
+*podcast · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
 
-*Rattachement : 0.1811 · `podcasts/transcripts/final/jCapVmSGg_A-transcript.md`*
+- Le choix : Confort matériel immédiat vs. individuation à long terme.
+- Le mécanisme : "Abandon consenti de souveraineté" — sacrifice de l'ambition personnelle sur l'autel de la sécurité.
+- La conséquence : Ennui existentiel, vie réduite à un rôle, absence de défis personnels.
+- Perspective historique : Ces stratégies were conçu pour un monde à 35 ans d'espérance de vie ; avec80+ ans, elles créent une impasse.
+- Ton : Psychologique, analytique, parfois dur mais empathique.
 
-### Video iTrFh06jNBk — `iTrFh06jNBk`
+### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
 
-*Rattachement : 0.1704 · `podcasts/transcripts/final/iTrFh06jNBk-transcript.md`*
+*podcast · `Video-_HLOLxJlxHI-synthese.md`*
 
-### Video 0_WvIoKtxsM — `0_WvIoKtxsM`
 
-*Rattachement : 0.1669 · `podcasts/transcripts/final/0_WvIoKtxsM-transcript.md`*
+### Synthèse : Video qA7bQ-TfQoQ — qA7bQ-TfQoQ — `Video-qA7bQ-TfQoQ-synthese`
 
-## Ce qu'il a dit sur ce thème (podcasts)
+*podcast · `Video-qA7bQ-TfQoQ-synthese.md`*
 
-### Synthèse : Vidéo TAWOe8DlYNs (contenu tronqué) — `Video-TAWOe8DlYNs-synthese`
 
-*Rattachement : 0.3728 · `podcasts/syntheses/Video-TAWOe8DlYNs-synthese.md`*
+## Ses développements sur le sujet
 
-### Synthèse : J'apprends à m'adresser à un.e prof.fe non-binaire (indice : ça finit par "ule") — `J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese`
+### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
 
-*Rattachement : 0.3553 · `podcasts/syntheses/J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese.md`*
+*« Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md » · origine : lien-declare*
 
-### Synthèse : Vidéo SKRcjgQw9m4 (contenu tronqué) — `Video-SKRcjgQw9m4-synthese`
-
-*Rattachement : 0.2472 · `podcasts/syntheses/Video-SKRcjgQw9m4-synthese.md`*
-
-### Synthèse : Trump VS Biden PRONOSTIC — `Trump-VS-Biden-PRONOSTIC-synthese`
-
-*Rattachement : 0.2306 · `podcasts/syntheses/Trump-VS-Biden-PRONOSTIC-synthese.md`*
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### 21 mars : l&#8217;homme idéal à la radio — `web-actualite__5568_21-mars-lhomme-ideal-a-la-radio.html`
-
-*Rattachement : 0.1206 · `sources-publiques/spikeseduction-archive/web-actualite__5568_21-mars-lhomme-ideal-a-la-radio.html.txt`*
-
-### SpikeSeduction chez OTVQTV le Jeudi 28 Avril à 19h — `web-actualite__6071_otvqtv-homme-ideal.html`
-
-*Rattachement : 0.1136 · `sources-publiques/spikeseduction-archive/web-actualite__6071_otvqtv-homme-ideal.html.txt`*
-
-### L&#8217;homme idéal : Amazon en rupture de stock — `web-actualite__5551_homme-ideal-rupture-stock.html`
-
-*Rattachement : 0.0976 · `sources-publiques/spikeseduction-archive/web-actualite__5551_homme-ideal-rupture-stock.html.txt`*
-
-> L’homme idéal : Amazon en rupture de stock Hier, l’homme idéal était 3ème meilleure vente de livres toutes catégories confondues, merci. Conséquence, il est désormais en rupture de stock… Mais vous pouvez encore en trouver quelques-uns dans votre Fnac/Virgin ou, un membre vient de me le signaler, dans les aéroports ! Où que vous l’achetiez, n’oubliez pas de laisser votre commentaire sur Amazon ! Vous avez découvert cet article avant tous vos amis ? Faites-leur savoir L’homme idéal J-1 : pour un plan sans accrocs L’homme idéal, jour J La saga de l’homme idéal (10 épisodes) After hours, le film de l’effervescence La vie sexuelle des femmes normales Lire 100% du site demanderait une centaine d'heures... le séminaire, les réponses de la séduction , en dvd 47€ seulement l'ebook, Entretiens privés , vol.1, <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> NOUVEAU
-
-### L&#8217;homme idéal, jour J — `web-actualite__5544_lhomme-ideal-jour-j.html`
-
-*Rattachement : 0.0964 · `sources-publiques/spikeseduction-archive/web-actualite__5544_lhomme-ideal-jour-j.html.txt`*
-
-### L&#8217;homme idéal J-1 : pour un plan sans accrocs — `web-actualite__5533_lhomme-ideal-j-1.html`
-
-*Rattachement : 0.0935 · `sources-publiques/spikeseduction-archive/web-actualite__5533_lhomme-ideal-j-1.html.txt`*
+> Le choix : Confort matériel immédiat vs. individuation à long terme.
 
 ---
 
@@ -130,11 +101,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C042`, en annonçant « reconstituée depuis C042 ». Jamais `C299` — la trace serait fausse.
-
-## Points clés
-
-- L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
-- L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
 
 ---
 

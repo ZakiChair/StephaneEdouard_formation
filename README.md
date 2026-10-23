@@ -1,37 +1,36 @@
-# Stéphane Édouard — les formations, reconstituées
+# Stéphane Édouard — les formations, reconstituées par leur matière
 
-Les **369 formations** de Stéphane Édouard, en un dépôt navigable : une fiche =
-un fichier, avec son identifiant canonique, sa catégorie, son statut et ses
-dénominateurs.
+Les **369 formations** de Stéphane Édouard. Une fiche = un fichier.
 
-Chaque fiche porte **tout le contenu gratuit de l'auteur** rattaché à son
-champ thématique, organisé par provenance et jamais mélangé.
+Ce dépôt ne colle pas des citations voisines : il restitue chaque formation
+telle que **l'auteur l'a lui-même décrite**, en cinq matériaux, chacun avec sa
+provenance.
 
 ## Ce que contient une fiche
 
 | Section | Ce qu'elle est | Provenance |
 |---|---|---|
-| **Ce que l'auteur a écrit sur cette formation** | tracklist (le programme), l'annonce du séminaire écrite par lui, « ce que vous apprendrez », durée, prix, note | page produit mat-consulting.fr |
+| **Le programme** | les chapitres du séminaire, dans l'ordre | tracklist de la page produit |
+| **L'annonce du séminaire, écrite par lui** | sa prose, en sections : déroulé numéroté, listes, citations | page produit mat-consulting.fr |
+| **La matière qu'il a lui-même déclarée** | ses idées fortes, son verdict final | les documents qu'il a indexés lui-même |
+| **Ses développements sur le sujet** | ses passages de vidéo et de podcast | transcripts et synthèses |
 | **Verbatim de l'auteur** | le texte de la section « Contenu complet » | fiche de formation |
 | **Citations de l'auteur** | les formules entre guillemets | fiche de formation |
-| **Ce qu'il a dit sur ce thème (vidéoscopie)** | passages verbatim de ses vidéos | transcripts YouTube (`T###`) |
-| **Ce qu'il a dit sur ce thème (podcasts)** | passages verbatim de ses podcasts | synthèses (`S###`) |
-| **Ses écrits sur ce thème** | passages verbatim de son ancien site | archive `web-*` |
-| **Reconstitution** | pour les formations payantes : la fiche jumelle, le mode d'appariement, la confiance | fiche jumelle |
-| **La parole des participants** | forum et témoignages | archive `tierce-*` |
+| **Reconstitution** | pour les formations payantes : la fiche jumelle, le mode, la confiance | fiche jumelle |
 
 ## Les chiffres
 
 | | |
 |---|---|
 | Fiches | **369** |
-| Tracklists (le programme de chaque séminaire) | **1 839 items** |
-| Annonces de séminaire écrites par lui | **174 fiches** |
-| Extraits verbatim rattachés | **4 308** |
-| Mots dans le dépôt | **~632 000** |
-| Fiches avec au moins un extrait de l'auteur | **369 / 369** |
+| Points de programme | **1 615** |
+| Annonces développées | **67 628 mots** de la prose de l'auteur |
+| Documents de matière | **1 159** — les liens que l'auteur pose lui-même |
+| Idées fortes extraites | **3 506** |
+| Sections d'annonce | **705** |
+| Mots dans le dépôt | **338 545** |
 
-### Statuts
+### Les statuts
 
 | Statut | Fiches | Signification |
 |---|---|---|
@@ -41,6 +40,21 @@ champ thématique, organisé par provenance et jamais mélangé.
 | **doctrine** | **62** | Doctrine reconstituée par LLM — **pas** sa voix |
 | **non-reconstituable** | **18** | Fiche payante, aucune substitution fiable — assumée |
 | **paywall** | **4** | Contenu de session derrière le paiement |
+
+## La matière : deux sources que l'auteur a lui-même indexées
+
+**Les pages produit mat-consulting.fr** (201 pages). Elles ne sont pas une
+fiche éditoriale : l'auteur y écrit l'annonce de son séminaire, en prose, avec
+le déroulé de la journée (« 12 extraits de ce que vous allez entendre pour la
+première fois »), ses bénéfices, ses citations. **67 628 mots** de sa main.
+Les pages des produits retirés du site ont été récupérées par la **Wayback
+Machine** (97 captures) et converties.
+
+**Les documents qui alimentent les formations** — 207 documents du corpus
+(synthèses de podcasts, transcripts) portent une section « Formations et
+fiches liées » qui désigne explicitement les fiches concernées : **1 159 liens**,
+tous résolus vers le canon des 369 fiches. C'est l'auteur qui a indexé sa
+propre matière. On en extrait ses **3 506 idées fortes** et ses verdicts.
 
 ## La règle qui compte : verbatim ou reconstitution
 
@@ -68,40 +82,25 @@ C013 « Like a boss, 3 : Séduire et fidéliser ses clients A VIE (après midi) 
   → citer : C006, en annonçant « reconstitution depuis C006 »
 ```
 
-## D'où vient le contenu
-
-Quatre sources, quatre provenances, jamais mélangées :
-
-1. **Les pages produit mat-consulting.fr** (201 pages) — la source la plus
-   proche : elle parle *du* séminaire. Tracklist, annonce rédigée par lui,
-   objectifs, extrait vidéo. Les pages des produits retirés ont été récupérées
-   par la **Wayback Machine** (97 captures) et converties.
-2. **Les transcripts YouTube** (407 fichiers) — sa voix, à l'oral.
-3. **Les synthèses de podcasts** (343 fichiers) — résumés structurés de ses
-   vidéos et podcasts.
-4. **L'archive de son ancien site** (1 564 pages) — ses écrits. Les pages
-   `web-*` sont de lui ; les `tierce-*` sont la parole des participants et ne
-   sont **jamais** citées comme la sienne.
-
 ## Fiabilité
 
 Contrôles passés sur l'ensemble du dépôt :
 
-- **4 308 / 4 308** extraitsverbatim retrouvés **mot pour mot** dans le fichier
-  source que la fiche cite.
+- **3 506 / 3 506** idées fortes retrouvées **mot pour mot** dans le document
+  que la fiche cite.
+- **474 / 474** sections d'annonce retrouvées dans leur page produit.
 - **257 / 257** citations de fiche vérifiées mot pour mot.
 - **0** fichier contenant du déchet de page (widgets YouTube, navigation).
 - **0** secret dans l'arbre.
-- Chaque chiffre de ce README porte son dénominateur.
 
 ## Les doublons
 
 Le corpus contient **98 groupes de fiches au même titre** (275 fiches au total) :
 sessions différentes, scrapings successifs, et parfois la même formation
-répartie dans deux catégories. **Aucune fiche n'est supprimée** — le dédoublonnage
-n'est pas fait, il est documenté dans `data/doublons-titre.json`. Les catégories
-ont été normalisées en 14 catégories canoniques ; la valeur brute reste dans le
-front-matter (`categorie_brute`).
+répartie dans deux catégories. **Aucune fiche n'est supprimée** — le
+dédoublonnage n'est pas fait, il est documenté dans `data/doublons-titre.json`.
+Les catégories ont été normalisées en 14 catégories canoniques ; la valeur brute
+reste dans le front-matter (`categorie_brute`).
 
 ## Structure
 
@@ -110,8 +109,8 @@ INDEX.md                        table des 369 fiches, avec lien vers chaque fich
 formations/<categorie>/         un fichier .md par fiche
 data/
   index-canonique.json          les 369 fiches : id, chemin, catégorie, titre, taille
-  reconstitutions.json          les 137 fiches vides et leur jumelle
-  pages-produit.json            les tracklists et annonces extraites des pages produit
+  reconstitution.json            programme, annonce et matière de chaque formation
+  reconstitutions.json           les 137 fiches vides et leur jumelle
   doublons-titre.json           les 98 groupes de fiches au même titre
   mesures.json                  les mesures du corpus (registres, couches, comptes)
 docs/                           les 20 livrables d'analyse

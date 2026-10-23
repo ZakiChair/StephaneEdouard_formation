@@ -4,15 +4,17 @@ titre: "Premier rendez-vous (apres-midi)10 scenarii parfaits"
 categorie: "Relations H-F"
 categorie_brute: "Relations H-F"
 slug: "premier-rendez-vous-apres-midi10-scenarii-parfaits"
-slug_catalogue: "premier-rendez-vous-apres-midi10-scenarii-parfaits"
 url: "https://mat-consulting.fr/produit/premier-rendez-vous-apres-midi10-scenarii-parfaits/"
 statut: reconstituee
 mots_fiche: 1146
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 12
 citations: 0
-extraits_voix: 3
-tracklist: 0
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C101
@@ -24,77 +26,55 @@ confiance: 1.0
 
 **C102** · Relations H-F · 1146 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video _iPUMJzVTbE — `_iPUMJzVTbE`
-
-*Rattachement : 0.2321 · `podcasts/transcripts/final/_iPUMJzVTbE-transcript.md`*
-
-### Video pz4o47xcekU — `pz4o47xcekU`
-
-*Rattachement : 0.2212 · `podcasts/transcripts/final/pz4o47xcekU-transcript.md`*
-
-### Video jCapVmSGg_A — `jCapVmSGg_A`
-
-*Rattachement : 0.2154 · `podcasts/transcripts/final/jCapVmSGg_A-transcript.md`*
-
-### Video iTrFh06jNBk — `iTrFh06jNBk`
-
-*Rattachement : 0.2027 · `podcasts/transcripts/final/iTrFh06jNBk-transcript.md`*
-
-### Video bhl2XLywEBI — `bhl2XLywEBI`
-
-*Rattachement : 0.197 · `podcasts/transcripts/final/bhl2XLywEBI-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : Video qA7bQ-TfQoQ — qA7bQ-TfQoQ — `Video-qA7bQ-TfQoQ-synthese`
-
-*Rattachement : 0.3735 · `podcasts/syntheses/Video-qA7bQ-TfQoQ-synthese.md`*
-
-> [L'amant ideal](./formations/Developpement Personnel/bon-amant.md) [Premier rendez-vous 10 scenarii parfaits](./formations/Relations H-F/premier-rdv.md) [Premier rendez-vous (apres-midi)10 scenarii parfaits](./formations/Relations H-F/premier-rendez-vous-apres-midi10-scenarii-parfaits.md) [Premier rendez-vous (matin) 10 scenarii parfaits](./formations/Relations H-F/premier-rendez-vous-matin10-scenarii-parfaits.md) [L'art delicat de la connexion](./formations/Reseau Influence/connexion-emotionnelle.md) [L'amant idéal](./formations/bon-amant.md) [L'art delicat de la connexion](./formations/connexion-emotionnelle.md) [L&rsquo;amant idéal, 2 (après-midi)](./formations/lrsquoamant-ideal-2.md) [Premier rendez-vous 10 scenarii parfaits](./formations/premier-rdv.md) [Premier rendez-vous](./formations/premier-rendez-vous.md)
-
-> Le podcast interroge la configuration classique du premier rendez-vous et démontre que le modèle dominant du « tête-à-tête assis » constitue paradoxalement la **pire manière** d'apprendre à connaître quelqu'un, en raison de son caractère statique et superficiel.
-
-### Synthèse : J'ai oublié comment draguer ; heureusement ces trois là sont là pour me le rappeler — nYpXsnJh8Uc — `J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese`
-
-*Rattachement : 0.2787 · `podcasts/syntheses/J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese.md`*
-
-> [Percer la friend-zone](./formations/Relations H-F/draguer-une-amie.md) [Premier rendez-vous 10 scenarii parfaits](./formations/Relations H-F/premier-rdv.md) [Premier rendez-vous (apres-midi)10 scenarii parfaits](./formations/Relations H-F/premier-rendez-vous-apres-midi10-scenarii-parfaits.md) [Premier rendez-vous (matin) 10 scenarii parfaits](./formations/Relations H-F/premier-rendez-vous-matin10-scenarii-parfaits.md) [Comment draguer sur les applis](./formations/comment-draguer-sur-les-applis.md) [Percer la friend-zone](./formations/draguer-une-amie.md) [Premier rendez-vous 10 scenarii parfaits](./formations/premier-rdv.md) [Premier rendez-vous](./formations/premier-rendez-vous.md) [Prises de parole en public](./formations/prises-de-parole-en-public.md) [Langage des femmes : le chaud-froid-chaud-froid-chaud-&#8230;](./formations/signaux-mixtes.md)
-
-### Synthèse : Vidéo TAWOe8DlYNs (contenu tronqué) — `Video-TAWOe8DlYNs-synthese`
-
-*Rattachement : 0.2608 · `podcasts/syntheses/Video-TAWOe8DlYNs-synthese.md`*
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse : Gaslighting : cette drôle manière d’abréger les femmes — gaslighting--cette-drôle-manière-d’abréger-les-femmes — `Gaslighting-cette-drôle-manière-d’abréger-les-femmes-synthese`
 
-*Rattachement : 0.2546 · `podcasts/syntheses/Gaslighting-cette-drôle-manière-d’abréger-les-femmes-synthese.md`*
+*podcast · `Gaslighting-cette-drôle-manière-d’abréger-les-femmes-synthese.md`*
 
-## Ses écrits sur ce thème (ancien site)
+- Le témoignage d'origine : Une femme raconte comment son compagnon l'a ignorée pendant une soirée, puis l'a insultée et traitée de "folle" quand elle a demandé des explications — un cas classique de gaslighting qui a durablement affecté ses capacités d'autodiagnostic.
+- La définition du début de relation : Édouard rappelle que contrairement à une idée reçue, une relation ne se mesure pas au nombre de semaines ou de rendez-vous, mais au pacte explicite convenu entre deux personnes. Beaucoup de souffrances naissent de l'incompréhension de l'un qui se croit en relation alors que ce n'est que dans sa tête.
+- La dynamique regardants/regardés : Contre le narratif ambiant qui présente les influenceurs comme predators, Édouard avance que statistiquement, ce sont les regardants qui contactent massivement les regardés, dans des proportions de 1000 à 10 000 contre 1 sur les applications de rencontre.
+- Le biais moral identifié : Il constate une asymétrie : suivre quelqu'un qui a du capital (notoriété, beauté) serait neutre ou encouragé, mais quand l'autre renvoie le contact, c'est soudainement une intrusion, un "glissement" suspect.
+- Le refus du double déterminisme : Édouard rejette à la fois la théorie qui déresponsabilise les femmes (fragilité immanente, corruption par l'homme) et celle qui culpabilise les hommes (démon à expier). Il plaide pour une responsabilité individuelle symétrique.
+- L'argument de la baignoire : Il critique vertement la tendance à "tapisser le fond de la baignoire" d'excuses contextuelles avant même de raconter une histoire — période de fragilité, travail difficile, etc. — comme si ces éléments justifiaient a posteriori des mauvais choix relationnels.
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+### Synthèse : J'ai oublié comment draguer ; heureusement ces trois là sont là pour me le rappeler — nYpXsnJh8Uc — `J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese`
 
-### Premier rendez-vous : les 10 pièges à éviter (si vous voulez qu&#8217;il y en ait un second) — `web-articles__913_premier-rendez-vous.html`
+*podcast · `J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese.md`*
 
-*Rattachement : 0.2146 · `sources-publiques/spikeseduction-archive/web-articles__913_premier-rendez-vous.html.txt`*
+- Le paradoxe de l'inaccessibilite feminime : De nombreuses femmes sort en groupe compact, n'echangent regard ni parole avec personne, puis rentrent en se plaignant de n'avoir ete abordees par personne — sans prendre conscience de l'effort necessaire pour fendre un groupe et se presenter.
+- La liberte de langage feminine sur la sechuction : Lorsque ces observations sont formulees par une femme Millennale presentee de façon esthetique, elles sont adoubees par la doxa ; formulees par un homme, elles valent mise a l'index pour misogynie.
+- Le soft power du sourire : Le sourire spontane et desinteresse adresse a une inconnue dans l'espace public est devenu si rare qu'il constitue un authentique atout — et genera un retour quasi-systematique.
+- Les differences culturelles de la sechuction : Les Bresiliens approchent plus facilement mais sans finesse ; les Americains sont plus disponibles mais de facon superficielle ; les Russes investissent davantage dans le premier rendez-vous (fleurs, prise en charge, invitation).
+- L'echec de la gauche sur les questions de genre : Le feminisme, loin de rapproche hommes et femmes, les a partitionnes et eloignes — constat que l'auteur formule depuis quinze ans, désormais confirme par les temoignages feminins eux-memes.
+- La censure systhematique et le collectif Corsaire : Plus de cent annonceurs ont ete convaincus de retirer leurs investissements de mediamatise (Valeurs Actuelles, CNews, Boulevard Voltaire), et l'auteur est sistematiquement desin vite des colloques — il relaie done l'initiative du collectif Corsaire pour la contre-attaque mediatique.
 
-### Premier rendez-vous : les 10 pièges à éviter (si vous voulez qu&#8217;il y en ait un second) — `web-articles__913_premier-rendez-vous1.html`
+### Tinder — Les Femmes ne Matchent PAS que le TOP 1% — `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese`
 
-*Rattachement : 0.2145 · `sources-publiques/spikeseduction-archive/web-articles__913_premier-rendez-vous1.html.txt`*
+*podcast · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
 
-### Spike Séduction — `web-articles__www.spikeseduction.com__articles__124_first-date-par-blusher-1ere-partie.html`
 
-*Rattachement : 0.1949 · `sources-publiques/spikeseduction-archive/web-articles__www.spikeseduction.com__articles__124_first-date-par-blusher-1ere-partie.html.txt`*
+### Synthèse : Video qA7bQ-TfQoQ — qA7bQ-TfQoQ — `Video-qA7bQ-TfQoQ-synthese`
 
-### Premier rendez-vous : les 10 pièges à éviter, la suite — `web-articles__933_premier-rendez-vous-1.html`
+*podcast · `Video-qA7bQ-TfQoQ-synthese.md`*
 
-*Rattachement : 0.1748 · `sources-publiques/spikeseduction-archive/web-articles__933_premier-rendez-vous-1.html.txt`*
 
-### Premier rendez-vous : les 10 pièges à éviter, la suite — `web-articles__933_premier-rendez-vous-2.html`
+## Ses développements sur le sujet
 
-*Rattachement : 0.1748 · `sources-publiques/spikeseduction-archive/web-articles__933_premier-rendez-vous-2.html.txt`*
+### Synthèse : Gaslighting : cette drôle manière d’abréger les femmes — gaslighting--cette-drôle-manière-d’abréger-les-femmes — `Gaslighting-cette-drôle-manière-d’abréger-les-femmes-synthese`
+
+*« Gaslighting-cette-drôle-manière-d’abréger-les-femmes-synthese.md » · origine : lien-declare*
+
+> Le témoignage d'origine : Une femme raconte comment son compagnon l'a ignorée pendant une soirée, puis l'a insultée et traitée de "folle" quand elle a demandé des explications — un cas classique de gaslighting qui a durablement affecté ses capacités d'autodiagnostic.
+
+### Synthèse : J'ai oublié comment draguer ; heureusement ces trois là sont là pour me le rappeler — nYpXsnJh8Uc — `J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese`
+
+*« J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese.md » · origine : lien-declare*
+
+> Le paradoxe de l'inaccessibilite feminime : De nombreuses femmes sort en groupe compact, n'echangent regard ni parole avec personne, puis rentrent en se plaignant de n'avoir ete abordees par personne — sans prendre conscience de l'effort necessaire pour fendre un groupe et se presenter.
 
 ---
 

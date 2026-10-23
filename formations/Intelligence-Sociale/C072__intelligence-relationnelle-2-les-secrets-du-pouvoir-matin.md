@@ -4,15 +4,17 @@ titre: "Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)"
 categorie: "Intelligence Sociale"
 categorie_brute: "Intelligence Sociale"
 slug: "intelligence-relationnelle-2-les-secrets-du-pouvoir-matin"
-slug_catalogue: "intelligence-relationnelle-2-les-secrets-du-pouvoir-matin"
 url: "https://mat-consulting.fr/produit/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin/"
 statut: paywall
 mots_fiche: 2725
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 21
 citations: 0
-extraits_voix: 6
-tracklist: 0
 doublon_titre: oui
 ---
 
@@ -20,88 +22,69 @@ doublon_titre: oui
 
 **C072** · Intelligence Sociale · 2725 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video 4po-6Pywp4U — `4po-6Pywp4U`
-
-*Rattachement : 0.1537 · `podcasts/transcripts/final/4po-6Pywp4U-transcript.md`*
-
-### Video 4po-6Pywp4U — `4po`
-
-*Rattachement : 0.1537 · `podcasts/transcripts/final/4po-transcript.md`*
-
-### Video YviGf37I_JI — `YviGf37I_JI`
-
-*Rattachement : 0.1198 · `podcasts/transcripts/final/YviGf37I_JI-transcript.md`*
-
-### Video elWVinBUGDQ — `elWVinBUGDQ`
-
-*Rattachement : 0.1128 · `podcasts/transcripts/final/elWVinBUGDQ-transcript.md`*
-
-### Video kSv42AlwHXY — `kSv42AlwHXY`
-
-*Rattachement : 0.0776 · `podcasts/transcripts/final/kSv42AlwHXY-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : The brilliant idea from the creators of #Metoo to save the movement — oc4BrBlqyGE — `The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese`
-
-*Rattachement : 0.5981 · `podcasts/syntheses/The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese.md`*
-
-> [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/Intelligence Sociale/prendre-le-pouvoir.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-mi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/prendre-le-pouvoir.md) [Storytelling et narration](./formations/storytelling-et-narration.md)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### L'intelligence relationnelle (2ème partie) — `L'intelligence-relationnelle-2-synthese`
 
-*Rattachement : 0.4823 · `podcasts/syntheses/L'intelligence-relationnelle-2-synthese.md`*
+*podcast · `L'intelligence-relationnelle-2-synthese.md`*
 
-> [Comment avoir du charisme (apres-midi)](./formations/Intelligence Sociale/comment-avoir-du-charisme-apres-midi.md) [Manipulation, I : qui vous ment et comment](./formations/Intelligence Sociale/detecter-le-mensonge.md) [Comment avoir du charisme](./formations/Intelligence Sociale/developper-son-charisme.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/Intelligence Sociale/prendre-le-pouvoir.md) [Briller en ligne, le charme discret du texto parfait](./formations/briller-en-ligne-le-charme-discret-du-texto-parfait.md) [Manipulation, I : qui vous ment et comment](./formations/detecter-le-mensonge.md) [Comment avoir du charisme](./formations/developper-son-charisme.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-mi.md)
 
-> Logique des Hommes / Logique des Femmes** : La logique masculine est Structurante (H), féminine Différenciatrice (F). Fondation de toute intelligence relationnelle. Discernement** : L'intelligence relationnelle est l'application du discernement aux relations — comprendre les vrais moteurs des comportements. Vidéoscopie** : L'analyse des vidéos permet de former son œil aux micro-signaux et à la lecture des comportements réels. Pression sélective et hypergamie** : Mécanismes fondamentaux à comprendre pour naviguer les relations modernes. La dette sexuelle** : Concept connexe pour comprendre les dynamiques relationnelles.
+### Synthèse : The brilliant idea from the creators of #Metoo to save the movement — oc4BrBlqyGE — `The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese`
+
+*podcast · `The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese.md`*
+
+- Le phénomène #MeToo « lascive » : Édouard et Hugo analysent les tweets d'utilisatrices qui partagent des récits de relations toxiques au sein de couples lesbiens, se demandant si ces témoignages sont spontanés ou influencés par l'air du temps.
+- Le chantage affectif n'est pas genré : L'un des constats majeurs est que le chantage au rapport sexuel — traditionnellement imputé aux hommes — se retrouve symétriquement chez les femmes, remettant en question la vision essentialiste des dynamiques patriarcales.
+- L'algorithme comme filtre : La méthode d'analyse repose sur les tweets les plus relayés par l'algorithme, ce qui pose la question de la sincérité des récits face aux mécanismes viraux.
+- La « rente » de la souffrance : Édouard introduit le concept selon lequel la souffrance est devenue un capital symbolique monnayable sur les réseaux sociaux — les victimes reçoivent une audience éphémère qu'il faut préserver en évitant toute dilution du message.
+- L'exclusion masculine assumée : Plusieurs tweets indiquent une volonté manifeste d'exclure les hommes du mouvement, limitant ainsi le périmètre du débat.
+- Le niveau d'intérêt comme déterminant relationnel : Réapparaît ici une thèse défendue depuis 2005-2006 selon laquelle l'écart de niveau d'investissement émotionnel entre deux partenaires est la source principale de la souffrance relationnelle.
 
 ### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
 
-*Rattachement : 0.4628 · `podcasts/syntheses/Video-tiDHbY0rQKQ-synthese.md`*
+*podcast · `Video-tiDHbY0rQKQ-synthese.md`*
 
-> [100 jours pour la rendre amoureuse (apres-midi)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-apres-midi.md) [100 jours pour la rendre amoureuse (matin)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-matin.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Comment acheter des vêtements](./formations/commenter-acheter-des-vetements.md) [100 jours pour la rendre amoureuse](./formations/construire-une-relation.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-mi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir.md)
+- L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
+- La logique prostitutionnelle : Louer son intimité (corps, vie de couple, secrets familiaux) détruit structurellement son intégrité psychique : addictions, dépression, pensées suicidaires, isolement. Miss Amérique 2019 s'est défenestrée trois jours avant le tournage.
+- La logique consumériste : La dépendance au nombre de vues engendre trois tendances :
+- a) Tendance aux défis (fabrique à faux suspense, baisse d'attention inéluctable)
+- b) Instabilité chronique (déménagements, changements de thème, simulate d'émotions)
+- c) Hyperbole de la promesse (clickbait, mensonges, fact-checking, micro-agressions, vraie persécution)
+- La spirale descendante : Les trois logiques se nourrissent mutuellement : autophagie + prostitution → atteinte à l'intégrité ; + consumérisme → persécution confirmée par l'audience elle-même.
+- L'exception confirmant la règle : Édouard précise que son propre modèle économique diffère — ses revenus YouTube ne représentent que ~5 % de ses revenus globaux ; il troque parfois une audience modeste contre l'exposition d'un contenu exigeant (séminaires).
 
 ### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*Rattachement : 0.3779 · `podcasts/syntheses/Video-vvh8wAYHRBw-synthese.md`*
+*podcast · `Video-vvh8wAYHRBw-synthese.md`*
 
-> [# Sources et références croisées](./formations/Couple Relations Longues/construire-une-relation.md) [Rester seduisant en couple (matin)](./formations/Couple Relations Longues/rester-seduisant-en-couple-matin.md) [Le bonheur – matin](./formations/Developpement Personnel/bonheur-matin.md) [À mort la procrastination (matin)](./formations/Developpement Personnel/procrastination-matin.md) [Comprendre les gens, 2 (matin)](./formations/Intelligence Sociale/analyser-gens-matin.md) [Comment avoir du charisme (matin)](./formations/Intelligence Sociale/comment-avoir-du-charisme-matin-2.md) [Comprendre les gens (matin) Rattrapage de sociologie pour ceux qui ont pris math](./formations/Intelligence Sociale/comprendre-les-gens-matinrattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole.md) [Discernement – matin](./formations/Intelligence Sociale/discernement-matin.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Manipulation II (matin)](./formations/Intelligence Sociale/manipulation-ii-matin-2.md)
+- L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
+- La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
+- Le platonique n'est pas interprétable : Les rendez-vous sans consommation ne permettent aucune déduction quant aux intentions ou à la compatibilité réelle du couple.
+- La première nuit comme déclencheur analytique : C'est uniquement après la consommation sexuelle que le mécanisme de réflexion féminine s'enclenche véritablement.
+- L'écart d'âge de 18 ans : Si l'absence de désir d'enfants rend la chose viable, l'écart reste significatif et impose de clarifier les attentes mutuelles.
+- La responsabilité individuelle comme prérequis méthodologique : Édouard insiste sur l'importance d'endosser sa part de contribution dans une situation plutôt que de se victimiser.
 
-## Ses écrits sur ce thème (ancien site)
+## Ses développements sur le sujet
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+### Synthèse : The brilliant idea from the creators of #Metoo to save the movement — oc4BrBlqyGE — `The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese`
 
-### Le 26 septembre 09, recevez les clefs du pouvoir — `web-actualite__3015_seminaire-pouvoir.html`
+*« The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.2704 · `sources-publiques/spikeseduction-archive/web-actualite__3015_seminaire-pouvoir.html.txt`*
+> Le phénomène #MeToo « lascive » : Édouard et Hugo analysent les tweets d'utilisatrices qui partagent des récits de relations toxiques au sein de couples lesbiens, se demandant si ces témoignages sont spontanés ou influencés par l'air du temps.
 
-### Commandez le séminaire &laquo;&nbsp;intelligence sociale&nbsp;&raquo; — `web-actualite__4843_intelligence-sociale.html?preview=1`
+### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
 
-*Rattachement : 0.2248 · `sources-publiques/spikeseduction-archive/web-actualite__4843_intelligence-sociale.html?preview=1.txt`*
+*« Video-tiDHbY0rQKQ-synthese.md » · origine : lien-declare*
 
-### Spike Séduction — `web-actualite__17352_femmes-journalistes-politiques.html`
+> L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
 
-*Rattachement : 0.2164 · `sources-publiques/spikeseduction-archive/web-actualite__17352_femmes-journalistes-politiques.html.txt`*
+### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-### 25 sept 2010 : développez votre intelligence sociale — `web-actualite__4843_intelligence-sociale.html`
+*« Video-vvh8wAYHRBw-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.1505 · `sources-publiques/spikeseduction-archive/web-actualite__4843_intelligence-sociale.html.txt`*
-
-### Invasion de femens sur notre page Facebook ! | Spike Séduction — `web-articles__19023_invasion-de-femen-sur-notre-page-facebook.html`
-
-*Rattachement : 0.1456 · `sources-publiques/spikeseduction-archive/web-articles__19023_invasion-de-femen-sur-notre-page-facebook.html.txt`*
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- Podcasts vidéo: S02E07 en ligne! les relations hommes femmes — `tierce-articles__17494_podcast-all.html__2` (rattachement 0.258)
-- (2006) L'audace a du pouvoir, du g�nie et de la magie — `tierce-forum__2006-l-audace-a-du-pouvoir-du-genie-et-de-la-magie-vt1487.html` (rattachement 0.1677)
+> L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 
 ---
 

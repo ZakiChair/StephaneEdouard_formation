@@ -4,15 +4,17 @@ titre: "Langage des femmes"
 categorie: "Relations H-F"
 categorie_brute: "Relations H-F"
 slug: "ce-que-pensent-les-femmes"
-slug_catalogue: "ce-que-pensent-les-femmes"
 url: "https://mat-consulting.fr/produit/ce-que-pensent-les-femmes/"
 statut: voix-ecrite
 mots_fiche: 3208
 mots_verbatim: 268
-mots_page_produit: 196
+mots_annonce: 0
+programme: 14
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 5
+idees_forces: 34
 citations: 0
-extraits_voix: 11
-tracklist: 14
 doublon_titre: oui
 ---
 
@@ -20,44 +22,98 @@ doublon_titre: oui
 
 **C079** · Relations H-F · 3208 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/ce-que-pensent-les-femmes/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> comme son nom l'indique
+1. Degrés de vérité et degrés de liberté
+2. Le danger du cartes sur table
+3. Vrais (et faux) [signes d’intérêt](https://mat-consulting.fr/produit/signaux-mixtes/)
+4. Viendra-t-elle ou ne viendra-t-elle pas
+5. Degrés de pureté
+6. Question-écoute-question-écoute-question…
+7. Traductions F – H
+8. « Avec plaisir ! On se rappelle pour confirmer (suivi de « mince j’ai un imprévu ») » = ?
+9. « Laissons les choses suivre leur cours » = ?
+10. « Le physique (resp : l’argent) ne compte pas pour moi » = ?
+11. « Je ne comprends pas, je t’aime, mais c’est si compliqué » = ?
+12. « J’ai besoin de … en ce moment » = ?
+13. « On a rompu plusieurs fois mais on s’est remis ensemble » = ?
+14. « On est très différents » = ?
 
-### Le programme
+## La matière qu'il a lui-même déclarée
 
-- Degrés de vérité et degrés de liberté
-- Le danger du cartes sur table
-- Vrais (et faux) [signes d’intérêt](https://mat-consulting.fr/produit/signaux-mixtes/)
-- Viendra-t-elle ou ne viendra-t-elle pas
-- Degrés de pureté
-- Question-écoute-question-écoute-question…
-- Traductions F – H
-- « Avec plaisir ! On se rappelle pour confirmer (suivi de « mince j’ai un imprévu ») » = ?
-- « Laissons les choses suivre leur cours » = ?
-- « Le physique (resp : l’argent) ne compte pas pour moi » = ?
-- « Je ne comprends pas, je t’aime, mais c’est si compliqué » = ?
-- « J’ai besoin de … en ce moment » = ?
-- « On a rompu plusieurs fois mais on s’est remis ensemble » = ?
-- « On est très différents » = ?
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-### L'annonce du séminaire, écrite par lui
+### SYNTHESE - 1gpHfNf76g0 — `Baby-metisse-et-tweets-fétichisant-synthese`
 
-Avis clients
+*podcast · `Baby-metisse-et-tweets-fétichisant-synthese.md`*
 
-Dans un séminaire précédent nous avions évoqué – sous la forme du jeu – la question de la compréhension du **langage des femmes**. En quelques minutes, nous avions dressé un rapide tableau à deux colonnes, avec, dans celle de gauche, ce que vous entendez régulièrement de leur bouche et en face, dans une colonne de droite, ce qu’il faut en comprendre avec de l’expérience et du discernement. Le lendemain, vous étiez déjà une dizaine à m’envoyer des emails pour en redemander, tant ces simples « traductions » avaient éclairé telle ou telle de vos expériences passées.
+- Le colorisme valorise les enfants métisses qui ressemblent aux blancs
+- Le mélange des termes (mulâtre, béquet, métis) révèle une confusion culturelle
+- Le Discours "j'ai un partenaire noir donc je ne suis pas raciste" = même logique que "j'ai une épouse donc je ne suis pas sexiste"
+- Les femmes sont plus sélectives (90% des evictions sur apps de rencontres)
+- Pression sélective qui s'exerce sur les hommes, pas sur les femmes
+- Influence de Jordan Peterson : les femmes cherchent l'hypergamie
+- Critiques de la stratégie de comunication de France Télévisions avec Brut
+- *Lien avec formations** :
 
-- « Avec plaisir ! On se rappelle pour confirmer (suivi de « mince j’ai un imprévu ») » = ?
-- « Laissons les choses suivre leur cours » = ?
-- « Le physique (resp : l’argent) ne compte pas pour moi » = ?
-- « Je ne comprends pas, je t’aime, mais c’est si compliqué » = ?
-- « J’ai besoin de … en ce moment » = ?
-- « On a rompu plusieurs fois mais on s’est remis ensemble » = ?
-- « On est très différents » = ?
+> "Le problème n'est pas le mélange des races mais le mélange des genres de discours — et personne ne semble prêt à assumer cette DISCUSSION."
 
-*Métadonnées de la page produit : 2198 téléchargements.*
+### Synthèse UuPHULBeYsI : Cuckold etescorte — `Downside-of-sudden-fame-I-don't-know-whether-to-laugh-or-cry-#candaule-synthese`
+
+*podcast · `Downside-of-sudden-fame-I-don't-know-whether-to-laugh-or-cry-#candaule-synthese.md`*
+
+- TV réalité (Les Chtis) : Analyse d'un candidat qui découvre que sa fille n'est pas de lui après une relation avec une escort.
+- Rôle des sponsors : "Une relation avec un sponsor est toujours une relation de type primaire" - entre le sponsor et l'escorte, elle prendra toujours le sponsor.
+- Courage de cet homme : L'auteur respecte Charles Lanchester qui a choisi de garder la garde d'une enfant qui n'est pas la sienne.
+- Statistiques de paternité : Quand une femme accuse un homme, il est forcé de faire le test; mais quand un homme doute, le test est proscrit.
+- Addiction à l'alcool : Passage à l'alcool solitaire comme mécanisme d'oubli face à la découverte du pot aux roses.
+
+### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
+
+*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+
+
+### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
+
+*podcast · `L'intelligence-relationnelle-1-synthese.md`*
+
+
+### SYNTHESE - FosUv0gUjV4 — `You-are-unknowingly-contributing-to-this-propaganda-organ-synthese`
+
+*podcast · `You-are-unknowingly-contributing-to-this-propaganda-organ-synthese.md`*
+
+- CNC conditionne les subventions à la participation aux stages
+- 1600 producteurs obligés de se soumettre d'ici fin 2021
+- Le stage commence par : "Les plaintes pour harcèlement sont classées sans suite"
+- Les enregistrements clandestins sont autorisés = mise en danger
+- "Nous sommes tous Harvey Weinstein en puissance" = culpabilisation systémique
+- Le but : faire condamner sur simple dénonciation (supprimer la phase de justification)
+- Lajustice = "l'œuvre des femmes et de la pensée féminisée"
+- Habeas corpus menacé : être embastillé sur simple dénonciation
+
+> "L'objectif est de réécrire les règles du jeu en cours de route pour arriver à l'égalité de résultat"
+
+## Ses développements sur le sujet
+
+### SYNTHESE - 1gpHfNf76g0 — `Baby-metisse-et-tweets-fétichisant-synthese`
+
+*« Baby-metisse-et-tweets-fétichisant-synthese.md » · origine : lien-declare*
+
+> Le colorisme valorise les enfants métisses qui ressemblent aux blancs
+
+### Synthèse UuPHULBeYsI : Cuckold etescorte — `Downside-of-sudden-fame-I-don't-know-whether-to-laugh-or-cry-#candaule-synthese`
+
+*« Downside-of-sudden-fame-I-don't-know-whether-to-laugh-or-cry-#candaule-synthese.md » · origine : lien-declare*
+
+> TV réalité (Les Chtis) : Analyse d'un candidat qui découvre que sa fille n'est pas de lui après une relation avec une escort.
+
+### SYNTHESE - FosUv0gUjV4 — `You-are-unknowingly-contributing-to-this-propaganda-organ-synthese`
+
+*« You-are-unknowingly-contributing-to-this-propaganda-organ-synthese.md » · origine : lien-declare*
+
+> CNC conditionne les subventions à la participation aux stages
 
 ## Verbatim de l'auteur (fiche de formation)
 
@@ -80,94 +136,6 @@ Dans un séminaire précédent nous avions évoqué – sous la forme du jeu –
 > … à ne
 > 
 > ---
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video 47jhynafWCc — `47jhynafWCc`
-
-*Rattachement : 0.2012 · `podcasts/transcripts/final/47jhynafWCc-transcript.md`*
-
-### Faites toujours confiance aux femmes — `zPQjWorSYok`
-
-*Rattachement : 0.1995 · `podcasts/transcripts/final/zPQjWorSYok-transcript.md`*
-
-> 28. compte à la vente à sion numéro un je vous rappelle que cette diatribe commencer par recenser les femmes et pour encenser les femmes il faut croire absolument tout ce qu'elle déclare je nie bonne chance surveillez votre langage quand vous parlez des femmes à bannir immédiatement les termes irrationnelle hystérique pète sec alors pète sec je pense que personne n'a jamais dit ça depuis 40 ans harceleuse je n'ai jamais entendu de ma vie une femme traitée d' harceleuse hystérique la dernière fois que
-
-> 26. gens qui ont besoin d'un arbitrage externe il faut les mettre sous tutelle ou sous curatelle ou le retirer le droit de vote que si vous n'êtes pas à même à parité de nombres c'est à dire pas un contre sens mais un contre un de vous défendre et bien ça veut dire de votre formation intellectuelle n'est pas n'est pas fini faites confiance aux femmes et ben faut dire ça johnny depp lorsqu'elle vous apprennent quelque chose ne vous sentez pas obligé de tout vérifier dans la foulée alors moi je vérifie
-
-> 41. finissent par venir une fois qu'on leur tend le micro nous n'avons quasiment jamais entendu le début d'une idée contradictoires une fois peut-être je crois qu'avec solveig c'était pas mal sinon la plupart du temps il y a refus de la confrontation de l'altérité annulations de dernière minute ou mutisme voilà mes goûté je viens d'avoir 44 ans j'espère avant d'en avant d'atteindre les 88 enfin enfin une femme viennent me contredire sur mes sujets et croyez-moi elle aura toute la place et toute la
-
-### Video 4lz2qaRDGFU — `4lz2qaRDGFU`
-
-*Rattachement : 0.1991 · `podcasts/transcripts/final/4lz2qaRDGFU-transcript.md`*
-
-### Video -7uA56RNw3k — `-7uA56RNw3k`
-
-*Rattachement : 0.1981 · `podcasts/transcripts/final/-7uA56RNw3k-transcript.md`*
-
-### Video 4sDXHjsrlIY — `4sDXHjsrlIY`
-
-*Rattachement : 0.1978 · `podcasts/transcripts/final/4sDXHjsrlIY-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Cultive ta confiance en toi — `Cultive-ta-confiance-en-toi-synthese`
-
-*Rattachement : 0.4929 · `podcasts/syntheses/Cultive-ta-confiance-en-toi-synthese.md`*
-
-> Distinctions importantes Confiance en soi vs confiance dans les autres** : Deux choses distinctes — on peut avoir l'une sans l'autre. L'homme peut avoir confiance en ses capacités tout en se méfiant des autres. Apparence vs substance** : Une confiance affichée peut être une façade — la vraie confiance est plus discrète, plus modeste. Estime de soi vs confiance en soi** : L'estime de soi est globale (je suis quelqu'un de bien), la confiance en soi est spécifique à un domaine (je sais faire ça). Jolie ≠ confiant** : Ce n'est pas parce que tu es jolie que tu as confiance en toi — les filles jolis sont nombreuses à ne pas avoir confiance en elles.
-
-> L'orateur souligne que "ce n'est pas parce que tu es jolie que tu as confiance en toi" — la beauté ou le charisme ne sont pas des substitutes à la vraie confiance.
-
-### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
-
-*Rattachement : 0.3332 · `podcasts/syntheses/Faites-toujours-confiance-aux-femmes-synthese.md`*
-
-> 1. **Ne jamais accepter l'injonction de confiance aveugle** : La confiance se construit, ne se decree pas. Elle se mérite.
-
-> 9. La logique du scepticisme universel (Règle 10 : faire confiance) "Faire confiance aux femmes sans vérifier" est absurde : Le doute méthodique est une vertu universelle Stéphane vérifie l'information de toute source - homme ou femme La confiance ne doit pas être genrée
-
-### Synthèse : "Influenceurs" à l'Élysée — Ww4-NKUrOjw — `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese`
-
-*Rattachement : 0.2181 · `podcasts/syntheses/Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
-
-> [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [Communiquer avec ses proches](./formations/communiquer-avec-ses-proches.md) [Confiance en soi](./formations/confiance-en-soi.md)
-
-> Stratégie des "ambassadeurs" Analyse historique : en 1917-1918, 75 000 ambassadeurs/volontaires ont 750 000 discours de 4 minutes à 5 200 communautés, touchant 400 millions de personnes. Le recours aux influenceurs permet de contourner l'interdiction de publicité politique sur les réseaux sociaux (non comptabilisée par le CSA). L'effet de halo a ses limites : s'associer à une personnalité valorisée ne garantit pas un transfert de confiance automatique (exemple : 8% des électeurs de Maulnier en 2017 guidés par sa "personnalité").
-
-### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
-
-*Rattachement : 0.2138 · `podcasts/syntheses/Comment-se-construire-une-esthétique-synthese.md`*
-
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [# Sources et références croisées](./formations/Couple Relations Longues/construire-une-relation.md) [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [Langage des hommes](./formations/Relations H-F/langage-hommes.md) [Développement personnel, 1 : Décupler sa CRÉATIVITÉ](./formations/Sedirection Rencontres/developper-sa-creativite.md) [Se construire une garde robe complete (apres-midi)](./formations/Sedirection Rencontres/se-construire-une-garde-robe-complete-apres-midietape-par-etape.md) [Confiance en soi](./formations/confiance-en-soi.md)
-
-> Liens avec d'autres formations Logique des Hommes / Logique des Femmes** : L'apparence a un rôle différent selon les genres Discernement** : Le discernement permet de ne pas tomber dans les pièges de la mode Confiance en soi** : La vraie confiance permet une esthétique authentique, pas une aesthetic de compensation
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Commandez le séminaire &laquo;&nbsp;Décodez le langage des femmes&nbsp;&raquo; — `web-actualite__4934_langage-femmes.html?preview=1`
-
-*Rattachement : 0.3702 · `sources-publiques/spikeseduction-archive/web-actualite__4934_langage-femmes.html?preview=1.txt`*
-
-### Spike Séduction — `web-actualite__16835_seminaire-confiance-en-soi.html`
-
-*Rattachement : 0.3336 · `sources-publiques/spikeseduction-archive/web-actualite__16835_seminaire-confiance-en-soi.html.txt`*
-
-### Spike Séduction — `web-actualite__16835_seminaire-confiance-en-soi.html?preview=1`
-
-*Rattachement : 0.3328 · `sources-publiques/spikeseduction-archive/web-actualite__16835_seminaire-confiance-en-soi.html?preview=1.txt`*
-
-### Plaire aux femmes : la confiance en soi — `web-articles__979_plaire-aux-femmes-i.html`
-
-*Rattachement : 0.3203 · `sources-publiques/spikeseduction-archive/web-articles__979_plaire-aux-femmes-i.html.txt`*
-
-### Confiance en soi et niveau d&#8217;énergie — `web-articles__1538_confiance-en-soi-2.html`
-
-*Rattachement : 0.3096 · `sources-publiques/spikeseduction-archive/web-articles__1538_confiance-en-soi-2.html.txt`*
 
 ---
 

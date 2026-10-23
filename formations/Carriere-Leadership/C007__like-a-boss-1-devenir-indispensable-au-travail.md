@@ -4,15 +4,17 @@ titre: "Like a boss, 1 : Devenir INDISPENSABLE au travail"
 categorie: "Carriere & Leadership"
 categorie_brute: "Carriere Leadership"
 slug: "gravir-les-echelons"
-slug_catalogue: "gravir-les-echelons"
 url: "https://mat-consulting.fr/produit/gravir-les-echelons/"
 statut: voix-ecrite
 mots_fiche: 2653
 mots_verbatim: 259
-mots_page_produit: 1195
+mots_annonce: 1126
+programme: 10
+sections_annonce: 7
+points_annonce: 15
+documents_materiau: 4
+idees_forces: 10
 citations: 0
-extraits_voix: 8
-tracklist: 10
 doublon_titre: oui
 ---
 
@@ -20,38 +22,34 @@ doublon_titre: oui
 
 **C007** · Carriere & Leadership · 2653 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/gravir-les-echelons/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> adapter la grille de lecture socio-stéphano-logique au monde professionnel pour gagner en IMPORTANCE dans la société jusqu’à s’y rendre INDISPENSABLE
+1. Salarié vs associé : le débat des mentalités
+2. Qui raconte la vérité à l’embauche
+3. Adapter l’organigramme à la réalité
+4. 5 armes de productivité dévastatrices
+5. Prouver sa valeur
+6. Réagir aux notes et autres bilans de fin d’année
+7. Apprendre à sous-traiter
+8. S’isoler (pour produire)
+9. Répondre une bonne fois pour toutes
+10. 9 stratégies high level
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Salarié vs associé : le débat des mentalités
-- Qui raconte la vérité à l’embauche
-- Adapter l’organigramme à la réalité
-- 5 armes de productivité dévastatrices
-- Prouver sa valeur
-- Réagir aux notes et autres bilans de fin d’année
-- Apprendre à sous-traiter
-- S’isoler (pour produire)
-- Répondre une bonne fois pour toutes
-- 9 stratégies high level
+*Page produit : https://mat-consulting.fr/catalogue/gravir-les-echelons/ — 1126 mots de sa prose.*
 
-### L'annonce du séminaire, écrite par lui
+### L’ÉCONOMIE MONDIALE VA « SECOUER »… DONC LA NÔTRE AUSSI
 
-Avis clients
+Croissance mondiale ⏼
 
-## L’ÉCONOMIE MONDIALE VA « SECOUER »… DONC LA NÔTRE AUSSI
+France 📉
 
- Croissance mondiale ⏼
+Inégalités 📈
 
- France 📉
-
- Inégalités 📈
-
- Climat 🥵
+Climat 🥵
 
 Dans un contexte aussi tendu, les entreprises ne vont pas se priver de tendre les flux, éliminer le gras… et bien entendu débaucher.
 
@@ -63,7 +61,7 @@ Bref, si je vous l’apprends je m’en excuse par avance, mais il est désormai
 
 En clair : **les meilleurs vont s’adapter et survivre, les autres vont crever à plus ou moins petit feu**. C’est triste à foutre les larmes aux yeux, mais c’est ainsi. Et c’est pas ma faute, moi aussi je ne peux que m’adapter et transmettre ce que j’ai compris (« le moment est venu de dire ce que… »)
 
-## POUR LES NOUVEAUX : QUI EST STÉPHANE EDOUARD
+### POUR LES NOUVEAUX : QUI EST STÉPHANE EDOUARD
 
 J’oublie parfois (souvent) que des nouveaux découvrent le site tous les jours, et que ma réputation n’est pas encore inter-planétaire, donc pour les nouveaux :
 
@@ -81,15 +79,13 @@ Contraint de gagner ma vie et de me loger par absence de tout excédent de patr
 
 Aujourd’hui, je vous propose d’acheter, par petits bouts, ces années de réflexion sur les stratégies comportementales des hommes et des femmes, pour mieux en tirer votre épingle du jeu, tout en vous distrayant et en apprenant des choses qui vous seront utiles tous les jours.
 
-## QUELQUES EXEMPLES DES CONCEPTS ET MÉTHODES INEDITS (« C’EST MOI QUI L’AI FAIT ») QUE VOUS DÉCOUVRIREZ AU COURS DE CETTE JOURNÉE
+### QUELQUES EXEMPLES DES CONCEPTS ET MÉTHODES INEDITS (« C’EST MOI QUI L’AI FAIT ») QUE VOUS DÉCOUVRIREZ AU COURS DE CETTE JOURNÉE
 
 Le légendaire bélier
 
 Le bouche à oreille à géométrie variable
 
-### Et bien d’autres !
-
-## CE QUE VA VOUS (R)APPORTER CETTE JOURNÉE CONCRÈTEMENT
+### CE QUE VA VOUS (R)APPORTER CETTE JOURNÉE CONCRÈTEMENT
 
 01. des conseils clairs et simples, immédiatement applicables sur le terrain
 02. détecter et corriger les erreurs que vous commettiez quotidiennement dans vos relations de travail sans y penser
@@ -102,13 +98,30 @@ Le bouche à oreille à géométrie variable
 09. être toujours informé en premier des changements importants
 10. devenir un point de référence pour vos boss, ils auront peur de vous perdre !
 
+
+- des conseils clairs et simples, immédiatement applicables sur le terrain
+- détecter et corriger les erreurs que vous commettiez quotidiennement dans vos relations de travail sans y penser
+- une hiérarchie qui vous écoutera et vous respectera plus
+- un poste mieux payé
+- obtenir des augmentations plus souvent que les autres
+- plus de responsabilités et des attentes plus élevées de l’employeur (ça va ensemble)
+- sans rogner sur votre vie familiale et vos loisirs
+- mettre toutes les chances de votre côté pour survivre aux probables prochaines réorganisations
+- être toujours informé en premier des changements importants
+- devenir un point de référence pour vos boss, ils auront peur de vous perdre !
+
 ### Bonus
 
 - mes derniers updates _productivité_
 - des anecdotes vécues par mes milliers de clients dans leur univers professionnel, décodées pour vous
 - des anecdotes tirées de mes relations de travail (ce que les gens font de bien, de très bien… et aussi de très mal lorsqu’ils bossent avec moi, et ça m’exaspère)
 
-## POURQUOI AJOUTER CE SÉMINAIRE À VOTRE COLLECTION
+
+- mes derniers updates _productivité_
+- des anecdotes vécues par mes milliers de clients dans leur univers professionnel, décodées pour vous
+- des anecdotes tirées de mes relations de travail (ce que les gens font de bien, de très bien… et aussi de très mal lorsqu’ils bossent avec moi, et ça m’exaspère)
+
+### POURQUOI AJOUTER CE SÉMINAIRE À VOTRE COLLECTION
 
 1. Parce que vous n’avez pas le temps de réfléchir autant que moi aux relations interpersonnelles. C’est normal. Vous avez un job. Et ce n’est pas autant votre passion.
 2. Parce que je fais un gros effort (invisible) pour vous restituer les choses de façon extrêmement claires et simples
@@ -117,7 +130,64 @@ Le bouche à oreille à géométrie variable
 5. Parce que les gens qui réussissent sont ceux qui savent se former et investir sur eux
 6. Parce que les prix à la demi-journée pour les particuliers sont tout à fait raisonnables: quand j’interviens en entreprise ou à la TV, **la facture se montre à 5 chiffres**. Et je pourrais même le faire ici, en adoptant certaines techniques de marketing vulgaires à l’américaine, ce à quoi je me suis toujours refusé…
 
-*Métadonnées de la page produit : 545 téléchargements.*
+
+- Parce que vous n’avez pas le temps de réfléchir autant que moi aux relations interpersonnelles. C’est normal. Vous avez un job. Et ce n’est pas autant votre passion.
+- Parce que je fais un gros effort (invisible) pour vous restituer les choses de façon extrêmement claires et simples
+- Parce que simple ne veut pas dire simplificateur, je ne simplifie pas, ce n’est pas du coaching « à l’américaine » visant à se regonfler le moral tout seul, in asbtracto, pour se sentir mieux temporairement
+- Parce que vous n’allez trouver ces informations nulle part ailleurs (ou bien si, en lisant et en réfléchissant une petite dizaine d’années sur ces sujets, vous avez le temps ?)
+- Parce que les gens qui réussissent sont ceux qui savent se former et investir sur eux
+
+## La matière qu'il a lui-même déclarée
+
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
+
+### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
+
+*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+
+
+### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
+
+*podcast · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
+
+
+### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
+
+*podcast · `Video-hVchQj-xiOo-synthese.md`*
+
+- L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
+- Parallèle historique : le centre Pompidou (années 70) avait lui aussisymbolisé une époque de transition, mais dans un contexte de modernité industrielle encore vivante.
+- Désindustrialisation française : la vidéo des Gilets Jaunes en Belgique (usine désaffectée convertie en centre d'art) illustre ce même phénomène de perte identitaire territoriale.
+- Archéologie du contenu : référence à d'anciennes vidéos de la chaîne qui documentaient déjà ces transformations, consultables dans les archives.
+
+> L'industrie, c'est ce qui empêche un pays de couler, d'avoir une balance du déficit extérieur monstrueuse et de devenir un musée à touristes.
+
+> *Transcrit le 2026-05-29*
+
+### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
+
+*podcast · `Video-yCgVt4zZejg-synthese.md`*
+
+- L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+- L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
+- La valeur de la rareté : Ce qui est difficile à obtenir a de la valeur ; une femme qui sait se faire désirer attire des partenaires prêts à s'investir réellement.
+- Le marché réel du livre : Ce n'est pas un livre pour femmes — il est destiné aux hommes qui ne comprennent rien aux femmes et doivent apprendre à les attirer par la promesse et le dévouement, pas par la simple séduction physique.
+- Les défaut du packaging : Titre médiocre, illustrations de mauvaise qualité, mise en page orientée « féminin » inadaptée — résultat d'un contrat avec M6, éditeur incompétent.
+- Tests et quiz superflus : Ces éléments alourdissent le livre et ne correspondent pas à la subtilité habituelle de Stéphane Édouard.
+
+## Ses développements sur le sujet
+
+### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
+
+*« Video-hVchQj-xiOo-synthese.md » · origine : lien-declare*
+
+> L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
+
+### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
+
+*« Video-yCgVt4zZejg-synthese.md » · origine : lien-declare*
+
+> L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
 
 ## Verbatim de l'auteur (fiche de formation)
 
@@ -134,88 +204,6 @@ Le bouche à oreille à géométrie variable
 > Ingénieur en mécanique (je sais construire
 > 
 > ---
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video py5soTfXpxQ — `py5soTfXpxQ`
-
-*Rattachement : 0.2178 · `podcasts/transcripts/final/py5soTfXpxQ-transcript.md`*
-
-### Video 3_Fxd7sKZFc — `3_Fxd7sKZFc`
-
-*Rattachement : 0.2036 · `podcasts/transcripts/final/3_Fxd7sKZFc-transcript.md`*
-
-### Video y4PKeEdGQ6w — `y4PKeEdGQ6w`
-
-*Rattachement : 0.2025 · `podcasts/transcripts/final/y4PKeEdGQ6w-transcript.md`*
-
-### Video F7a7VWOlznU — `F7a7VWOlznU`
-
-*Rattachement : 0.2007 · `podcasts/transcripts/final/F7a7VWOlznU-transcript.md`*
-
-### Video kjMBBW4fruY — `kjMBBW4fruY`
-
-*Rattachement : 0.1987 · `podcasts/transcripts/final/kjMBBW4fruY-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Elle voulait le confort, elle a eu l'ennui — Étude de cas — `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese`
-
-*Rattachement : 0.4209 · `podcasts/syntheses/Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
-
-> L'Abandon Consenti de Souveraineté** Mariage traditionnel = sacrifier ses ambitions personnelles "Tu as pratiqué un abandon consenti de souveraineté" En échange : sécurité, confort, statut social Le calcul semble rationnel sur le moment DANS LA LOGIQUE DE STÉPHANE : ce "meilleur compromis" est une TRANSACTION, pas un choix romantique
-
-> Le Confort comme Piège** Le confort matériel anesthésie la croissance À 28 ans, elle réalise qu'elle s'ennuie Ses enfants vont grandir et partir Son "cocon de famille étendue" n'est pas un destin LE PIÈGE : le confort d'aujourd'hui est l'ennui de demain
-
-### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
-
-*Rattachement : 0.2911 · `podcasts/syntheses/Video-hVchQj-xiOo-synthese.md`*
-
-> [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/Carriere Leadership/gravir-les-echelons.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-apres-midi.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (matin)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-matin.md) [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/gravir-les-echelons.md)
-
-> La reconquête des espaces productifs par la culture signale une mutation profonde de notre rapport au travail et à la production nationale.
-
-### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
-
-*Rattachement : 0.2548 · `podcasts/syntheses/Video-yCgVt4zZejg-synthese.md`*
-
-> [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/Carriere Leadership/gravir-les-echelons.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-apres-midi.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (matin)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-matin.md) [Relookings (apprendre à bien s'habiller)](./formations/Style Image/relooking-homme.md) [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/gravir-les-echelons.md) [Le rôle du masculin et du féminin dans la sexualité](./formations/le-role-du-masculin-et-du-feminin-dans-la-sexualite.md)
-
-> Ensuite, les aspects positifs : les détails sur ce qui attire véritablement quelqu'un, sur la compatibilité psychologique et physique, sur la différence entre le tir rapide (séduction passagère) et l'attraction durable — tout cela est qualifié d'« excellent travail ». Le reviewer souligne que le livre s'adresse à la fois aux célibataires et aux personnes en couple, tous y apprendront à devenir une meilleure personne pour plaire à l'autre.
-
-### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
-
-*Rattachement : 0.2091 · `podcasts/syntheses/J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
-
-> [Like a boss, 3 : Séduire et fidéliser ses clients A VIE](./formations/Carriere Leadership/fideliser-ses-clients.md) [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/Carriere Leadership/gravir-les-echelons.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-apres-midi.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (matin)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-matin.md) [Comprendre les gens, 2 (après-midi)](./formations/Intelligence Sociale/analyser-gens-apres-midi.md) [Comprendre les gens, 2](./formations/Intelligence Sociale/analyser-les-gens.md) [Percer la friend-zone](./formations/Relations H-F/draguer-une-amie.md) [Au secours, mon chef est une femme (/un homme) – matin](./formations/Relations H-F/manager-equipe-femmes-matin.md) [Au secours, mon chef est une femme (/un homme) ?](./formations/Relations H-F/manager-equipe-femmes.md) [Etre sexué II : dans les contraintes du réel](./formations/Relations H-F/seduire-sans-argent.md)
-
-> 2. **"Au secours mon chef est une femme"** : Formation principale de l'influenceuse, sous-titrée "devenir plus performant au travail par la connaissance de la psychologie homme et femme".
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Pour en finir avec la jalousie, par Frédéric — `web-articles__10850_comment-ne-plus-etre-jaloux.html`
-
-*Rattachement : 0.2037 · `sources-publiques/spikeseduction-archive/web-articles__10850_comment-ne-plus-etre-jaloux.html.txt`*
-
-### Pour en finir avec la jalousie, par Frédéric — `web-articles__10850_ne-plus-etre-jaloux.html`
-
-*Rattachement : 0.2035 · `sources-publiques/spikeseduction-archive/web-articles__10850_ne-plus-etre-jaloux.html.txt`*
-
-### Je ne veux pas changer de vie, partie I – par Gentleman — `web-articles__seduction-avance__4143_changer-de-vie-i.html`
-
-*Rattachement : 0.1958 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__4143_changer-de-vie-i.html.txt`*
-
-### Courrier des lecteurs : devenir un homme, oui mais lequel - suite et fin — `web-articles__3735_devenir-un-homme-3.html`
-
-*Rattachement : 0.1926 · `sources-publiques/spikeseduction-archive/web-articles__3735_devenir-un-homme-3.html.txt`*
-
-### Commandez le séminaire : être un leader — `web-articles__11397_comment-devenir-un-leader.html`
-
-*Rattachement : 0.1804 · `sources-publiques/spikeseduction-archive/web-articles__11397_comment-devenir-un-leader.html.txt`*
 
 ## Concepts
 

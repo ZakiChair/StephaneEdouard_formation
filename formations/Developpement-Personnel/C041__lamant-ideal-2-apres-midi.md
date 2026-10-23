@@ -4,15 +4,17 @@ titre: "L'amant idéal, 2 (après-midi)"
 categorie: "Developpement Personnel"
 categorie_brute: "Developpement Personnel"
 slug: "faire-lamour-a-une-femme-apres-midi"
-slug_catalogue: "faire-lamour-a-une-femme-apres-midi"
 url: "https://mat-consulting.fr/produit/faire-lamour-a-une-femme-apres-midi/"
 statut: reconstituee
 mots_fiche: 1057
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 5
+idees_forces: 16
 citations: 0
-extraits_voix: 5
-tracklist: 0
 doublon_titre: non
 reconstitution: oui
 fiche_jumelle: C042
@@ -24,57 +26,63 @@ confiance: 1.0
 
 **C041** · Developpement Personnel · 1057 mots
 
-## Ce qu'il a dit sur ce thème (podcasts)
+## La matière qu'il a lui-même déclarée
 
-### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
-
-*Rattachement : 0.48 · `podcasts/syntheses/Video-_HLOLxJlxHI-synthese.md`*
-
-> [Apprenez à négocier (après-midi)](./formations/Carriere Leadership/apprenez-a-negocier-apres-midi-2.md) [L'amant idéal, 2 (après-midi)](./formations/Developpement Personnel/faire-lamour-a-une-femme-apres-midi.md) [L'amant, 2](./formations/Developpement Personnel/faire-lamour-a-une-femme.md) [Le bonheur – après-midi](./formations/Developpement Personnel/le-bonheur-apres-midi.md) [À mort la procrastination (après-midi)](./formations/Developpement Personnel/procrastination-apres-midi.md) [# Sources et références croisées](./formations/Relations H-F/lecole-des-hommes.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [L&rsquo;amant, 2](./formations/faire-lamour-a-une-femme.md) [Like a boss, 3: Seduire et fideliser ses clients A VIE (après midi)](./formations/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-apres-m.md) [L&rsquo;amant idéal, 2 (après-midi)](./formations/lrsquoamant-ideal-2.md)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
 
-*Rattachement : 0.4384 · `podcasts/syntheses/Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
+*podcast · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
 
-> [L'amant ideal](./formations/Developpement Personnel/bon-amant.md) [L'amant idéal, 2 (après-midi)](./formations/Developpement Personnel/faire-lamour-a-une-femme-apres-midi.md) [L'amant, 2](./formations/Developpement Personnel/faire-lamour-a-une-femme.md) [L'amant idéal](./formations/bon-amant.md) [L&rsquo;amant, 2](./formations/faire-lamour-a-une-femme.md) [L&rsquo;amant, 2](./formations/lrsquoamant-2.md) [L&rsquo;amant idéal, 2 (après-midi)](./formations/lrsquoamant-ideal-2.md)
+- Le choix : Confort matériel immédiat vs. individuation à long terme.
+- Le mécanisme : "Abandon consenti de souveraineté" — sacrifice de l'ambition personnelle sur l'autel de la sécurité.
+- La conséquence : Ennui existentiel, vie réduite à un rôle, absence de défis personnels.
+- Perspective historique : Ces stratégies were conçu pour un monde à 35 ans d'espérance de vie ; avec80+ ans, elles créent une impasse.
+- Ton : Psychologique, analytique, parfois dur mais empathique.
 
 ### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-*Rattachement : 0.3929 · `podcasts/syntheses/La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+*podcast · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
 
-> [L'amant idéal, 2 (après-midi)](./formations/Developpement Personnel/faire-lamour-a-une-femme-apres-midi.md) [À mort la procrastination (après-midi)](./formations/Developpement Personnel/procrastination-apres-midi.md) [# Sources et références croisées](./formations/Intelligence Sociale/intelligence-emotionnelle.md) [Logique de l'Homme (après-midi)](./formations/Relations H-F/comprendre-les-hommes-apres-midi.md) [Développement personnel, 1: Decupler sa CREATIVITE (après midi)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-apres-midi.md) [Développement personnel, 1: Decupler sa CREATIVITE (matin)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-matin.md) [Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER](./formations/Sedirection Rencontres/developpement-personnel-2-tenacite-apprendre-a-ne-rien-lacher-matin.md) [Développement personnel, 2 : ON – NE – LÂCHE – RIEN](./formations/Sedirection Rencontres/resilience.md) [Au secours, mon chef est une femme (/un homme)](./formations/au-secours-mon-chef-est-une-femme-un-homme.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/cultivez-votre-intelligence-emotionnelle.md)
+- La strip-tease comme "travail émotionnel" les hommes
+- Différence entre féminisme de droite (procédures judiciaires) et féminisme de gauche (spiritualité, cycle naturel, sorcellerie)
+- Les autodidactes ont du mérite quand ils restent dans leur domaine de compétence
+- Critique du développement personnel comme "bain d'ineptie"
+- L'abnégation comme virtue fondamentale : "faire quand tu n'as pas envie de faire"
+- Le rite de passage moderne = la rupture amoureuse (abandon)
+- *Lien avec formations** :
+- Force Mentale
 
-### Synthèse – OPtQxFnZFX4 — `Video-OPtQxFnZFX4-synthese`
+> "Quand tu es trop blanc pour les blacks et trop noir pour les whites, tu finis par tomber dans la catégorie trans — c'est le chaos identitaire."
 
-*Rattachement : 0.2374 · `podcasts/syntheses/Video-OPtQxFnZFX4-synthese.md`*
+### Montrer son intérêt à un homme (2/2) — `Montrer-son-intérêt-à-un-homme,-pt.22-synthese`
 
-> [Survivre à la ROUTINE du couple (après midi)](./formations/Couple Relations Longues/les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-apres-midi.md) [Le bonheur : 7 techniques pour être heureux et surfer la vie](./formations/Developpement Personnel/bonheur.md) [Le bonheur – après-midi](./formations/Developpement Personnel/le-bonheur-apres-midi.md) [L'amant idéal, 2 : faire jouir une femme (matin)](./formations/Relations H-F/faire-lamour-a-une-femme-matin.md) [Changez d'image (apres-midi)](./formations/Style Image/changez-d-image-apres-midi.md) [Le bonheur : 7 techniques pour être heureux et surfer la vie](./formations/bonheur.md) [Comment sortir d'un conflit](./formations/comment-sortir-dun-conflit.md) [Le bonheur : 7 techniques pour être heureux et surfer la vie](./formations/le-bonheur-7-techniques-pour-etre-heureux-et-surfer-la-vie.md) [Le plaisir féminin](./formations/le-plaisir-feminin.md) [L&rsquo;amant idéal, 2 : faire jouir une femme (matin)](./formations/lrsquoamant-ideal-2-faire-jouir-une-femme.md)
+*podcast · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
 
-## Ses écrits sur ce thème (ancien site)
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
 
-### SpikeSeduction chez OTVQTV le Jeudi 28 Avril à 19h — `web-actualite__6071_otvqtv-homme-ideal.html`
+*podcast · `Video-_HLOLxJlxHI-synthese.md`*
 
-*Rattachement : 0.2937 · `sources-publiques/spikeseduction-archive/web-actualite__6071_otvqtv-homme-ideal.html.txt`*
 
-### 21 mars : l&#8217;homme idéal à la radio — `web-actualite__5568_21-mars-lhomme-ideal-a-la-radio.html`
+### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*Rattachement : 0.2887 · `sources-publiques/spikeseduction-archive/web-actualite__5568_21-mars-lhomme-ideal-a-la-radio.html.txt`*
+*podcast · `Video-mFySAh0g-MI-synthese.md`*
 
-### L&#8217;homme idéal : Amazon en rupture de stock — `web-actualite__5551_homme-ideal-rupture-stock.html`
 
-*Rattachement : 0.2802 · `sources-publiques/spikeseduction-archive/web-actualite__5551_homme-ideal-rupture-stock.html.txt`*
+## Ses développements sur le sujet
 
-> L’homme idéal : Amazon en rupture de stock Hier, l’homme idéal était 3ème meilleure vente de livres toutes catégories confondues, merci. Conséquence, il est désormais en rupture de stock… Mais vous pouvez encore en trouver quelques-uns dans votre Fnac/Virgin ou, un membre vient de me le signaler, dans les aéroports ! Où que vous l’achetiez, n’oubliez pas de laisser votre commentaire sur Amazon ! Vous avez découvert cet article avant tous vos amis ? Faites-leur savoir L’homme idéal J-1 : pour un plan sans accrocs L’homme idéal, jour J La saga de l’homme idéal (10 épisodes) After hours, le film de l’effervescence La vie sexuelle des femmes normales Lire 100% du site demanderait une centaine d'heures... le séminaire, les réponses de la séduction , en dvd 47€ seulement l'ebook, Entretiens privés , vol.1, <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> NOUVEAU
+### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
 
-### L&#8217;homme idéal, jour J — `web-actualite__5544_lhomme-ideal-jour-j.html`
+*« Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.2374 · `sources-publiques/spikeseduction-archive/web-actualite__5544_lhomme-ideal-jour-j.html.txt`*
+> Le choix : Confort matériel immédiat vs. individuation à long terme.
 
-### L&#8217;homme idéal J-1 : pour un plan sans accrocs — `web-actualite__5533_lhomme-ideal-j-1.html`
+### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-*Rattachement : 0.2349 · `sources-publiques/spikeseduction-archive/web-actualite__5533_lhomme-ideal-j-1.html.txt`*
+*« La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md » · origine : lien-declare*
+
+> La strip-tease comme "travail émotionnel" les hommes
 
 ---
 

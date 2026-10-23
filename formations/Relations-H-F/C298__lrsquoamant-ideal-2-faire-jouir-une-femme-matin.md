@@ -4,15 +4,17 @@ titre: "L&rsquo;amant idéal, 2 : faire jouir une femme (matin)"
 categorie: "Relations H-F"
 categorie_brute: "Relations H-F"
 slug: "lrsquoamant-ideal-2-faire-jouir-une-femme"
-slug_catalogue: "faire-lamour-a-une-femme-matin"
 url: "https://mat-consulting.fr/catalogue/faire-lamour-a-une-femme-matin/"
 statut: reconstituee
 mots_fiche: 714
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 2
+idees_forces: 0
 citations: 0
-extraits_voix: 4
-tracklist: 0
 doublon_titre: non
 reconstitution: oui
 fiche_jumelle: C042
@@ -24,79 +26,19 @@ confiance: 1.0
 
 **C298** · Relations H-F · 714 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-### Video _iPUMJzVTbE — `_iPUMJzVTbE`
+### Emily in Paris : L'Instagrammer est le Futur de l'Homme — `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese`
 
-*Rattachement : 0.2355 · `podcasts/transcripts/final/_iPUMJzVTbE-transcript.md`*
+*podcast · `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese.md`*
 
-### Video pz4o47xcekU — `pz4o47xcekU`
-
-*Rattachement : 0.2248 · `podcasts/transcripts/final/pz4o47xcekU-transcript.md`*
-
-### Video jCapVmSGg_A — `jCapVmSGg_A`
-
-*Rattachement : 0.2188 · `podcasts/transcripts/final/jCapVmSGg_A-transcript.md`*
-
-### Video iTrFh06jNBk — `iTrFh06jNBk`
-
-*Rattachement : 0.2058 · `podcasts/transcripts/final/iTrFh06jNBk-transcript.md`*
-
-### Video bhl2XLywEBI — `bhl2XLywEBI`
-
-*Rattachement : 0.2006 · `podcasts/transcripts/final/bhl2XLywEBI-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : Vidéo TAWOe8DlYNs (contenu tronqué) — `Video-TAWOe8DlYNs-synthese`
-
-*Rattachement : 0.2686 · `podcasts/syntheses/Video-TAWOe8DlYNs-synthese.md`*
-
-### Synthèse : J'apprends à m'adresser à un.e prof.fe non-binaire (indice : ça finit par "ule") — `J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese`
-
-*Rattachement : 0.2611 · `podcasts/syntheses/J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese.md`*
-
-### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
-
-*Rattachement : 0.2278 · `podcasts/syntheses/Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
-
-> [L'amant ideal](./formations/Developpement Personnel/bon-amant.md) [L'amant idéal, 2 (après-midi)](./formations/Developpement Personnel/faire-lamour-a-une-femme-apres-midi.md) [L'amant, 2](./formations/Developpement Personnel/faire-lamour-a-une-femme.md) [L'amant idéal](./formations/bon-amant.md) [L&rsquo;amant, 2](./formations/faire-lamour-a-une-femme.md) [L&rsquo;amant, 2](./formations/lrsquoamant-2.md) [L&rsquo;amant idéal, 2 (après-midi)](./formations/lrsquoamant-ideal-2.md)
 
 ### Synthèse – OPtQxFnZFX4 — `Video-OPtQxFnZFX4-synthese`
 
-*Rattachement : 0.2227 · `podcasts/syntheses/Video-OPtQxFnZFX4-synthese.md`*
+*podcast · `Video-OPtQxFnZFX4-synthese.md`*
 
-> [Survivre à la ROUTINE du couple (après midi)](./formations/Couple Relations Longues/les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-apres-midi.md) [Le bonheur : 7 techniques pour être heureux et surfer la vie](./formations/Developpement Personnel/bonheur.md) [Le bonheur – après-midi](./formations/Developpement Personnel/le-bonheur-apres-midi.md) [L'amant idéal, 2 : faire jouir une femme (matin)](./formations/Relations H-F/faire-lamour-a-une-femme-matin.md) [Changez d'image (apres-midi)](./formations/Style Image/changez-d-image-apres-midi.md) [Le bonheur : 7 techniques pour être heureux et surfer la vie](./formations/bonheur.md) [Comment sortir d'un conflit](./formations/comment-sortir-dun-conflit.md) [Le bonheur : 7 techniques pour être heureux et surfer la vie](./formations/le-bonheur-7-techniques-pour-etre-heureux-et-surfer-la-vie.md) [Le plaisir féminin](./formations/le-plaisir-feminin.md) [L&rsquo;amant idéal, 2 : faire jouir une femme (matin)](./formations/lrsquoamant-ideal-2-faire-jouir-une-femme.md)
-
-> Résumé Un homme de 39 ans se retrouve effacé de sa propre vie conjugale par laSumafamille (3 enfants dont une Handicapée). Sa femme, "femme mère" en transition permanente, ne peut tout simplement pas être réceptive à une sortie à deux tant que les enfants restent enfants. L'analyse dépasse le cas personnel pour questionner la dynamique des relations hetero dans un cadre traditionnel et le rôle de l'identification des profiles (_tyran vs. père).
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Ce que j&rsquo;aime et ce que je n&rsquo;aime pas chez une femme — `web-articles__seduction-avance__14228_comment-plaire-a-un-garcon.html`
-
-*Rattachement : 0.1662 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__14228_comment-plaire-a-un-garcon.html.txt`*
-
-### SpikeSeduction chez OTVQTV le Jeudi 28 Avril à 19h — `web-actualite__6071_otvqtv-homme-ideal.html`
-
-*Rattachement : 0.16 · `sources-publiques/spikeseduction-archive/web-actualite__6071_otvqtv-homme-ideal.html.txt`*
-
-### Spike Séduction — `web-articles__17183_5-profils-psycho-masculins.html`
-
-*Rattachement : 0.1547 · `sources-publiques/spikeseduction-archive/web-articles__17183_5-profils-psycho-masculins.html.txt`*
-
-### Spike Séduction — `web-articles__seduction-avance__17183_5-profils-psycho-masculins.html`
-
-*Rattachement : 0.1545 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__17183_5-profils-psycho-masculins.html.txt`*
-
-### L&#8217;homme idéal : Amazon en rupture de stock — `web-actualite__5551_homme-ideal-rupture-stock.html`
-
-*Rattachement : 0.1195 · `sources-publiques/spikeseduction-archive/web-actualite__5551_homme-ideal-rupture-stock.html.txt`*
-
-> L’homme idéal : Amazon en rupture de stock Hier, l’homme idéal était 3ème meilleure vente de livres toutes catégories confondues, merci. Conséquence, il est désormais en rupture de stock… Mais vous pouvez encore en trouver quelques-uns dans votre Fnac/Virgin ou, un membre vient de me le signaler, dans les aéroports ! Où que vous l’achetiez, n’oubliez pas de laisser votre commentaire sur Amazon ! Vous avez découvert cet article avant tous vos amis ? Faites-leur savoir L’homme idéal J-1 : pour un plan sans accrocs L’homme idéal, jour J La saga de l’homme idéal (10 épisodes) After hours, le film de l’effervescence La vie sexuelle des femmes normales Lire 100% du site demanderait une centaine d'heures... le séminaire, les réponses de la séduction , en dvd 47€ seulement l'ebook, Entretiens privés , vol.1, <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> NOUVEAU
 
 ---
 
@@ -136,17 +78,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C042`, en annonçant « reconstituée depuis C042 ». Jamais `C298` — la trace serait fausse.
-
-## Points clés
-
-- L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
-- L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- A une heure du matin — `tierce-forum__a-une-heure-du-matin-vt5530.html` (rattachement 0.113)
 
 ---
 

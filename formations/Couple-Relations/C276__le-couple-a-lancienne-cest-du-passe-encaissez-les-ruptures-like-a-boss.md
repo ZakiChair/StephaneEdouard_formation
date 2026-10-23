@@ -4,15 +4,17 @@ titre: "Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures L
 categorie: "Couple & Relations"
 categorie_brute: "Couple & Relations"
 slug: "le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss"
-slug_catalogue: "le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss"
 url: "https://mat-consulting.fr/catalogue/le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss/"
 statut: doctrine
 mots_fiche: 3065
 mots_verbatim: 0
-mots_page_produit: 217
+mots_annonce: 0
+programme: 14
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 13
 citations: 0
-extraits_voix: 12
-tracklist: 14
 doublon_titre: oui
 ---
 
@@ -20,146 +22,79 @@ doublon_titre: oui
 
 **C276** · Couple & Relations · 3065 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/couple-rupture-difficile/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> Changer de modèle de pensée pour comprendre le nouveau couple (et savoir se barrer à temps)
+1. Une rupture n’arrive jamais par hasard
+2. Étude de cas : rupture médiatisée
+3. Apprendre à croire ce que l’on voit
+4. Le rôle-clé de la logistique dans 1 rupture /2
+5. 3 modèles de couples actuels
+6. Évolution du modèle de couple
+7. Devenir un barbare sensé
+8. La fin est dans le commencement
+9. Construction du ressentiment : les signes qui ne trompent pas
+10. 3 bénéfices à mettre fin à une relation
+11. entre 93 et 96, il y avait en moyenne chaque année 155 000 séparations. Ce chiffre est passé, en 15 ans à peine,  à 253 000 ( ! ) par an (+63 % !!)
+12. Dans les années 80, 70 % des adultes en couple, âgés de 20 à 31 ans, vivaient au moins 15 ans ensemble. Cette statistique a perdu 10 points en 10 ans. 1 point par an ; tous les ans !
+13. Dans les 5 ans après l’emménagement, un couple sur 5 divorce. Après 10 ans, c’est 1 sur 3
+14. 40 % de la génération Y met fin à sa première « longue » relation avant 10 ans (contre 16 % seulement de la génération de ses parents)
 
-### Le programme
+## La matière qu'il a lui-même déclarée
 
-- Une rupture n’arrive jamais par hasard
-- Étude de cas : rupture médiatisée
-- Apprendre à croire ce que l’on voit
-- Le rôle-clé de la logistique dans 1 rupture /2
-- 3 modèles de couples actuels
-- Évolution du modèle de couple
-- Devenir un barbare sensé
-- La fin est dans le commencement
-- Construction du ressentiment : les signes qui ne trompent pas
-- 3 bénéfices à mettre fin à une relation
-- entre 93 et 96, il y avait en moyenne chaque année 155 000 séparations. Ce chiffre est passé, en 15 ans à peine,  à 253 000 ( ! ) par an (+63 % !!)
-- Dans les années 80, 70 % des adultes en couple, âgés de 20 à 31 ans, vivaient au moins 15 ans ensemble. Cette statistique a perdu 10 points en 10 ans. 1 point par an ; tous les ans !
-- Dans les 5 ans après l’emménagement, un couple sur 5 divorce. Après 10 ans, c’est 1 sur 3
-- 40 % de la génération Y met fin à sa première « longue » relation avant 10 ans (contre 16 % seulement de la génération de ses parents)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-### L'annonce du séminaire, écrite par lui
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-Avis clients
+*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
 
-Bon, vous l’aurez remarqué, **les couples ne fonctionnent plus** (d’où le sous-titre du séminaire : encaissez les ruptures). C’est pas une vue de l’esprit, ni l’expression de mon fatalisme patent. Les gens restent ensemble de moins en moins longtemps, c’est universel en occident. Et si vous habitez une métropole, vous pouvez encore diviser votre « espérance de survie du couple » par 2, voire par 3. Vous voulez des chiffres ?
+- Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+- Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
+- Mutisme sur sa propre vie sentimentale : Ses histoires vous resteront opaques, les questions recevant des réponses laconiques (« oui », « non »), quand elles ne sont pas simplement éludées.
+- Émotions disproportionnées : Des événements anodins la plongeront dans des pleurs inexpliqués, sans qu'aucune justification ne soit jamais offerte.
+- Insistance sur le contact physique : L'exigence de câlins entre hétérosexuels crée, selon l'orateur, une tension permanente liée aux « érections involontaires » — problème qu'il qualifie lui-même d'impossible à clarifier.
+- Traitement de « gendre potentiel » par sa famille : Lors des présentations familiales, les sous-entendus matrimoniaux deviennent explicites (remarques sur le « métissage », questions sur le baptême).
+- Fâcheries chronophages et disproportionnées : Des conflits mineurs (fenêtre ouverte oubliée sous la pluie) génèrent des bouderies de plusieurs jours, semaines, voire des reproches ressassés des années après.
 
-- entre 93 et 96, il y avait en moyenne chaque année 155 000 séparations. Ce chiffre est passé, en 15 ans à peine,  à **253 000 ( ! ) par an (+63 % !!)**
-- Dans les années 80, 70 % des adultes en couple, âgés de 20 à 31 ans, vivaient **au moins 15 ans ensemble**. Cette statistique a **perdu 10 points en 10 ans**. 1 point par an ; tous les ans !
-- Dans les **5 ans** après l’emménagement, un couple sur 5 divorce. Après 10 ans, c’est **1 sur 3**
-- **40 % de la génération Y** met fin à sa première « longue » relation avant 10 ans (contre 16 % seulement de la génération de ses parents)
+### Synthèse : Je ne refuserais pas un p'tit "coup d'deux" avec ces deux-là — ttRaEas4lAY — `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese`
 
-Bon, je pourrais remplir cette page de chiffres, mais je pense que tout le monde a compris le propos ?
+*podcast · `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md`*
 
-*Métadonnées de la page produit : 626 téléchargements.*
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Sans conteste LE couple progressiste le + inattendu de 2023 — `WS4q9-Eb-ts`
-
-*Rattachement : 0.2731 · `podcasts/transcripts/final/WS4q9-Eb-ts-transcript.md`*
-
-> 2. homme hétéro efféminé j'imagine que les gens nous voient comme bizarre car nous ne suivons pas le status quo habituel nous ne ressemblons pas à ce qu'ils attendent de nous le couple s'est rencontré sur TikTok malgré le fait qu'il n'était pas vraiment le style de l'autre c'était plus simple que de toute expliquer à chaque fois je ne suis sortie qu'avec des filles dans le passé ma question la plus fréquente que nous recevons et qui fait l'homme qui fait la femme ok alors là ça fait beaucoup
-
-> 41. naissance il ne prétend pas être né dans le mauvais corps il ne prétendent pas être une femme incomprise il s'identifie à ce qu'il est c'est à dire un homme biologique on n'est pas face à un élu de la République qui se balade en talent aiguille au sens où il attribue la faute à Mère Nature qui l'a mal placé on est en face d'un homme qui dit je trouve ça mignon je reste un homme et j'ai envie de mettre ça et on est en face d'une femme qui dit je suis une femme je m'identifie à une femme mais je
-
-> 54. cas les quatre à l'écran on sait vers lequel ou laquelle leur gare se porte en premier voir leur couple et être l'ami de marraine m'a permis de voir que parfois les gens peuvent être fait l'un pour l'autre vivre cette relation m'a permis de voir qui vient spectre très large de sexualité et tout ce que ça comprend c'est pas juste hétéro ok à plus c'est vraiment un beau garçon j'allais dire c'est dommage il a eu son lot de femme il l'a dit au lycée ça ne l'a pas convaincu il a changé de bord mais
-
-### Video vN0IXu2gwZg — `vN0IXu2gwZg`
-
-*Rattachement : 0.2729 · `podcasts/transcripts/final/vN0IXu2gwZg-transcript.md`*
-
-### Video 8y60ABKhwSU — `8y60ABKhwSU`
-
-*Rattachement : 0.2645 · `podcasts/transcripts/final/8y60ABKhwSU-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=8y60ABKhwSU Titre**: Une astuce peu connue pour pimenter sa vie de couple (extrait #2 du séminaire) Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/8y60ABKhwSU.md`).
-
-### Video KdVs2_DOmjo — `KdVs2_DOmjo`
-
-*Rattachement : 0.2548 · `podcasts/transcripts/final/KdVs2_DOmjo-transcript.md`*
-
-### Video wPyLc557tKM — `wPyLc557tKM`
-
-*Rattachement : 0.2497 · `podcasts/transcripts/final/wPyLc557tKM-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse aXPHzXCzgCo — `Video-aXPHzXCzgCo-synthese`
-
-*Rattachement : 0.4557 · `podcasts/syntheses/Video-aXPHzXCzgCo-synthese.md`*
-
-> [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/Carriere Leadership/couple-rupture-difficile.md) [Les couples ne fonctionnent plus – matin](./formations/Couple Relations Longues/couple-rupture-difficile-matin.md) [Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures L](./formations/couple-rupture-difficile.md)
-
-> Points clés** : Discussion duKas-trackataropathe et de la dépression nerveuse suite à une rupture Le narrateur partage son expérience personneavec un beta-bloquant pendant un an Récurrent rêve pénètrant sur la rupture qui prend des proportions thérapeutiqu Exemple d'un "Alexandre" de 19 ans ayant une rupture difficile suivie d'une thérapie spécialis Réflexion sur l'effort intellectuel de ne pas suspender son incrédulité Le vidéo-scopesie comme moment préféré de la semaine
+- La question centrale : qui dirige réellement le trio ? Édouard souligne que la mise en scène visuelle place l'homme (Guillaume) au centre, mais que l'observation des paroles, regards et postures suggère que c'est Ludmila qui régente l'échange. L'homme apparaît "pusillanime", "introverti", avec un regard "perdu" et une "mollesse générale" qui contraste avec la présence vocale de la femme.
+- L'analyse sociologique du casting : Selon Édouard, les participants appartiennent à la "bonne province de commerçants" — enfants de médecins généralistes, pharmaciens, commerçants ou propriétaires de bijouteries. Ce sont des gens qui "ont le temps", ce qui renvoie à l'histoire du libertinage, pratique d'abord aristocratique puis bourgeoise.
+- Le collier de perles comme symbole : Présenté comme un pastiche des codes bourgeois — Vestige d'une bourgeoisie du XIXe siècle que plus personne ne pratique réellement. Ce sont des "fils employés" qui achètent ces colliers sur eBay pour se donner une contenance sociale.
+- L'ascension sociale par l'apparence : Ludmila compenserait par les signes extérieurs (tatouages, ceinture Gucci) un parler et des expressions qui trahissent un "passé récent d'employée de la restauration", de "grosse fumeuse" ou de "gérante de clubs de sport".
+- La prétérition révélatrice : Le discours de Guillaume — "je ne veux pas qu'elle ait l'impression d'être le jouet d'un couple" — constitue une confirmation par négation : on ne peut pas échapper au statut de jouet temporaire dans une relation à trois.
+- Un jeu de façade : Tout dans l'échange (les expressions, les postures, les regards) relèverait davantage du "jeu" que de l'authenticité, avec une impression croissante que Guillaume et Stéphanie sont de simples "objets" dans l'histoire de Ludmila.
 
 ### Synthèse : Pour surmonter une rupture, n'imite pas cette youtubeuse — `Pour-surmonter-une-rupture,-n'imite-pas-cette-youtubeuse-synthese`
 
-*Rattachement : 0.3971 · `podcasts/syntheses/Pour-surmonter-une-rupture,-n'imite-pas-cette-youtubeuse-synthese.md`*
+*podcast · `Pour-surmonter-une-rupture,-n'imite-pas-cette-youtubeuse-synthese.md`*
 
-> [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/Carriere Leadership/couple-rupture-difficile.md) [Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER](./formations/Sedirection Rencontres/developpement-personnel-2-tenacite-apprendre-a-ne-rien-lacher-matin.md) [Développement personnel, 2 : ON – NE – LÂCHE – RIEN](./formations/Sedirection Rencontres/resilience.md) [Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures L](./formations/couple-rupture-difficile.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Développement personnel, 2 : ON – NE – LÂCHE – RIEN](./formations/developpement-personnel-2-on-ne-lache-rien.md) [Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER](./formations/developpement-personnel-2-tenacite-apprendre-a-ne-rien-lache.md) [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss.md) [Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures L](./formations/le-couple-a-lrsquoancienne-crsquoest-du-passe-encaissez-les-.md) [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/le-couple-a-lrsquoancienne-crsquoest-du-passe-encaissez-les-ruptures-like-a-boss.md)
-
-> Thème central Analyse d'une youtubeuse qui conseille sur la façon de surmonter une rupture, avec décryptage des conseils dangereux ou inadaptés.
-
-### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
-
-*Rattachement : 0.3715 · `podcasts/syntheses/Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
-
-> Le mécanisme** : 1. L'homme rend service sans qu'on le demande 2. Il attend une "reconnaissance" implicite 3. La femme ne comprend pas cette attente non formulée 4. L'homme accumule de la frustration 5. "J'ai fait tout ça pour elle et elle ne me donne rien"
-
-> 5. Le cycle de l'esclavage moderne 1. L'homme est attiré par une femme 2. Il fait des "petits services" non demandés pour lui plaire 3. Il attend une gratification indirecte (reconnaissance, affection, sexe) 4. La femme ne comprend pas ou feint de ne pas comprendre cette attente 5. L'homme accumule de la frustration 6. Cela mène à l'explosion ("péter un câble")
 
 ### Synthèse – L_O9dPuT_jE — `Video-L_O9dPuT_jE-synthese`
 
-*Rattachement : 0.3572 · `podcasts/syntheses/Video-L_O9dPuT_jE-synthese.md`*
+*podcast · `Video-L_O9dPuT_jE-synthese.md`*
 
-> [Relations longues I : le vaccin anti obsession amoureuse](./formations/Couple Relations Longues/relation-longue.md) [# Sources et références croisées](./formations/Relations H-F/logique-feminine.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss.md) [Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures L](./formations/le-couple-a-lrsquoancienne-crsquoest-du-passe-encaissez-les-.md) [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/le-couple-a-lrsquoancienne-crsquoest-du-passe-encaissez-les-ruptures-like-a-boss.md) [Relations longues I : le vaccin anti obsession amoureuse](./formations/relation-longue.md)
 
-> Stéphane explique que cette obsession est "presque logique" – à la fois en logique féminine et masculine. On ne peut pas reprocher à quelqu'un d'être dans cette obsession car elle découle directement de mécanismes psychologiques naturels.
+## Ses développements sur le sujet
 
-## Ses écrits sur ce thème (ancien site)
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*« 7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md » · origine : lien-declare*
 
-### Comment rompre — `web-articles__1206_comment-rompre.html`
+> Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
 
-*Rattachement : 0.4009 · `sources-publiques/spikeseduction-archive/web-articles__1206_comment-rompre.html.txt`*
+### Synthèse : Je ne refuserais pas un p'tit "coup d'deux" avec ces deux-là — ttRaEas4lAY — `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese`
 
-### Spike Séduction — `web-articles__13663_vie-en-couple.html`
+*« Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.2895 · `sources-publiques/spikeseduction-archive/web-articles__13663_vie-en-couple.html.txt`*
-
-### Les plus &laquo;&nbsp;beaux&nbsp;&raquo; mails de rupture (façon de parler) | Spike S&eacute;duction — `web-articles__21071_meilleurs-mails-de-rupture.html`
-
-*Rattachement : 0.2502 · `sources-publiques/spikeseduction-archive/web-articles__21071_meilleurs-mails-de-rupture.html.txt`*
-
-### Spike Séduction — `web-articles__983_seduire-sa-femme.html`
-
-*Rattachement : 0.2361 · `sources-publiques/spikeseduction-archive/web-articles__983_seduire-sa-femme.html.txt`*
-
-### Spike Séduction — `web-articles__seduction-avance__15354_amitie-homme-femme-jusque-quand.html`
-
-*Rattachement : 0.2296 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__15354_amitie-homme-femme-jusque-quand.html.txt`*
+> La question centrale : qui dirige réellement le trio ? Édouard souligne que la mise en scène visuelle place l'homme (Guillaume) au centre, mais que l'observation des paroles, regards et postures suggère que c'est Ludmila qui régente l'échange. L'homme apparaît "pusillanime", "introverti", avec un regard "perdu" et une "mollesse générale" qui contraste avec la présence vocale de la femme.
 
 ## Concepts
 
 Étape 1 : Acknowledge (Reconnaître) · Étape 2 : Analyze (Analyser) · Étape 3 : Advance (Avancer)
-
-## Points clés
-
-- Le couple « à l'ancienne » est un mythe — les statistiques montrent que la plupart des couples ne restent pas ensemble
-- La rupture est une expérience normale, pas une catastrophe — c'est le frame qui détermine l'impact
-- L'homme qui encaisse une rupture « like a boss » ne s'effondre pas, ne supplie pas, ne menace pas
-- La femme qui encaisse une rupture « like a boss » ne manipulate pas, ne victimise pas, ne menace pas desuicide
-- Le vrai échec n'est pas la rupture — c'est de ne pas en sortir grandi
-- Les « couples modernes » ne fonctionnent pas mieux que les anciens — ils fonctionnent différemment, pas mieux
 
 ---
 

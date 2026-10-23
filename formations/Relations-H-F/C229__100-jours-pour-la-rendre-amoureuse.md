@@ -4,15 +4,17 @@ titre: "100 jours pour la rendre amoureuse"
 categorie: "Relations H-F"
 categorie_brute: "Relations H-F"
 slug: "construire-une-relation"
-slug_catalogue: "construire-une-relation"
 url: "https://mat-consulting.fr/catalogue/construire-une-relation/"
 statut: citations
 mots_fiche: 3983
 mots_verbatim: 0
-mots_page_produit: 1070
+mots_annonce: 990
+programme: 10
+sections_annonce: 9
+points_annonce: 11
+documents_materiau: 4
+idees_forces: 16
 citations: 3
-extraits_voix: 15
-tracklist: 10
 doublon_titre: oui
 ---
 
@@ -20,28 +22,24 @@ doublon_titre: oui
 
 **C229** · Relations H-F · 3983 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/construire-une-relation/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> dérouler un plan de jeu idéal les 100 premiers jours de relation, échapper aux pièges courants et atteindre un pic de niveau d’intérêt
+1. Femmes sous influence (des réseaux sociaux)
+2. Illusion d’optique : le « cercle élargi »
+3. « Dans ma logique à moi »
+4. Changement de comportement avec la technologie
+5. Ambitieux mais réaliste
+6. Femme-enfant / Femme-femme / Femme-mère
+7. Des poules à la finale 🏆
+8. La charge émotionnelle
+9. Le [secret agenda](https://mat-consulting.fr/produit/secret-agenda/)
+10. L’exclusivité
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Femmes sous influence (des réseaux sociaux)
-- Illusion d’optique : le « cercle élargi »
-- « Dans ma logique à moi »
-- Changement de comportement avec la technologie
-- Ambitieux mais réaliste
-- Femme-enfant / Femme-femme / Femme-mère
-- Des poules à la finale 🏆
-- La charge émotionnelle
-- Le [secret agenda](https://mat-consulting.fr/produit/secret-agenda/)
-- L’exclusivité
-
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
+*Page produit : https://mat-consulting.fr/catalogue/construire-une-relation/ — 990 mots de sa prose.*
 
 ### Quand vous « improvisez » vos débuts de relation, il se passe quoi ?
 
@@ -50,8 +48,6 @@ J’ai donné des centaines d’études de cas, à l’issue desquelles je puis 
 Si j’étais un _webmarketeur_ (ou un voleur, ce qui revient à peu près au même), je vous vendrais un pilule magique pour résoudre ce problème instantanément, ou bien je vous vendrais un ebook de 47 pages du style « casé en 1 semaine »… Mais aujourd’hui, se caser avec la première femme disponible n’ai rien de compliqué, n’importe quel con peut le faire ! Choisir une personne qui nous plaît, qui ne nous connaît ni d’Eve ni d’Adam, et faire monter son niveau d’intérêt de rien du tout à >90 % en trois mois, c’est une autre paire de manches, et c’est le sujet du séminaire.
 
 Réfléchissons ensemble un instant, avec notre fameuse « veste de sociologue » (les sociologues ont souvent une veste, souvent moche, mais c’est un autre débat)
-
-## PETITE SOCIOLOGIE DE LA RENCONTRE
 
 ### Comment faisait votre grand-père ?
 
@@ -69,7 +65,7 @@ Mais bon, l’un dans l’autre, les débuts étaient encore relativement simple
 
 Aujourd’hui, au cas où vous ne l’auriez pas encore remarqué, les rencontres et les débuts de relation sont 100 fois plus compliquées qu’avant. Un sondage de 2024 montre que **45% des moins de 25 ans n’ont jamais abordé une femme de leur vie**. Et quand bien même les échanges _online_ pallieraient cette carence, il n’empêche que l’enchaînement des premiers rendez-vous est d’autant moins évident qu’elle – que vous le vouliez ou non – **bien d’autres prétendants que vous**.
 
-#### Quels sont ces fameux obstacles ?
+### Quels sont ces fameux obstacles ?
 
 - la disparition pure et simple du statut de « célibataire » au profit d’une « solitude peuplée » (peuplée de tous ses exs, plus de ses courtisans du moment, plus des blaireaux qui la contactent sur Facebook et sur Internet, soit autant de fantômes et d’ennemis qu’il vous faudra stratégiquement dégager avant d’espérer une quelconque intégrité de sa part)
 - la confusion du libéral et du libertaire (« je suis libre », « je veux tout essayer », « ne rien m’interdire », etc.),
@@ -81,7 +77,14 @@ Aujourd’hui, au cas où vous ne l’auriez pas encore remarqué, les rencontre
 
 Bref, tout concourt à vous mettre dans des situations de panade telles que je dois, chaque jour, en phone coaching,  vous fournir des stratégies diaboliquement compliquées pour vous sortir des situations **encore plus compliquées** dans lesquelles vous vous êtes mis vous-même !
 
-## COUCHER N’EST PAS UN « ABOUTISSEMENT » ! C’EST AU CONTRAIRE LÀ QUE TOUT COMMENCE…
+
+- la disparition pure et simple du statut de « célibataire » au profit d’une « solitude peuplée » (peuplée de tous ses exs, plus de ses courtisans du moment, plus des blaireaux qui la contactent sur Facebook et sur Internet, soit autant de fantômes et d’ennemis qu’il vous faudra stratégiquement dégager avant d’espérer une quelconque intégrité de sa part)
+- la confusion du libéral et du libertaire (« je suis libre », « je veux tout essayer », « ne rien m’interdire », etc.),
+- l’allongement de la durée de la vie (qui fait que nos 30 ans correspondent à nos 20 ans d’avant),
+- la surpondération du sentiment (du « feeling ») dans tous les choix, au détriment du rationnel
+- la quasi obligation sociale de goûter à l’interdit sous peine d’être vue comme une cruche
+- les fréquentes expatriations, erasmus, tour du monde, etc.
+- les inégalités sociales exacerbées entre les continents (femmes africaines, roumaines, russes, etc., je vous passe le bonjour mais essayez de rester bien loin de mon porte monnaie s’il vous plaît merci ! )
 
 ### Un constat
 
@@ -94,7 +97,13 @@ Si vous vous croyez « ensemble » parce que vous avez échangé furtivement q
 
 dans des proportions dont vous n’avez même pas idée!
 
-## LES 7 BÉNÉFICES DE CETTE JOURNÉE POUR VOUS
+
+- utilisé(ressource)
+- manipulé(mensonges)
+- abusé(exit, la confiance en soi)
+- voire, dans le pire des cas, trompé(no comment…)
+
+### LES 7 BÉNÉFICES DE CETTE JOURNÉE POUR VOUS
 
 1. Du « triple V »: Vécu, Vrai, Vérifié
 2. Une méthode « Step by step » (pas à pas)
@@ -106,120 +115,73 @@ dans des proportions dont vous n’avez même pas idée!
 
 Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérêt (le sien) égal ou supérieur à 90 %… ou bien ce ne sera **jamais plus** le cas.
 
-*Métadonnées de la page produit : 1286 téléchargements.*
+
+- Du « triple V »: Vécu, Vrai, Vérifié
+- Une méthode « Step by step » (pas à pas)
+- Plus de confiance en soi
+- Anticipez et évitez toutes les embûches classiques qu’elles poseront sur votre chemin
+- Du temps gagné sur ce que vous auriez appris partout ailleurs
+- Le courage de dire la réalité des rapports hommes-femmes, même quand elle n’est pas belle (ce qui, hélas, est souvent le cas)
+- Toujours plus de discernement et d’exemples de langage des femmes
+
+## La matière qu'il a lui-même déclarée
+
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
+
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
+
+*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+
+- Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+- Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
+- Mutisme sur sa propre vie sentimentale : Ses histoires vous resteront opaques, les questions recevant des réponses laconiques (« oui », « non »), quand elles ne sont pas simplement éludées.
+- Émotions disproportionnées : Des événements anodins la plongeront dans des pleurs inexpliqués, sans qu'aucune justification ne soit jamais offerte.
+- Insistance sur le contact physique : L'exigence de câlins entre hétérosexuels crée, selon l'orateur, une tension permanente liée aux « érections involontaires » — problème qu'il qualifie lui-même d'impossible à clarifier.
+- Traitement de « gendre potentiel » par sa famille : Lors des présentations familiales, les sous-entendus matrimoniaux deviennent explicites (remarques sur le « métissage », questions sur le baptême).
+- Fâcheries chronophages et disproportionnées : Des conflits mineurs (fenêtre ouverte oubliée sous la pluie) génèrent des bouderies de plusieurs jours, semaines, voire des reproches ressassés des années après.
+
+### Esther Villard - La manipulation dans les relations hommes-femmes — `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese`
+
+*podcast · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
+
+
+### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
+
+*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+
+
+### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
+
+*podcast · `Video-tiDHbY0rQKQ-synthese.md`*
+
+- L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
+- La logique prostitutionnelle : Louer son intimité (corps, vie de couple, secrets familiaux) détruit structurellement son intégrité psychique : addictions, dépression, pensées suicidaires, isolement. Miss Amérique 2019 s'est défenestrée trois jours avant le tournage.
+- La logique consumériste : La dépendance au nombre de vues engendre trois tendances :
+- a) Tendance aux défis (fabrique à faux suspense, baisse d'attention inéluctable)
+- b) Instabilité chronique (déménagements, changements de thème, simulate d'émotions)
+- c) Hyperbole de la promesse (clickbait, mensonges, fact-checking, micro-agressions, vraie persécution)
+- La spirale descendante : Les trois logiques se nourrissent mutuellement : autophagie + prostitution → atteinte à l'intégrité ; + consumérisme → persécution confirmée par l'audience elle-même.
+- L'exception confirmant la règle : Édouard précise que son propre modèle économique diffère — ses revenus YouTube ne représentent que ~5 % de ses revenus globaux ; il troque parfois une audience modeste contre l'exposition d'un contenu exigeant (séminaires).
+
+## Ses développements sur le sujet
+
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
+
+*« 7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md » · origine : lien-declare*
+
+> Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+
+### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
+
+*« Video-tiDHbY0rQKQ-synthese.md » · origine : lien-declare*
+
+> L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
 
 ## Citations de l'auteur
 
 - « L'intelligence relationnelle, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux. »
 - « L'intelligence, ça n'est ni le conformisme ni l'anticonformisme. C'est savoir juger à chaque instant dans chaque situation de ce qui est bon et de ce qui ne l'est pas. »
 - « 75% des comportements s'expliquent par l'intérêt économique, 15-20% par l'émotionnel/sexy, et 5% par le moral/symbolique. »
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video wPyLc557tKM — `wPyLc557tKM`
-
-*Rattachement : 0.2913 · `podcasts/transcripts/final/wPyLc557tKM-transcript.md`*
-
-### Faites toujours confiance aux femmes — `zPQjWorSYok`
-
-*Rattachement : 0.2162 · `podcasts/transcripts/final/zPQjWorSYok-transcript.md`*
-
-> 3. bien c'est que on est directement dans une forme de neutralité et d'absence de parti pris c'est à dire que au titre d'abolir la partition hommes femmes et donc de ne pas imaginer les enfermer dans des rôles où l'un des rôles seraient plus dominant le plus bas le terme on commence par nous dire apprenez à encenser une femme sous-entendu les les femmes je ne suis pas sûr que sémantiquement il est la nuance que moi j'ai de dire la femme avec un grand f les femmes avec un petit être comme l'homme
-
-> 10. petit peu 3 ce n'est pas joli joli de persuader une femme d'avoir une relation sexuelle avec vous jamais de la vie arrivé moi je bon d'abord j'ai pas besoin vraiment persuadé quelque chose quand on est un peu en visibilité c'est plutôt le contraire si on reçoit plutôt des messages qu'il tente de nous persuader de deux trucs que le contraire mais quand bien même à imaginons que je n'ai aucun capital ni physique ni économique mais macha je n'ai jamais vu ou su comment persuader une femme d'avoir
-
-> 38. points deux points leur point acte poi poi poi bien dans ce cas là quid des femmes en fait quid d'une femme ivre qui suit un homme dans sa chambre et qui des cuves et qui quand elle les cuves se rend compte qu'elle est nu est elle responsable de sa propre ivresse 10 quand une femme amal croyait là les règles sont douloureuses l'endométriose et réel les ovaires polykystiques douleurs vaginales cystite tout cela existe bel et bien j'ai pas encore rencontré l'homme qui doutent à de l'existence des
-
-### Video RXzoGgm2oVo — `RXzoGgm2oVo`
-
-*Rattachement : 0.2139 · `podcasts/transcripts/final/RXzoGgm2oVo-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=RXzoGgm2oVo Titre**: Casser la routine du couple : comprendre ce que l'autre abdique pour vous (extrait #1 du séminaire) Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/RXzoGgm2oVo.md`).
-
-### A Dive into the Brain of a Child-Woman — `M2-I4Ewy40U`
-
-*Rattachement : 0.2114 · `podcasts/transcripts/final/M2-I4Ewy40U-transcript.md`*
-
-> 11. à tout dès que je ne sais pas je n'ai que je ne regarde pas je ne touche pas je ne creuse pas je n'essaye pas je regarde si quelqu'un a eu le problème avant moi et ewe le tutorial sur youtube on en fabrique une génération évidemment la femme n'est pas plus bête que l'homme mais la femme développe - d'anticorps aux injonctions de l'époque d'où sa capacité à suivre plus les modes 1 donc elle l injonction de l'époque c'est tout sera tutoriel tout un tutorial et la femme ne va encore plus
-
-> 8. puis on va voir que malheureusement un petit peu quoi donc là ce qu'elle vienne nous dire là c'est qu'une jeune femme une femme jeune donc a priori une femme enfant qui n'est pas en surpoids et qui semble en parfaite santé n'est pas capable de co2 faire un effort de plus de 5 minutes sans ressentir l'ennui et l'épuisement c'est ça ou c'est pas ça factuellement ces jeux je suis en pleine forme je suis jeune je ne peux pas courir cinq minutes sans me semble sans emmerder me faire chier si tu veux
-
-> 1. christophe qu'est ce que tu fais dans les deux prochaines minutes et 16 secondes à une spécialité dispo hockey vient plonger avec moi dans le cerveau d'une femme enfant c'est frais ça va faire un choc je te préviens si t'es pas habitués ça va être un choc c'est ce fameux zone d'influencé moi je suis pas dans la ligne dominante je tente juste dans ma logique à mon htc evo j'ai pas la pire il indiqué vous ne pouvez pas correctement traité un problème et oui la vidéo du jour le commande comment on
-
-### Video E2VkPTNEVvI — `E2VkPTNEVvI`
-
-*Rattachement : 0.2022 · `podcasts/transcripts/final/E2VkPTNEVvI-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
-
-*Rattachement : 0.442 · `podcasts/syntheses/L'intelligence-relationnelle-1-synthese.md`*
-
-> Logique des Hommes / Logique des Femmes** : Fondation de l'intelligence relationnelle — comprendre les deux logiques est essentiel pour toute relation. Discernement** : L'outil principal de l'intelligence relationnelle — capacité à juger par soi-même. Vidéoscopie** : Exercice pratique pour développer son intelligence relationnelle — former son œil aux micro-signaux. Pression sélective** : Comment fonctionne la sélection dans les relations modernes (explication dans la partie 2). Hypergamie** : Comprendre pourquoi les femmes cherchent vers le haut et les hommes acceptent plus facilement vers le bas.
-
-> Thème central Les fondements de l'intelligence relationnelle : comprendre comment les gens pensent, fonctionnent et interagissent, et développer sa capacité à lire les dynamiques sociales pour naviguer les relations hommes-femmes avec discernement.
-
-### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
-
-*Rattachement : 0.3835 · `podcasts/syntheses/Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
-
-> 3. L'incohérence féminine comme principe L'incohérence féminine n'est pas un défaut mais un mécanisme de défense de la logique féminine. Quand une femme dit "je ne suis pas incohérente, je suis juste dans ma logique à moi", elle exprime le fait que la logique féminine opère différemment de la logique masculine - non pas comme une contradiction mais comme un système autonome.
-
-> La distinction cruciale** : L'homme demande "pourquoi ?" et attend une réponse cohérente. La femme ne fonctionne pas comme ça. Elle est dans sa logique, pas dans la logique masculine. Accepter cette différence c'est comprendre que l'incohérence n'est pas un défaut - c'est une nature.
-
-### L'intelligence relationnelle (2ème partie) — `L'intelligence-relationnelle-2-synthese`
-
-*Rattachement : 0.3787 · `podcasts/syntheses/L'intelligence-relationnelle-2-synthese.md`*
-
-> Logique des Hommes / Logique des Femmes** : La logique masculine est Structurante (H), féminine Différenciatrice (F). Fondation de toute intelligence relationnelle. Discernement** : L'intelligence relationnelle est l'application du discernement aux relations — comprendre les vrais moteurs des comportements. Vidéoscopie** : L'analyse des vidéos permet de former son œil aux micro-signaux et à la lecture des comportements réels. Pression sélective et hypergamie** : Mécanismes fondamentaux à comprendre pour naviguer les relations modernes. La dette sexuelle** : Concept connexe pour comprendre les dynamiques relationnelles.
-
-> Homme struktureur vs Femme différenciatrice** : L'homme structure (met en ordre, hiérarchise, prouve), la femme différencie ( trie, évalue, sélectionne). Deux logiques irréductibles à comprendre séparément.
-
-### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
-
-*Rattachement : 0.367 · `podcasts/syntheses/Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
-
-> La disponibilité féminine n'est donc pas l'absence de relations mais l'absence de dépendance affective et existentielle. Une femme "disponible" au sens de Stéphane est une femme whose life is full, qui ne cherche pas à remplir un vide par une relation.
-
-> La logique de la valeur perçue** : Quand une femme possède beauté + intelligence + disponibilité, elle émet un signal paradoxal : "Je n'ai pas besoin de vous" tout en étant objectivement attirante. L'homme doit alors decide : est-ce que je vais quand même ? Ou est-ce que je cherche quelqu'un de plus "abordable" ?
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Ce que j&rsquo;aime et ce que je n&rsquo;aime pas chez une femme — `web-articles__seduction-avance__14228_comment-plaire-a-un-garcon.html`
-
-*Rattachement : 0.2649 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__14228_comment-plaire-a-un-garcon.html.txt`*
-
-### Spike Séduction — `web-articles__17183_5-profils-psycho-masculins.html`
-
-*Rattachement : 0.2574 · `sources-publiques/spikeseduction-archive/web-articles__17183_5-profils-psycho-masculins.html.txt`*
-
-### Spike Séduction — `web-articles__seduction-avance__17183_5-profils-psycho-masculins.html`
-
-*Rattachement : 0.2571 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__17183_5-profils-psycho-masculins.html.txt`*
-
-### Voyage dans le monde de la psycho-sociologie : comprendre les gens | Spike Séduction — `web-actualite__19022_comprendre-les-gens.html`
-
-*Rattachement : 0.2462 · `sources-publiques/spikeseduction-archive/web-actualite__19022_comprendre-les-gens.html.txt`*
-
-### Spike Séduction — `web-articles__983_seduire-sa-femme.html`
-
-*Rattachement : 0.2366 · `sources-publiques/spikeseduction-archive/web-articles__983_seduire-sa-femme.html.txt`*
-
-## Points clés
-
-- Construire une relation demande du temps, de la constance, et de la lucidité
-- L'intelligence relationnelle est la compétence centrale — comprendre comment les gens fonctionnent vraiment
-- Les comportements révèlent la vérité — les paroles sont toujours un tissu entre vérité et mensonge
-- La logique masculine (H pur) et la logique féminine (F) sont irréductibles — comprendre les deux est essentiel
-- L'homme doit prouver sa valeur, pas sa simple disponibilité
-- La femme cherche l'hypergamie — vers le haut dans la hiérarchie
-- La disponibilité au sens de "vacances" (avoir une vie propre) est le véritable attracteur
-- 75% des comportements visent l'intérêt économique — comprendre cela aide à naviguer les relations
 
 ---
 

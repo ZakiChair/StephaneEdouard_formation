@@ -4,15 +4,17 @@ titre: "Cultivez votre INTELLIGENCE ÉMOTIONNELLE"
 categorie: "Intelligence Sociale"
 categorie_brute: "Intelligence Sociale"
 slug: "cultivez-votre-intelligence-emotionnelle"
-slug_catalogue: "intelligence-emotionnelle"
 url: "https://mat-consulting.fr/catalogue/intelligence-emotionnelle/"
 statut: reconstituee
 mots_fiche: 2826
 mots_verbatim: 0
-mots_page_produit: 875
+mots_annonce: 717
+programme: 7
+sections_annonce: 8
+points_annonce: 4
+documents_materiau: 4
+idees_forces: 42
 citations: 0
-extraits_voix: 9
-tracklist: 7
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C070
@@ -24,29 +26,23 @@ confiance: 1.0
 
 **C234** · Intelligence Sociale · 2826 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/intelligence-emotionnelle/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> 26 septembre 2026, 14h-17h
+1. Une anecdote vieille de 3000 ans et toujours d’actualité : quand l’étymologie qui change tout
+2. Les péchés capitaux et ce qu’ils continuent de drainer à votre insu
+3. Les 5 fils qui vous font bouger comme une marionnette, sans que vous le sachiez
+4. Les 5 émotionnels dans lesquels vous vous empêtrez (votre intuition en fait-elle partie ?)
+5. Hommes et femmes ne vivent pas l’int. émo. de la même façon
+6. Sortir des 6 cases : cultiver une variété d’émotions
+7. Int. émo. mode d’emploi : ce qu’il faut faire, tous les jours
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Une anecdote vieille de 3000 ans et toujours d’actualité : quand l’étymologie qui change tout
-- Les péchés capitaux et ce qu’ils continuent de drainer à votre insu
-- Les 5 fils qui vous font bouger comme une marionnette, sans que vous le sachiez
-- Les 5 émotionnels dans lesquels vous vous empêtrez (votre intuition en fait-elle partie ?)
-- Hommes et femmes ne vivent pas l’int. émo. de la même façon
-- Sortir des 6 cases : cultiver une variété d’émotions
-- Int. émo. mode d’emploi : ce qu’il faut faire, tous les jours
+*Page produit : https://mat-consulting.fr/catalogue/intelligence-emotionnelle/ — 717 mots de sa prose.*
 
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-Cela fait trente ans qu’on vous bassine avec l’idée que l’intelligence émotionnelle serait « el nuvo QI ». Goleman l’a écrit en 1995, les RH l’ont récupéré sans vergogne (les RH ont rarement de la vergogne), _LinkedIn_ l’a mu en une litanie hebdomadaire, et au bout du compte, personne ou presque n’est plus fichu de dire concrètement de quoi il s’agit, comment savoir si vous en avez, et surtout **comment vivre avec.** Qu’on en soit doté ou pas. Ce séminaire est ma réponse à ce vide.
-
-## « L’intelligence émotionnelle ? Encore un truc de pleurnichards en quête de validation. Moi je gère, je suis pas une chochotte. »
+### « L’intelligence émotionnelle ? Encore un truc de pleurnichards en quête de validation. Moi je gère, je suis pas une chochotte. »
 
 Bonne remarque. Fausse, mais bonne.
 
@@ -55,8 +51,6 @@ Bonne remarque. Fausse, mais bonne.
 Non identifiées et non gérées, les émotions sont seules aux commmandes
 
 2\. Ensuite parce qu’à l’autre extrême, le marché du développement personnel a transformé l’IE en culte de la sensiblerie : « exprimer ses ressentis », « honorer son enfant intérieur » (sic), « faire (une) confiance (aveugle) à ses émotions » 🤮… toute une psychologie de tisane (voire de _matcha_ 🍵♨️)  qui tourne en rond autour de son vagin sec et fabrique des éponges incapables de prendre une quelconque décision pour leur bien.
-
-## Je vous donnerai ma définition _inédite_ en séminaire…
 
 ### …mais en attendant
 
@@ -71,11 +65,17 @@ L’intelligence émotionnelle n’est ni la rétention virile à l’ancienne n
 
 Si vous bloquez sur deux questions ou plus : ce séminaire est pour vous. Si vous répondez _oui_ à tout sans hésiter : ce séminaire est _aussi_ pour vous, parce que les sur-dotés ont leurs propres problèmes : à tout sentir, tout le temps, chez tout le monde, vous vous épuisez à charrier des émotions qui ne sont pas les vôtres et leur cortège de sur-interprétations farfelues, et vous finissez par **confondre empathie avec servitude**.
 
+
+- Savez-vous distinguer une colère d’une frustration ? Une tristesse d’une déception ? Une honte d’une culpabilité ?
+- Quand quelqu’un vous agace, êtes-vous capable de dire, en trente secondes, si c’est lui ou si c’est vous (votre fatigue, votre humeur, votre journée) ?
+- Dans une réunion, repérez-vous qui ment, qui force, qui souffre ?
+- Vous arrive-t-il de vous faire avoir deux fois par le même manipulateur émotionnel ?
+
 ### Managers, parents, vendeurs, négociateurs, séducteurs, soignants ?
 
 Question subsidiaire à tous ceux qui passent leur journée à interagir avec des gens dont l’IE est très différente de la leur : comment lire un _sous-doté_ quand on est _sur-doté_ (et l’inverse) ? Comment ne pas projeter ni se faire embarquer ?
 
-## Le côté obscur de l’IE (ce que Goleman ne dit pas)
+### Le côté obscur de l’IE (ce que Goleman ne dit pas)
 
 Le secret le mieux gardé du milieu : un haut quotient émotionnel fait souvent un meilleur manipulateur
 
@@ -83,7 +83,7 @@ Regardez autour de vous : le gourou qui retient ses ouailles, le politicien qui 
 
 C’est sans doute la partie de la journée qui dérangera le plus les bien-pensants. Aussi celle qui change le plus la vie de ceux qui se font régulièrement avoir. Chacun(e) sortira avec un mode d’emploi.
 
-#### Dis, Siri 🤯
+### Dis, Siri 🤯
 
 > _Le cerveau est le public obligé du corps_
 >
@@ -91,7 +91,12 @@ C’est sans doute la partie de la journée qui dérangera le plus les bien-pens
 
 Autrement dit : que vous le vouliez ou non, **tel Siri votre cerveau écoute en permanence ce que votre corps lui raconte**. Vos émotions ne sont pas une simple _vague à l’âme_, Ce sont des informations. Vous avez deux options : apprendre à les lire, ou continuer à être mu par elles comme un pantin
 
-## Infos pratiques
+
+> _Le cerveau est le public obligé du corps_
+
+> ~ Antonio Damasio, _L’Erreur de Descartes_, 1994.
+
+### Infos pratiques
 
 - Samedi **~~12~~ 26 septembre** 2026, **14h-17h**
 - 100% des client(e)s recevront l’enregistrement intégral au format audio, qu’ils soient venus en salle ou pas
@@ -102,89 +107,93 @@ Autrement dit : que vous le vouliez ou non, **tel Siri votre cerveau écoute en 
 
 _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Daniel_
 
-*Métadonnées de la page produit : 242 téléchargements.*
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+- Samedi **~~12~~ 26 septembre** 2026, **14h-17h**
+- 100% des client(e)s recevront l’enregistrement intégral au format audio, qu’ils soient venus en salle ou pas
+- Merci de préciser dans la commande ou directement à Nono si vous souhaitez participer au séminaire
+- Un contenu payant de tonton Stéphane, c’est (beaucoup) **plus travaillé** que ce que vous pouvez lire/voir/écouter gratuitement
+- Tous tes téléchargements restent disponibles **à vie** dans votre espace mon compte, pour peu que vous en ayez crée un (ça prend 1 minute)
+- Une facture avec TVA visible est disponible sur simple demande par email à notre cher Daniel Dellaconta\*
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
+## La matière qu'il a lui-même déclarée
 
-### Video ABaGrL_kdu8 — `ABaGrL_kdu8`
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-*Rattachement : 0.2196 · `podcasts/transcripts/final/ABaGrL_kdu8-transcript.md`*
+### SYNTHESE - 1EJbWzJtHS8 — `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese`
 
-### Video 9MgW8OG-oBY — `9MgW8OG-oBY`
+*podcast · `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md`*
 
-*Rattachement : 0.1928 · `podcasts/transcripts/final/9MgW8OG-oBY-transcript.md`*
+- L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
+- Première erreur : croire que les sentiments sont partagés automatiquement
+- Deuxième erreur : croire que la rupture est soudaine alors que c'est une lente descente
+- Le ressentiment vs retentissement : accumuler les petites blessures conduit à la rupture
+- L'absence d'empathie : partir du principe que ce qu'on ressent est réciproque
+- L'amour rend aveugle (faire l'autruche) - pour un homme, tomber amoureux c'est résoudre un problème
+- Critique de la victimisation : "tu n'es pas la cicatrice que t'a laissée ton ex"
+- *Lien avec formations** :
 
-### Video 9MgW8OG-oBY — `9MgW8OG`
+> "On ne peut pas décrire correctement un problème si on n'a pas les bons mots — et ce garçon n'a pas encore les bons mots pour comprendre sa rupture."
 
-*Rattachement : 0.1928 · `podcasts/transcripts/final/9MgW8OG-transcript.md`*
+### Je t'aime toujours, mais c'est mieux comme ça — Synthèse — `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese`
 
-### Video elWVinBUGDQ — `elWVinBUGDQ`
+*podcast · `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md`*
 
-*Rattachement : 0.192 · `podcasts/transcripts/final/elWVinBUGDQ-transcript.md`*
+- Décryptage : "Je t'aime toujours, mais c'est mieux comme ça" = rupture définitive, pas une pause.
+- Signaux forts : Réssentiment accumulé sur la durée, départ reflechi, pas impulsif.
+- "Je préfère être tranquille" = vous étiez une source de chaos émotionnel, il en a marre.
+- Le constat : Beaucoup ne comprennent ni le langage entre sexes, ni le langage écrit, ni les intentions.
+- Morale finale : Apprendre à écrire peut servir — à décoder et à éviter de répéter.
+- Ton : Direct, caustique, parfois drôle, très analytique.
 
-### Video Twk5FXQKdeM — `Twk5FXQKdeM`
+### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-*Rattachement : 0.1868 · `podcasts/transcripts/final/Twk5FXQKdeM-transcript.md`*
+*podcast · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
 
-## Ce qu'il a dit sur ce thème (podcasts)
+- La strip-tease comme "travail émotionnel" les hommes
+- Différence entre féminisme de droite (procédures judiciaires) et féminisme de gauche (spiritualité, cycle naturel, sorcellerie)
+- Les autodidactes ont du mérite quand ils restent dans leur domaine de compétence
+- Critique du développement personnel comme "bain d'ineptie"
+- L'abnégation comme virtue fondamentale : "faire quand tu n'as pas envie de faire"
+- Le rite de passage moderne = la rupture amoureuse (abandon)
+- *Lien avec formations** :
+- Force Mentale
 
-### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
-
-*Rattachement : 0.5499 · `podcasts/syntheses/Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
-
-> 1. La formule beauté + intelligence + disponibilité = constante Cette équation constitue le cœur de l'analyse. Elle signifie que : Quand quelqu'un possède les trois qualités (beauté, intelligence, disponibilité), cette personne devient automatiquement plus accessible aux autres Cette accessibilité accrue la rend également plus "volatile" sur le marché relationnel Les personnes qui cumulent ces trois attributs sont généralement celles qui attirent le plus mais aussi celles qui restent le moins longtemps disponibles
-
-> 2. La disponibilité comme concept à double sens Le mot "disponibilité" doit être compris dans deux sens : Sens littéral** : avoir du temps libre, être accessible Sens figuré (vacances)** : au sens de "vaquer à ses occupations" - c'est-à-dire avoir une vie propre, des intérêts, unpropre
+> "Quand tu es trop blanc pour les blacks et trop noir pour les whites, tu finis par tomber dans la catégorie trans — c'est le chaos identitaire."
 
 ### SYNTHESE - 1qsJG_wJPmY — `Smart-people-are-relational-jerks-synthese`
 
-*Rattachement : 0.2937 · `podcasts/syntheses/Smart-people-are-relational-jerks-synthese.md`*
+*podcast · `Smart-people-are-relational-jerks-synthese.md`*
 
-> [# Sources et références croisées](./formations/Intelligence Sociale/intelligence-emotionnelle.md) [Get a life](./formations/Sedirection Rencontres/changer-de-vie.md) [Get a life](./formations/changer-de-vie.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/cultivez-votre-intelligence-emotionnelle.md) [Gestion des Émotions](./formations/gestion-des-emotions.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/intelligence-emotionnelle.md)
+- L'effet de mode du diagnostic HP : confondre symptômes et causes
+- Les psychologues sont des "boutiquiers" qui ont intérêt à vous garder
+- Mauvaises notes + sensibilité ≠ surdoué (confusion marqueurs/symptômes avec causes)
+- Les HP croient pouvoir changer les autres comme ils se sont changés eux-mêmes — erreur
+- L'escalade des engagements : incapacité à quitter même quand la réalité montre l'échec
+- L'orgueil de ne pas vouloir se dédire = le vrai problème de Sophie
+- "L'infirmière" qui pense pouvoir guérir les addictions par sa présence
+- Rien ne peut aider ceux qui ne veulent pas être aidés
 
-> Synthèse principale Stéphane répond à un lecteur (Pierre, 33 ans, consultant en Belgique) sur le thème des personnes à haut potentiel (HP). Il démystifie le concept d'hypersensibilité et d'intelligence émotionnelle comme synonymes de haut potentiel. À travers l'exemple de Christophe et Sophie, il montre que l'incapacité à accepter la réalité et l'orgueil de ne pas vouloir se dédire sont les véritables problèmes relationnels.
+> "La vraie question n'est pas 'suis-je HP?' mais 'est-ce que j'accepte la réalité telle qu'elle est?' — sinon tu es juste un orgueilleux qui refuse de voir."
 
-### Synthèse – JOfi_gBD9OI — `Video-JOfi_gBD9OI-synthese`
+## Ses développements sur le sujet
 
-*Rattachement : 0.2926 · `podcasts/syntheses/Video-JOfi_gBD9OI-synthese.md`*
+### SYNTHESE - 1EJbWzJtHS8 — `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese`
 
-> [Discernement – après-midi](./formations/Intelligence Sociale/discenement-apres-midi.md) [Manipulation II (apres-midi)](./formations/Intelligence Sociale/manipulation-ii-apres-midi-2.md) [Manipulation II : obtenez ce que vous méritez](./formations/Intelligence Sociale/manipulation.md) [# Sources et références croisées](./formations/Reseau Influence/intelligence-sociale.md) [Intelligence sociale](./formations/intelligence-sociale.md) [Manipulation et Control](./formations/manipulation-et-control.md) [Manipulation II : obtenez ce que vous méritez](./formations/manipulation.md)
+*« Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md » · origine : lien-declare*
 
-> Points clés L'intelligence = capacité de synthèse** : À l'inverse du « flow » de pensées incontrôlables, qui serait plutôt signe d'un QI limité. L'intelligence structurée l'emporte sur le débit anarchique. Déconstruction du mythe HPI** : Le haut potentiel ne se Diagnostique pas par le simple fait d'avoir « la tête qui explosionne » — symptôme commun à de nombreuses configurations psychologiques. Mécanismes de manipulation sociale** : Isoler, effrayer, monter les uns contre les autres — autant de leviers utilisés pour maintenir les esprits en état de vigilance permanente, parfois à des fins politiques. Rôle de l'éducation et de la culture** : L'intelligence s'appuie sur un vocabulaire précis, une grammaire solide, et une capacité à raisonner au-delà des conformismes.
+> L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
 
-### L'intelligence relationnelle (2ème partie) — `L'intelligence-relationnelle-2-synthese`
+### Je t'aime toujours, mais c'est mieux comme ça — Synthèse — `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese`
 
-*Rattachement : 0.2842 · `podcasts/syntheses/L'intelligence-relationnelle-2-synthese.md`*
+*« Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md » · origine : lien-declare*
 
-> [Comment avoir du charisme (apres-midi)](./formations/Intelligence Sociale/comment-avoir-du-charisme-apres-midi.md) [Manipulation, I : qui vous ment et comment](./formations/Intelligence Sociale/detecter-le-mensonge.md) [Comment avoir du charisme](./formations/Intelligence Sociale/developper-son-charisme.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/Intelligence Sociale/prendre-le-pouvoir.md) [Briller en ligne, le charme discret du texto parfait](./formations/briller-en-ligne-le-charme-discret-du-texto-parfait.md) [Manipulation, I : qui vous ment et comment](./formations/detecter-le-mensonge.md) [Comment avoir du charisme](./formations/developper-son-charisme.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-mi.md)
+> Décryptage : "Je t'aime toujours, mais c'est mieux comme ça" = rupture définitive, pas une pause.
 
-> Logique des Hommes / Logique des Femmes** : La logique masculine est Structurante (H), féminine Différenciatrice (F). Fondation de toute intelligence relationnelle. Discernement** : L'intelligence relationnelle est l'application du discernement aux relations — comprendre les vrais moteurs des comportements. Vidéoscopie** : L'analyse des vidéos permet de former son œil aux micro-signaux et à la lecture des comportements réels. Pression sélective et hypergamie** : Mécanismes fondamentaux à comprendre pour naviguer les relations modernes. La dette sexuelle** : Concept connexe pour comprendre les dynamiques relationnelles.
+### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-## Ses écrits sur ce thème (ancien site)
+*« La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md » · origine : lien-declare*
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Commandez le séminaire &laquo;&nbsp;intelligence sociale&nbsp;&raquo; — `web-actualite__4843_intelligence-sociale.html?preview=1`
-
-*Rattachement : 0.1965 · `sources-publiques/spikeseduction-archive/web-actualite__4843_intelligence-sociale.html?preview=1.txt`*
-
-### 12 réflexes pour être galant mais pas ringard | Spike Séduction — `web-articles__seduction-fondamentaux__17941_galant.html`
-
-*Rattachement : 0.1653 · `sources-publiques/spikeseduction-archive/web-articles__seduction-fondamentaux__17941_galant.html.txt`*
-
-### 25 sept 2010 : développez votre intelligence sociale — `web-actualite__4843_intelligence-sociale.html`
-
-*Rattachement : 0.1649 · `sources-publiques/spikeseduction-archive/web-actualite__4843_intelligence-sociale.html.txt`*
-
-### Faut-il dire la vérité aux enfants (sur les relations hommes-femmes) ? — `web-articles__seduction-avance__11471_declaration-amour-enfant.html`
-
-*Rattachement : 0.164 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__11471_declaration-amour-enfant.html.txt`*
-
-### Spike Séduction — `web-articles__11471_declaration-amour-enfant.html`
-
-*Rattachement : 0.1636 · `sources-publiques/spikeseduction-archive/web-articles__11471_declaration-amour-enfant.html.txt`*
+> La strip-tease comme "travail émotionnel" les hommes
 
 ---
 
@@ -213,18 +222,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C070`, en annonçant « reconstituée depuis C070 ». Jamais `C234` — la trace serait fausse.
-
-## Points clés
-
-- Le titre provocateur : "Arracher" contenu une violence symbolique que les critiques ont mal interprétée
-- Le concept de disponibilité : Vacances au sens de "vaquer à ses occupations" - celui qui a du temps et de l'intelligence est convoité
-- L'étude de cas : Nicolas, 32 ans de Lyon, appelle pou
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- Podcasts vidéo: S02E07 en ligne! les relations hommes femmes — `tierce-articles__17494_podcast-all.html__2` (rattachement 0.1986)
 
 ---
 

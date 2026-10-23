@@ -4,15 +4,17 @@ titre: "Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)"
 categorie: "Carriere & Leadership"
 categorie_brute: "Carriere Leadership"
 slug: "like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2"
-slug_catalogue: "like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2"
 url: "https://mat-consulting.fr/produit/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2/"
 statut: reconstituee
 mots_fiche: 1778
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 5
+idees_forces: 28
 citations: 0
-extraits_voix: 11
-tracklist: 0
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C016
@@ -24,93 +26,81 @@ confiance: 0.83
 
 **C012** · Carriere & Leadership · 1778 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video UaIIxVUQExQ — `UaIIxVUQExQ`
-
-*Rattachement : 0.084 · `podcasts/transcripts/final/UaIIxVUQExQ-transcript.md`*
-
-### You asked for inspiring women: here's one! (We do what we can) — `RHKEtIhrV3Y`
-
-*Rattachement : 0.0792 · `podcasts/transcripts/final/RHKEtIhrV3Y-transcript.md`*
-
-> 54. d'ailleurs, finalement, il n'a rien à voir avec ça. De temps en temps, il participe un peu avec moi quand j'ai besoin, tu vois. Il est il est OK, il est consentant, c'est carré. Mes parents, ils sont trop fiers de moi, de ouf. Genre même ma mère, elle veut m'aider à bosser et tout, genre enfin pas faire des vidéos avec moi parce que là, calmez-vous, je vous vois déjà. Non mais ils sont trop contents. Ils savent très bien que et c'est c'est trop bien. Ils sont trop heureux parce que je suis
-
-> 30. de 3 ans. Voilà, il a compris que c'était la sous-pape de sécurité quand tu stimulais les passions trop faciles de l'unter prolétariat. Le faire en anonyme tes vidéos elles peuvent sur terre. C'est pas un métier qu'il faut faire pour avoir confiance en soi. Il faut déjà avoir énormément confiance en soi pour le faire. Je n'ai jamais répondu à aucun message de femmes qui me demande comment l'idée de les montrer. Ça s'appelle du proxénétisme et c'est interdit par la loi. Je parle beaucoup de mon
-
-### Video JcGsPBD9E_w — `JcGsPBD9E_w`
-
-*Rattachement : 0.079 · `podcasts/transcripts/final/JcGsPBD9E_w-transcript.md`*
-
-### Un youtubeur geek sort de sa chambre et découvre le monde réel — `M6bXSt0f2b0`
-
-*Rattachement : 0.0768 · `podcasts/transcripts/final/M6bXSt0f2b0-transcript.md`*
-
-> 1. bon donc alors plus sérieusement moi j'adore être violée le matin a personnellement d'abord je suis du matin c'est pas toi tu es du matin et du soir s'il fut du matin on est le clan on devrait ouvrir le club du matin si vous êtes du matin hommes et femmes hashtag club du matin afin qu'on se reconnaissent entre nous le moment est venu d'accueillir un homme d' influence un homme dont beaucoup aujourd'hui se réclame chez nous comme le rappelait de manière très juste et saint édouard moi je suis pas
-
-> 51. interne armés je voudrais justement reichert janil beaussire eh bien mon contrôle fiscal tout bon donc alors plus sérieusement moi j'adore être violée le matin a j'ai pas toi tu es du matin et du soir aussi fut du matin on est le clan on reconnaissent entre nous un quand on se bat on se fera un petit grit et comme les franc mac ou quand on se grattera la paume de la main la club hashtag club du matin un homme d' influence d'abord moi j'aime qu'on viole le matin et se demande tout le temps et
-
-> 48. ma chambre on y viendra au réveil le matin alors qu'elle dort avec un s bravo la conjugaison encore paraît que c'est du viol et je m'en bats les couilles de temps que si c'est du viol alors c'est moi qui suis violer une fois sur deux bien bien bien bien bien à l'heure christophe si on parlait de la petite cuillère du dimanche matin quand on est un peu assoupie qu'est ce qu'on en pense chez and influence écoute moi pour moi en terme de gravité oh là là là et pour les propos n'engagent que
-
-### Video 1gpHfNf76g0 — `1gpHfNf76g0`
-
-*Rattachement : 0.0767 · `podcasts/transcripts/final/1gpHfNf76g0-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
-
-*Rattachement : 0.4755 · `podcasts/syntheses/Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
-
-> [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [# Sources et références croisées](./formations/Communication/ameliorer-sa-voix-avec-une-chanteuse-professionnelle-apres-midi.md) [# Sources et références croisées](./formations/Communication/ameliorer-sa-voix-avec-une-chanteuse-professionnelle-matin.md) [Développement personnel, 1: Decupler sa CREATIVITE (après midi)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-apres-midi.md) [Développement personnel, 1: Decupler sa CREATIVITE (matin)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-matin.md) [Développement personnel 1 : décupler sa créativité](./formations/developpement-personnel-1-decupler-sa-creativite.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-.md) [Like a boss, 2 : des presentations (écrites et orales) qui TUENT](./formations/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent.md) [Like a boss, 2 : des presentations (écrites et orales) qui TUENT](./formations/presenter-son-projet.md)
-
-> Thème central Les progressistes seront les victimes du monde qu'ils construisent —-analyse de la mécanique d'annulation (cancel culture) au sein des milieux progressistes.
-
-### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
-
-*Rattachement : 0.4191 · `podcasts/syntheses/Comment-se-construire-une-esthétique-synthese.md`*
-
-> Concepts clés Esthétique = Identité** : La manière dont on se présente reflète qui on est — mais aussi ce qu'on veut montrer Élégance vs Conformisme** : L'élégance vraie est personnelle, le conformisme est une fuite de la singularité Retenue élégante** : Savoir se retenir de trop en montrer — la subtlety comme marque de distinction Le corps comme message** : Tenue, posture, regard — tout communique
-
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [# Sources et références croisées](./formations/Couple Relations Longues/construire-une-relation.md) [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [Langage des hommes](./formations/Relations H-F/langage-hommes.md) [Développement personnel, 1 : Décupler sa CRÉATIVITÉ](./formations/Sedirection Rencontres/developper-sa-creativite.md) [Se construire une garde robe complete (apres-midi)](./formations/Sedirection Rencontres/se-construire-une-garde-robe-complete-apres-midietape-par-etape.md) [Confiance en soi](./formations/confiance-en-soi.md)
-
-### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
-
-*Rattachement : 0.2804 · `podcasts/syntheses/Video-HstnkVr4op4-synthese.md`*
-
-> [Apprenez à négocier (matin)](./formations/Carriere Leadership/apprenez-a-negocier-matin-2.md) [Enfer du salariat (matin)](./formations/Carriere Leadership/enfer-du-salariat-matin.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [100 jours pour la rendre amoureuse (matin)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-matin.md) [Le bonheur – matin](./formations/Developpement Personnel/bonheur-matin.md) [À mort la procrastination (matin)](./formations/Developpement Personnel/procrastination-matin.md) [Une motivation en beton (matin)](./formations/Developpement Personnel/une-motivation-en-beton-matin.md) [Comment avoir du charisme (matin)](./formations/Intelligence Sociale/comment-avoir-du-charisme-matin-2.md) [Discernement – matin](./formations/Intelligence Sociale/discernement-matin.md) [Manipulation II (matin)](./formations/Intelligence Sociale/manipulation-ii-matin-2.md)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*Rattachement : 0.2262 · `podcasts/syntheses/7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
 
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [100 jours pour la rendre amoureuse (apres-midi)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-apres-midi.md) [100 jours pour la rendre amoureuse (matin)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-matin.md) [Percer la friend-zone](./formations/Relations H-F/draguer-une-amie.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [100 jours pour la rendre amoureuse](./formations/construire-une-relation.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Percer la friend-zone](./formations/draguer-une-amie.md) [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss.md)
+- Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+- Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
+- Mutisme sur sa propre vie sentimentale : Ses histoires vous resteront opaques, les questions recevant des réponses laconiques (« oui », « non »), quand elles ne sont pas simplement éludées.
+- Émotions disproportionnées : Des événements anodins la plongeront dans des pleurs inexpliqués, sans qu'aucune justification ne soit jamais offerte.
+- Insistance sur le contact physique : L'exigence de câlins entre hétérosexuels crée, selon l'orateur, une tension permanente liée aux « érections involontaires » — problème qu'il qualifie lui-même d'impossible à clarifier.
+- Traitement de « gendre potentiel » par sa famille : Lors des présentations familiales, les sous-entendus matrimoniaux deviennent explicites (remarques sur le « métissage », questions sur le baptême).
+- Fâcheries chronophages et disproportionnées : Des conflits mineurs (fenêtre ouverte oubliée sous la pluie) génèrent des bouderies de plusieurs jours, semaines, voire des reproches ressassés des années après.
 
-## Ses écrits sur ce thème (ancien site)
+### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
 
-### pdf-110924-parler-de-soi-photointro — `pdf-110924-parler-de-soi-photointro`
 
-*Rattachement : 0.1005 · `sources-publiques/spikeseduction-archive/pdf-110924-parler-de-soi-photointro.txt`*
+### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-### 7 raisons de sortir avec une fille de 20 ans, par Léo | Spike Séduction — `web-articles__seduction-fondamentaux__20207_7-raisons-de-sortir-avec-une-fille-de-20-ans-par-leo.html`
+*podcast · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
 
-*Rattachement : 0.0813 · `sources-publiques/spikeseduction-archive/web-articles__seduction-fondamentaux__20207_7-raisons-de-sortir-avec-une-fille-de-20-ans-par-leo.html.txt`*
+- Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
+- Mécanique d'annulation : un mot de travers = label "problématique" = exclusion = destruction professionnelle. 30 minutes suffisent à détruire une réputation.
+- Double standard : quand c'est quelqu'un du "camp du mal" (droite, Identité), pas de problème. Quand c'est entre progressistes, la violence est identique.
+- Résilience comparée : l'auteur a survécu 15 ans de bad buzz national ; les militants trans doivent prendre des anxiolytiques après une semaine de commentaires négatifs — absence de Resilience.
+- Application à l'isoloir : la même logique d'auto-censure s'applique au vote — les gens n'osent pas voter selon leurs convictions reales par peur du regard.
 
-### La vrai originalité, c&#8217;est le classique — `web-articles__6177_relooking-solde-4.html`
+### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
 
-*Rattachement : 0.0764 · `sources-publiques/spikeseduction-archive/web-articles__6177_relooking-solde-4.html.txt`*
+*podcast · `Video-HstnkVr4op4-synthese.md`*
 
-### La vrai originalité, c&#8217;est le classique — `web-ateliers-workshops-cours__6177_relooking-solde-4.html`
+- Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
+- L'émission aborde le sexisme dans la télé-réalité
+- Un homme est qualifie de "fille la plus facile de France"
+- La télé-réalité est décrite comme "dégueulasse" et "sexiste"
+- L'auteur replace le phénomène dans le contexte plus large de la société
 
-*Rattachement : 0.0761 · `sources-publiques/spikeseduction-archive/web-ateliers-workshops-cours__6177_relooking-solde-4.html.txt`*
+### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
 
-### Spike Séduction — `web-articles__17476_camera-cachee-soutien-gorge.html`
+*podcast · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
 
-*Rattachement : 0.0754 · `sources-publiques/spikeseduction-archive/web-articles__17476_camera-cachee-soutien-gorge.html.txt`*
+- Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
+- L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
+- L'accent mis sur l'origine communautaire des "formatrices" — immigrées africaines qui apprennent à "massacrer" d'autres femmes.
+- La "baisse du QI" corrélée à ces phénomènes de crédulité collective.
+- Le paradoxe de la feminista qui prône l'égalité maisdede。
+- L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
+- *Lien avec formations** :
+- École des Hommes (rapport au corps, dynamiques Hommes/Femmes)
+
+> "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
+
+## Ses développements sur le sujet
+
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
+
+*« 7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md » · origine : lien-declare*
+
+> Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+
+### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
+
+*« Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md » · origine : lien-declare*
+
+> Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
+
+### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
+
+*« Video-HstnkVr4op4-synthese.md » · origine : lien-declare*
+
+> Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 
 ---
 
@@ -143,13 +133,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C016`, en annonçant « reconstituée depuis C016 ». Jamais `C012` — la trace serait fausse.
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- A une heure du matin — `tierce-forum__a-une-heure-du-matin-vt5530.html` (rattachement 0.102)
-- Spike Club &bull; &quot;A nous deux maintenant !&quot; : Présentations / candidatures — `tierce-forum__a-nous-deux-maintenant-vt9568.html` (rattachement 0.0675)
 
 ---
 

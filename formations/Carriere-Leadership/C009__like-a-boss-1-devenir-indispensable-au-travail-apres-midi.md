@@ -4,15 +4,17 @@ titre: "Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)"
 categorie: "Carriere & Leadership"
 categorie_brute: "Carriere Leadership"
 slug: "like-a-boss-1-devenir-indispensable-au-travail-apres-midi"
-slug_catalogue: "like-a-boss-1-devenir-indispensable-au-travail-apres-midi"
 url: "https://mat-consulting.fr/produit/like-a-boss-1-devenir-indispensable-au-travail-apres-midi/"
 statut: reconstituee
 mots_fiche: 1675
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 10
 citations: 0
-extraits_voix: 6
-tracklist: 0
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C007
@@ -24,83 +26,57 @@ confiance: 1.0
 
 **C009** · Carriere & Leadership · 1675 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video py5soTfXpxQ — `py5soTfXpxQ`
-
-*Rattachement : 0.1268 · `podcasts/transcripts/final/py5soTfXpxQ-transcript.md`*
-
-### Video k8ipimvPtQo — `k8ipimvPtQo`
-
-*Rattachement : 0.0777 · `podcasts/transcripts/final/k8ipimvPtQo-transcript.md`*
-
-### Video ntjaS5-pTWA — `ntjaS5-pTWA`
-
-*Rattachement : 0.0709 · `podcasts/transcripts/final/ntjaS5-pTWA-transcript.md`*
-
-### Video Uh8lq9G81TE — `Uh8lq9G81TE`
-
-*Rattachement : 0.0617 · `podcasts/transcripts/final/Uh8lq9G81TE-transcript.md`*
-
-### Video fDoQ3ygBks0 — `fDoQ3ygBks0`
-
-*Rattachement : 0.0563 · `podcasts/transcripts/final/fDoQ3ygBks0-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
-
-*Rattachement : 0.6796 · `podcasts/syntheses/Video-hVchQj-xiOo-synthese.md`*
-
-> [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/Carriere Leadership/gravir-les-echelons.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-apres-midi.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (matin)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-matin.md) [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/gravir-les-echelons.md)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*Rattachement : 0.5093 · `podcasts/syntheses/J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
-> [Like a boss, 3 : Séduire et fidéliser ses clients A VIE](./formations/Carriere Leadership/fideliser-ses-clients.md) [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/Carriere Leadership/gravir-les-echelons.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-apres-midi.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (matin)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-matin.md) [Comprendre les gens, 2 (après-midi)](./formations/Intelligence Sociale/analyser-gens-apres-midi.md) [Comprendre les gens, 2](./formations/Intelligence Sociale/analyser-les-gens.md) [Percer la friend-zone](./formations/Relations H-F/draguer-une-amie.md) [Au secours, mon chef est une femme (/un homme) – matin](./formations/Relations H-F/manager-equipe-femmes-matin.md) [Au secours, mon chef est une femme (/un homme) ?](./formations/Relations H-F/manager-equipe-femmes.md) [Etre sexué II : dans les contraintes du réel](./formations/Relations H-F/seduire-sans-argent.md)
 
-> 2. **"Au secours mon chef est une femme"** : Formation principale de l'influenceuse, sous-titrée "devenir plus performant au travail par la connaissance de la psychologie homme et femme".
+### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
+
+*podcast · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
+
+
+### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
+
+*podcast · `Video-hVchQj-xiOo-synthese.md`*
+
+- L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
+- Parallèle historique : le centre Pompidou (années 70) avait lui aussisymbolisé une époque de transition, mais dans un contexte de modernité industrielle encore vivante.
+- Désindustrialisation française : la vidéo des Gilets Jaunes en Belgique (usine désaffectée convertie en centre d'art) illustre ce même phénomène de perte identitaire territoriale.
+- Archéologie du contenu : référence à d'anciennes vidéos de la chaîne qui documentaient déjà ces transformations, consultables dans les archives.
+
+> L'industrie, c'est ce qui empêche un pays de couler, d'avoir une balance du déficit extérieur monstrueuse et de devenir un musée à touristes.
+
+> *Transcrit le 2026-05-29*
 
 ### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
 
-*Rattachement : 0.4801 · `podcasts/syntheses/Video-yCgVt4zZejg-synthese.md`*
+*podcast · `Video-yCgVt4zZejg-synthese.md`*
 
-> [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/Carriere Leadership/gravir-les-echelons.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-apres-midi.md) [Like a boss, 1: Devenir INDISPENSABLE au travail (matin)](./formations/Carriere Leadership/like-a-boss-1-devenir-indispensable-au-travail-matin.md) [Relookings (apprendre à bien s'habiller)](./formations/Style Image/relooking-homme.md) [Like a boss, 1 : Devenir INDISPENSABLE au travail](./formations/gravir-les-echelons.md) [Le rôle du masculin et du féminin dans la sexualité](./formations/le-role-du-masculin-et-du-feminin-dans-la-sexualite.md)
+- L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+- L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
+- La valeur de la rareté : Ce qui est difficile à obtenir a de la valeur ; une femme qui sait se faire désirer attire des partenaires prêts à s'investir réellement.
+- Le marché réel du livre : Ce n'est pas un livre pour femmes — il est destiné aux hommes qui ne comprennent rien aux femmes et doivent apprendre à les attirer par la promesse et le dévouement, pas par la simple séduction physique.
+- Les défaut du packaging : Titre médiocre, illustrations de mauvaise qualité, mise en page orientée « féminin » inadaptée — résultat d'un contrat avec M6, éditeur incompétent.
+- Tests et quiz superflus : Ces éléments alourdissent le livre et ne correspondent pas à la subtilité habituelle de Stéphane Édouard.
 
-> Ensuite, les aspects positifs : les détails sur ce qui attire véritablement quelqu'un, sur la compatibilité psychologique et physique, sur la différence entre le tir rapide (séduction passagère) et l'attraction durable — tout cela est qualifié d'« excellent travail ». Le reviewer souligne que le livre s'adresse à la fois aux célibataires et aux personnes en couple, tous y apprendront à devenir une meilleure personne pour plaire à l'autre.
+## Ses développements sur le sujet
 
-### Synthèse _z11PNOSbnM — `Video-_z11PNOSbnM-synthese`
+### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
 
-*Rattachement : 0.2882 · `podcasts/syntheses/Video-_z11PNOSbnM-synthese.md`*
+*« Video-hVchQj-xiOo-synthese.md » · origine : lien-declare*
 
-> [Like a boss, 3 : Séduire et fidéliser ses clients A VIE](./formations/Carriere Leadership/fideliser-ses-clients.md) [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-apres-midi.md) [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-matin.md) [Etre sexué II : dans les contraintes du réel](./formations/Relations H-F/seduire-sans-argent.md) [Seduire bureau – ecole (apres-midi)](./formations/Sedirection Rencontres/seduire-bureau-ecole-apres-midi.md) [Seduire bureau – ecole (matin)](./formations/Sedirection Rencontres/seduire-bureau-ecole-matin-2.md) [Like a boss, 3 : Séduire et fidéliser ses clients A VIE](./formations/fideliser-ses-clients.md) [Like a boss, 3: Seduire et fideliser ses clients A VIE (après midi)](./formations/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-apres-m.md) [Like a boss, 3: Seduire et fideliser ses clients A VIE (matin)](./formations/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie.md) [Etre sexué II : dans les contraintes du réel](./formations/seduire-sans-argent.md)
+> L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
 
-## Ses écrits sur ce thème (ancien site)
+### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*« Video-yCgVt4zZejg-synthese.md » · origine : lien-declare*
 
-### Bureau : séduire ses collègues, pourquoi faire ? — `web-articles__1328_seduire-collegue-bureau.html`
-
-*Rattachement : 0.1589 · `sources-publiques/spikeseduction-archive/web-articles__1328_seduire-collegue-bureau.html.txt`*
-
-### Bureau : séduire ses collègues, pourquoi faire ? — `web-articles__seduction-avance__1328_seduire-collegue-bureau.html`
-
-*Rattachement : 0.1555 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__1328_seduire-collegue-bureau.html.txt`*
-
-### Commandez le séminaire : être un leader — `web-actualite__11397_comment-devenir-un-leader.html?preview=1`
-
-*Rattachement : 0.1329 · `sources-publiques/spikeseduction-archive/web-actualite__11397_comment-devenir-un-leader.html?preview=1.txt`*
-
-### Commandez le séminaire : être un leader — `web-articles__11397_comment-devenir-un-leader.html`
-
-*Rattachement : 0.1198 · `sources-publiques/spikeseduction-archive/web-articles__11397_comment-devenir-un-leader.html.txt`*
-
-### 27 oct, séminaire : les secrets du leadership — `web-actualite__11397_comment-devenir-un-leader.html`
-
-*Rattachement : 0.1192 · `sources-publiques/spikeseduction-archive/web-actualite__11397_comment-devenir-un-leader.html.txt`*
+> L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
 
 ---
 

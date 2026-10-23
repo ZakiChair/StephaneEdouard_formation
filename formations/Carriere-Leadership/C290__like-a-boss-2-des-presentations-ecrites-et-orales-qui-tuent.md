@@ -4,15 +4,17 @@ titre: "Like a boss, 2 : des presentations (écrites et orales) qui TUENT"
 categorie: "Carriere & Leadership"
 categorie_brute: "Carrière & Leadership"
 slug: "like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent"
-slug_catalogue: "presenter-son-projet"
 url: "https://mat-consulting.fr/catalogue/presenter-son-projet/"
 statut: reconstituee
 mots_fiche: 863
 mots_verbatim: 0
-mots_page_produit: 1400
+mots_annonce: 1300
+programme: 10
+sections_annonce: 10
+points_annonce: 10
+documents_materiau: 1
+idees_forces: 5
 citations: 0
-extraits_voix: 2
-tracklist: 10
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C016
@@ -24,30 +26,24 @@ confiance: 1.0
 
 **C290** · Carriere & Leadership · 863 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/presenter-son-projet/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> Décocher un combo percutant écrit + visuel pour faire passer ses idées
+1. Test d’empathie
+2. Pourquoi ou « pour quoi »
+3. Faire participer
+4. Connaissance VS expérience
+5. Rassurer
+6. Doser la quantité d’effort mis dans la présentation
+7. Le choix de l’outil
+8. Les 5 choses les + importantes de la journée
+9. Ce qu’on se rappellera de vous
+10. Comprendre ce sur quoi vous êtes noté
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Test d’empathie
-- Pourquoi ou « pour quoi »
-- Faire participer
-- Connaissance VS expérience
-- Rassurer
-- Doser la quantité d’effort mis dans la présentation
-- Le choix de l’outil
-- Les 5 choses les + importantes de la journée
-- Ce qu’on se rappellera de vous
-- Comprendre ce sur quoi vous êtes noté
-
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-## Savoir et Savoir-faire sont sur un bateau…
+*Page produit : https://mat-consulting.fr/catalogue/presenter-son-projet/ — 1300 mots de sa prose.*
 
 ### … qui pousse l’autre à l’eau, devient capitaine, reçoit la gloire et les honneurs
 
@@ -63,19 +59,19 @@ On a bien failli ne jamais avoir de tablette entre les mains, parce qu’Alan Tu
 
 Cette lutte à mort entre deux archétypes du monde du travail est vaine et stérile. La bonne réponse, celle du bon sens, est que vous devez être les deux à la fois : capables de produire ce qu’on vous demande (et même légèrement plus, toujours légèrement plus), ET de le présenter en **créant le désir**.
 
-#### Exemple personnel
+### Exemple personnel
 
 Un jour, j’ai commandé une mission à un prestataire. Charmant. Un de mes clients. Il est consultant en développement informatique _front end_, c’est à dire qu’il optimise l’affichage graphique des sites internet. Comme celui que vous avez sous les yeux. Si le processus de commande est aussi fluide, ne déborde pas dans tous les coins, si les boutons sont bien alignés au lieu de se baver l’un sur l’autre, c’est grâce à lui, pas à moi. :) Merci Nicolas !
 
 Nicolas, vous l’aurez donc compris à ce petit résumé, bosse très bien, je vous le conseille. Je peux même vous mettre en relation. A un petit détail près. Nicolas bosse bien, puis se montre véritablement **nullissime à valoriser son travail. Pire, il le dé-valorise**.
 
-#### Dévaloriser son propre travail, volontairement, est-ce possible ? (et comment ?)
+### Dévaloriser son propre travail, volontairement, est-ce possible ? (et comment ?)
 
 D’abord non, Nicolas n’était pas bourré. Ni sous l’emprise d’une quelconque substance altérant son jugement. Nicolas était parfaitement normal, trop normal. Il a mis tant d’énergie et d’attention sur son projet lui-même, qu’il a négligé de se demander comment il allait faire pour transmettre cette énergie à son client (moi).
 
 Il sous-entendait, que 98 % ou 99 % des gens l’auraient fait à sa place (je ne le blâme pas, c’est un fait), qu’en tant que client j’allais être _aware_ au point de remarquer la multitude des petits changements réalisés, au premier coup d’œil, sans l’aide de personne. Bref pour lui, son travail était fini.
 
-#### Je vais vous révéler 3 petits secrets :
+### Je vais vous révéler 3 petits secrets :
 
 La prez de projet qui tue, c’est avant tout des auditeurs convaincus et attentifs, donc c’est de la communication, et donc de la psychologie.
 
@@ -101,7 +97,19 @@ Votre intelligence, votre dévouement, votre côté « réglo » ou toute autr
  - sa/ses banque(s)
  - ses investisseurs
 
-## Présenter ses projets, LIKE A BOSS
+
+- votre travail est fini quand vous avez positivement impressionné votre client, votre prof, votre jury ou que sais-je encore
+- La conclusion logique des deux points précédents : vous avez beaucoup, beaucoup, énormément à gagner, à devenir un PRO de la présentation de vos résultats.
+
+
+- Un prof est évalué par l’éducation nationale (et bientôt, selon moi, par ses élèves)
+- Un employé de la poste est évalué par la maison mère
+- Un _barista_ (ex : Aurora) est évalué par son boss (ex : tonton)
+- Un entrepreneur est évalué par
+- sa/ses banque(s)
+- ses investisseurs
+
+### Présenter ses projets, LIKE A BOSS
 
 Je ne donne jamais les clés de mes séminaires dans leurs descriptions (je donne déjà beaucoup de contenu gratuit, notamment via les extraits gratuits de séminaires sur Youtube, il ne faudrait pas exagérer), mais nous allons aborder, entre autres, les **techniques et concepts** suivants :
 
@@ -117,79 +125,71 @@ Je ne donne jamais les clés de mes séminaires dans leurs descriptions (je donn
 - _=\> technique : utiliser les meilleurs supports visuels disponibles sur le marché au lieu de vouloir réinventer la roue_
 - etc. etc.
 
-Présenter son projet, présenter ses résultats, faire des présentations qui tuent… les écoles, même les « grandes », traitent grossièrement de ce sujet, c’est-à-dire vite et mal. La fac n’en parle jamais. Et quand vous ave
+Présenter son projet, présenter ses résultats, faire des présentations qui tuent… les écoles, même les « grandes », traitent grossièrement de ce sujet, c’est-à-dire vite et mal. La fac n’en parle jamais. Et quand vous avez les deux pieds dans le monde du travail, c’est fini, c’est trop tard, what is done is done, et comme je dis souvent « ceux qui savent n’ont **aucun intérêt** à partager ce qu’ils savent avec vous ».
 
-*Métadonnées de la page produit : 458 téléchargements.*
+Tu vois les gens autour de cette table. Tu penses qu’il vont t’apprendre à améliorer tes présentations et à communiquer, gratuitement, pour TON bien et à LEUR détriment ? Euh, moi je pense que non. Par contre ils vont prendre tes idées, ton travail, et le faire leur. Hasta la vista, baby !
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les moyens et investissez sur vous. Personne, dans toute l’histoire de l’humanité, n’a jamais trouvé d’autre solution.
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
 
-### Video _iPUMJzVTbE — `_iPUMJzVTbE`
+- concept psy : ce que votre interlocuteur veut entendre VS ce qu’il est prêt à entendre VS ce que vous voulez lui dire
+- _=\> technique : faire cracher les préférences_
+- concept socio : les préférences sont des variables, pas des constantes
+- _=\> technique : lui suggérer ses préférences_
+- concept psy : le désir s’allume souvent sur un détail précis
+- _=\> technique : apprendre à créer le désir (soit apprendre à séduire dans le monde professionnel)_
+- concept psycho-socio : votre interlocuteur n’est pas stimulé par un support visuel, il est rassuré par un support visuel
+- _=\> technique : utiliser les meilleurs supports visuels disponibles sur le marché au lieu de vouloir réinventer la roue_
 
-*Rattachement : 0.1797 · `podcasts/transcripts/final/_iPUMJzVTbE-transcript.md`*
+### Mais pourquoi alors partager tout ça avec vous ?
 
-### Video jCapVmSGg_A — `jCapVmSGg_A`
+1. Partager, c’est mon **métier**
+2. J’ai **_vraiment_** envie que my boys réussissent
+3. Je suis un **geek** de la sociologie et de la psychologie
+4. La sociologie et la psychologie (la vraie, la dure, pas celle des magazines) permettent toujours d’apporter un éclairage **inédit** et sur-le-cul-tant à des sujets dont on pensait avoir fait le tour. Comme c’était le cas avec mon analyse de la sexualité dans le séminaire _L’amant idéal_ : si on ne comprend pas la psychologie féminine, on ne comprendra jamais rien à la sexualité
+5. Il y a un côté **dissident** qui m’excite beaucoup dans le fait de partager une info qui flirte _fatalement_ avec le politiquement incorrect (quand on veut aller au fond des choses, c’est toujours politiquement incorrect, sinon c’est qu’on n’est pas allé assez loin. Au bout du bout, tout le monde pense la même chose)
 
-*Rattachement : 0.1736 · `podcasts/transcripts/final/jCapVmSGg_A-transcript.md`*
 
-### Video pz4o47xcekU — `pz4o47xcekU`
+- Partager, c’est mon métier
+- J’ai vraiment envie que my boys réussissent
+- Je suis un geek de la sociologie et de la psychologie
 
-*Rattachement : 0.173 · `podcasts/transcripts/final/pz4o47xcekU-transcript.md`*
+### Les garanties Mat-consulting / Hommes d’Influence
 
-### Video iTrFh06jNBk — `iTrFh06jNBk`
+1. No bullshit sur les contenus. Pas de copie, pas d’évidences. Que du lourd. Bim, une brique. Attesté par de nombreux témoignages (témoignages **réels**, on ne les bidonne pas, nous, et pourtant ça serait très facile)
+2. **Des tarifs dégressifs avec le nombre de demi-journées commandées.** Ajouter simplement les produits à votre panier et voyez la réduction augmenter en temps réel !
+3. Une facture disponible sur simple demande
+4. Un SAV dispo et super réactif pour tout doute / problème / question avec votre commande
+5. Faire vivre honnêtement des entrepreneurs « _Made in_ France »
 
-*Rattachement : 0.1631 · `podcasts/transcripts/final/iTrFh06jNBk-transcript.md`*
 
-### Video bhl2XLywEBI — `bhl2XLywEBI`
+- No bullshit sur les contenus. Pas de copie, pas d’évidences. Que du lourd. Bim, une brique. Attesté par de nombreux témoignages (témoignages réels, on ne les bidonne pas, nous, et pourtant ça serait très facile)
+- Des tarifs dégressifs avec le nombre de demi-journées commandées. Ajouter simplement les produits à votre panier et voyez la réduction augmenter en temps réel !
+- Une facture disponible sur simple demande
+- Un SAV dispo et super réactif pour tout doute / problème / question avec votre commande
+- Faire vivre honnêtement des entrepreneurs « Made in France »
 
-*Rattachement : 0.1597 · `podcasts/transcripts/final/bhl2XLywEBI-transcript.md`*
+## La matière qu'il a lui-même déclarée
 
-## Ce qu'il a dit sur ce thème (podcasts)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-*Rattachement : 0.2995 · `podcasts/syntheses/Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
+*podcast · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
 
-> [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [# Sources et références croisées](./formations/Communication/ameliorer-sa-voix-avec-une-chanteuse-professionnelle-apres-midi.md) [# Sources et références croisées](./formations/Communication/ameliorer-sa-voix-avec-une-chanteuse-professionnelle-matin.md) [Développement personnel, 1: Decupler sa CREATIVITE (après midi)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-apres-midi.md) [Développement personnel, 1: Decupler sa CREATIVITE (matin)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-matin.md) [Développement personnel 1 : décupler sa créativité](./formations/developpement-personnel-1-decupler-sa-creativite.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-.md) [Like a boss, 2 : des presentations (écrites et orales) qui TUENT](./formations/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent.md) [Like a boss, 2 : des presentations (écrites et orales) qui TUENT](./formations/presenter-son-projet.md)
+- Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
+- Mécanique d'annulation : un mot de travers = label "problématique" = exclusion = destruction professionnelle. 30 minutes suffisent à détruire une réputation.
+- Double standard : quand c'est quelqu'un du "camp du mal" (droite, Identité), pas de problème. Quand c'est entre progressistes, la violence est identique.
+- Résilience comparée : l'auteur a survécu 15 ans de bad buzz national ; les militants trans doivent prendre des anxiolytiques après une semaine de commentaires négatifs — absence de Resilience.
+- Application à l'isoloir : la même logique d'auto-censure s'applique au vote — les gens n'osent pas voter selon leurs convictions reales par peur du regard.
 
-### Synthèse : Vidéo TAWOe8DlYNs (contenu tronqué) — `Video-TAWOe8DlYNs-synthese`
+## Ses développements sur le sujet
 
-*Rattachement : 0.2629 · `podcasts/syntheses/Video-TAWOe8DlYNs-synthese.md`*
+### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-### Synthèse : J'apprends à m'adresser à un.e prof.fe non-binaire (indice : ça finit par "ule") — `J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese`
+*« Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.2434 · `podcasts/syntheses/J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese.md`*
-
-### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
-
-*Rattachement : 0.2252 · `podcasts/syntheses/7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
-
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [100 jours pour la rendre amoureuse (apres-midi)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-apres-midi.md) [100 jours pour la rendre amoureuse (matin)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-matin.md) [Percer la friend-zone](./formations/Relations H-F/draguer-une-amie.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [100 jours pour la rendre amoureuse](./formations/construire-une-relation.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Percer la friend-zone](./formations/draguer-une-amie.md) [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss.md)
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Spike Seduction — `web-articles__625_elle-ma-trompe-adultere-trahison-comment-reagir.html`
-
-*Rattachement : 0.0813 · `sources-publiques/spikeseduction-archive/web-articles__625_elle-ma-trompe-adultere-trahison-comment-reagir.html.txt`*
-
-### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier — `web-actualite__5347_seminaire-developpement-personnel-2.html`
-
-*Rattachement : 0.078 · `sources-publiques/spikeseduction-archive/web-actualite__5347_seminaire-developpement-personnel-2.html.txt`*
-
-### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier — `web-articles__5338_seminaire-developpement-personnel-2.html`
-
-*Rattachement : 0.078 · `sources-publiques/spikeseduction-archive/web-articles__5338_seminaire-developpement-personnel-2.html.txt`*
-
-### 12 mars, découvrez toutes les techniques de séduction à l&rsquo;écrit — `web-actualite__5448_techniques-seduction-ecrit.html?preview=1`
-
-*Rattachement : 0.0779 · `sources-publiques/spikeseduction-archive/web-actualite__5448_techniques-seduction-ecrit.html?preview=1.txt`*
-
-### Spikeséduction désigné &laquo;&nbsp;coach le plus demandé de France&nbsp;&raquo; par NRJ — `web-actualite__3245_spikeseduction-sur-nrj.html`
-
-*Rattachement : 0.0776 · `sources-publiques/spikeseduction-archive/web-actualite__3245_spikeseduction-sur-nrj.html.txt`*
+> Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
 
 ---
 
@@ -222,18 +222,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C016`, en annonçant « reconstituée depuis C016 ». Jamais `C290` — la trace serait fausse.
-
-## Points clés
-
-- L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
-- L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- A quoi m'en tenir ? Bon, ou pas Bon ? — `tierce-forum__a-quoi-m-en-tenir-bon-ou-pas-bon-vt6161-15.html` (rattachement 0.077)
-- A quoi m'en tenir ? Bon, ou pas Bon ? — `tierce-forum__a-quoi-m-en-tenir-bon-ou-pas-bon-vt6161-30.html` (rattachement 0.077)
 
 ---
 

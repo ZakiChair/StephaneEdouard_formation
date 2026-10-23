@@ -4,15 +4,17 @@ titre: "Survivre à la ROUTINE du couple (matin)"
 categorie: "Couple Relations Longues"
 categorie_brute: "Couple Relations Longues"
 slug: "les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-matin"
-slug_catalogue: "les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-matin"
 url: "https://mat-consulting.fr/produit/les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-matin/"
 statut: reconstituee
 mots_fiche: 1679
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 24
 citations: 0
-extraits_voix: 7
-tracklist: 0
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C025
@@ -24,85 +26,72 @@ confiance: 1.0
 
 **C030** · Couple Relations Longues · 1679 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video 8y60ABKhwSU — `8y60ABKhwSU`
-
-*Rattachement : 0.2915 · `podcasts/transcripts/final/8y60ABKhwSU-transcript.md`*
-
-### Video vN0IXu2gwZg — `vN0IXu2gwZg`
-
-*Rattachement : 0.1408 · `podcasts/transcripts/final/vN0IXu2gwZg-transcript.md`*
-
-### Video 0t0FuJdvUWE — `0t0FuJdvUWE`
-
-*Rattachement : 0.1211 · `podcasts/transcripts/final/0t0FuJdvUWE-transcript.md`*
-
-### Sans conteste LE couple progressiste le + inattendu de 2023 — `WS4q9-Eb-ts`
-
-*Rattachement : 0.1185 · `podcasts/transcripts/final/WS4q9-Eb-ts-transcript.md`*
-
-> 52. mes enfants oui alors je disais il y a du lourd au sens que soit la journaliste est beaucoup plus talentueuse que ce à quoi son métier n'aspire et donc il faudrait qu'elle devienne qu'elle passe au cinéma parce qu'elle sait vraiment de mettre en abyme le symbole donc on a des protagonistes de niveau 1 c'est à dire essentiels qui sont un couple ethniquement mixte et mélanger du point de vue des attirances réciproques et le couple d'amis était recours un petit peu également à la même partition avec
-
-> 53. une femme noire très masculine et un style vestimentaire à genré et une femme j'allais dire rousse mais blond vénitien néo Woodstock néo hippie et qui elle exale la féminité et qui dont Pierrot dirait que elle ne dormirait pas forcément dans la baignoire quand ils ont un problème ils sont très ouverts pour en parler ensemble alors peut-être le couple d'amis est-il également un couple d'amis lesbienne ce qui ne m'étonnerait pas on n'a pas l'info bon après c'est c'est superflu à la limite en tout
-
-### Video PBtwBgMzHew — `PBtwBgMzHew`
-
-*Rattachement : 0.1016 · `podcasts/transcripts/final/PBtwBgMzHew-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : Video xDk6c-sODgg — xDk6c-sODgg — `Video-xDk6c-sODgg-synthese`
-
-*Rattachement : 0.5465 · `podcasts/syntheses/Video-xDk6c-sODgg-synthese.md`*
-
-> [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/Carriere Leadership/couple-rupture-difficile.md) [Survivre à la ROUTINE du couple](./formations/Couple Relations Longues/casser-routine-couple.md) [Les couples ne fonctionnent plus – matin](./formations/Couple Relations Longues/couple-rupture-difficile-matin.md) [Survivre à la ROUTINE du couple (après midi)](./formations/Couple Relations Longues/les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-apres-midi.md) [Sauver sa santé mentale](./formations/Sante Mentale/sante-mentale.md) [Dégagez l’énergie d’un boxeur](./formations/Sedirection Rencontres/avoir-de-lenergie.md) [Ce que vos parents auraient du vous apprendre (apres-midi)](./formations/Sedirection Rencontres/ce-que-vos-parents-auraient-du-vous-apprendre-apres-midi.md) [Dégagez l'énergie d'un boxeur](./formations/avoir-de-lenergie.md) [Survivre à la ROUTINE du couple](./formations/casser-routine-couple.md) [Caster Routine Couple](./formations/caster-routine-couple.md)
-
-> Le mécanisme de l'amour de vacances** : au départ, l'ex-compagne s'est projetée dans une image isée — le « médecin boxeur à la vie difficile ». Elle voulait le sauver. Mais la poésie des premiers temps s'est transformée en routine, et l'intensité s'est effondrée. La routine frappe normalement plus tard, mais ici la durée d'un an parait déjà
-
-### Synthèse : Le Cosby Show — 7 leçons de vie — `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese`
-
-*Rattachement : 0.5057 · `podcasts/syntheses/Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
-
-> [Enfer du salariat (matin)](./formations/Carriere Leadership/enfer-du-salariat-matin.md) [Les couples ne fonctionnent plus – matin](./formations/Couple Relations Longues/couple-rupture-difficile-matin.md) [Rester seduisant en couple (apres-midi)](./formations/Couple Relations Longues/rester-seduisant-en-couple-apres-midi.md) [Rester seduisant en couple (matin)](./formations/Couple Relations Longues/rester-seduisant-en-couple-matin.md) [Rester seduisant en couple](./formations/Couple Relations Longues/sexe-en-couple.md) [Le bonheur – matin](./formations/Developpement Personnel/bonheur-matin.md) [À mort la procrastination (après-midi)](./formations/Developpement Personnel/procrastination-apres-midi.md) [À mort la procrastination (matin)](./formations/Developpement Personnel/procrastination-matin.md) [Vivre avec la procrastination](./formations/Developpement Personnel/procrastination-solutions.md) [Une motivation en beton (matin)](./formations/Developpement Personnel/une-motivation-en-beton-matin.md)
-
-### Synthèse 4JcaTyVg9_4 — `Video-4JcaTyVg9_4-synthese`
-
-*Rattachement : 0.4986 · `podcasts/syntheses/Video-4JcaTyVg9_4-synthese.md`*
-
-> [Rester seduisant en couple (apres-midi)](./formations/Couple Relations Longues/rester-seduisant-en-couple-apres-midi.md) [Rester seduisant en couple (matin)](./formations/Couple Relations Longues/rester-seduisant-en-couple-matin.md) [Rester seduisant en couple](./formations/Couple Relations Longues/sexe-en-couple.md) [Rester seduisant en couple](./formations/sexe-en-couple.md)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
 
-*Rattachement : 0.3833 · `podcasts/syntheses/Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
 
-> [Enfer du salariat (matin)](./formations/Carriere Leadership/enfer-du-salariat-matin.md) [Survivre à la ROUTINE du couple (matin)](./formations/Couple Relations Longues/les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-matin.md) [Le bonheur – matin](./formations/Developpement Personnel/bonheur-matin.md) [À mort la procrastination (matin)](./formations/Developpement Personnel/procrastination-matin.md) [Une motivation en beton (matin)](./formations/Developpement Personnel/une-motivation-en-beton-matin.md) [Comment avoir du charisme (matin)](./formations/Intelligence Sociale/comment-avoir-du-charisme-matin-2.md) [Discernement – matin](./formations/Intelligence Sociale/discernement-matin.md) [Manipulation II (matin)](./formations/Intelligence Sociale/manipulation-ii-matin-2.md) [Langage des femmes](./formations/Relations H-F/ce-que-pensent-les-femmes.md) [Les jeunes filles, 1: Decoder les attentes feminines (matin)](./formations/Relations H-F/les-jeunes-filles-1-decoder-les-attentes-feminines-matin.md)
 
-## Ses écrits sur ce thème (ancien site)
+### Synthèse : La "techno-gréviste" est la révélation de ce début d’année 2023 — o21lanW3u3E — `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*podcast · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
 
-### Spike Séduction — `web-articles__13663_vie-en-couple.html`
+- Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
+- Contradiction retraite-climat : La techno-gréviste affirme un lien entre retraite et climat, mais ignore que la retraite actuelle repose sur les énergies fossiles (engrais, productivité, transports)
+- Rapport à la production : Édouard revendique payer 147€/mois pour les retraites et demande ce que la manifestante produit en retour
+- Analyse nietzschéenne : Citation de Céline – « On n'a plus beaucoup de musique en soi pour faire danser la vie » – appliquée aux jeunes sous stroboscopes après 25 ans
+- Conditions de la danse : À travers Steinbeck, Édouard rappelle que danser suppose que la sécurité physique et alimentaire est assurée, ce qui n'est pas le cas des vraies luttes sociales historiques
+- Dénaturation du geste politique : La danse devient un outil de communication au détriment du contenu politique
 
-*Rattachement : 0.3132 · `sources-publiques/spikeseduction-archive/web-articles__13663_vie-en-couple.html.txt`*
+### Synthèse : Les “jeunes” avec #Hidalgo2022 ! 🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳 — tLRSQbAi6q4 — `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese`
 
-### Spike Séduction — `web-articles__17486_fuck-the-routine.html`
+*podcast · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
 
-*Rattachement : 0.1687 · `sources-publiques/spikeseduction-archive/web-articles__17486_fuck-the-routine.html.txt`*
+- L'effet de communication : Hidalgo aurait changé de position sur le rassemblement de la gauche entre le matin et le soir de la même journée, suggérant une stratégie improvisée
+- La question du timing : L'analyse ironique des trois mois de campagne déjà écoulés sans percée notable
+- Le paradoxe visuel : Description d'une candidate serrée, tendue, avec des couleurs d'image saturées et un physique « pincé » qui trahit un malaise certain
+- L'erreur factuelle fatale : Promettre la retraite à 65 ans alors que 25 % des plus pauvres meurent avant 62 ans — un chiffre utilisé comme argument d'espoir, ce qui confine à l'absurde selon Édouard
+- Le coaching verbal : L'invité évoque un entraînement aux retours visuels professionnels dans les grandes chaînes, qui pousse à « balancer un chiffre » pour asseoir une introduction
+- Les : Temps moyen avant la mention de l'extrême droite : 1 minute 10, un réflexe rhétorique systématique
+- L'effondrement sondagier : Les sondages sont si mauvais qu'aucun sondé ne s'y fierait — « il n'y a pas de la sondagite aiguë, ça passe pas par elle »
 
-### La sélection d&rsquo;objets iconiques de la semaine, #1 | Spike S&eacute;duction — `web-articles__21657_selection-econ-1.html`
+### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
 
-*Rattachement : 0.1599 · `sources-publiques/spikeseduction-archive/web-articles__21657_selection-econ-1.html.txt`*
+*podcast · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
 
-### Si une femme est piégée dans son couple, c&#039;est pour CETTE raison — `web-articles__seduction-fondamentaux__22952_piegees-couple-vraies-raisons-lesquelles-femmes-malheureuses-restent-couple.html`
+- Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
+- L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
+- L'accent mis sur l'origine communautaire des "formatrices" — immigrées africaines qui apprennent à "massacrer" d'autres femmes.
+- La "baisse du QI" corrélée à ces phénomènes de crédulité collective.
+- Le paradoxe de la feminista qui prône l'égalité maisdede。
+- L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
+- *Lien avec formations** :
+- École des Hommes (rapport au corps, dynamiques Hommes/Femmes)
 
-*Rattachement : 0.1553 · `sources-publiques/spikeseduction-archive/web-articles__seduction-fondamentaux__22952_piegees-couple-vraies-raisons-lesquelles-femmes-malheureuses-restent-couple.html.txt`*
+> "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
 
-### Les hommes ont-ils une morale &#8211; partie I, par Pierre — `web-articles__8960_moralite-et-vie-de-seducteur.html`
+## Ses développements sur le sujet
 
-*Rattachement : 0.1476 · `sources-publiques/spikeseduction-archive/web-articles__8960_moralite-et-vie-de-seducteur.html.txt`*
+### Synthèse : La "techno-gréviste" est la révélation de ce début d’année 2023 — o21lanW3u3E — `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese`
+
+*« La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md » · origine : lien-declare*
+
+> Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
+
+### Synthèse : Les “jeunes” avec #Hidalgo2022 ! 🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳 — tLRSQbAi6q4 — `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese`
+
+*« Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md » · origine : lien-declare*
+
+> L'effet de communication : Hidalgo aurait changé de position sur le rassemblement de la gauche entre le matin et le soir de la même journée, suggérant une stratégie improvisée
+
+### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
+
+*« Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md » · origine : lien-declare*
+
+> Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
 
 ---
 
@@ -137,13 +126,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C025`, en annonçant « reconstituée depuis C025 ». Jamais `C030` — la trace serait fausse.
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- A une heure du matin — `tierce-forum__a-une-heure-du-matin-vt5530.html` (rattachement 0.1913)
-- Spike S&eacute;duction — `tierce-forum__10-ans-plus-tard-vt11809-60.html` (rattachement 0.152)
 
 ---
 

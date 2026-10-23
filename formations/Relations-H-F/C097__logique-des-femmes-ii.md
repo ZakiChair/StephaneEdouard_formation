@@ -4,15 +4,17 @@ titre: "Logique des femmes II"
 categorie: "Relations H-F"
 categorie_brute: "Relations H-F"
 slug: "logique-feminine"
-slug_catalogue: "logique-feminine"
 url: "https://mat-consulting.fr/produit/logique-feminine/"
 statut: voix-ecrite
 mots_fiche: 4246
 mots_verbatim: 265
-mots_page_produit: 813
+mots_annonce: 644
+programme: 14
+sections_annonce: 9
+points_annonce: 9
+documents_materiau: 4
+idees_forces: 0
 citations: 0
-extraits_voix: 12
-tracklist: 14
 doublon_titre: oui
 ---
 
@@ -20,42 +22,32 @@ doublon_titre: oui
 
 **C097** · Relations H-F · 4246 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/logique-feminine/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> émaner l’aura magique de celui qui comprend complètement les femmes et que plus rien n’atteint
+1. Comment utiliser ce séminaire
+2. La femme adulte
+3. La difficulté de F pure à créer
+4. Surdétermination par rapport à sa sécurité
+5. La difficulté de F pure à penser
+6. Création des catégories mentales
+7. Cependant, les femmes restent utiles
+8. F pur et le capitalisme
+9. Comment survivre comme femme
+10. La double empathie féminine
+11. Pourquoi il est plus difficile d’être une femme
+12. Faire semblant, un travail à plein temps
+13. Vivre dans une duperie permanente
+14. Comprendre la presse féminine
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Comment utiliser ce séminaire
-- La femme adulte
-- La difficulté de F pure à créer
-- Surdétermination par rapport à sa sécurité
-- La difficulté de F pure à penser
-- Création des catégories mentales
-- Cependant, les femmes restent utiles
-- F pur et le capitalisme
-- Comment survivre comme femme
-- La double empathie féminine
-- Pourquoi il est plus difficile d’être une femme
-- Faire semblant, un travail à plein temps
-- Vivre dans une duperie permanente
-- Comprendre la presse féminine
+*Page produit : https://mat-consulting.fr/catalogue/logique-feminine/ — 644 mots de sa prose.*
 
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-Voilà, on y est. **Logique des femmes**, aussi surnommé **#logiqueF**, ou encore la « paire de lunettes » qui va bien pour décoder un monde auquel, avouez-le, vous n’avez jamais rien compris.
-
-Mais je ne peux pas vous blâmer. Ce n’est pas votre faute. Moi non plus je n’y comprenais **rien**, avant (avant +/- 25 ans, disons). Alors je me suis fabriqué ma paire de lunettes tout seul, à force de lectures (romans), cours (théâtre) , réflexions personnelles, amours, haines, réajustements, bref du _Do It Yourself_ dans le noble sens du terme, avec tous les (très) hauts et les (très) bas qui vont avec.
-
-#### Des exemples ?
+### Des exemples ?
 
 J’ai vu une fille me présenter à ses parents après 6 mois de relation, pour disparaître définitivement sans explications la semaine suivante. J’ai entendu une américaine (je la prenais pour un ange) m’expliquer que nous n’avions pas _d’alchimie_ parce que je n’avais toujours pas fait en sorte de coucher avec elle à la fin du 3ème rendez-vous, alors que je pensais lui faire l’honneur rare de ne pas me comporter comme un vulgaire queutard. J’ai vu une femme insulter son ex mari à longueur de journée pour découvrir un jour, au hasard, sur la porte du frigo, qu’elle lui cuisinait encore des petits plats qu’elle apportait à son domicile. En présence de sa seconde épouse. Des comme ça, je pourrais en remplir intégralement cette page en moins de temps qu’il n’en faut pour se brosser les dents. Et c’est sans compter ce que j’ai entendu, lu et vu de la part de mes clients…
-
-## ALORS, VOUS COMPRENEZ DÉJÀ TOUT DES FEMMES ?
 
 ### Hmm, je demande à voir
 
@@ -75,6 +67,11 @@ Axel est l’un de nos clients. Lisez le tranquillement, puis dites à voix haut
 >
 > Natalia \[prénom modifié\]
 
+
+> Anyway, again, I hope that you are fine, found good job and your family is overcoming the pain of a loss. I wish you all the best! I feel thankful for all your help, our talks, and nice enjoyable time.
+
+> Natalia \[prénom modifié\]
+
 ### Enfilez ma paire de lunettes, allez…
 
 Vas-y, rentre ta tête là
@@ -86,8 +83,6 @@ Attendez quelques secondes, que votre vue s’habitue. Au début, ça vous pique
 Vous allez maintenant passer du chinois… au français. Go.
 
 => Clique ici pour découvrir la réponse <=
-
-## ET MAINTENANT, IMAGINEZ…
 
 ### Que vous puissiez comprendre tout ça tout seul, tout le temps
 
@@ -102,13 +97,56 @@ Ca changerait quoi, dans votre rapport aux autres et aux femmes, exactement ?
 
 Venez lever le flou, abandonner les fantasmes, et voir la réalité en face comme un homme !
 
+
+- je serai plus en mesure de me faire respecter
+- je saurai mieux communiquer mes attentes
+- je saurai reconnaître quel type de femme me correspond
+- je saurai faire la part des choses dans une attitude qui jusqu’à présent me paraissait totalement illogique
+- je n’aurai plus peur de l’inconnu
+- je ne me tourmenterai plus pour chercher à comprendre l’incompréhensible
+
 ### Et comme d’habitude :
 
 1. de l’inédit
 2. des gifles (de réalisme)
 3. une infinité de détails sur les femmes (et les gens en général) que vous allez ensuite remarquer tous les jours, toute votre vie.
 
-*Métadonnées de la page produit : 984 téléchargements.*
+
+- de l’inédit
+- des gifles (de réalisme)
+- une infinité de détails sur les femmes (et les gens en général) que vous allez ensuite remarquer tous les jours, toute votre vie.
+
+## La matière qu'il a lui-même déclarée
+
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
+
+### La chanteuse Pomme : potentiel magnifique ou esprit ZADiste ? — `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese`
+
+*podcast · `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
+
+
+### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
+
+*podcast · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
+
+
+### Synthèse – L_O9dPuT_jE — `Video-L_O9dPuT_jE-synthese`
+
+*podcast · `Video-L_O9dPuT_jE-synthese.md`*
+
+
+### Vidéoscopie — Analyse de propos sur les femmes et la négociation salariale — `Vidéoscopie-–-Analyse-de-propos-sur-les-femmes-et-la-négociation-salariale-synthese`
+
+*podcast · `Vidéoscopie-–-Analyse-de-propos-sur-les-femmes-et-la-négociation-salariale-synthese.md`*
+
+
+## Ses développements sur le sujet
+
+### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
+
+*« Faites-toujours-confiance-aux-femmes-synthese.md » · origine : corpus*
+
+> 3. La persuasion sexuelle : une chimère (Règle 3) L'idée de "persuader une femme d'avoir une relation sexuelle" est logiquement incohérente : Si une méthode fonctionnait, elle serait commercialisée depuis longtemps La séduction opère par attraction, patience, charisme - pas par manipulation rationnelle Une femme adulte et consentante décide ou non, elle ne se "persuade" pas
 
 ## Verbatim de l'auteur (fiche de formation)
 
@@ -119,96 +157,6 @@ Venez lever le flou, abandonner les fantasmes, et voir la réalité en face comm
 > ALORS, VOUS COMPRENEZ
 > 
 > ---
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Faites toujours confiance aux femmes — `zPQjWorSYok`
-
-*Rattachement : 0.2826 · `podcasts/transcripts/final/zPQjWorSYok-transcript.md`*
-
-> 3. bien c'est que on est directement dans une forme de neutralité et d'absence de parti pris c'est à dire que au titre d'abolir la partition hommes femmes et donc de ne pas imaginer les enfermer dans des rôles où l'un des rôles seraient plus dominant le plus bas le terme on commence par nous dire apprenez à encenser une femme sous-entendu les les femmes je ne suis pas sûr que sémantiquement il est la nuance que moi j'ai de dire la femme avec un grand f les femmes avec un petit être comme l'homme
-
-> 28. compte à la vente à sion numéro un je vous rappelle que cette diatribe commencer par recenser les femmes et pour encenser les femmes il faut croire absolument tout ce qu'elle déclare je nie bonne chance surveillez votre langage quand vous parlez des femmes à bannir immédiatement les termes irrationnelle hystérique pète sec alors pète sec je pense que personne n'a jamais dit ça depuis 40 ans harceleuse je n'ai jamais entendu de ma vie une femme traitée d' harceleuse hystérique la dernière fois que
-
-> 30. que j'ai une formation qui s'appelle logique mais j'ai également une formation qui s'appelle logique dé fram le contenu on est attestée par des centaines et des centaines de clients qui ont laissé des témoignages pas il ya une aria un ratio et1 logos masculin et féminin personne n'a jamais prétendu que toutes les femmes étaient irrationnelles il y a par contre dès contexte favorisant l'irrationalité et certaines femmes s'y adonnent parfois de manière un petit peu plus simple et je me considère
-
-### Video wPyLc557tKM — `wPyLc557tKM`
-
-*Rattachement : 0.2748 · `podcasts/transcripts/final/wPyLc557tKM-transcript.md`*
-
-### Video 32N-rLIGpJg — `32N-rLIGpJg`
-
-*Rattachement : 0.2518 · `podcasts/transcripts/final/32N-rLIGpJg-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=32N-rLIGpJg Titre**: 45mn de discussion autour de l’amitié homme-femme | Étude de cas Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/32N-rLIGpJg.md`).
-
-### Video ABaGrL_kdu8 — `ABaGrL_kdu8`
-
-*Rattachement : 0.2504 · `podcasts/transcripts/final/ABaGrL_kdu8-transcript.md`*
-
-### Video kems0WOqleA — `kems0WOqleA`
-
-*Rattachement : 0.2479 · `podcasts/transcripts/final/kems0WOqleA-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### La logique masculine face à l'absence de motivation — `La-logique-masculine-face-à-l'absence-de-motivation-synthese`
-
-*Rattachement : 0.5343 · `podcasts/syntheses/La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
-
-> Logique féminine** : Connexions, émotions, présent, ressentis La femme pense en termes de relation, pas de projet Elle évalue le sentiment, pas le potentiel Elle cherche une présence, pas une addition
-
-> "Le verbe arracher et la disponibilité féminine"** : la formule beauté + intelligence + disponibilité éclaire ce concept "Ne soyez plus les esclaves des femmes"** : l'homme qui cherche de la substance plutôt que de la dépendance "Faites toujours confiance aux femmes"** : la critique des rôles de género qui empêchent les femmes de développer leur potentiel Formation "Logique masculine"** : comprendre ce que cherchent réellement les hommes Formation "Logique des femmes"** : la différence entre les deux logiques Formation "Essence féminine"** : cultive'r sa vraie valeur au-delà de l'apparence
-
-### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
-
-*Rattachement : 0.3658 · `podcasts/syntheses/Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
-
-> "Ne soyez plus les esclaves des femmes"** : prolonge la réflexion sur les attentes masculines implicites et le choix entre sécurité et défi "La logique masculine face à l'absence de motivation"** : la "coquille vide" comme inverse de cette formule - celui qui n'a rien à offrir "Faites toujours confiance aux femmes"** : la question de la confiance dans les relations inégales Formation "Logique des femmes"** : la compréhension profonde de la disponibilité féminine Formation "Discernement"** : savoir évaluer correctement sa propre valeur et celle des autres
-
-> La logique féminine derrière ce paradoxe** : Une femme qui a beaucoup ne cherche pas à accumulation - elle select. Cette attitude est exactly ce qui rend attractif en logique masculine. Mais c'est aussi ce qui rend la poursuit difficile.
-
-### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
-
-*Rattachement : 0.3619 · `podcasts/syntheses/Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
-
-> 3. L'incohérence féminine comme principe L'incohérence féminine n'est pas un défaut mais un mécanisme de défense de la logique féminine. Quand une femme dit "je ne suis pas incohérente, je suis juste dans ma logique à moi", elle exprime le fait que la logique féminine opère différemment de la logique masculine - non pas comme une contradiction mais comme un système autonome.
-
-> "Le verbe arracher et la disponibilité féminine"** : prolonge la réflexion sur l'équilibre entre poursuit et disponibilité "La logique masculine face à l'absence de motivation"** : traite de la "coquille vide" et l'absence de substance qui attire les hommes dans ces cycles "Faites toujours confiance aux femmes"** : analyse critique des discours qui enferment les hommes dans des rôles de pourvoyeurs Formation "Logique des femmes"** : cadre pour comprendre pourquoi les femmes ne fonctionnent pas selon la même logique de réciprocité que les hommes Formation "Ce qui vous ment"** : les mécanismes de manipulation dans les relations
-
-### L'entraide entre femmes : un déficit historique — `L'entraide-entre-femmes-un-déficit-historique-synthese`
-
-*Rattachement : 0.316 · `podcasts/syntheses/L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
-
-> Ancrage dans la logique de Stéphane** : En logique féminine, la rivalité pour l'attention masculine est structurelle. Quand la valeur de la femme est mesurée par le regard de l'homme, les femmes sont naturellement en compétition. C'est le système qui crée la rivalité, pas la nature féminine.
-
-> Thème central Réflexion sur le manque historique de sororité et d'entraide entre femmes, depuis l'enfance jusqu'à l'âge adulte. Stéphane reçoit un témoignage d'une femme qui décrit sa difficulté à trouver solidarity féminine et sa stratégie de survie consistant à s'entourer d'hommes face à l'hostilité des femmes. Ce déficit commence dès l'enfance et persiste à l'âge adulte, même chez les femmes qui devraient être alliées.
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Spike Séduction — `web-actualite__17102_logique-des-femmes.html`
-
-*Rattachement : 0.3847 · `sources-publiques/spikeseduction-archive/web-actualite__17102_logique-des-femmes.html.txt`*
-
-### Spike Séduction — `web-articles__seduction-fondamentaux__17140_les-hommes-ne-comprennent-pas-la-logique-des-femmes.html`
-
-*Rattachement : 0.343 · `sources-publiques/spikeseduction-archive/web-articles__seduction-fondamentaux__17140_les-hommes-ne-comprennent-pas-la-logique-des-femmes.html.txt`*
-
-### Commandez le séminaire logique des femmes — `web-actualite__17102_logique-des-femmes.html?preview=1`
-
-*Rattachement : 0.3277 · `sources-publiques/spikeseduction-archive/web-actualite__17102_logique-des-femmes.html?preview=1.txt`*
-
-### Spike Séduction — `web-articles__seduction-fondamentaux__18146_je-suis-celib.html`
-
-*Rattachement : 0.3048 · `sources-publiques/spikeseduction-archive/web-articles__seduction-fondamentaux__18146_je-suis-celib.html.txt`*
-
-### Spike Séduction — `web-articles__17971_complexite-femme-moderne.html`
-
-*Rattachement : 0.3009 · `sources-publiques/spikeseduction-archive/web-articles__17971_complexite-femme-moderne.html.txt`*
 
 ---
 

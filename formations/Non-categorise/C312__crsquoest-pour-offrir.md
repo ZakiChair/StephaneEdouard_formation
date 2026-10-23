@@ -4,15 +4,17 @@ titre: "C&rsquo;est pour offrir"
 categorie: "Non categorise"
 categorie_brute: "_Non catégorisé_"
 slug: "offrir"
-slug_catalogue: "offrir"
 url: "https://mat-consulting.fr/catalogue/offrir/"
 statut: doctrine
 mots_fiche: 228
 mots_verbatim: 0
-mots_page_produit: 42
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 2
+idees_forces: 6
 citations: 0
-extraits_voix: 2
-tracklist: 0
 doublon_titre: non
 ---
 
@@ -20,63 +22,33 @@ doublon_titre: non
 
 **C312** · Non categorise · 228 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Les cadeaux font plaisir surtout à ceux qui les font — `f8HDm2YAs4o`
-
-*Rattachement : 0.0573 · `podcasts/transcripts/final/f8HDm2YAs4o-transcript.md`*
-
-> 12. à regarder en diptyque à l'époque ça s'appelait la plus belle qualité des femmes leur plus gros défaut la plus belle qualité des hommes l'enclos défaut le meilleur cadeau que j'ai fait le meilleur cadeau que j'ai reçues le pire cadeau que j'ai fait le pire cadeau que j'ai reçue que ça c'était l'un des plus beau cadeau que j'ai fait une robe sur mesure l'idée que quelqu'un en dos labit dans lequel on l'a imaginé me renvoie à un des films cultes j'en ai 4 ou 5 g les innocents de bertolucci g
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : Video uXOONmB50JU — uXOONmB50JU — `Video-uXOONmB50JU-synthese`
-
-*Rattachement : 0.1718 · `podcasts/syntheses/Video-uXOONmB50JU-synthese.md`*
-
-### Synthèse – Vidéoscopie CEhoPgOBx20 — `Solveig-Halloin-@-Balance-ton-post-synthese`
-
-*Rattachement : 0.1083 · `podcasts/syntheses/Solveig-Halloin-@-Balance-ton-post-synthese.md`*
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### La logique masculine face à l'absence de motivation — `La-logique-masculine-face-à-l'absence-de-motivation-synthese`
 
-*Rattachement : 0.1082 · `podcasts/syntheses/La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
+*podcast · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
 
-> [Une motivation en béton](./formations/Developpement Personnel/plus-de-motivation.md) [Une motivation en beton (apres-midi)](./formations/Developpement Personnel/une-motivation-en-beton-apres-midi.md) [Une motivation en beton (matin)](./formations/Developpement Personnel/une-motivation-en-beton-matin.md) [C'est pour offrir](./formations/Sedirection Rencontres/offrir.md) [C'est pour offrir](./formations/crsquoest-pour-offrir.md) [Gestion des Émotions](./formations/gestion-des-emotions.md) [La Dépendance Affective](./formations/la-dependance-affective.md) [Motivation et discipline](./formations/motivation-et-discipline.md) [C&rsquo;est pour offrir](./formations/offrir.md) [Une motivation en béton](./formations/plus-de-motivation.md)
 
-### Synthèse – Vidéoscopie AxXOe6OlEsM — `Analyse-d'un-cas-de-vidéoscopie-face-à-Blast-synthese`
+### Synthèse : Video uXOONmB50JU — uXOONmB50JU — `Video-uXOONmB50JU-synthese`
 
-*Rattachement : 0.1023 · `podcasts/syntheses/Analyse-d'un-cas-de-vidéoscopie-face-à-Blast-synthese.md`*
+*podcast · `Video-uXOONmB50JU-synthese.md`*
 
-## Ses écrits sur ce thème (ancien site)
+- Les appels ne mentent pas : Plus de 80% des appels féminins concernent un homme qui s'éloigne, alors que les appels masculins concernent une femme qui ne se donne pas — révélant un pattern inverse selon le genre.
+- L'absence d'assertivité féminine : En refusant de « discriminer » précocement et en plaçant tous les prétendants dans un « bain commun », les femmes externalisent un choix qui devrait leur appartenir.
+- L'éviction des egos : Ce mécanisme écarte systématiquement les hommes dotés de valeur — ceux-là mêmes que ces mêmes femmes rechercheront ensuite, créant une contradiction coûteuse.
+- La loi de l'investissement-attente : Plus un homme investit (temps, efforts, sacrifices), plus ses attentes augmentent exponentiellement — sans rapport avec ce que la réalité pourra offrir.
+- La cristallisation de Stendhal : L'objet d'une longue attente finit par être surévalué, fantasmé, magnifié — au point où toute rencontre réelle devient une déception quasi-certaine.
+- Panino et la courisanne inversée : L'anecdote personnelle illustre le retournement : celui qui est méprisé acquiert paradoxalement de la valeur aux yeux de celle qui le négligeait.
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+## Ses développements sur le sujet
 
-### Mais bon sang, c&#8217;est génial le RSS ! — `web-articles__8726_rss-mode-emploi.html`
+### Synthèse : Video uXOONmB50JU — uXOONmB50JU — `Video-uXOONmB50JU-synthese`
 
-*Rattachement : 0.1523 · `sources-publiques/spikeseduction-archive/web-articles__8726_rss-mode-emploi.html.txt`*
+*« Video-uXOONmB50JU-synthese.md » · origine : lien-declare*
 
-### Pour en finir avec la jalousie, par Frédéric — `web-articles__10850_comment-ne-plus-etre-jaloux.html`
-
-*Rattachement : 0.1255 · `sources-publiques/spikeseduction-archive/web-articles__10850_comment-ne-plus-etre-jaloux.html.txt`*
-
-### Pour en finir avec la jalousie, par Frédéric — `web-articles__10850_ne-plus-etre-jaloux.html`
-
-*Rattachement : 0.1254 · `sources-publiques/spikeseduction-archive/web-articles__10850_ne-plus-etre-jaloux.html.txt`*
-
-### L&#8217;embarras du faux choix, par Diane — `web-articles__9555_rencontrer-des-femmes.html`
-
-*Rattachement : 0.1221 · `sources-publiques/spikeseduction-archive/web-articles__9555_rencontrer-des-femmes.html.txt`*
-
-### Spike Seduction — `web-articles__625_elle-ma-trompe-adultere-trahison-comment-reagir.html`
-
-*Rattachement : 0.1219 · `sources-publiques/spikeseduction-archive/web-articles__625_elle-ma-trompe-adultere-trahison-comment-reagir.html.txt`*
-
-## Points clés
-
-- _À compléter après analyse du contenu_
+> Les appels ne mentent pas : Plus de 80% des appels féminins concernent un homme qui s'éloigne, alors que les appels masculins concernent une femme qui ne se donne pas — révélant un pattern inverse selon le genre.
 
 ---
 

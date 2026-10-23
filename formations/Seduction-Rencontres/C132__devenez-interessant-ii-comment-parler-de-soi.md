@@ -4,15 +4,17 @@ titre: "Devenez intéressant II : comment parler de soi"
 categorie: "Seduction & Rencontres"
 categorie_brute: "Sedirection Rencontres"
 slug: "bonne-reputation"
-slug_catalogue: "bonne-reputation"
 url: "https://mat-consulting.fr/produit/bonne-reputation/"
 statut: voix-ecrite
 mots_fiche: 4035
 mots_verbatim: 257
-mots_page_produit: 818
+mots_annonce: 731
+programme: 9
+sections_annonce: 4
+points_annonce: 2
+documents_materiau: 4
+idees_forces: 24
 citations: 0
-extraits_voix: 12
-tracklist: 9
 doublon_titre: non
 ---
 
@@ -20,34 +22,25 @@ doublon_titre: non
 
 **C132** · Seduction & Rencontres · 4035 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/bonne-reputation/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> devenir intéressant en sachant quand ne pas parler de soi, quand parler de soi, et comment parler de soi pour conserver l'intérêt de son interlocuteur et si possible l'accroître
+1. Un mystérieux selfie qui a fait gloser nous sert de support de TD
+2. « Présentez-vous » : parler de soi en y étant invité vs spontanément
+3. Parler de soi c’est s’abriter entre 2 murs
+4. Schéma
+5. Clés de reconnaissance personnelle
+6. Planter des graines
+7. Les expressions pour parler de soi ( suite du TD)
+8. Si vous avez participé [au premier épisode](https://mat-consulting.fr/catalogue/parler-en-public/), alors celui-ci est indispensable car complémentaire
+9. Et pour ceux d’entre vous (nombreux) qui n’auront pas participé au premier, aucune inquiétude, tout est prévu pour que vous puissiez commencer par celui-ci
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Un mystérieux selfie qui a fait gloser nous sert de support de TD
-- « Présentez-vous » : parler de soi en y étant invité vs spontanément
-- Parler de soi c’est s’abriter entre 2 murs
-- Schéma
-- Clés de reconnaissance personnelle
-- Planter des graines
-- Les expressions pour parler de soi ( suite du TD)
-- Si vous avez participé [au premier épisode](https://mat-consulting.fr/catalogue/parler-en-public/), alors celui-ci est indispensable car complémentaire
-- Et pour ceux d’entre vous (nombreux) qui n’auront pas participé au premier, aucune inquiétude, tout est prévu pour que vous puissiez commencer par celui-ci
+*Page produit : https://mat-consulting.fr/catalogue/bonne-reputation/ — 731 mots de sa prose.*
 
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-Soyons clairs d’entrée de jeu :
-
-- Si vous avez participé au premier épisode, alors celui-ci est indispensable car complémentaire
-- Et pour ceux d’entre vous (nombreux) qui n’auront pas participé au premier, aucune inquiétude, tout est prévu pour que vous puissiez commencer par celui-ci
-
-## (PAS) ASSEZ PARLÉ DE VOUS !
+### (PAS) ASSEZ PARLÉ DE VOUS !
 
 Avant de partir en vacances j’ai réuni les coachs de l’équipe, qui se sont facilement accordés sur ce constat : au classement des difficultés que vous éprouvez dans le cheminement vers le statut d’homme séduisant, **_savoir parler de soi_** figure systématiquement dans le peloton de tête.
 
@@ -62,9 +55,18 @@ Sauf à ce que votre notoriété parle pour vous (et quand bien même, 95% de ce
 1. nul ne peut se dispenser de savoir parler de soi. Comme dirait les deux autres, il y en a qui ont essayé, ils ont eu des problèmes…
 2. l’art de parler de soi sans donner l’impression d’administrer un dose massive de Xanax à ses auditeurs est un privilège d’initiés, qui connaissent et comprennent les _codes du langage_ et de la _psychologie sociale_. Désormais, vous pouvez en faire partie.
 
+
+- nul ne peut se dispenser de savoir parler de soi. Comme dirait les deux autres, il y en a qui ont essayé, ils ont eu des problèmes…
+- l’art de parler de soi sans donner l’impression d’administrer un dose massive de Xanax à ses auditeurs est un privilège d’initiés, qui connaissent et comprennent les codes du langage et de la psychologie sociale. Désormais, vous pouvez en faire partie.
+
 ### Un séminaire utile sur les 2 tableaux : séduction et vie professionnelle
 
 Savoir parler de soir, c’est **savoir se vendre.** Et je ne suis certainement pas le premier à vous rappeler que savoir se vendre n’est plus facultatif aujourd’hui : c’est impératif.
+
+- Comment démarre un entretien d’embauche ? _« Parlez-moi de vous »_
+- Quel est le tournant d’une rencontre online ? « Parle moi de toi »
+- Et (j’ai gardé le meilleur pour la fin) : quelle est la particularité de tous les gens séduisants In Real Life : **ils savent quand, à quel rythme et surtout comment, parler d’eux**, c’est à dire **révéler un certain nombre d’informations personnelles choisies** comme autant de pièces d’un puzzle que l’autre voudra reconstituer comme il reconstitue votre réalité.
+
 
 - Comment démarre un entretien d’embauche ? _« Parlez-moi de vous »_
 - Quel est le tournant d’une rencontre online ? « Parle moi de toi »
@@ -76,7 +78,7 @@ Prenez la respiration, par exemple. Vous pensez savoir le faire naturellement de
 
 Il est en de même avec le sujet du jour : vous savez tous parler plus ou moins bien , c’est à dire associer des idées et des mots dans des phrases qui font sens. Mais savoir parler de soi n’a rien à voir, c’est un niveau au dessus, c’est contre-intuitif, bref c’est un apprentissage. Comme respirer pour de bon.
 
-## UN PILIER
+### UN PILIER
 
 Savoir parler de soi est un des piliers incontournables de la séduction, tout comme _être un homme sexué_ ou _avoir une vie intéressante_. Et ce savoir fait partie de la tradition de ces enseignements qui **ne peuvent se transmettre à l’écrit**. Conséquence, il n’y a
 
@@ -99,9 +101,68 @@ Vous y apprendrez notamment :
 - Comment donner envie à votre interlocuteur d’en savoir plus sur vous
 - Etc. etc.
 
-## Devenez intéressant II : comment parler de soi
 
-*Métadonnées de la page produit : 938 téléchargements.*
+- aucune documentation
+- aucune autre source d’information
+- Comment raconter une histoire _personnelle_ de façon intéressante (quand bien même elle ne le serait pas tellement au début)
+- Quels détails distiller…
+- … et à quel moment
+- Comment faire _visualiser_ une situation
+- Comment y mettre des _émotions_ et en faire ressentir à votre interlocuteur
+- Quelles informations garder pour vous
+- Comment donner envie à votre interlocuteur d’en savoir plus sur vous
+
+## La matière qu'il a lui-même déclarée
+
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
+
+### Synthèse : 10 Expériences de Psychologie Sociale — `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese`
+
+*podcast · `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese.md`*
+
+
+### Synthèse : Je ne refuserais pas un p'tit "coup d'deux" avec ces deux-là — ttRaEas4lAY — `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese`
+
+*podcast · `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md`*
+
+- La question centrale : qui dirige réellement le trio ? Édouard souligne que la mise en scène visuelle place l'homme (Guillaume) au centre, mais que l'observation des paroles, regards et postures suggère que c'est Ludmila qui régente l'échange. L'homme apparaît "pusillanime", "introverti", avec un regard "perdu" et une "mollesse générale" qui contraste avec la présence vocale de la femme.
+- L'analyse sociologique du casting : Selon Édouard, les participants appartiennent à la "bonne province de commerçants" — enfants de médecins généralistes, pharmaciens, commerçants ou propriétaires de bijouteries. Ce sont des gens qui "ont le temps", ce qui renvoie à l'histoire du libertinage, pratique d'abord aristocratique puis bourgeoise.
+- Le collier de perles comme symbole : Présenté comme un pastiche des codes bourgeois — Vestige d'une bourgeoisie du XIXe siècle que plus personne ne pratique réellement. Ce sont des "fils employés" qui achètent ces colliers sur eBay pour se donner une contenance sociale.
+- L'ascension sociale par l'apparence : Ludmila compenserait par les signes extérieurs (tatouages, ceinture Gucci) un parler et des expressions qui trahissent un "passé récent d'employée de la restauration", de "grosse fumeuse" ou de "gérante de clubs de sport".
+- La prétérition révélatrice : Le discours de Guillaume — "je ne veux pas qu'elle ait l'impression d'être le jouet d'un couple" — constitue une confirmation par négation : on ne peut pas échapper au statut de jouet temporaire dans une relation à trois.
+- Un jeu de façade : Tout dans l'échange (les expressions, les postures, les regards) relèverait davantage du "jeu" que de l'authenticité, avec une impression croissante que Guillaume et Stéphanie sont de simples "objets" dans l'histoire de Ludmila.
+
+### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
+
+*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+
+
+### Synthèse : The #remigration has already begun for Yannick Noah — `The-#remigration-has-already-begun-for-Yannick-Noah-synthese`
+
+*podcast · `The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md`*
+
+- *Le contexte fiscal**
+- Départ du Cameroun en 2017, même année où il perd un procès fiscal de 20 ans contre Bercy (1 million d'euros)
+- Patriarcat pressé de transmettre à ses 5 enfants avec une imposition minimale
+- Résidences successives : France, Suisse, États-Unis - exactement ce qu'on lui reprochait
+- *L'analyse des motivations**
+- Derrière le discours spirituel et africain, un objectif financierクリア
+- La "transmission" = optimisation fiscale de son patrimoine estimé entre 10 et 20 millions
+- Le métissage assumé dans les années 70 lui a coûté socialement, mais ça valait le coup
+
+## Ses développements sur le sujet
+
+### Synthèse : Je ne refuserais pas un p'tit "coup d'deux" avec ces deux-là — ttRaEas4lAY — `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese`
+
+*« Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md » · origine : lien-declare*
+
+> La question centrale : qui dirige réellement le trio ? Édouard souligne que la mise en scène visuelle place l'homme (Guillaume) au centre, mais que l'observation des paroles, regards et postures suggère que c'est Ludmila qui régente l'échange. L'homme apparaît "pusillanime", "introverti", avec un regard "perdu" et une "mollesse générale" qui contraste avec la présence vocale de la femme.
+
+### Synthèse : The #remigration has already begun for Yannick Noah — `The-#remigration-has-already-begun-for-Yannick-Noah-synthese`
+
+*« The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md » · origine : lien-declare*
+
+> *Le contexte fiscal**
 
 ## Verbatim de l'auteur (fiche de formation)
 
@@ -117,96 +178,6 @@ Vous y apprendrez notamment :
 > J'entends d'ici certains d'entre vous penser à haute voix : un homme attirant est un homme mystérieux, et un homme m
 > 
 > ---
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video E2VkPTNEVvI — `E2VkPTNEVvI`
-
-*Rattachement : 0.2645 · `podcasts/transcripts/final/E2VkPTNEVvI-transcript.md`*
-
-### Faites toujours confiance aux femmes — `zPQjWorSYok`
-
-*Rattachement : 0.2287 · `podcasts/transcripts/final/zPQjWorSYok-transcript.md`*
-
-> 16. ch et le manager et tuvalu parler exactement comme tu me parle à moi et on va voir quelle va être sa réaction c'est pas à un autre de le dire ou alors il faut vous mettre sous tutelle c'est à dire sous la protection d'un adulte je sais c'est un moment faut être logique quoi sert peut pas avoir tout et son contraire 6 réjouissez-vous d'avoir des amis bien l'amitié homme femme j'ai déjà expliqué ce que j'en pense et j'y crois mais c'est temporaire car il y a dans la notion d'homme et la notion
-
-> 15. comportement inapproprié envers une femme rappeler à l'ordre oui alors ça c'est très paternaliste et ça réduit vraiment les femmes à une minorité perpétuelle c'est à dire que pourquoi ce n'est pas à elle de le rappeler à l'ordre si un homme vous passe la main dans le dos de manière inutile et hao congrue c'est à vous de le dire quand j'aurai besoin d'un massage je t'appellerai quand un homme se permet des remarques déplacées c'est à celle qui les subit de dire on va maintenant se rendre chez le
-
-> 3. bien c'est que on est directement dans une forme de neutralité et d'absence de parti pris c'est à dire que au titre d'abolir la partition hommes femmes et donc de ne pas imaginer les enfermer dans des rôles où l'un des rôles seraient plus dominant le plus bas le terme on commence par nous dire apprenez à encenser une femme sous-entendu les les femmes je ne suis pas sûr que sémantiquement il est la nuance que moi j'ai de dire la femme avec un grand f les femmes avec un petit être comme l'homme
-
-### Video hZiLkvtXcFo — `hZiLkvtXcFo`
-
-*Rattachement : 0.2267 · `podcasts/transcripts/final/hZiLkvtXcFo-transcript.md`*
-
-### Video 32N-rLIGpJg — `32N-rLIGpJg`
-
-*Rattachement : 0.2255 · `podcasts/transcripts/final/32N-rLIGpJg-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=32N-rLIGpJg Titre**: 45mn de discussion autour de l’amitié homme-femme | Étude de cas Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/32N-rLIGpJg.md`).
-
-### Video yCgVt4zZejg — `yCgVt4zZejg`
-
-*Rattachement : 0.221 · `podcasts/transcripts/final/yCgVt4zZejg-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Esther Villard - La manipulation dans les relations hommes-femmes — `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese`
-
-*Rattachement : 0.4247 · `podcasts/syntheses/Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
-
-> 2. La mère de Stéphane comme témoin La mère de Stéphane a dévoré le livre en 3 jours, ce qui suggère que : Le livre résonne avec son expérience personnelle Les mécanismes décrits sont reconnaissables par beaucoup de femmes Le livre offre un cadre pour comprendre des dynamiques observées Les femmes se reconnaissent comme manipulant, mais ne l'avaient jamais mis en mots
-
-> 3. Ce que l'homme attend vs. ce que la femme fait Le livre analyse les attentes réciproques : L'homme** : OFFRE (protection, ressources, engagement) et attend en retour connexion et reconnaissance La femme** : REÇOIT et manipule pour maintenir le contrôle émotionnel
-
-### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
-
-*Rattachement : 0.2537 · `podcasts/syntheses/Video-yCgVt4zZejg-synthese.md`*
-
-> L'auteur analyse un ouvrage de Stéphane Édouard, sociologue reconnu pour ses travaux sur les dynamiques relationnelles, et livre une critique nuancée d'un livre sur la séduction et la construction de soi. Le propos dépasse la simple technique de drague pour explorer ce qui rend une personne véritablement attractive : la transformation personnelle au service de l'autre.
-
-> Le reviewer commence par expliquer sa propre impuissance en matière de séduction et comment il a compensé par des mécanismes de quantité plutôt que de qualité. Il situe immédiatement le livre dans un contexte de transformation personnelle, non de de drague.
-
-### Synthèse – OZI6maFwFM0 — `Going-out-as-a-woman-in-the-street-(social-experiment)-synthese`
-
-*Rattachement : 0.2333 · `podcasts/syntheses/Going-out-as-a-woman-in-the-street-(social-experiment)-synthese.md`*
-
-> 6. **L'accent "pataouète"** : Parler de l'arabe des quartiers n'est pas parler de la langue arabe classique (immense civilisation). Mais en France, à Châtelet, quand on entend un accent d'importation, la spécialité culinaire, c'est plus le tajine que la raquette.
-
-> 1. **Expérience filmée** : Un jeune homme barbu, bien habillé, se déguise en femme (Olga). Il marche dans un quartier cosmopolite de Seine-Saint-Denis. Les premières interactions viennent d'hommes: Un homme d'origine africaine lance un "houla" oder "oulla" en passant Un homme "antillais" fait des commentaires sexualisés Trois jeunes en jean font des remarques ouvertement graveleuses ("tres beau cul")
-
-### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
-
-*Rattachement : 0.2318 · `podcasts/syntheses/Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
-
-> Le mécanisme** : 1. L'homme rend service sans qu'on le demande 2. Il attend une "reconnaissance" implicite 3. La femme ne comprend pas cette attente non formulée 4. L'homme accumule de la frustration 5. "J'ai fait tout ça pour elle et elle ne me donne rien"
-
-> Ancrage dans la logique de Stéphane** : En essence féminine, la vraie valeur d'un homme c'est sa capacité à elevo, pas à remplacer. L'homme qui fait à la place de la femme ne cherche pas à l'aider - il cherche à se rendre indispensable.
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Commandez le séminaire &laquo;&nbsp;Devenez intéressant, II : comment parler de soi&nbsp;&raquo; — `web-actualite__6981_savoir-parler-de-soi.html?preview=1`
-
-*Rattachement : 0.4708 · `sources-publiques/spikeseduction-archive/web-actualite__6981_savoir-parler-de-soi.html?preview=1.txt`*
-
-### 24 septembre, séminaire : savoir parler de soi — `web-actualite__6981_savoir-parler-de-soi.html`
-
-*Rattachement : 0.303 · `sources-publiques/spikeseduction-archive/web-actualite__6981_savoir-parler-de-soi.html.txt`*
-
-### 24 septembre, séminaire : savoir parler de soi — `web-articles__6981_savoir-parler-de-soi.html`
-
-*Rattachement : 0.303 · `sources-publiques/spikeseduction-archive/web-articles__6981_savoir-parler-de-soi.html.txt`*
-
-### Aborder une inconnue : soyez normal sans être banal — `web-articles__945_aborder-une-inconnue.html`
-
-*Rattachement : 0.2506 · `sources-publiques/spikeseduction-archive/web-articles__945_aborder-une-inconnue.html.txt`*
-
-### Spike Séduction — `web-articles__215_cette-fois-la-femme-est-le-pantin.html`
-
-*Rattachement : 0.2235 · `sources-publiques/spikeseduction-archive/web-articles__215_cette-fois-la-femme-est-le-pantin.html.txt`*
 
 ---
 

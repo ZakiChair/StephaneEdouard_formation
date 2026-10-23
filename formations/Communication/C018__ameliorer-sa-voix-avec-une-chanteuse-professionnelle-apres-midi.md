@@ -4,15 +4,17 @@ titre: "Ameliorer sa voix (avec une chanteuse professionnelle) (apres-midi)"
 categorie: "Communication"
 categorie_brute: "Communication"
 slug: "ameliorer-sa-voix-avec-une-chanteuse-professionnelle-apres-midi"
-slug_catalogue: "ameliorer-sa-voix-avec-une-chanteuse-professionnelle-apres-midi"
 url: "https://mat-consulting.fr/produit/ameliorer-sa-voix-avec-une-chanteuse-professionnelle-apres-midi/"
 statut: non-reconstituable
 mots_fiche: 3944
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 5
+idees_forces: 11
 citations: 0
-extraits_voix: 9
-tracklist: 0
 doublon_titre: oui
 reconstitution: non
 fiche_jumelle: null
@@ -24,89 +26,59 @@ confiance: 0
 
 **C018** · Communication · 3944 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-### Video ABaGrL_kdu8 — `ABaGrL_kdu8`
+### Ces podcasts "féministes" engageaient des femmes... pour ne pas les payer 👌 — `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese`
 
-*Rattachement : 0.1895 · `podcasts/transcripts/final/ABaGrL_kdu8-transcript.md`*
+*podcast · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
 
-### Video 9MgW8OG-oBY — `9MgW8OG-oBY`
 
-*Rattachement : 0.1816 · `podcasts/transcripts/final/9MgW8OG-oBY-transcript.md`*
+### Synthèse : Je décompte les affabulations d'Oussama Ammar — `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese`
 
-### Video 9MgW8OG-oBY — `9MgW8OG`
+*podcast · `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese.md`*
 
-*Rattachement : 0.1816 · `podcasts/transcripts/final/9MgW8OG-transcript.md`*
 
-### Video AmB1ezrQpY4 — `AmB1ezrQpY4`
+### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-*Rattachement : 0.1738 · `podcasts/transcripts/final/AmB1ezrQpY4-transcript.md`*
+*podcast · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
 
-### Video Uh8lq9G81TE — `Uh8lq9G81TE`
+- Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
+- Mécanique d'annulation : un mot de travers = label "problématique" = exclusion = destruction professionnelle. 30 minutes suffisent à détruire une réputation.
+- Double standard : quand c'est quelqu'un du "camp du mal" (droite, Identité), pas de problème. Quand c'est entre progressistes, la violence est identique.
+- Résilience comparée : l'auteur a survécu 15 ans de bad buzz national ; les militants trans doivent prendre des anxiolytiques après une semaine de commentaires négatifs — absence de Resilience.
+- Application à l'isoloir : la même logique d'auto-censure s'applique au vote — les gens n'osent pas voter selon leurs convictions reales par peur du regard.
 
-*Rattachement : 0.1736 · `podcasts/transcripts/final/Uh8lq9G81TE-transcript.md`*
+### Synthèse – cWXgXeCFvtM — `Video-cWXgXeCFvtM-synthese`
 
-> Source**: https://www.youtube.com/watch?v=Uh8lq9G81TE Titre**: Améliorer sa voix, suite : avec une coach vocale Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/Uh8lq9G81TE.md`).
+*podcast · `Video-cWXgXeCFvtM-synthese.md`*
 
-## Ce qu'il a dit sur ce thème (podcasts)
 
-### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
+### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-*Rattachement : 0.6138 · `podcasts/syntheses/Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
+*podcast · `Video-u8r9BLSx7UU-synthese.md`*
 
-> 1. La formule beauté + intelligence + disponibilité = constante Cette équation constitue le cœur de l'analyse. Elle signifie que : Quand quelqu'un possède les trois qualités (beauté, intelligence, disponibilité), cette personne devient automatiquement plus accessible aux autres Cette accessibilité accrue la rend également plus "volatile" sur le marché relationnel Les personnes qui cumulent ces trois attributs sont généralement celles qui attirent le plus mais aussi celles qui restent le moins longtemps disponibles
+- L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+- Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.
+- Les pertes financières de Mademoiselle s'élèvent à près de 600 000 euros pour un chiffre d'affaires d'un million, avec 15 salariés — soit 60 000 euros de CA par personne, un ratio jugé « d'une absence de valeur très forte ».
+- Cosette, magazine créé en 2009 avec la devise « Mais ne nous mangez pas ! », illustre le mirage économique : redressement judiciaire en 2015, appel à la générosité des lecteurs, abandon du papier en septembre 2023, et dépôt de bilan en mai 2024.
+- La crise sociale interne de Cosette est particulièrement encadrée : en automne 2014, 8 arrêts maladie sur 10 salariés, 4 départs, 4 procédures aux prud'hommes, enquête de l'inspection du travail, motion de défiance contre la rédactrice en chef et grève — le tout dans un environnement « principalement féminin et féministe ».
+- Le contraste avec l'activité personnelle de l'orateur est assumé : seul « en consulting à temps plein » sur ses propres vidéos, il revendique une productivité supérieure avec des moyens dérisoires.
 
-> 2. La disponibilité comme concept à double sens Le mot "disponibilité" doit être compris dans deux sens : Sens littéral** : avoir du temps libre, être accessible Sens figuré (vacances)** : au sens de "vaquer à ses occupations" - c'est-à-dire avoir une vie propre, des intérêts, unpropre
+## Ses développements sur le sujet
 
-### La logique masculine face à l'absence de motivation — `La-logique-masculine-face-à-l'absence-de-motivation-synthese`
+### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-*Rattachement : 0.2296 · `podcasts/syntheses/La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
+*« Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md » · origine : lien-declare*
 
-> "Le verbe arracher et la disponibilité féminine"** : la formule beauté + intelligence + disponibilité éclaire ce concept "Ne soyez plus les esclaves des femmes"** : l'homme qui cherche de la substance plutôt que de la dépendance "Faites toujours confiance aux femmes"** : la critique des rôles de género qui empêchent les femmes de développer leur potentiel Formation "Logique masculine"** : comprendre ce que cherchent réellement les hommes Formation "Logique des femmes"** : la différence entre les deux logiques Formation "Essence féminine"** : cultive'r sa vraie valeur au-delà de l'apparence
+> Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
 
-> 3. L'absence de motivation comme repoussoir En logique masculine, l'absence de motivation est interpretée comme : Manque de depth Potentiel de dépendance affective Risque d'ennui à long terme Incapacité à contribuer au couple "Je vais être son seul projet" = elle va me consumes
+### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-### La chanteuse Pomme : potentiel magnifique ou esprit ZADiste ? — `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese`
+*« Video-u8r9BLSx7UU-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.1617 · `podcasts/syntheses/La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
-
-> [Logique des femmes (apres-midi)](./formations/Relations H-F/logique-des-femmes-apres-midi.md) [Logique des femmes II (apres-midi)](./formations/Relations H-F/logique-des-femmes-ii-apres-midi.md) [# Sources et références croisées](./formations/Relations H-F/logique-feminine.md) [Intelligence relationnelle, 1: Doubler son RESEAU (après-midi)](./formations/Reseau Influence/intelligence-relationnelle-1-doubler-son-reseau-apres-midi.md) [Intelligence relationnelle, 1: Doubler son RESEAU (matin)](./formations/Reseau Influence/intelligence-relationnelle-1-doubler-son-reseau-matin.md) [Vivez de ce que vous aimez](./formations/Sedirection Rencontres/vivre-de-sa-passion.md) [DOUBLE ton RÉSEAU](./formations/double-ton-reseau.md) [Intelligence relationnelle, 1: Doubler son RESEAU (matin)](./formations/intelligence-relationnelle-1-doubler-son-reseau.md) [Logique des hommes – le côté obscur de H pur](./formations/logique-des-hommes-le-cote-obscur-de-h-pur.md) [Logique des femmes II](./formations/logique-feminine.md)
-
-> Paradoxe de la révélation**: Quand une artiste découvre que "les hommes et les femmes ne sont pas égaux" en intelligence et en perspicacité, c'est une mutation personnelle — mais le système transforme cette découverte en instrument de.cancel culture.
-
-### L'intelligence relationnelle (2ème partie) — `L'intelligence-relationnelle-2-synthese`
-
-*Rattachement : 0.1599 · `podcasts/syntheses/L'intelligence-relationnelle-2-synthese.md`*
-
-> Logique des Hommes / Logique des Femmes** : La logique masculine est Structurante (H), féminine Différenciatrice (F). Fondation de toute intelligence relationnelle. Discernement** : L'intelligence relationnelle est l'application du discernement aux relations — comprendre les vrais moteurs des comportements. Vidéoscopie** : L'analyse des vidéos permet de former son œil aux micro-signaux et à la lecture des comportements réels. Pression sélective et hypergamie** : Mécanismes fondamentaux à comprendre pour naviguer les relations modernes. La dette sexuelle** : Concept connexe pour comprendre les dynamiques relationnelles.
-
-> Dans l'ère numérique, cette dynamique est amplifiée : Applications de rencontre = hyper-visibilité des femmes Saturation de propositions pour les femmes Pression accrue sur le tri Frustration masculine face aux évictions
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Améliorer sa voix : interview avec un expert — `web-articles__10209_ameliorer-sa-voix.html`
-
-*Rattachement : 0.1532 · `sources-publiques/spikeseduction-archive/web-articles__10209_ameliorer-sa-voix.html.txt`*
-
-### Comment séduire une femme avec un caractère masculin, par Caroline | Spike Séduction — `web-articles__seduction-avance__20141_comment-seduire-une-femme-avec-un-caractere-masculin-par-caroline.html`
-
-*Rattachement : 0.1502 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__20141_comment-seduire-une-femme-avec-un-caractere-masculin-par-caroline.html.txt`*
-
-### Spike Séduction — `web-articles__276_de-la-prestance-classe-et-seduction.html`
-
-*Rattachement : 0.15 · `sources-publiques/spikeseduction-archive/web-articles__276_de-la-prestance-classe-et-seduction.html.txt`*
-
-### Comment avoir de l&rsquo;humour, par Kévin — `web-articles__seduction-fondamentaux__13540_technique-drague-humour.html`
-
-*Rattachement : 0.1455 · `sources-publiques/spikeseduction-archive/web-articles__seduction-fondamentaux__13540_technique-drague-humour.html.txt`*
-
-### La séduction, arme personnelle comme professionnelle — `web-articles__seduction-debutants__7011_la-seduction-arme-personnelle-comme-professionnelle.html`
-
-*Rattachement : 0.1448 · `sources-publiques/spikeseduction-archive/web-articles__seduction-debutants__7011_la-seduction-arme-personnelle-comme-professionnelle.html.txt`*
+> L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 
 ---
 

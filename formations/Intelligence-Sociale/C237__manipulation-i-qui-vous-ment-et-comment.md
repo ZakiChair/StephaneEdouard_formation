@@ -4,15 +4,17 @@ titre: "Manipulation, I : qui vous ment et comment"
 categorie: "Intelligence Sociale"
 categorie_brute: "Intelligence sociale"
 slug: "detecter-le-mensonge"
-slug_catalogue: "detecter-le-mensonge"
 url: "https://mat-consulting.fr/catalogue/detecter-le-mensonge/"
 statut: citations
 mots_fiche: 2543
 mots_verbatim: 0
-mots_page_produit: 255
+mots_annonce: 89
+programme: 11
+sections_annonce: 1
+points_annonce: 0
+documents_materiau: 5
+idees_forces: 12
 citations: 2
-extraits_voix: 8
-tracklist: 11
 doublon_titre: oui
 ---
 
@@ -20,140 +22,91 @@ doublon_titre: oui
 
 **C237** · Intelligence Sociale · 2543 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/detecter-le-mensonge/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> reconnaître et décoder les techniques de manipulation à votre encontre - chapitre I : le mensonge
+1. Notre rapport paradoxal au mensonge
+2. Une vérité relative pour H et pour F
+3. Menteur occasionnel vs menteur pathologique
+4. Se système de valeur de l’interlocuteur
+5. 3 façons de mentir
+6. Les pratiques des menteurs
+7. Complément d’enquête : mener l’interview
+8. Confronter un menteur
+9. A la base du développement personnel, il y a la volonté d’investir sur soi
+10. Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
+11. Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…) [discernement](https://mat-consulting.fr/catalogue/discernement/)
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Notre rapport paradoxal au mensonge
-- Une vérité relative pour H et pour F
-- Menteur occasionnel vs menteur pathologique
-- Se système de valeur de l’interlocuteur
-- 3 façons de mentir
-- Les pratiques des menteurs
-- Complément d’enquête : mener l’interview
-- Confronter un menteur
-- A la base du développement personnel, il y a la volonté d’investir sur soi
-- Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
-- Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…) [discernement](https://mat-consulting.fr/catalogue/discernement/)
+*Page produit : https://mat-consulting.fr/catalogue/detecter-le-mensonge/ — 89 mots de sa prose.*
 
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-- A la base du développement personnel, il y a la volonté d’investir sur soi
-- Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
-- Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…) _discernement_
-
-Définition : (du latin discernere, « séparer, distinguer ») : opération de l’esprit par laquelle on analyse et distingue les notions, les objets de pensée. Le discernement situe les choses les unes par rapport aux autres, élimine la confusion, **sépare le vrai du faux**.
-
-Ce séminaire, premier épisode d’une série consacré à la **manipulation et aux moyens de la déjouer**, aurait pu s’intituler « séminaire sur le discernement ». Trop elliptique, on aurait pu croire à une blague. Et puis ça ne faisait pas état de la place importante qui sera faite aux applications pratiques. Qui vous ment (et comment), voilà les thèmes de ce séminaire
-
-## QUI VOUS MENT (ET COMMENT)
+### QUI VOUS MENT (ET COMMENT)
 
 Une (au moins) personne de votre entourage proche, très proche, vous ment. Ces personnes peuvent se cacher parmi vos amis (les amis d’enfance ne sont pas épargnés, ni vos proches, et encore moins vos parents).
 
 Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longeant ce grand monument parisien qui borde l’hôtel pour rejoindre votre voiture, votre bus, votre métro ou votre train, vous soyez en mesure d’affirmer avec certitude l’identité de cette personne. Et aurez en bonus des pistes pour identifier la meilleure manière de réagir.
 
-*Métadonnées de la page produit : 762 téléchargements.*
+## La matière qu'il a lui-même déclarée
+
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
+
+### Synthèse – WYig06HnKxU — `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese`
+
+*podcast · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
+
+
+### Synthèse — Vidéo OLTCxNN7xmA — `Jack-Lang-CRUCIFIÉ-par-S.Mabrouk-sur-Eur1-je-compte-les-points-synthese`
+
+*podcast · `Jack-Lang-CRUCIFIÉ-par-S.Mabrouk-sur-Eur1-je-compte-les-points-synthese.md`*
+
+- Mensonge 1 : qualification des attouchements sur enfants comme "un accomplissement" — terme délibérément pervers.
+- Évasive : Jack Langnie connaît pas ces milieux, n'a rien entendu — alors qu'il était connected à l'intelligentsia parisienne depuis 40 ans.
+- Mensonge 2 : son activisme contre la pédophilie — alors qu'il a signé la tribune de 1977 sur la décriminalisation des rapports sexuels avec mineurs (avec Foucault, Cohn-Bendit, Matzneff).
+- Paralogisme : assimilation des violences faites aux femmes avec l'inceste sur mineurs (14 ans = mineur, pas une femme).
+- Sonia Mabrouk : tenir tête, refuser les échappatoires, demander des comptes — "c'est du grand, du très grand journalisme".
+
+### L'intelligence relationnelle (2ème partie) — `L'intelligence-relationnelle-2-synthese`
+
+*podcast · `L'intelligence-relationnelle-2-synthese.md`*
+
+
+### Synthèse – Vmxvq15Alh0 — `Video-Vmxvq15Alh0-synthese`
+
+*podcast · `Video-Vmxvq15Alh0-synthese.md`*
+
+
+### Synthèse : Video tT1o01TRJZM — tT1o01TRJZM — `Video-tT1o01TRJZM-synthese`
+
+*podcast · `Video-tT1o01TRJZM-synthese.md`*
+
+- La règle de non-répétition : Édouard refuse de remettre sur le devant de la scène les mêmes personnages moqués (Swan Périssé, Camille et Justine, etc.) par analogie avec ceux qui « retournent chez leur ex ». Pour lui, taper fort mais une seule fois suffit.
+- Le rappel du contexte expérimental : Il précise sa position — « aujourd'hui en Occident » — en soulignant qu'il ne nie aucunement les difficultés des femmes ailleurs (Pakistan) ou à d'autres époques.
+- Les 20 arguments de 2016 : Suicide (hommes : 2 tentatives / 4 réussites = écart de 8), argent, justice, solitude, cercle social, etc.
+- Les témoignages côté garage et mécanique : Réparations offertes, pneus Range Rover gratuits,.double facturation évitée — le professionnel détecte l'inintérêt masculin.
+- Les avantages au quotidien : Car-wash, pompiste, pression des pneus, fruits et légumes, croissants dans le train, cappuccino offert, covoiturage, péages.
+- Les avantages plus structurels : Maison à 15 000 €, abonnement salle de sport de 550 € non facturé, certificat Excel fait par le prof, permis de conduire obtenu par charme sur le PDG, évacuation de conseil de discipline au lycée, sortie de couloir de bus sans suite, test d'alcoolémie évité, 4 déjeuners sur 5 gratuits.
+- Le principe d'Ériop : quand c'est gratuit, c'est nous le produit — le retour en nature attendu sous-entend une dynamique d'échange non déclarée.
+
+## Ses développements sur le sujet
+
+### Synthèse — Vidéo OLTCxNN7xmA — `Jack-Lang-CRUCIFIÉ-par-S.Mabrouk-sur-Eur1-je-compte-les-points-synthese`
+
+*« Jack-Lang-CRUCIFIÉ-par-S.Mabrouk-sur-Eur1-je-compte-les-points-synthese.md » · origine : lien-declare*
+
+> Mensonge 1 : qualification des attouchements sur enfants comme "un accomplissement" — terme délibérément pervers.
+
+### Synthèse : Video tT1o01TRJZM — tT1o01TRJZM — `Video-tT1o01TRJZM-synthese`
+
+*« Video-tT1o01TRJZM-synthese.md » · origine : lien-declare*
+
+> La règle de non-répétition : Édouard refuse de remettre sur le devant de la scène les mêmes personnages moqués (Swan Périssé, Camille et Justine, etc.) par analogie avec ceux qui « retournent chez leur ex ». Pour lui, taper fort mais une seule fois suffit.
 
 ## Citations de l'auteur
 
 - « L'intelligence, ça n'est ni le conformisme ni l'anticonformisme. C'est savoir juger à chaque instant dans chaque situation de ce qui est bon, de ce qui est pas bon, des raisonnements qui tiennent la route et des raisonnements qui ne tiennent pas la route. »
 - « Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux. »
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video r9xXxVtAxHE — `r9xXxVtAxHE`
-
-*Rattachement : 0.1765 · `podcasts/transcripts/final/r9xXxVtAxHE-transcript.md`*
-
-### Video F7a7VWOlznU — `F7a7VWOlznU`
-
-*Rattachement : 0.1679 · `podcasts/transcripts/final/F7a7VWOlznU-transcript.md`*
-
-### Video 1fJc04l_4lU — `1fJc04l_4lU`
-
-*Rattachement : 0.165 · `podcasts/transcripts/final/1fJc04l_4lU-transcript.md`*
-
-### Video -7uA56RNw3k — `-7uA56RNw3k`
-
-*Rattachement : 0.1636 · `podcasts/transcripts/final/-7uA56RNw3k-transcript.md`*
-
-### Video m54h8ZXqHO0 — `m54h8ZXqHO0`
-
-*Rattachement : 0.1625 · `podcasts/transcripts/final/m54h8ZXqHO0-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Survivre aux mensonges du nouveau monde : le discernement — `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese`
-
-*Rattachement : 0.4238 · `podcasts/syntheses/Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese.md`*
-
-> Le charme comme manipulation** : Les gens charismatiques exploitent les réflexes cognitifs (preuve sociale, émotionnel) pour obtenir ce qu'ils veulent. Ne pas confondre charme et qualité.
-
-> Déclaratif vs comportemental** : Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux. Toujours vérifier les actes.
-
-### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
-
-*Rattachement : 0.357 · `podcasts/syntheses/L'intelligence-relationnelle-1-synthese.md`*
-
-> 3. **Le charme comme manipulation** : Les gens charismatiques exploitent ces mécanismes (preuve sociale, émotionnel) pour obtenir ce qu'ils veulent. Le charme est un outil — son usage révèle les intentions.
-
-> Cette première partie pose les fondations de l'intelligence relationnelle : comprendre que les gens sont généralement motivés par l'intérêt (75%), qu'ils sont influencés par la preuve sociale, et que le charme peut être manipulation. Le discernement est la capacité à voir clair malgré ces mécanismes — et la vidéoscopie est l'exercice pratique pour le développer.
-
-### Esther Villard - La manipulation dans les relations hommes-femmes — `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese`
-
-*Rattachement : 0.3339 · `podcasts/syntheses/Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
-
-> 4. Les leviers de manipulation féminine identifiés 1. **Contrôle émotionnel** : La femme décide quand et comment l'homme ressent des émotions 2. **Gratification intermittente** : Récompenser puis retirer l'affection pour maintenir l'engagement (le chaud-froid) 3. **Victimisation** : Se présenter comme victime pour obtenir ce qu'on veut 4. **Chantage** : Utiliser les émotions (surtout la culpabilité) comme levier 5. **Alternances de comportement** : Être chaude puis froide, prévisible puis imprévisible - garder l'homme en équilibre
-
-> "Ne soyez plus les esclaves des femmes"** : l'esclavage moderne comme résultat de la manipulation "Gaslighting"** : une forme spécifique de manipulation psychologique "Faites toujours confiance aux femmes"** : la critique des discours qui masquent la réalité de la manipulation Formation "Discernement"** : développé'r la capacité à détecter les manipulations Formation "Intelligence relationnelle"** : Comprendre les dynamiques de pouvoir dans le couple Formation "Ce qui vous ment"** : les techniques de manipulation au-delà de la seule relation de couple
-
-### Synthèse – JOfi_gBD9OI — `Video-JOfi_gBD9OI-synthese`
-
-*Rattachement : 0.3077 · `podcasts/syntheses/Video-JOfi_gBD9OI-synthese.md`*
-
-> [Discernement – après-midi](./formations/Intelligence Sociale/discenement-apres-midi.md) [Manipulation II (apres-midi)](./formations/Intelligence Sociale/manipulation-ii-apres-midi-2.md) [Manipulation II : obtenez ce que vous méritez](./formations/Intelligence Sociale/manipulation.md) [# Sources et références croisées](./formations/Reseau Influence/intelligence-sociale.md) [Intelligence sociale](./formations/intelligence-sociale.md) [Manipulation et Control](./formations/manipulation-et-control.md) [Manipulation II : obtenez ce que vous méritez](./formations/manipulation.md)
-
-> Points clés L'intelligence = capacité de synthèse** : À l'inverse du « flow » de pensées incontrôlables, qui serait plutôt signe d'un QI limité. L'intelligence structurée l'emporte sur le débit anarchique. Déconstruction du mythe HPI** : Le haut potentiel ne se Diagnostique pas par le simple fait d'avoir « la tête qui explosionne » — symptôme commun à de nombreuses configurations psychologiques. Mécanismes de manipulation sociale** : Isoler, effrayer, monter les uns contre les autres — autant de leviers utilisés pour maintenir les esprits en état de vigilance permanente, parfois à des fins politiques. Rôle de l'éducation et de la culture** : L'intelligence s'appuie sur un vocabulaire précis, une grammaire solide, et une capacité à raisonner au-delà des conformismes.
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Commandez le séminaire Manipulation II : obtenez ce que vous voulez — `web-actualite__16617_manipulation-ii-obtenez-ce-que-vous-voulez.html?preview=1`
-
-*Rattachement : 0.3554 · `sources-publiques/spikeseduction-archive/web-actualite__16617_manipulation-ii-obtenez-ce-que-vous-voulez.html?preview=1.txt`*
-
-### Spike Séduction — `web-actualite__16617_manipulation-ii-obtenez-ce-que-vous-voulez.html`
-
-*Rattachement : 0.349 · `sources-publiques/spikeseduction-archive/web-actualite__16617_manipulation-ii-obtenez-ce-que-vous-voulez.html.txt`*
-
-### Commandez le séminaire &laquo;&nbsp;Manipulation, I : qui vous ment&nbsp;&raquo; — `web-articles__10442_detecter-les-mensonges-mieux-que-lie-to-me.html`
-
-*Rattachement : 0.3268 · `sources-publiques/spikeseduction-archive/web-articles__10442_detecter-les-mensonges-mieux-que-lie-to-me.html.txt`*
-
-### Spike Séduction — `web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html?preview=1`
-
-*Rattachement : 0.3034 · `sources-publiques/spikeseduction-archive/web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html?preview=1.txt`*
-
-### Séminaire 12 mai : &laquo;&nbsp;Manipulation, I&nbsp;&raquo; : qui vous ment (et comment) — `web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html`
-
-*Rattachement : 0.2624 · `sources-publiques/spikeseduction-archive/web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html.txt`*
-
-## Points clés
-
-- Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — toujours un tissu complexe entre les deux
-- La réduction cognitive est le mécanisme par lequel les gens choisissent des réponses stéréotypées plutôt que de penser par eux-mêmes
-- Le charme peut être manipulation — ne pas confondre charme et qualité
-- La preuve sociale est exploitée par toute forme de manipulation
-- La vraie détection du mensonge repose sur l'observation des actes, pas des paroles
 
 ---
 

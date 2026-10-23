@@ -4,15 +4,17 @@ titre: "Comment acheter des vêtements"
 categorie: "Developpement Personnel"
 categorie_brute: "Développement Personnel"
 slug: "commenter-acheter-des-vetements"
-slug_catalogue: "commenter-acheter-des-vetements"
 url: "https://mat-consulting.fr/catalogue/commenter-acheter-des-vetements/"
 statut: citations
 mots_fiche: 3823
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 5
+idees_forces: 18
 citations: 3
-extraits_voix: 5
-tracklist: 0
 doublon_titre: non
 ---
 
@@ -20,102 +22,79 @@ doublon_titre: non
 
 **C219** · Developpement Personnel · 3823 mots
 
+## La matière qu'il a lui-même déclarée
+
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
+
+### Synthèse – WS4q9-Eb-ts — `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese`
+
+*podcast · `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese.md`*
+
+
+### Synthèse – RFsDr2AVCmI — `Video-RFsDr2AVCmI-synthese`
+
+*podcast · `Video-RFsDr2AVCmI-synthese.md`*
+
+- Stephane revient sur sa dernière date de tournée : 22 novembre 2022 à Paris
+- Il invite le public à s'inscrire sur la liste d'attente pour connaître les prochaines dates
+- Lien : matconsulting.fr slash tournée 2025
+
+### Synthèse : Video r9xXxVtAxHE — r9xXxVtAxHE — `Video-r9xXxVtAxHE-synthese`
+
+*podcast · `Video-r9xXxVtAxHE-synthese.md`*
+
+- La résignation comme pente naturelle : il évoque la citation de Balzac — *« La résignation est un suicide quotidien »* — pour expliquer que la tentation du déclin et du « c'était mieux avant » est une trajectoire spontanée contre laquelle il faut lutter, surtout quand on a une sensibilité conservateur.
+- Le exercice de la bouteille des bonnes nouvelles : pour contrer cette pente, il raconte avoir acheter une carafe en verre en 2022 où il déposait des post-it de bonnes nouvelles afin de maintenir un équilibre psychologique et continuer à espérer.
+- Féminité vs féminisme : il précise que son sujet n'a jamais été le féminisme mais la *féminité* et la *masculinité*, et que quiconque parle de ces sujets se heurte à ce qu'il appelle des « gardes prétoriaux » médiatiques.
+- L'étiquette du « coach en séduction » : il explique avoir exercé cette activité pendant six mois (mi-2006 à mi-2007), mais que cette étiquette lui colle encore à la peau quinze ans après, notamment à cause d'une présentation télévisée fallacieuse.
+- L'épisode Virginie Effira : il raconte avoir été déstabilisé sur un plateau par les insultes en off de l'actrice, ce qui l'a convaincu qu'il s'attaquait à une « rente » intellectuelle et médiatique.
+- L'industrie derrière les rapports hommes-femmes : il décrit un système incluant cinéma, psychologie de pacotille, journaux et auteurs qui profitent d'une vision manichéenne des relations, et contre lequel quiconque se dresse devient la cible d'une « chasse à cour ».
+
+### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
+
+*podcast · `Video-tiDHbY0rQKQ-synthese.md`*
+
+- L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
+- La logique prostitutionnelle : Louer son intimité (corps, vie de couple, secrets familiaux) détruit structurellement son intégrité psychique : addictions, dépression, pensées suicidaires, isolement. Miss Amérique 2019 s'est défenestrée trois jours avant le tournage.
+- La logique consumériste : La dépendance au nombre de vues engendre trois tendances :
+- a) Tendance aux défis (fabrique à faux suspense, baisse d'attention inéluctable)
+- b) Instabilité chronique (déménagements, changements de thème, simulate d'émotions)
+- c) Hyperbole de la promesse (clickbait, mensonges, fact-checking, micro-agressions, vraie persécution)
+- La spirale descendante : Les trois logiques se nourrissent mutuellement : autophagie + prostitution → atteinte à l'intégrité ; + consumérisme → persécution confirmée par l'audience elle-même.
+- L'exception confirmant la règle : Édouard précise que son propre modèle économique diffère — ses revenus YouTube ne représentent que ~5 % de ses revenus globaux ; il troque parfois une audience modeste contre l'exposition d'un contenu exigeant (séminaires).
+
+### Synthèse : We must save the children #Pélissard — YdMW_1OIRnc — `We-must-save-the-children-#Pélissard-synthese`
+
+*podcast · `We-must-save-the-children-#Pélissard-synthese.md`*
+
+
+> "Tant que vous ne savez pas décrire correctement un problème, ce que vous croyez être une solution en fait ça sera tiré au hasard."
+
+## Ses développements sur le sujet
+
+### Synthèse – RFsDr2AVCmI — `Video-RFsDr2AVCmI-synthese`
+
+*« Video-RFsDr2AVCmI-synthese.md » · origine : lien-declare*
+
+> Stephane revient sur sa dernière date de tournée : 22 novembre 2022 à Paris
+
+### Synthèse : Video r9xXxVtAxHE — r9xXxVtAxHE — `Video-r9xXxVtAxHE-synthese`
+
+*« Video-r9xXxVtAxHE-synthese.md » · origine : lien-declare*
+
+> La résignation comme pente naturelle : il évoque la citation de Balzac — *« La résignation est un suicide quotidien »* — pour expliquer que la tentation du déclin et du « c'était mieux avant » est une trajectoire spontanée contre laquelle il faut lutter, surtout quand on a une sensibilité conservateur.
+
+### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
+
+*« Video-tiDHbY0rQKQ-synthese.md » · origine : lien-declare*
+
+> L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
+
 ## Citations de l'auteur
 
 - « La vraie élégance n'est pas de porter des marques expensive — c'est de porter des vêtements qui vous correspondent. »
 - « Un homme bien habillé a besoin de moins de pièces qu'il ne le croit. »
 - « Les tendances sont des pièges pour ceux qui n'ont pas de style personnel. »
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video UaIIxVUQExQ — `UaIIxVUQExQ`
-
-*Rattachement : 0.1311 · `podcasts/transcripts/final/UaIIxVUQExQ-transcript.md`*
-
-### Video JcGsPBD9E_w — `JcGsPBD9E_w`
-
-*Rattachement : 0.1304 · `podcasts/transcripts/final/JcGsPBD9E_w-transcript.md`*
-
-### Video kjMBBW4fruY — `kjMBBW4fruY`
-
-*Rattachement : 0.1294 · `podcasts/transcripts/final/kjMBBW4fruY-transcript.md`*
-
-### Video 47jhynafWCc — `47jhynafWCc`
-
-*Rattachement : 0.1281 · `podcasts/transcripts/final/47jhynafWCc-transcript.md`*
-
-### Video 4sDXHjsrlIY — `4sDXHjsrlIY`
-
-*Rattachement : 0.1278 · `podcasts/transcripts/final/4sDXHjsrlIY-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
-
-*Rattachement : 0.378 · `podcasts/syntheses/Comment-se-construire-une-esthétique-synthese.md`*
-
-> Concepts clés Esthétique = Identité** : La manière dont on se présente reflète qui on est — mais aussi ce qu'on veut montrer Élégance vs Conformisme** : L'élégance vraie est personnelle, le conformisme est une fuite de la singularité Retenue élégante** : Savoir se retenir de trop en montrer — la subtlety comme marque de distinction Le corps comme message** : Tenue, posture, regard — tout communique
-
-> Applications pratiques Développer son sens de l'observation (regarder comment les gens élégants s'habillent) Investir dans peu de pièces de qualité plutôt que dans beaucoup de pièces jetables Identifier ses caractéristiques physiques et les sublimer plutôt que les cacher Accepter que l'esthétique authentique prend du temps à développer — elle ne s'achète pas Éviter les tentations de l'uniformisation (modes, trends) qui tuent la singularité
-
-### Synthèse : We must save the children #Pélissard — YdMW_1OIRnc — `We-must-save-the-children-#Pélissard-synthese`
-
-*Rattachement : 0.1329 · `podcasts/syntheses/We-must-save-the-children-#Pélissard-synthese.md`*
-
-> [Se construire une garde-robe complete](./formations/Sedirection Rencontres/comment-acheter-des-vetements.md) [Se construire une garde-robe complete](./formations/comment-acheter-des-vetements.md) [Comment acheter des vêtements](./formations/commenter-acheter-des-vetements.md) [Communication Non Violente](./formations/communication-non-violente.md) [Communiquer avec ses proches](./formations/communiquer-avec-ses-proches.md)
-
-### Synthèse – WS4q9-Eb-ts — `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese`
-
-*Rattachement : 0.1233 · `podcasts/syntheses/Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese.md`*
-
-> [# Sources et références croisées](./formations/Relations H-F/signaux-mixtes.md) [Se construire une garde-robe complete](./formations/Sedirection Rencontres/comment-acheter-des-vetements.md) [Caster Routine Couple](./formations/caster-routine-couple.md) [Se construire une garde-robe complete](./formations/comment-acheter-des-vetements.md) [Comment acheter des vêtements](./formations/commenter-acheter-des-vetements.md) [La Dépendance Affective](./formations/la-dependance-affective.md) [La productivité par le sport](./formations/la-productivite-par-le-sport.md) [Le rôle du masculin et du féminin dans la sexualité](./formations/le-role-du-masculin-et-du-feminin-dans-la-sexualite.md) [Reconstruire son Couple](./formations/reconstruire-son-couple.md) [Langage des femmes : le chaud-froid-chaud-froid-chaud-&#8230;](./formations/signaux-mixtes.md)
-
-### SYNTHESE - FvsFRnLWMA0 — `Anecdote-personnelle-soirée-déterminante-synthese`
-
-*Rattachement : 0.1215 · `podcasts/syntheses/Anecdote-personnelle-soirée-déterminante-synthese.md`*
-
-> [Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER](./formations/Sedirection Rencontres/developpement-personnel-2-tenacite-apprendre-a-ne-rien-lacher-matin.md) [Développement personnel, 2 : ON – NE – LÂCHE – RIEN](./formations/Sedirection Rencontres/resilience.md) [Développement personnel, 2 : ON – NE – LÂCHE – RIEN](./formations/developpement-personnel-2-on-ne-lache-rien.md) [Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER](./formations/developpement-personnel-2-tenacite-apprendre-a-ne-rien-lache.md) [Développement personnel, 2 : ON &#8211; NE &#8211; LÂCHE &#8211; RIEN](./formations/resilience.md)
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Spike Séduction — `web-articles__14700_quels-vetements-acheter-en-ligne.html`
-
-*Rattachement : 0.1621 · `sources-publiques/spikeseduction-archive/web-articles__14700_quels-vetements-acheter-en-ligne.html.txt`*
-
-### 18 juillet, la garde robe parfaite, step by step (séminaire) | Spike Séduction — `web-actualite__20812_garde-robe-parfaite-seminaire.html`
-
-*Rattachement : 0.1597 · `sources-publiques/spikeseduction-archive/web-actualite__20812_garde-robe-parfaite-seminaire.html.txt`*
-
-### Spike Séduction — `web-ateliers-workshops-cours__115_le-relooking-du-21-janvier-apres-midi.html`
-
-*Rattachement : 0.159 · `sources-publiques/spikeseduction-archive/web-ateliers-workshops-cours__115_le-relooking-du-21-janvier-apres-midi.html.txt`*
-
-### pdf-GSE-version-gratuite — `pdf-GSE-version-gratuite`
-
-*Rattachement : 0.1313 · `sources-publiques/spikeseduction-archive/pdf-GSE-version-gratuite.txt`*
-
-### La vrai originalité, c&#8217;est le classique — `web-ateliers-workshops-cours__6177_relooking-solde-4.html`
-
-*Rattachement : 0.1263 · `sources-publiques/spikeseduction-archive/web-ateliers-workshops-cours__6177_relooking-solde-4.html.txt`*
-
-## Points clés
-
-- Investir dans peu de pièces de qualité plutôt que dans beaucoup de pièces jetables
-- Identifier ses caractéristiques physiques et les sublimer plutôt que les cacher
-- La cohérence entre la tenue et l'identité personnelle est plus importante que la marque
-- Les tendances sont des pièges — le vrai style est personnel et atemporel
-- L'adaptation au contexte est essentielle : pas la même tenue pour le travail et pour le loisirs
-- La classe ne s'achète pas — elle se construit par le discernement
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- Spike Séduction — `tierce-ateliers-workshops-cours__405_quel-plaisir-temoignage-sur-latelier-relooking.html` (rattachement 0.1392)
 
 ---
 

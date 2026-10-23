@@ -4,15 +4,17 @@ titre: "Productivité"
 categorie: "Developpement Personnel"
 categorie_brute: "Developpement Personnel"
 slug: "augmenter-sa-productivite"
-slug_catalogue: "augmenter-sa-productivite"
 url: "https://mat-consulting.fr/produit/augmenter-sa-productivite/"
 statut: voix-ecrite
 mots_fiche: 1373
 mots_verbatim: 243
-mots_page_produit: 226
+mots_annonce: 0
+programme: 8
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 3
+idees_forces: 12
 citations: 0
-extraits_voix: 9
-tracklist: 8
 doublon_titre: oui
 ---
 
@@ -20,41 +22,63 @@ doublon_titre: oui
 
 **C035** · Developpement Personnel · 1373 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/augmenter-sa-productivite/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> utiliser des techniques insoupçonnées (corps, lieu de travail, conditionnement) pour décupler sa productivité au travail
+1. Corrélation entre travail et quantité de travail
+2. Différence entre l’inspiration et la productivité
+3. Les trois types de tâches
+4. Les piliers de la productivité
+5. Conseils concrets pour augmenter sa productivité
+6. Être productif quand on est fatigué
+7. ni en révélant combien je gagne, ce qui a toujours révélé un manque d’éducation mais semble pourtant devenir la nouvelle norme des « profession-blogueur » sur Internet ; d’ailleurs ils semblent toujours confondre chiffre d’affaire et salaire, ce qui est un peu étonnant pour de prétendus entrepreneurs confirmés mais ils n’en sont pas à une incohérence près, ce dont se rendraient compte les gens avec un minimum de discernement
+8. ni en m’affichant en photo au milieu de quatre filles trop maquillées sur un canapé – payées pour l’occasion, cela va de soi – pour donner du crédit à mon « pouvoir de séduction ».
 
-### Le programme
+## La matière qu'il a lui-même déclarée
 
-- Corrélation entre travail et quantité de travail
-- Différence entre l’inspiration et la productivité
-- Les trois types de tâches
-- Les piliers de la productivité
-- Conseils concrets pour augmenter sa productivité
-- Être productif quand on est fatigué
-- ni en révélant combien je gagne, ce qui a toujours révélé un manque d’éducation mais semble pourtant devenir la nouvelle norme des « profession-blogueur » sur Internet ; d’ailleurs ils semblent toujours confondre chiffre d’affaire et salaire, ce qui est un peu étonnant pour de prétendus entrepreneurs confirmés mais ils n’en sont pas à une incohérence près, ce dont se rendraient compte les gens avec un minimum de discernement
-- ni en m’affichant en photo au milieu de quatre filles trop maquillées sur un canapé – payées pour l’occasion, cela va de soi – pour donner du crédit à mon « pouvoir de séduction ».
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-### L'annonce du séminaire, écrite par lui
+### Synthèse : La "techno-gréviste" est la révélation de ce début d’année 2023 — o21lanW3u3E — `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese`
 
-Avis clients
+*podcast · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
 
-Contrairement à la mode sur la blogosphère française (quelle que soit la thématique) consistant à montrer toujours plus de preuves personnelles d’une vie passionnante, je ne crâne jamais (ce que je pourrais très facilement faire, pourtant)
+- Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
+- Contradiction retraite-climat : La techno-gréviste affirme un lien entre retraite et climat, mais ignore que la retraite actuelle repose sur les énergies fossiles (engrais, productivité, transports)
+- Rapport à la production : Édouard revendique payer 147€/mois pour les retraites et demande ce que la manifestante produit en retour
+- Analyse nietzschéenne : Citation de Céline – « On n'a plus beaucoup de musique en soi pour faire danser la vie » – appliquée aux jeunes sous stroboscopes après 25 ans
+- Conditions de la danse : À travers Steinbeck, Édouard rappelle que danser suppose que la sécurité physique et alimentaire est assurée, ce qui n'est pas le cas des vraies luttes sociales historiques
+- Dénaturation du geste politique : La danse devient un outil de communication au détriment du contenu politique
 
-- ni en révélant combien je gagne, ce qui a toujours révélé un manque d’éducation mais semble pourtant devenir la nouvelle norme des « profession-blogueur » sur Internet ; d’ailleurs ils semblent toujours confondre chiffre d’affaire et salaire, ce qui est un peu étonnant pour de prétendus entrepreneurs confirmés mais ils n’en sont pas à une incohérence près, ce dont se rendraient compte les gens avec un minimum de discernement
-- ni en m’affichant en photo au milieu de quatre filles trop maquillées sur un canapé – payées pour l’occasion, cela va de soi – pour donner du crédit à mon « pouvoir de séduction ».
+### Synthèse – cWXgXeCFvtM — `Video-cWXgXeCFvtM-synthese`
 
-Une fois n’étant pas coutume, je vais tout de même me la péter un peu, mais cette fois-ci j’ai le droit, et ce pour 3 raisons principales :
+*podcast · `Video-cWXgXeCFvtM-synthese.md`*
 
-1. parce que c’est **vrai**
-2. parce que, contrairement aux exemples ci-dessus, ce n’est **pas vulgaire** (et n’en déplaise à certains, il existe encore des gens pour qui c’est important, de ne pas être vulgaire)
-3. parce que vous allez pouvoir **me « piquer » ces techniques**
 
-Vous l’avez compris, nous allons parler _productivité_.
+### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-*Métadonnées de la page produit : 841 téléchargements.*
+*podcast · `Video-u8r9BLSx7UU-synthese.md`*
+
+- L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+- Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.
+- Les pertes financières de Mademoiselle s'élèvent à près de 600 000 euros pour un chiffre d'affaires d'un million, avec 15 salariés — soit 60 000 euros de CA par personne, un ratio jugé « d'une absence de valeur très forte ».
+- Cosette, magazine créé en 2009 avec la devise « Mais ne nous mangez pas ! », illustre le mirage économique : redressement judiciaire en 2015, appel à la générosité des lecteurs, abandon du papier en septembre 2023, et dépôt de bilan en mai 2024.
+- La crise sociale interne de Cosette est particulièrement encadrée : en automne 2014, 8 arrêts maladie sur 10 salariés, 4 départs, 4 procédures aux prud'hommes, enquête de l'inspection du travail, motion de défiance contre la rédactrice en chef et grève — le tout dans un environnement « principalement féminin et féministe ».
+- Le contraste avec l'activité personnelle de l'orateur est assumé : seul « en consulting à temps plein » sur ses propres vidéos, il revendique une productivité supérieure avec des moyens dérisoires.
+
+## Ses développements sur le sujet
+
+### Synthèse : La "techno-gréviste" est la révélation de ce début d’année 2023 — o21lanW3u3E — `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese`
+
+*« La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md » · origine : lien-declare*
+
+> Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
+
+### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
+
+*« Video-u8r9BLSx7UU-synthese.md » · origine : lien-declare*
+
+> L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 
 ## Verbatim de l'auteur (fiche de formation)
 
@@ -79,90 +103,6 @@ Vous l’avez compris, nous allons parler _productivité_.
 > Oui, je s
 > 
 > ---
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video XO29jcO0OjY — `XO29jcO0OjY`
-
-*Rattachement : 0.2302 · `podcasts/transcripts/final/XO29jcO0OjY-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=XO29jcO0OjY Titre**: 3 de mes secrets productivité ~ pt.1 : le bureau (19mn) Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/XO29jcO0OjY.md`).
-
-### Video 4lz2qaRDGFU — `4lz2qaRDGFU`
-
-*Rattachement : 0.2178 · `podcasts/transcripts/final/4lz2qaRDGFU-transcript.md`*
-
-### Video py5soTfXpxQ — `py5soTfXpxQ`
-
-*Rattachement : 0.2142 · `podcasts/transcripts/final/py5soTfXpxQ-transcript.md`*
-
-### Video -7uA56RNw3k — `-7uA56RNw3k`
-
-*Rattachement : 0.202 · `podcasts/transcripts/final/-7uA56RNw3k-transcript.md`*
-
-### Video 1fJc04l_4lU — `1fJc04l_4lU`
-
-*Rattachement : 0.2016 · `podcasts/transcripts/final/1fJc04l_4lU-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Cultive ta confiance en toi — `Cultive-ta-confiance-en-toi-synthese`
-
-*Rattachement : 0.5117 · `podcasts/syntheses/Cultive-ta-confiance-en-toi-synthese.md`*
-
-> Distinctions importantes Confiance en soi vs confiance dans les autres** : Deux choses distinctes — on peut avoir l'une sans l'autre. L'homme peut avoir confiance en ses capacités tout en se méfiant des autres. Apparence vs substance** : Une confiance affichée peut être une façade — la vraie confiance est plus discrète, plus modeste. Estime de soi vs confiance en soi** : L'estime de soi est globale (je suis quelqu'un de bien), la confiance en soi est spécifique à un domaine (je sais faire ça). Jolie ≠ confiant** : Ce n'est pas parce que tu es jolie que tu as confiance en toi — les filles jolis sont nombreuses à ne pas avoir confiance en elles.
-
-> L'orateur souligne que "ce n'est pas parce que tu es jolie que tu as confiance en toi" — la beauté ou le charisme ne sont pas des substitutes à la vraie confiance.
-
-### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
-
-*Rattachement : 0.2319 · `podcasts/syntheses/Faites-toujours-confiance-aux-femmes-synthese.md`*
-
-> 1. **Ne jamais accepter l'injonction de confiance aveugle** : La confiance se construit, ne se decree pas. Elle se mérite.
-
-> 9. La logique du scepticisme universel (Règle 10 : faire confiance) "Faire confiance aux femmes sans vérifier" est absurde : Le doute méthodique est une vertu universelle Stéphane vérifie l'information de toute source - homme ou femme La confiance ne doit pas être genrée
-
-### Synthèse : "Influenceurs" à l'Élysée — Ww4-NKUrOjw — `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese`
-
-*Rattachement : 0.2239 · `podcasts/syntheses/Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
-
-> [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [Communiquer avec ses proches](./formations/communiquer-avec-ses-proches.md) [Confiance en soi](./formations/confiance-en-soi.md)
-
-> Stratégie des "ambassadeurs" Analyse historique : en 1917-1918, 75 000 ambassadeurs/volontaires ont 750 000 discours de 4 minutes à 5 200 communautés, touchant 400 millions de personnes. Le recours aux influenceurs permet de contourner l'interdiction de publicité politique sur les réseaux sociaux (non comptabilisée par le CSA). L'effet de halo a ses limites : s'associer à une personnalité valorisée ne garantit pas un transfert de confiance automatique (exemple : 8% des électeurs de Maulnier en 2017 guidés par sa "personnalité").
-
-### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
-
-*Rattachement : 0.2039 · `podcasts/syntheses/Comment-se-construire-une-esthétique-synthese.md`*
-
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [# Sources et références croisées](./formations/Couple Relations Longues/construire-une-relation.md) [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [Langage des hommes](./formations/Relations H-F/langage-hommes.md) [Développement personnel, 1 : Décupler sa CRÉATIVITÉ](./formations/Sedirection Rencontres/developper-sa-creativite.md) [Se construire une garde robe complete (apres-midi)](./formations/Sedirection Rencontres/se-construire-une-garde-robe-complete-apres-midietape-par-etape.md) [Confiance en soi](./formations/confiance-en-soi.md)
-
-> Liens avec d'autres formations Logique des Hommes / Logique des Femmes** : L'apparence a un rôle différent selon les genres Discernement** : Le discernement permet de ne pas tomber dans les pièges de la mode Confiance en soi** : La vraie confiance permet une esthétique authentique, pas une aesthetic de compensation
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Spike Séduction — `web-actualite__16835_seminaire-confiance-en-soi.html`
-
-*Rattachement : 0.3657 · `sources-publiques/spikeseduction-archive/web-actualite__16835_seminaire-confiance-en-soi.html.txt`*
-
-### Spike Séduction — `web-actualite__16835_seminaire-confiance-en-soi.html?preview=1`
-
-*Rattachement : 0.3604 · `sources-publiques/spikeseduction-archive/web-actualite__16835_seminaire-confiance-en-soi.html?preview=1.txt`*
-
-### 27 avril, séminaire : multipliez votre productivité par 10 — `web-articles__12412_seminaire-productivite-x10.html`
-
-*Rattachement : 0.3299 · `sources-publiques/spikeseduction-archive/web-articles__12412_seminaire-productivite-x10.html.txt`*
-
-### Confiance en soi et niveau d&#8217;énergie — `web-articles__1538_confiance-en-soi-2.html`
-
-*Rattachement : 0.3174 · `sources-publiques/spikeseduction-archive/web-articles__1538_confiance-en-soi-2.html.txt`*
-
-### Plaire aux femmes : la confiance en soi — `web-articles__979_plaire-aux-femmes-i.html`
-
-*Rattachement : 0.2403 · `sources-publiques/spikeseduction-archive/web-articles__979_plaire-aux-femmes-i.html.txt`*
 
 ---
 

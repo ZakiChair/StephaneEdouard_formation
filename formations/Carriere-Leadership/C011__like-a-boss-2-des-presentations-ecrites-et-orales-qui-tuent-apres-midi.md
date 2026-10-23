@@ -4,15 +4,17 @@ titre: "Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (après 
 categorie: "Carriere & Leadership"
 categorie_brute: "Carriere Leadership"
 slug: "like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi"
-slug_catalogue: "like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi"
 url: "https://mat-consulting.fr/produit/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi/"
 statut: reconstituee
 mots_fiche: 849
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 5
+idees_forces: 24
 citations: 0
-extraits_voix: 4
-tracklist: 0
 doublon_titre: non
 reconstitution: oui
 fiche_jumelle: C016
@@ -24,31 +26,77 @@ confiance: 0.62
 
 **C011** · Carriere & Leadership · 849 mots
 
-## Ce qu'il a dit sur ce thème (podcasts)
+## La matière qu'il a lui-même déclarée
 
-### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
-
-*Rattachement : 0.5971 · `podcasts/syntheses/Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
-
-> [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [# Sources et références croisées](./formations/Communication/ameliorer-sa-voix-avec-une-chanteuse-professionnelle-apres-midi.md) [# Sources et références croisées](./formations/Communication/ameliorer-sa-voix-avec-une-chanteuse-professionnelle-matin.md) [Développement personnel, 1: Decupler sa CREATIVITE (après midi)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-apres-midi.md) [Développement personnel, 1: Decupler sa CREATIVITE (matin)](./formations/Sedirection Rencontres/developpement-personnel-1-decupler-sa-creativite-matin.md) [Développement personnel 1 : décupler sa créativité](./formations/developpement-personnel-1-decupler-sa-creativite.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-.md) [Like a boss, 2 : des presentations (écrites et orales) qui TUENT](./formations/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent.md) [Like a boss, 2 : des presentations (écrites et orales) qui TUENT](./formations/presenter-son-projet.md)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*Rattachement : 0.3539 · `podcasts/syntheses/7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
 
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [100 jours pour la rendre amoureuse (apres-midi)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-apres-midi.md) [100 jours pour la rendre amoureuse (matin)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-matin.md) [Percer la friend-zone](./formations/Relations H-F/draguer-une-amie.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [100 jours pour la rendre amoureuse](./formations/construire-une-relation.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Percer la friend-zone](./formations/draguer-une-amie.md) [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/le-couple-a-lancienne-cest-du-passe-encaissez-les-ruptures-like-a-boss.md)
+- Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+- Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
+- Mutisme sur sa propre vie sentimentale : Ses histoires vous resteront opaques, les questions recevant des réponses laconiques (« oui », « non »), quand elles ne sont pas simplement éludées.
+- Émotions disproportionnées : Des événements anodins la plongeront dans des pleurs inexpliqués, sans qu'aucune justification ne soit jamais offerte.
+- Insistance sur le contact physique : L'exigence de câlins entre hétérosexuels crée, selon l'orateur, une tension permanente liée aux « érections involontaires » — problème qu'il qualifie lui-même d'impossible à clarifier.
+- Traitement de « gendre potentiel » par sa famille : Lors des présentations familiales, les sous-entendus matrimoniaux deviennent explicites (remarques sur le « métissage », questions sur le baptême).
+- Fâcheries chronophages et disproportionnées : Des conflits mineurs (fenêtre ouverte oubliée sous la pluie) génèrent des bouderies de plusieurs jours, semaines, voire des reproches ressassés des années après.
 
-### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
+### Ces podcasts "féministes" engageaient des femmes... pour ne pas les payer 👌 — `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese`
 
-*Rattachement : 0.3376 · `podcasts/syntheses/Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+*podcast · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
 
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [Trouver son timbre et recentrer sa voix](./formations/Communication/travailler-sa-voix.md) [Survivre à la ROUTINE du couple (matin)](./formations/Couple Relations Longues/les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-matin.md) [Les jeunes filles, 1: Decoder les attentes feminines (apres-midi)](./formations/Relations H-F/les-jeunes-filles-1-decoder-les-attentes-feminines-apres-midi.md) [Les jeunes filles, 2: Plus de RENCONTRES, maintenant! (après midi)](./formations/Relations H-F/les-jeunes-filles-2-plus-de-rencontres-maintenant-apres-midi.md) [Les jeunes filles, 2: Plus de RENCONTRES, maintenant! (matin)](./formations/Relations H-F/les-jeunes-filles-2-plus-de-rencontres-maintenant-matin.md) [# Sources et références croisées](./formations/Reseau Influence/ascenseur-social.md) [Intelligence sociale III : Internet, réseaux, applications](./formations/Reseau Influence/draguer-sur-internet.md) [Intelligence relationnelle, 1: Doubler son RESEAU (après-midi)](./formations/Reseau Influence/intelligence-relationnelle-1-doubler-son-reseau-apres-midi.md)
 
 ### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*Rattachement : 0.2968 · `podcasts/syntheses/Comment-se-construire-une-esthétique-synthese.md`*
+*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
 
-> [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-apres-midi.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [# Sources et références croisées](./formations/Couple Relations Longues/construire-une-relation.md) [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [Langage des hommes](./formations/Relations H-F/langage-hommes.md) [Développement personnel, 1 : Décupler sa CRÉATIVITÉ](./formations/Sedirection Rencontres/developper-sa-creativite.md) [Se construire une garde robe complete (apres-midi)](./formations/Sedirection Rencontres/se-construire-une-garde-robe-complete-apres-midietape-par-etape.md) [Confiance en soi](./formations/confiance-en-soi.md)
+
+### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
+
+*podcast · `Video-u8r9BLSx7UU-synthese.md`*
+
+- L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+- Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.
+- Les pertes financières de Mademoiselle s'élèvent à près de 600 000 euros pour un chiffre d'affaires d'un million, avec 15 salariés — soit 60 000 euros de CA par personne, un ratio jugé « d'une absence de valeur très forte ».
+- Cosette, magazine créé en 2009 avec la devise « Mais ne nous mangez pas ! », illustre le mirage économique : redressement judiciaire en 2015, appel à la générosité des lecteurs, abandon du papier en septembre 2023, et dépôt de bilan en mai 2024.
+- La crise sociale interne de Cosette est particulièrement encadrée : en automne 2014, 8 arrêts maladie sur 10 salariés, 4 départs, 4 procédures aux prud'hommes, enquête de l'inspection du travail, motion de défiance contre la rédactrice en chef et grève — le tout dans un environnement « principalement féminin et féministe ».
+- Le contraste avec l'activité personnelle de l'orateur est assumé : seul « en consulting à temps plein » sur ses propres vidéos, il revendique une productivité supérieure avec des moyens dérisoires.
+
+### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
+
+*podcast · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+
+- Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
+- L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
+- L'accent mis sur l'origine communautaire des "formatrices" — immigrées africaines qui apprennent à "massacrer" d'autres femmes.
+- La "baisse du QI" corrélée à ces phénomènes de crédulité collective.
+- Le paradoxe de la feminista qui prône l'égalité maisdede。
+- L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
+- *Lien avec formations** :
+- École des Hommes (rapport au corps, dynamiques Hommes/Femmes)
+
+> "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
+
+## Ses développements sur le sujet
+
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
+
+*« 7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md » · origine : lien-declare*
+
+> Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+
+### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
+
+*« Video-u8r9BLSx7UU-synthese.md » · origine : lien-declare*
+
+> L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+
+### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
+
+*« Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md » · origine : lien-declare*
+
+> Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
 
 ---
 
@@ -81,13 +129,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C016`, en annonçant « reconstituée depuis C016 ». Jamais `C011` — la trace serait fausse.
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- Spike Club &bull; &quot;A nous deux maintenant !&quot; : Présentations / candidatures — `tierce-forum__a-nous-deux-maintenant-vt9568.html` (rattachement 0.074)
-- Spike S&eacute;duction — `tierce-forum__acidlemon-vt11122.html` (rattachement 0.0703)
 
 ---
 

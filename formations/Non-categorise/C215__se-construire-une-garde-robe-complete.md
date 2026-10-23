@@ -4,15 +4,17 @@ titre: "Se construire une garde-robe complete"
 categorie: "Non categorise"
 categorie_brute: "_Non catégorisé_"
 slug: "comment-acheter-des-vetements"
-slug_catalogue: "comment-acheter-des-vetements"
 url: "https://mat-consulting.fr/catalogue/comment-acheter-des-vetements/"
 statut: doctrine
 mots_fiche: 2494
 mots_verbatim: 0
-mots_page_produit: 239
+mots_annonce: 128
+programme: 10
+sections_annonce: 1
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 6
 citations: 0
-extraits_voix: 6
-tracklist: 10
 doublon_titre: oui
 ---
 
@@ -20,38 +22,26 @@ doublon_titre: oui
 
 **C215** · Non categorise · 2494 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/comment-acheter-des-vetements/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> obtenir le meilleur retour sur investissement possible avec son look
+1. 3 approches du vêtement
+2. Les indispensables
+3. Les vêtements de tonton Stéphane…
+4. … et ses + grosses erreurs
+5. Comprendre ce que vous achetez
+6. Le coût caché d’une affaire
+7. L’inconscient collectif
+8. Les budgets à allouer à sa garde-robe
+9. S’arrêter quand on a trouvé son style
+10. Conserver ses vêtements plus longtemps
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- 3 approches du vêtement
-- Les indispensables
-- Les vêtements de tonton Stéphane…
-- … et ses + grosses erreurs
-- Comprendre ce que vous achetez
-- Le coût caché d’une affaire
-- L’inconscient collectif
-- Les budgets à allouer à sa garde-robe
-- S’arrêter quand on a trouvé son style
-- Conserver ses vêtements plus longtemps
+*Page produit : https://mat-consulting.fr/catalogue/comment-acheter-des-vetements/ — 128 mots de sa prose.*
 
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-Il fut un temps où j’écrivais sur un site de mode masculine voisin (si si), un article dont certains d’entre vous me reparlent encore aujourd’hui. Il s’agissait, en version simplissime, du « juste prix » à mettre dans chaque type de vêtements.
-
-Alors d’emblée, si une fille tombe sur ces lignes, elle n’y verra guère de sens. Avec 1000 €, elle a 15 chemisiers, 10 robes, 5 jeans, 5 paires de chaussures, et 50 accessoires…
-
-Avec la même somme, un homme a 1 manteau, 1 jean et des chaussures !
-
-J’exagère un peu, mais pas tant que ça… Vous voyez l’idée.
-
-## POURQUOI UN SÉMINAIRE SUR LA GARDE-ROBE ?
+### POURQUOI UN SÉMINAIRE SUR LA GARDE-ROBE ?
 
 Pensez à tous les experts de l’habillement que vous pouvez imaginer / croiser / voir. Sur le net ou ailleurs.
 
@@ -59,95 +49,45 @@ Tous, je dis bien tous, ont perdu **des milliers d’€** dans des achats inu
 
 Si c’était à refaire, si je devais reconstruire une garde-robe aujourd’hui à partir de rien ou presque, je m’y prendrais complètement différemment. Comment ? Exactement de la manière dont je vais vous l’expliquer pendant cette journée. De manière rationnelle, calme. Sans délire de _fashionisto_ que vous n’êtes, de toutes manières, pas. Et moi non plus.
 
-*Métadonnées de la page produit : 258 téléchargements.*
+## La matière qu'il a lui-même déclarée
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
+### Synthèse – WS4q9-Eb-ts — `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese`
 
-### Les cadeaux font plaisir surtout à ceux qui les font — `f8HDm2YAs4o`
+*podcast · `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese.md`*
 
-*Rattachement : 0.1098 · `podcasts/transcripts/final/f8HDm2YAs4o-transcript.md`*
-
-> 7. je l'avais fait évidemment j'avais mécaniquement cliquez sur follow et un jour cette personne qui se trouve être une femme une fille plutôt jolie avait publié la photo d'un tableau d'un tableau relativement contemporain dans sa fabrique dans sa réalisation mais qui représentait une scène de la grèce antique le personnage élégant féminin et vêtue d'une robe je sais pas s'il ya un nom technique plus précis que ça je ne sais pas je dis une robe couleur peu importe rouges bleues vertes je dirais pas
-
-> 21. du tableau et moi comme je suis pas obligé la soirée peut s'arrêter là garde ta robe je veux plus je te demanderai jamais à rien et je ne tends voudrais jamais je m'attendais à une hésitation n'ont aucune les héros el haddioui direct et j'ai eu mon acte mais à ne pas confondre avec une poussée d'acné j'ai eu mon acte mais c'est à dire mon pic de la soirée c'est qu'effectivement moi j'ai commandé le room service et cède pas et j'ai eu mon vertigo hélas en contre jour puisque la chambre était dans
-
-> 18. s'en va je serais ravi de ce cadeau parce que j'ai aimé le faire j'ai aimé le pense et j'ai aimé trouver la personne qui l'a cousue etc resta donc elle me remercie évidemment elle avait une robe fuseau tu sais que la fermeture éclair dans le dos et étaient tout à prêter et pimpante j'ai absolument certain que nous n'avions qu'une solide et qu'une seule vie qu'une seule image en tête c est ce que la robe à l'ehess que je trompé est-ce que est ce que j'avais l'oeil tu vois et ce que le verre d'un
-
-### Video D5562gtKlDA — `D5562gtKlDA`
-
-*Rattachement : 0.0657 · `podcasts/transcripts/final/D5562gtKlDA-transcript.md`*
-
-### Video AaX-M4g9xtk — `AaX-M4g9xtk`
-
-*Rattachement : 0.0568 · `podcasts/transcripts/final/AaX-M4g9xtk-transcript.md`*
-
-### Video AaX-M4g9xtk — `AaX`
-
-*Rattachement : 0.0568 · `podcasts/transcripts/final/AaX-transcript.md`*
-
-### Video QlWAwyUAvgE — `QlWAwyUAvgE`
-
-*Rattachement : 0.0529 · `podcasts/transcripts/final/QlWAwyUAvgE-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : IA et conseils conjugaux — YviGf37I_JI — `Video-YviGf37I_JI-synthese`
-
-*Rattachement : 0.2866 · `podcasts/syntheses/Video-YviGf37I_JI-synthese.md`*
 
 ### Synthèse : Analyse Vidéoscopique - Weshden, France Télévisions, et Divers — `Video-kjMBBW4fruY-synthese`
 
-*Rattachement : 0.2144 · `podcasts/syntheses/Video-kjMBBW4fruY-synthese.md`*
+*podcast · `Video-kjMBBW4fruY-synthese.md`*
 
-> [Se construire une garde-robe complete](./formations/Sedirection Rencontres/comment-acheter-des-vetements.md) [Changez d'image (apres-midi)](./formations/Style Image/changez-d-image-apres-midi.md) [Se construire une garde-robe complete](./formations/comment-acheter-des-vetements.md) [Le décodeur ultime de signes d&rsquo;intérêts !](./formations/le-decodeur-ultime-de-signes-drsquointerets.md) [Style et image](./formations/style-image.md)
+
+### Synthèse : Video r9xXxVtAxHE — r9xXxVtAxHE — `Video-r9xXxVtAxHE-synthese`
+
+*podcast · `Video-r9xXxVtAxHE-synthese.md`*
+
+- La résignation comme pente naturelle : il évoque la citation de Balzac — *« La résignation est un suicide quotidien »* — pour expliquer que la tentation du déclin et du « c'était mieux avant » est une trajectoire spontanée contre laquelle il faut lutter, surtout quand on a une sensibilité conservateur.
+- Le exercice de la bouteille des bonnes nouvelles : pour contrer cette pente, il raconte avoir acheter une carafe en verre en 2022 où il déposait des post-it de bonnes nouvelles afin de maintenir un équilibre psychologique et continuer à espérer.
+- Féminité vs féminisme : il précise que son sujet n'a jamais été le féminisme mais la *féminité* et la *masculinité*, et que quiconque parle de ces sujets se heurte à ce qu'il appelle des « gardes prétoriaux » médiatiques.
+- L'étiquette du « coach en séduction » : il explique avoir exercé cette activité pendant six mois (mi-2006 à mi-2007), mais que cette étiquette lui colle encore à la peau quinze ans après, notamment à cause d'une présentation télévisée fallacieuse.
+- L'épisode Virginie Effira : il raconte avoir été déstabilisé sur un plateau par les insultes en off de l'actrice, ce qui l'a convaincu qu'il s'attaquait à une « rente » intellectuelle et médiatique.
+- L'industrie derrière les rapports hommes-femmes : il décrit un système incluant cinéma, psychologie de pacotille, journaux et auteurs qui profitent d'une vision manichéenne des relations, et contre lequel quiconque se dresse devient la cible d'une « chasse à cour ».
 
 ### Synthèse : We must save the children #Pélissard — YdMW_1OIRnc — `We-must-save-the-children-#Pélissard-synthese`
 
-*Rattachement : 0.214 · `podcasts/syntheses/We-must-save-the-children-#Pélissard-synthese.md`*
+*podcast · `We-must-save-the-children-#Pélissard-synthese.md`*
 
-> [Se construire une garde-robe complete](./formations/Sedirection Rencontres/comment-acheter-des-vetements.md) [Se construire une garde-robe complete](./formations/comment-acheter-des-vetements.md) [Comment acheter des vêtements](./formations/commenter-acheter-des-vetements.md) [Communication Non Violente](./formations/communication-non-violente.md) [Communiquer avec ses proches](./formations/communiquer-avec-ses-proches.md)
 
-### Synthèse : Calin-o-thérapie — _62qQTwB-1s — `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese`
+> "Tant que vous ne savez pas décrire correctement un problème, ce que vous croyez être une solution en fait ça sera tiré au hasard."
 
-*Rattachement : 0.1766 · `podcasts/syntheses/Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
+## Ses développements sur le sujet
 
-> [Like a boss, 3 : Séduire et fidéliser ses clients A VIE](./formations/Carriere Leadership/fideliser-ses-clients.md) [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-apres-midi.md) [# Sources et références croisées](./formations/Carriere Leadership/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-matin.md) [Se construire une garde robe complete (apres-midi)](./formations/Sedirection Rencontres/se-construire-une-garde-robe-complete-apres-midietape-par-etape.md) [Se construire une garde robe complete (matin)](./formations/Sedirection Rencontres/se-construire-une-garde-robe-complete-matinetape-par-etape.md) [Like a boss, 3 : Séduire et fidéliser ses clients A VIE](./formations/fideliser-ses-clients.md) [La Dépendance Affective](./formations/la-dependance-affective.md) [Like a boss, 3: Seduire et fideliser ses clients A VIE (après midi)](./formations/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie-apres-m.md) [Like a boss, 3: Seduire et fideliser ses clients A VIE (matin)](./formations/like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie.md) [Plus de rencontres](./formations/plus-de-rencontres.md)
+### Synthèse : Video r9xXxVtAxHE — r9xXxVtAxHE — `Video-r9xXxVtAxHE-synthese`
 
-## Ses écrits sur ce thème (ancien site)
+*« Video-r9xXxVtAxHE-synthese.md » · origine : lien-declare*
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### 18 juillet, la garde robe parfaite, step by step (séminaire) | Spike Séduction — `web-actualite__20812_garde-robe-parfaite-seminaire.html`
-
-*Rattachement : 0.3273 · `sources-publiques/spikeseduction-archive/web-actualite__20812_garde-robe-parfaite-seminaire.html.txt`*
-
-### La crise ne vous emmènera pas chez C&#038;A, par Antoine — `web-ateliers-workshops-cours__2103_shabiller-moins-cher.html`
-
-*Rattachement : 0.2623 · `sources-publiques/spikeseduction-archive/web-ateliers-workshops-cours__2103_shabiller-moins-cher.html.txt`*
-
-### Entretien d&#8217;une garde robe masculine : le guide ultime — `web-articles__10913_entretien-des-vetements-hommes.html`
-
-*Rattachement : 0.1817 · `sources-publiques/spikeseduction-archive/web-articles__10913_entretien-des-vetements-hommes.html.txt`*
-
-### Relooking : les 12 vêtements indispensables pour l&#8217;hiver 011-012 — `web-ateliers-workshops-cours__9200_vetements-indispensables-hiver-011-012.html`
-
-*Rattachement : 0.1188 · `sources-publiques/spikeseduction-archive/web-ateliers-workshops-cours__9200_vetements-indispensables-hiver-011-012.html.txt`*
-
-### Spike Séduction — `web-articles__14700_quels-vetements-acheter-en-ligne.html`
-
-*Rattachement : 0.1186 · `sources-publiques/spikeseduction-archive/web-articles__14700_quels-vetements-acheter-en-ligne.html.txt`*
-
-## Points clés
-
-- _À compléter après analyse du contenu_
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- A vendre (de la garde robe de Spike) — `tierce-forum__a-vendre-de-la-garde-robe-de-spike-vt2843.html` (rattachement 0.3024)
+> La résignation comme pente naturelle : il évoque la citation de Balzac — *« La résignation est un suicide quotidien »* — pour expliquer que la tentation du déclin et du « c'était mieux avant » est une trajectoire spontanée contre laquelle il faut lutter, surtout quand on a une sensibilité conservateur.
 
 ---
 

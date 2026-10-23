@@ -4,15 +4,17 @@ titre: "Discernement – matin"
 categorie: "Intelligence Sociale"
 categorie_brute: "Intelligence Sociale"
 slug: "discernement-matin"
-slug_catalogue: "discernement-matin"
 url: "https://mat-consulting.fr/produit/discernement-matin/"
 statut: reconstituee
 mots_fiche: 1129
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 3
+idees_forces: 11
 citations: 0
-extraits_voix: 10
-tracklist: 0
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C069
@@ -24,89 +26,49 @@ confiance: 1.0
 
 **C068** · Intelligence Sociale · 1129 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video kSv42AlwHXY — `kSv42AlwHXY`
-
-*Rattachement : 0.0987 · `podcasts/transcripts/final/kSv42AlwHXY-transcript.md`*
-
-### Video YviGf37I_JI — `YviGf37I_JI`
-
-*Rattachement : 0.0952 · `podcasts/transcripts/final/YviGf37I_JI-transcript.md`*
-
-### Video elWVinBUGDQ — `elWVinBUGDQ`
-
-*Rattachement : 0.0912 · `podcasts/transcripts/final/elWVinBUGDQ-transcript.md`*
-
-### Un youtubeur geek sort de sa chambre et découvre le monde réel — `M6bXSt0f2b0`
-
-*Rattachement : 0.0848 · `podcasts/transcripts/final/M6bXSt0f2b0-transcript.md`*
-
-> 1. bon donc alors plus sérieusement moi j'adore être violée le matin a personnellement d'abord je suis du matin c'est pas toi tu es du matin et du soir s'il fut du matin on est le clan on devrait ouvrir le club du matin si vous êtes du matin hommes et femmes hashtag club du matin afin qu'on se reconnaissent entre nous le moment est venu d'accueillir un homme d' influence un homme dont beaucoup aujourd'hui se réclame chez nous comme le rappelait de manière très juste et saint édouard moi je suis pas
-
-> 51. interne armés je voudrais justement reichert janil beaussire eh bien mon contrôle fiscal tout bon donc alors plus sérieusement moi j'adore être violée le matin a j'ai pas toi tu es du matin et du soir aussi fut du matin on est le clan on reconnaissent entre nous un quand on se bat on se fera un petit grit et comme les franc mac ou quand on se grattera la paume de la main la club hashtag club du matin un homme d' influence d'abord moi j'aime qu'on viole le matin et se demande tout le temps et
-
-> 48. ma chambre on y viendra au réveil le matin alors qu'elle dort avec un s bravo la conjugaison encore paraît que c'est du viol et je m'en bats les couilles de temps que si c'est du viol alors c'est moi qui suis violer une fois sur deux bien bien bien bien bien à l'heure christophe si on parlait de la petite cuillère du dimanche matin quand on est un peu assoupie qu'est ce qu'on en pense chez and influence écoute moi pour moi en terme de gravité oh là là là et pour les propos n'engagent que
-
-### L'Arnaqueur Tinder c'est la Justice Divine qui retombe sur les Instap*tes — `G6Z7CEsEgos`
-
-*Rattachement : 0.0628 · `podcasts/transcripts/final/G6Z7CEsEgos-transcript.md`*
-
-> 20. discernement à des typologies de femmes là au niveau du discernement j'ai envie de vous dire perny la cecily et eileen c'est quand même pas très brillant parce que surtout permis la droite allait profite dans quelques instants quand on donne les clés de son fonctionnement à l'intérieur un inconnu dans une intention application totalement mainstream c'est un petit peu comme si on prenait quelqu'un au hasard dans la rue et qu'on lui confier les clés de chez soi je veux dire il a à peu près certain
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
-
-*Rattachement : 0.4324 · `podcasts/syntheses/Video-HstnkVr4op4-synthese.md`*
-
-> [Apprenez à négocier (matin)](./formations/Carriere Leadership/apprenez-a-negocier-matin-2.md) [Enfer du salariat (matin)](./formations/Carriere Leadership/enfer-du-salariat-matin.md) [Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)](./formations/Carriere Leadership/like-a-boss-2-des-presentations-ecrites-et-orales-qui-tuent-matin-2.md) [100 jours pour la rendre amoureuse (matin)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-matin.md) [Le bonheur – matin](./formations/Developpement Personnel/bonheur-matin.md) [À mort la procrastination (matin)](./formations/Developpement Personnel/procrastination-matin.md) [Une motivation en beton (matin)](./formations/Developpement Personnel/une-motivation-en-beton-matin.md) [Comment avoir du charisme (matin)](./formations/Intelligence Sociale/comment-avoir-du-charisme-matin-2.md) [Discernement – matin](./formations/Intelligence Sociale/discernement-matin.md) [Manipulation II (matin)](./formations/Intelligence Sociale/manipulation-ii-matin-2.md)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
 
-*Rattachement : 0.4137 · `podcasts/syntheses/Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
 
-> [Enfer du salariat (matin)](./formations/Carriere Leadership/enfer-du-salariat-matin.md) [Survivre à la ROUTINE du couple (matin)](./formations/Couple Relations Longues/les-jeunes-filles-3-audace-scenarii-oses-pour-rencontres-memorables-matin.md) [Le bonheur – matin](./formations/Developpement Personnel/bonheur-matin.md) [À mort la procrastination (matin)](./formations/Developpement Personnel/procrastination-matin.md) [Une motivation en beton (matin)](./formations/Developpement Personnel/une-motivation-en-beton-matin.md) [Comment avoir du charisme (matin)](./formations/Intelligence Sociale/comment-avoir-du-charisme-matin-2.md) [Discernement – matin](./formations/Intelligence Sociale/discernement-matin.md) [Manipulation II (matin)](./formations/Intelligence Sociale/manipulation-ii-matin-2.md) [Langage des femmes](./formations/Relations H-F/ce-que-pensent-les-femmes.md) [Les jeunes filles, 1: Decoder les attentes feminines (matin)](./formations/Relations H-F/les-jeunes-filles-1-decoder-les-attentes-feminines-matin.md)
+
+### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
+
+*podcast · `Video-HstnkVr4op4-synthese.md`*
+
+- Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
+- L'émission aborde le sexisme dans la télé-réalité
+- Un homme est qualifie de "fille la plus facile de France"
+- La télé-réalité est décrite comme "dégueulasse" et "sexiste"
+- L'auteur replace le phénomène dans le contexte plus large de la société
 
 ### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*Rattachement : 0.4047 · `podcasts/syntheses/Video-vvh8wAYHRBw-synthese.md`*
+*podcast · `Video-vvh8wAYHRBw-synthese.md`*
 
-> [# Sources et références croisées](./formations/Couple Relations Longues/construire-une-relation.md) [Rester seduisant en couple (matin)](./formations/Couple Relations Longues/rester-seduisant-en-couple-matin.md) [Le bonheur – matin](./formations/Developpement Personnel/bonheur-matin.md) [À mort la procrastination (matin)](./formations/Developpement Personnel/procrastination-matin.md) [Comprendre les gens, 2 (matin)](./formations/Intelligence Sociale/analyser-gens-matin.md) [Comment avoir du charisme (matin)](./formations/Intelligence Sociale/comment-avoir-du-charisme-matin-2.md) [Comprendre les gens (matin) Rattrapage de sociologie pour ceux qui ont pris math](./formations/Intelligence Sociale/comprendre-les-gens-matinrattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole.md) [Discernement – matin](./formations/Intelligence Sociale/discernement-matin.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Manipulation II (matin)](./formations/Intelligence Sociale/manipulation-ii-matin-2.md)
+- L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
+- La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
+- Le platonique n'est pas interprétable : Les rendez-vous sans consommation ne permettent aucune déduction quant aux intentions ou à la compatibilité réelle du couple.
+- La première nuit comme déclencheur analytique : C'est uniquement après la consommation sexuelle que le mécanisme de réflexion féminine s'enclenche véritablement.
+- L'écart d'âge de 18 ans : Si l'absence de désir d'enfants rend la chose viable, l'écart reste significatif et impose de clarifier les attentes mutuelles.
+- La responsabilité individuelle comme prérequis méthodologique : Édouard insiste sur l'importance d'endosser sa part de contribution dans une situation plutôt que de se victimiser.
 
-### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
+## Ses développements sur le sujet
 
-*Rattachement : 0.4001 · `podcasts/syntheses/L'intelligence-relationnelle-1-synthese.md`*
+### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
 
-> [Discernement – après-midi](./formations/Intelligence Sociale/discenement-apres-midi.md) [Survivre aux mensonges du nouveau monde (le discernement)](./formations/Intelligence Sociale/discernement.md) [Manipulation II (apres-midi)](./formations/Intelligence Sociale/manipulation-ii-apres-midi-2.md) [Manipulation II : obtenez ce que vous méritez](./formations/Intelligence Sociale/manipulation.md) [Langage des femmes](./formations/Relations H-F/ce-que-pensent-les-femmes.md) [Logique des femmes](./formations/Relations H-F/comprendre-les-femmes.md) [Logique de l'Homme (matin)](./formations/Relations H-F/comprendre-les-hommes-matin.md) [Logique des hommes – le côté obscur de H pur](./formations/Relations H-F/comprendre-les-hommes.md) [Intelligence sociale III : Internet, réseaux, applications](./formations/Reseau Influence/draguer-sur-internet.md) [Intelligence relationnelle, 1: Doubler son RESEAU (matin)](./formations/Reseau Influence/intelligence-relationnelle-1-doubler-son-reseau-matin.md)
+*« Video-HstnkVr4op4-synthese.md » · origine : lien-declare*
 
-> Logique des Hommes / Logique des Femmes** : Fondation de l'intelligence relationnelle — comprendre les deux logiques est essentiel pour toute relation. Discernement** : L'outil principal de l'intelligence relationnelle — capacité à juger par soi-même. Vidéoscopie** : Exercice pratique pour développer son intelligence relationnelle — former son œil aux micro-signaux. Pression sélective** : Comment fonctionne la sélection dans les relations modernes (explication dans la partie 2). Hypergamie** : Comprendre pourquoi les femmes cherchent vers le haut et les hommes acceptent plus facilement vers le bas.
+> Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 
-## Ses écrits sur ce thème (ancien site)
+### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*« Video-vvh8wAYHRBw-synthese.md » · origine : lien-declare*
 
-### Commandez le séminaire &laquo;&nbsp;intelligence sociale&nbsp;&raquo; — `web-actualite__4843_intelligence-sociale.html?preview=1`
-
-*Rattachement : 0.2159 · `sources-publiques/spikeseduction-archive/web-actualite__4843_intelligence-sociale.html?preview=1.txt`*
-
-### 25 sept 2010 : développez votre intelligence sociale — `web-actualite__4843_intelligence-sociale.html`
-
-*Rattachement : 0.1472 · `sources-publiques/spikeseduction-archive/web-actualite__4843_intelligence-sociale.html.txt`*
-
-### Du discernement des filles dans le choix d&#8217;un partenaire — `web-articles__1225_du-discernement-des-filles-dans-le-choix-dun-partenaire.html`
-
-*Rattachement : 0.1433 · `sources-publiques/spikeseduction-archive/web-articles__1225_du-discernement-des-filles-dans-le-choix-dun-partenaire.html.txt`*
-
-### Commandez le séminaire &laquo;&nbsp;intelligence sociale mod. II : gérer la solitude et sortir seul&nbsp;&raquo; — `web-actualite__12247_intelligence-sociale-2-sortir-seul.html?preview=1`
-
-*Rattachement : 0.1009 · `sources-publiques/spikeseduction-archive/web-actualite__12247_intelligence-sociale-2-sortir-seul.html?preview=1.txt`*
-
-### Spike Séduction — `web-actualite__15694_changer-de-vie-2013-temoignage.html`
-
-*Rattachement : 0.1001 · `sources-publiques/spikeseduction-archive/web-actualite__15694_changer-de-vie-2013-temoignage.html.txt`*
+> L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 
 ---
 
@@ -139,13 +101,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C069`, en annonçant « reconstituée depuis C069 ». Jamais `C068` — la trace serait fausse.
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- A une heure du matin — `tierce-forum__a-une-heure-du-matin-vt5530.html` (rattachement 0.2105)
-- Podcasts vidéo: S02E07 en ligne! les relations hommes femmes — `tierce-articles__17494_podcast-all.html__2` (rattachement 0.1942)
 
 ---
 

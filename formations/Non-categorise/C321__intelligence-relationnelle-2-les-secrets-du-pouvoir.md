@@ -4,15 +4,17 @@ titre: "Intelligence relationnelle, 2 : Les secrets du POUVOIR"
 categorie: "Non categorise"
 categorie_brute: "_Non catégorisé_"
 slug: "prendre-le-pouvoir"
-slug_catalogue: "prendre-le-pouvoir"
 url: "https://mat-consulting.fr/catalogue/prendre-le-pouvoir/"
 statut: doctrine
 mots_fiche: 2475
 mots_verbatim: 0
-mots_page_produit: 1083
+mots_annonce: 964
+programme: 9
+sections_annonce: 6
+points_annonce: 20
+documents_materiau: 2
+idees_forces: 10
 citations: 0
-extraits_voix: 15
-tracklist: 9
 doublon_titre: oui
 ---
 
@@ -20,29 +22,23 @@ doublon_titre: oui
 
 **C321** · Non categorise · 2475 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/prendre-le-pouvoir/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> Le premier séminaire à vous donner les clefs (interdites) de la compréhension du monde
+1. Qu’avez-vous à échanger ?
+2. Exemples concrets de ressources
+3. Zone d’incertitude
+4. La puissance du sentiment d’impuissance
+5. Analyse de cas : qui a vraiment le pouvoir dans cet exemple
+6. Radiographie du pouvoir
+7. Modèle de l’anarchie organisée
+8. Les habitudes du pouvoir
+9. Hacker le pouvoir objectif
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Qu’avez-vous à échanger ?
-- Exemples concrets de ressources
-- Zone d’incertitude
-- La puissance du sentiment d’impuissance
-- Analyse de cas : qui a vraiment le pouvoir dans cet exemple
-- Radiographie du pouvoir
-- Modèle de l’anarchie organisée
-- Les habitudes du pouvoir
-- Hacker le pouvoir objectif
-
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-Mise à jour du séminaire sur le pouvoir ! Ce séminaire est rare, depuis le dernier, elles en ont vu des choses, les lunettes du sociologue… En plus, à l’époque, les séminaires n’étaient pas enregistrés. Donc si vous attendiez l’occasion d’ajouter une perle à votre collection de pierres déjà précieuses (ou la 7ème boule de crystal…), elle est arrivée. Tout sur le POUVOIR, carrément.
+*Page produit : https://mat-consulting.fr/catalogue/prendre-le-pouvoir/ — 964 mots de sa prose.*
 
 ### Elles ont vu quoi, les lunettes du sociologue ?
 
@@ -58,6 +54,11 @@ Le pouvoir, c’est un peu comme l’argent (raison sans doute pour laquelle ils
 
 Leur différence : à la différence de la fortune personnelle, qui demande souvent une mise de départ, une forme d’intelligence très particulière, une conjoncture favorable, une suite d’investissements judicieux et d’énormes sacrifices, les **règles du pouvoir sont à la portée de tous** (même à 1000€ ça continuerait d’être un bon investissement. Vous savez combien facturent les formateurs en entreprise, pour des formations dont le contenu résiduel, une fois décortiqué tout le vent, est très, très léger ?)
 
+
+- Le pouvoir rend attirant
+- Le pouvoir rend intéressant
+- Le pouvoir rend tout pardonnable
+
 ### Vulgarisations sociologique, _start_ :
 
 1. toutes les relations sont des relations de pouvoir. Postulat
@@ -71,6 +72,10 @@ Prof. #2 - Pierre Francois : la sociologie, c'est une discipline de gauche - Sci
 Sciences Po71.5K subscribers
 
 Watch on
+
+
+- toutes les relations sont des relations de pouvoir. Postulat
+- le pouvoir est une caractéristique de la nature de la relation. Tout comme peut l’être sa sincérité, sa durabilité, son exclusivité, etc.
 
 ### Évaluez objectivement votre niveau de connaissance sur le pouvoir aujourd’hui
 
@@ -91,7 +96,19 @@ Ok, répondez aux questions suivantes par vous-même, sans utiliser Internet ni 
 
 Qui peut bien avoir le pouvoir sur le terrain, vous savez vous ? « Moi chais pas »
 
-## Le premier séminaire à vous donner les clefs (interdites) du pouvoir
+
+- A quoi tient le pouvoir ? Donnez du pouvoir une définition simple et compréhensible par tous
+- Qui a le pouvoir sur un terrain de foot ?
+- Un leader d’opinion a t-il le pouvoir absolu ? Quels sont les limites du leader en termes de pouvoir ?
+- Comment transformer une ressource pertinente en ressource mobilisable ?
+- Quel est l’enjeu caché d’un entretien d’embauche ?
+- Et d’une relation amoureuse ?
+- Citez 5 habitudes du pouvoir
+- Donnez 2 exemples de situation où le pouvoir entre les acteurs s’est brusquement retourné
+- Quels sont les recours possibles en situation de carence de pouvoir ?
+- Pouvoir législatif, exécutif, judiciaire : lequel s’applique le mieux à la vie quotidienne et pourquoi ?
+
+### Le premier séminaire à vous donner les clefs (interdites) du pouvoir
 
 Il ne sera évidemment pas question de lire ensemble l’intégralité de la production de sociologues aussi sévèrement ennuyeux que – par exemple – l’autrichien Erhard Friedberg (honnêtement, est-ce que j’ai une tête de sociologue autrichien ?), ni de s’improviser professeur de sciences-politiques, mais de mettre à profit des ouvrages de référence et notre enseignement de grande école pour vous délivrer, pour la première fois en France, et une journée seulement, du contenu réservé à une élite. Et la valeur que vous en tirerez est inestimable, même si votre objectif n’est pas de gonfler les rangs d’un parti quelconque, ni de marcher dans les pas de d’Emmanuel Macron.
 
@@ -115,6 +132,17 @@ Etc.
 
 Et, comme le savent tous les anciens participants, on apprend, à un séminaire de Stéphane, toujours plus que ce qu’on pensait en s’y rendant…
 
+
+- Comprendre la puissance et les enjeux du pouvoir
+- Comment agrandir vos sphères de pouvoir : affectives, amicales, professionnelles
+- Comment élargir votre réseau d’influence
+- Comment démarrer le jeu du pouvoir, lorsqu’on n’a pas de réseau
+- Comment inclure le pouvoir à votre grille de lecture des relations
+- Comment utiliser le pouvoir en séduction
+- Comment utiliser le pouvoir dans votre vie professionnelle
+- Comment utiliser le pouvoir dans votre vie amicale et affective
+- Comment le conserver
+
 ### Vos 5 enjeux de cette journée
 
 1. Devenir celui que les autres recherchent, plutôt que celui qui cherche leur compagnie
@@ -126,113 +154,50 @@ Compléter la liste avec vos deux enjeux personnels prioritaires: pourquoi voul
 1. \[compléter ici\]
 2. \[ici aussi\]
 
-*Métadonnées de la page produit : 553 téléchargements.*
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+- Devenir celui que les autres recherchent, plutôt que celui qui cherche leur compagnie
+- Devenir respecté sans discussions inutiles
+- Commencer à vaincre ses peurs
+- \[compléter ici\]
+- \[ici aussi\]
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
+## La matière qu'il a lui-même déclarée
 
-### Video 4po-6Pywp4U — `4po-6Pywp4U`
-
-*Rattachement : 0.2506 · `podcasts/transcripts/final/4po-6Pywp4U-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=4po-6Pywp4U Titre**: Comment GAGNER du POUVOIR [PARTIE 1/2]- Hommesdinfluence.com Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/4po-6Pywp4U.md`).
-
-### Video 4po-6Pywp4U — `4po`
-
-*Rattachement : 0.2506 · `podcasts/transcripts/final/4po-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=4po-6Pywp4U Titre**: Comment GAGNER du POUVOIR [PARTIE 1/2]- Hommesdinfluence.com Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/4po-6Pywp4U.md`).
-
-### I shouldn't have reopened the file on this illustrious French thinker — `n655avd-z-Q`
-
-*Rattachement : 0.0936 · `podcasts/transcripts/final/n655avd-z-Q-transcript.md`*
-
-> 30. d'autres à tes fournisseurs parce que si ils te fournissent plus tu fonctionnes plus donc il y a une interdépendance qui fait que tu n'es jamais lonelyne at the top jimping est-il lonely at the top sachant que même en tenant son pays d'une main de fer on ne sait jamais il n'est peut-être pas à l'abri à un moment je sais pas quoi d'une révolution que l'armée se retourne donc on a toujours une forme de pouvoir qui s'exerce puisque le pouvoir est transactionnel c'est-à-dire que un moment les
-
-> 55. notamment en ce moment si on va pouvoir comme ça agréger une contestation digne de ce nom par rapport à la réforme des retraites je crois que ça fait partie de des éléments d'analyse de notre relative impuissance sociale depuis quelques décennies que quand même le capitalisme est très très fort pour acheter notre molles pour obtenir de nous nous soyons nous
-
-> 33. dire que quand on œuvre à quelque chose sans rémunération c'est en général un hobby de type télé ou abrutissement mais que pouvoir penser penser demandant de l'énergie et du temps sans échanger une contribution directe c'est qu'on est déjà dans une certaine forme d'oligarchie donc voilà ma définition de peuple le populisme c'est deux choses le populisme en littérature ça c'est Steinbeck à mes écrivains je pense d'ailleurs c'est en train de devenir mon écrivain préféré qui était et de décrire très
-
-### Video Crl9bATIDGU — `Crl9bATIDGU`
-
-*Rattachement : 0.0819 · `podcasts/transcripts/final/Crl9bATIDGU-transcript.md`*
-
-### J'ai trouvé le plus bel "éco-village" de France ! — `dJ1xO-DRL0M`
-
-*Rattachement : 0.0795 · `podcasts/transcripts/final/dJ1xO-DRL0M-transcript.md`*
-
-> 38. entendre ce que c'est que de l'abus de pouvoir féminin en position dominante via des jeunes en fragilité et en en insécurité bon dit que tu sa loi elle m'a aussi fait du chantage qu est la proposition de la meilleure proposition pourqui voilà donc il faut que tu prennes une autre charge euh donc là on a encore une encore une démonstration du contenu de mes séminaires hein je suis désolé je l'ai pas fait exprès j'ai pas créé une communauté totalement avecnilo pour pouvoir ensuite la faire échouer
-
-> 49. va chauffer pour ton ne devrait pas ne devrait pas exister elle a joué de son pouvoir et m'a interdit le passage par la propriété pour créer un sentiment d'isolement face au reste du groupe donc je n'avais plus de temps plus de liberté je n'avais pas non plus d'espace personnel ni d'intimité alors les côtés compliqués pas être chez soi vraiment c'està dire que j'étais censé être dans un dans un espace qui était à moi et puis il y avait des gens qui rentraient chez moi qui utilisaient ma douche
-
-> 50. qui laissaient un sparadra oui bah ça on c'est bien puisque je comprends pas tellement leur surprise ils ont fait donc 80 % du chemin vers laazade et la et la Zade leur Némésis leur antéchrist c'est la propriété privée donc le fait de pouvoir rentrer et passer par le lieu des autes euh bah ça me semble être dans leur ADN et le fait de ne pas le laisser dans l'état dans lequel tu l'as trouvé me semble également être dans leur dans leur dans leur ADN donc je je ne je suis surpris de ta surprise
-
-## Ce qu'il a dit sur ce thème (podcasts)
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse : The brilliant idea from the creators of #Metoo to save the movement — oc4BrBlqyGE — `The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese`
 
-*Rattachement : 0.5037 · `podcasts/syntheses/The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese.md`*
+*podcast · `The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese.md`*
 
-> [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/Intelligence Sociale/prendre-le-pouvoir.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-mi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/prendre-le-pouvoir.md) [Storytelling et narration](./formations/storytelling-et-narration.md)
-
-> Cette vidéo explore l'émergence d'une nouvelle tendance au sein du mouvement #MeToo — le #MeToo « lesbien » — et interroge ce que ces témoignages révèlent sur les dynamiques relationnelles et les mécaniques de pouvoir au sein des couples. L'analyse porte sur l'évolution de ce mouvement et sur la tentation de certains acteurs de contrôler le récit pour préserver ce qu'Édouard nomme une « rente » de la souffrance.
-
-### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
-
-*Rattachement : 0.3636 · `podcasts/syntheses/Video-tiDHbY0rQKQ-synthese.md`*
-
-> [100 jours pour la rendre amoureuse (apres-midi)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-apres-midi.md) [100 jours pour la rendre amoureuse (matin)](./formations/Couple Relations Longues/100-jours-pour-la-rendre-amoureuse-matin.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Comment acheter des vêtements](./formations/commenter-acheter-des-vetements.md) [100 jours pour la rendre amoureuse](./formations/construire-une-relation.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-mi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir.md)
-
-### L'intelligence relationnelle (2ème partie) — `L'intelligence-relationnelle-2-synthese`
-
-*Rattachement : 0.3326 · `podcasts/syntheses/L'intelligence-relationnelle-2-synthese.md`*
-
-> [Comment avoir du charisme (apres-midi)](./formations/Intelligence Sociale/comment-avoir-du-charisme-apres-midi.md) [Manipulation, I : qui vous ment et comment](./formations/Intelligence Sociale/detecter-le-mensonge.md) [Comment avoir du charisme](./formations/Intelligence Sociale/developper-son-charisme.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-midi.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)](./formations/Intelligence Sociale/intelligence-relationnelle-2-les-secrets-du-pouvoir-matin.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/Intelligence Sociale/prendre-le-pouvoir.md) [Briller en ligne, le charme discret du texto parfait](./formations/briller-en-ligne-le-charme-discret-du-texto-parfait.md) [Manipulation, I : qui vous ment et comment](./formations/detecter-le-mensonge.md) [Comment avoir du charisme](./formations/developper-son-charisme.md) [Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)](./formations/intelligence-relationnelle-2-les-secrets-du-pouvoir-apres-mi.md)
-
-> Le mécanisme central est celui de la **répartition inégale des rôles** dans la séduction et les relations. Les femmes disposent du pouvoir de sélection, les hommes doivent prouver. Mais ce pouvoir s'accompagne d'une responsabilité dans le choix — et d'une difficulté croissante à choisir quand les options sont nombreuses (ère numérique/delta).
+- Le phénomène #MeToo « lascive » : Édouard et Hugo analysent les tweets d'utilisatrices qui partagent des récits de relations toxiques au sein de couples lesbiens, se demandant si ces témoignages sont spontanés ou influencés par l'air du temps.
+- Le chantage affectif n'est pas genré : L'un des constats majeurs est que le chantage au rapport sexuel — traditionnellement imputé aux hommes — se retrouve symétriquement chez les femmes, remettant en question la vision essentialiste des dynamiques patriarcales.
+- L'algorithme comme filtre : La méthode d'analyse repose sur les tweets les plus relayés par l'algorithme, ce qui pose la question de la sincérité des récits face aux mécanismes viraux.
+- La « rente » de la souffrance : Édouard introduit le concept selon lequel la souffrance est devenue un capital symbolique monnayable sur les réseaux sociaux — les victimes reçoivent une audience éphémère qu'il faut préserver en évitant toute dilution du message.
+- L'exclusion masculine assumée : Plusieurs tweets indiquent une volonté manifeste d'exclure les hommes du mouvement, limitant ainsi le périmètre du débat.
+- Le niveau d'intérêt comme déterminant relationnel : Réapparaît ici une thèse défendue depuis 2005-2006 selon laquelle l'écart de niveau d'investissement émotionnel entre deux partenaires est la source principale de la souffrance relationnelle.
 
 ### Synthèse Twk5FXQKdeM : Sérotonine, Houellebecq et barbares — `Video-Twk5FXQKdeM-synthese`
 
-*Rattachement : 0.2573 · `podcasts/syntheses/Video-Twk5FXQKdeM-synthese.md`*
+*podcast · `Video-Twk5FXQKdeM-synthese.md`*
 
-> [Relations longues I : le vaccin anti obsession amoureuse](./formations/Couple Relations Longues/relation-longue.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/Intelligence Sociale/prendre-le-pouvoir.md) [Intelligence relationnelle, 2 : Les secrets du POUVOIR](./formations/prendre-le-pouvoir.md) [Relations longues I : le vaccin anti obsession amoureuse](./formations/relation-longue.md)
+- Sérotonine et neurobiologie : La sérotonine comme moléculeaffecte la contraction/dilatation, nous faisant sentir plus ou moins nécessaire, déprimé, utile, gay ou suicidaire.
+- Houellebecq comme sismographe : Analyse du livre "Sérotonine" - capacité à isoler des thèmes qui se cristalliseront dans les 3-5-10 ans à venir.
+- Théorie des barbares approfondie : 14 conclusions provisoires sur le barbare et son rapport à la hiérarchie, la technique, le sens, et l'intelligence.
+- Rite de passage masculin : La rupture amoureuse comme seul rite de passage restant pour les hommes en Occident. "Un téléphone qui ne sonne pas".
 
-> Thèmes principaux Sérotonine et neurobiologie** : La sérotonine comme moléculeaffecte la contraction/dilatation, nous faisant sentir plus ou moins nécessaire, déprimé, utile, gay ou suicidaire. Houellebecq comme sismographe** : Analyse du livre "Sérotonine" - capacité à isoler des thèmes qui se cristalliseront dans les 3-5-10 ans à venir. Théorie des barbares approfondie** : 14 conclusions provisoires sur le barbare et son rapport à la hiérarchie, la technique, le sens, et l'intelligence. Rite de passage masculin** : La rupture amoureuse comme seul rite de passage restant pour les hommes en Occident. "Un téléphone qui ne sonne pas".
+## Ses développements sur le sujet
 
-## Ses écrits sur ce thème (ancien site)
+### Synthèse : The brilliant idea from the creators of #Metoo to save the movement — oc4BrBlqyGE — `The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*« The-brilliant-idea-from-the-creators-of-#Metoo-to-save-the-movement-synthese.md » · origine : lien-declare*
 
-### Le 26 septembre 09, recevez les clefs du pouvoir — `web-actualite__3015_seminaire-pouvoir.html`
+> Le phénomène #MeToo « lascive » : Édouard et Hugo analysent les tweets d'utilisatrices qui partagent des récits de relations toxiques au sein de couples lesbiens, se demandant si ces témoignages sont spontanés ou influencés par l'air du temps.
 
-*Rattachement : 0.4376 · `sources-publiques/spikeseduction-archive/web-actualite__3015_seminaire-pouvoir.html.txt`*
+### Synthèse Twk5FXQKdeM : Sérotonine, Houellebecq et barbares — `Video-Twk5FXQKdeM-synthese`
 
-### Spike Séduction — `web-actualite__17352_femmes-journalistes-politiques.html`
+*« Video-Twk5FXQKdeM-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.3485 · `sources-publiques/spikeseduction-archive/web-actualite__17352_femmes-journalistes-politiques.html.txt`*
-
-### &laquo;&nbsp;Moi aussi, j&#8217;ai cru pouvoir faire le malin&nbsp;&raquo; — `web-ateliers-workshops-cours__3108_temoignage-relooking-etudiant.html`
-
-*Rattachement : 0.1698 · `sources-publiques/spikeseduction-archive/web-ateliers-workshops-cours__3108_temoignage-relooking-etudiant.html.txt`*
-
-### 3 avril 2010 : devenez intéressant (et apprenez à parler en public) — `web-actualite__4033_apprendre-parler-en-public.html`
-
-*Rattachement : 0.158 · `sources-publiques/spikeseduction-archive/web-actualite__4033_apprendre-parler-en-public.html.txt`*
-
-### 3 avril 2010 : devenez intéressant (et apprenez à parler en public) — `web-articles__4033_apprendre-parler-en-public.html`
-
-*Rattachement : 0.158 · `sources-publiques/spikeseduction-archive/web-articles__4033_apprendre-parler-en-public.html.txt`*
-
-## Points clés
-
-- _À compléter après analyse du contenu_
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- (2006) L'audace a du pouvoir, du g�nie et de la magie — `tierce-forum__2006-l-audace-a-du-pouvoir-du-genie-et-de-la-magie-vt1487.html` (rattachement 0.2566)
+> Sérotonine et neurobiologie : La sérotonine comme moléculeaffecte la contraction/dilatation, nous faisant sentir plus ou moins nécessaire, déprimé, utile, gay ou suicidaire.
 
 ---
 

@@ -4,15 +4,17 @@ titre: "Dégagez l’énergie d’un boxeur"
 categorie: "Seduction & Rencontres"
 categorie_brute: "Sedirection Rencontres"
 slug: "avoir-de-lenergie"
-slug_catalogue: "avoir-de-lenergie"
 url: "https://mat-consulting.fr/produit/avoir-de-lenergie/"
 statut: voix-ecrite
 mots_fiche: 3001
 mots_verbatim: 259
-mots_page_produit: 810
+mots_annonce: 435
+programme: 9
+sections_annonce: 5
+points_annonce: 2
+documents_materiau: 5
+idees_forces: 9
 citations: 0
-extraits_voix: 9
-tracklist: 9
 doublon_titre: non
 ---
 
@@ -20,44 +22,23 @@ doublon_titre: non
 
 **C129** · Seduction & Rencontres · 3001 mots
 
-## Ce que l'auteur a écrit sur cette formation
+## Le programme
 
-*Source : https://mat-consulting.fr/catalogue/avoir-de-lenergie/ — page produit mat-consulting.fr.*
+*Les chapitres du séminaire, dans l'ordre, avec les mots de l'auteur (tracklist de la page produit).*
 
-> produire, exploiter et dégager l'énergie
+1. Énergie et amour-propre
+2. L’énergie dans le groupe
+3. Le passage à l’action
+4. Les cercles vertueux énergétiques ( no bullshit intended)
+5. Les meilleures pratiques pour ne pas perdre en énergie tout au long de la journée
+6. Vous avez l’impression de faire tout ce qu’il faut pour être le meilleur vous-même mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
+7. Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l’impression que les autres s’entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
+8. Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l’impression que les « portes » qui vous auraient permis de le faire se referment quelques secondes avant que vous n’ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant
+9. Vous ne parlez jamais assez fort ? Etc. etc.
 
-### Le programme
+## L'annonce du séminaire, écrite par lui
 
-- Énergie et amour-propre
-- L’énergie dans le groupe
-- Le passage à l’action
-- Les cercles vertueux énergétiques ( no bullshit intended)
-- Les meilleures pratiques pour ne pas perdre en énergie tout au long de la journée
-- Vous avez l’impression de faire tout ce qu’il faut pour être le meilleur vous-même mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
-- Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l’impression que les autres s’entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
-- Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l’impression que les « portes » qui vous auraient permis de le faire se referment quelques secondes avant que vous n’ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant
-- Vous ne parlez jamais assez fort ? Etc. etc.
-
-### L'annonce du séminaire, écrite par lui
-
-Avis clients
-
-Comment avoir de l’énergie ? On dit qu’il n’y aurait pas de vérité(s) universelle(s) ; ou alors très peu. En plus de 10 ans j’ai tout de même eu l’occasion de faire un certain nombre de _constats_, constats transformés par le temps en _certitudes_, certitudes elles-mêmes transformées, par l’expérience et la réflexion, en _vérités_. Alors, je ne sais pas si la vérité qui suit est – ou non – universelle, mais en tout cas je ne lui connais aucune exception. _Aucune_ exception. Disons-le clairement et sans plus attendre.
-
-**Toute personne confrontée à une problématique de _charisme_ (au sens large) a toujours un problème de manque chronique d’énergie**
-
-- Vous avez l’impression de faire tout ce qu’il faut pour être le meilleur vous-même mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
-- Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l’impression que les autres s’entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
-- Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l’impression que les « portes » qui vous auraient permis de le faire se referment quelques secondes avant que vous n’ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant
-- Vous ne parlez jamais assez fort ? Etc. etc.
-
-Que ce manque d’énergie soit passager ou chronique, là n’est pas la question – du moins existe-t-il, et c’est bien là le problème. C’est tellement important que je vais le répéter :
-
-> **Problème à convaincre, à captiver = (dans 99,99999% des cas) problème d’énergie**
-
-D’où ce séminaire, dont vous avez tous déjà deviné le thème… Pas encore ? Le voici :
-
-## TOUT SUR L’ÉNERGIE
+*Page produit : https://mat-consulting.fr/catalogue/avoir-de-lenergie/ — 435 mots de sa prose.*
 
 ### LA CRÉER, LA NOURRIR, ET LA METTRE À PROFIT POUR ATTIRER LES AUTRES ET DÉCUPLER VOS RÉALISATIONS
 
@@ -75,6 +56,10 @@ Il m’a fallu du temps, mais j’ai «cracké» la formule des gens qui ont de 
 Il m’aura fallu plusieurs années d’observation, de compréhension, de lecture, de réflexion et de synthèse pour pouvoir déchiffrer ce « _c_ ode de vie » devenu « _m_ ode de vie » chez les gens qui parviennent, par leur énergie, à procurer aux autres tant de sensations agréables.
 
 Au cours de ce séminaire, avec l’habituelle volonté de _clarification_ et de _simplicité_ qui font le succès de ces séminaires, je mettrai pour la première fois ce code à votre portée. Pourquoi j’ai l’ai si enthousiaste ? Lisez la suite.
+
+
+- La mauvaise nouvelle : la réponse n’est pas simple
+- La bonne nouvelle : la réponse existe !
 
 ### Avoir de l’énergie c’est aussi entretenir l’énergie
 
@@ -94,7 +79,62 @@ Il y a quelques années, je lisais sur la couverture d’un _MensHealth_ que pou
 
 _\*un vrai_
 
-*Métadonnées de la page produit : 863 téléchargements.*
+
+- Dynamiser vos conversations
+- Augmenter votre degré de pouvoir
+- Augmenter votre degré d’influence sur les autres
+
+## La matière qu'il a lui-même déclarée
+
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
+
+### Synthèse – KmtLfLqyFXo — `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese`
+
+*podcast · `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese.md`*
+
+
+### Synthèse – Vidéoscopie By3rr1asx9w — `Dépenses-de-l'État-en-2024-dérapage-ou-pas-synthese`
+
+*podcast · `Dépenses-de-l'État-en-2024-dérapage-ou-pas-synthese.md`*
+
+- La question centrale : Les dépenses de l'État ont-elles dérapé en 2024 ?
+- Les annonces récentes : Aides d'urgence à la filière bio, chèque énergie, revalorisation salariale petite enfance, Ukraine (5 milliards)
+- La priorité : L'ordre des priorités suggéré par le rapporteur Husson est-il pertinent ?
+- Le contexte politique : Confrontation de l'ex-Premier ministre à son bilan
+
+### Synthèse — Vidéo MhbMzfYHG-Q — `L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese`
+
+*podcast · `L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese.md`*
+
+- Données de sécurité : moins de 10% des décès routiers ont lieu sur autoroute (54% en zone rurale, 38% en urbain). La vitesse n'est pas la cause principale — distraction, alcool, somnolence, absence de ceinture le sont.
+- Physique de l'énergie cinétique : calculs comparatifs (bille de paintball, balle de tennis, 22 LR, 357 Magnum, rugbyman, voiture à 130 km/h = 1 million de joules = 1000 rugbymen). Ce qui tue = arrêt trop brutal, pas la vitesse.
+- Argument écologique démenti : only 1-2% d'économie réelle (voire 0,1 litre) une fois les reports de trafic comptabilisés.
+- Politique : Elisabeth Bornel — mêmes lobbyistes qu'en 2015 (Vinci), mêmes mécanismes de soutien au transport aérien contre le rail.
+- Programme Edouard 2022 : formation de 48h au permis (maîtrise du véhicule + psychologie + conduite écologique), radars de distance, surfaces vitrées augmentées, interdiction des centres urbains aux véhicules >1 tonne, fast lanes covoiturage.
+
+### Synthèse – WOASKqF3xNA — `Video-WOASKqF3xNA-synthese`
+
+*podcast · `Video-WOASKqF3xNA-synthese.md`*
+
+
+### Synthèse : Video xDk6c-sODgg — xDk6c-sODgg — `Video-xDk6c-sODgg-synthese`
+
+*podcast · `Video-xDk6c-sODgg-synthese.md`*
+
+
+## Ses développements sur le sujet
+
+### Synthèse – Vidéoscopie By3rr1asx9w — `Dépenses-de-l'État-en-2024-dérapage-ou-pas-synthese`
+
+*« Dépenses-de-l'État-en-2024-dérapage-ou-pas-synthese.md » · origine : lien-declare*
+
+> La question centrale : Les dépenses de l'État ont-elles dérapé en 2024 ?
+
+### Synthèse — Vidéo MhbMzfYHG-Q — `L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese`
+
+*« L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese.md » · origine : lien-declare*
+
+> Données de sécurité : moins de 10% des décès routiers ont lieu sur autoroute (54% en zone rurale, 38% en urbain). La vitesse n'est pas la cause principale — distraction, alcool, somnolence, absence de ceinture le sont.
 
 ## Verbatim de l'auteur (fiche de formation)
 
@@ -110,90 +150,6 @@ _\*un vrai_
 > Que ce manque d'énergie soit passager
 > 
 > ---
-
-## Ce qu'il a dit sur ce thème (vidéoscopie)
-
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video r9xXxVtAxHE — `r9xXxVtAxHE`
-
-*Rattachement : 0.2111 · `podcasts/transcripts/final/r9xXxVtAxHE-transcript.md`*
-
-### Video Md7o5XPQuHE — `Md7o5XPQuHE`
-
-*Rattachement : 0.2093 · `podcasts/transcripts/final/Md7o5XPQuHE-transcript.md`*
-
-> Source**: https://www.youtube.com/watch?v=Md7o5XPQuHE Titre**: La CONFIANCE en SOI Partie 1/2 ! - Hommesdinfluence.com Note**: transcription issue des captions YouTube via Firecrawl ; ponctuation legere ajoutee (version brute dans `transcripts/Md7o5XPQuHE.md`).
-
-### Video -7uA56RNw3k — `-7uA56RNw3k`
-
-*Rattachement : 0.2079 · `podcasts/transcripts/final/-7uA56RNw3k-transcript.md`*
-
-### Video 4lz2qaRDGFU — `4lz2qaRDGFU`
-
-*Rattachement : 0.2058 · `podcasts/transcripts/final/4lz2qaRDGFU-transcript.md`*
-
-### Video F7a7VWOlznU — `F7a7VWOlznU`
-
-*Rattachement : 0.202 · `podcasts/transcripts/final/F7a7VWOlznU-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Cultive ta confiance en toi — `Cultive-ta-confiance-en-toi-synthese`
-
-*Rattachement : 0.4103 · `podcasts/syntheses/Cultive-ta-confiance-en-toi-synthese.md`*
-
-> Distinctions importantes Confiance en soi vs confiance dans les autres** : Deux choses distinctes — on peut avoir l'une sans l'autre. L'homme peut avoir confiance en ses capacités tout en se méfiant des autres. Apparence vs substance** : Une confiance affichée peut être une façade — la vraie confiance est plus discrète, plus modeste. Estime de soi vs confiance en soi** : L'estime de soi est globale (je suis quelqu'un de bien), la confiance en soi est spécifique à un domaine (je sais faire ça). Jolie ≠ confiant** : Ce n'est pas parce que tu es jolie que tu as confiance en toi — les filles jolis sont nombreuses à ne pas avoir confiance en elles.
-
-> L'orateur souligne que "ce n'est pas parce que tu es jolie que tu as confiance en toi" — la beauté ou le charisme ne sont pas des substitutes à la vraie confiance.
-
-### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
-
-*Rattachement : 0.2156 · `podcasts/syntheses/Faites-toujours-confiance-aux-femmes-synthese.md`*
-
-> 1. **Ne jamais accepter l'injonction de confiance aveugle** : La confiance se construit, ne se decree pas. Elle se mérite.
-
-> 9. La logique du scepticisme universel (Règle 10 : faire confiance) "Faire confiance aux femmes sans vérifier" est absurde : Le doute méthodique est une vertu universelle Stéphane vérifie l'information de toute source - homme ou femme La confiance ne doit pas être genrée
-
-### Synthèse : "Influenceurs" à l'Élysée — Ww4-NKUrOjw — `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese`
-
-*Rattachement : 0.1762 · `podcasts/syntheses/Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
-
-> [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [Communiquer avec ses proches](./formations/communiquer-avec-ses-proches.md) [Confiance en soi](./formations/confiance-en-soi.md)
-
-> Stratégie des "ambassadeurs" Analyse historique : en 1917-1918, 75 000 ambassadeurs/volontaires ont 750 000 discours de 4 minutes à 5 200 communautés, touchant 400 millions de personnes. Le recours aux influenceurs permet de contourner l'interdiction de publicité politique sur les réseaux sociaux (non comptabilisée par le CSA). L'effet de halo a ses limites : s'associer à une personnalité valorisée ne garantit pas un transfert de confiance automatique (exemple : 8% des électeurs de Maulnier en 2017 guidés par sa "personnalité").
-
-### Gaslighting : cette drôle manière d'abréger les femmes — `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese`
-
-*Rattachement : 0.16 · `podcasts/syntheses/Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
-
-> 3. **Consulter un tiers de confiance** : Un ami qui connaît la situation peut aider à maintenir la perspective. Attention : il faut quelqu'un de vraiment confiance, pas quelqu'un qui va prendre parti.
-
-> [Confiance en soi (apres-midi)](./formations/Intelligence Sociale/confiance-en-soi-apres-midi.md) [Confiance en soi (matin)](./formations/Intelligence Sociale/confiance-en-soi-matin.md) [Confiance en soi](./formations/Intelligence Sociale/confiance-en-soi.md) [La santé mentale – après-midi](./formations/Sante Mentale/mars-apm.md) [La santé mentale – matin](./formations/Sante Mentale/mars-matin.md) [Sauver sa santé mentale](./formations/Sante Mentale/sante-mentale.md) [Confiance en soi](./formations/confiance-en-soi.md) [La santé mentale – après-midi](./formations/la-sante-mentale.md) [Manipulation et Contrôle](./formations/manipulation-et-controle.md) [Sauver sa santé mentale](./formations/sante-mentale.md)
-
-## Ses écrits sur ce thème (ancien site)
-
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
-
-### Dégagez l&rsquo;énergie d&rsquo;un boxeur — `web-articles__6091_seduction-energie.html?preview=1`
-
-*Rattachement : 0.48 · `sources-publiques/spikeseduction-archive/web-articles__6091_seduction-energie.html?preview=1.txt`*
-
-### Confiance en soi et niveau d&#8217;énergie — `web-articles__1538_confiance-en-soi-2.html`
-
-*Rattachement : 0.4524 · `sources-publiques/spikeseduction-archive/web-articles__1538_confiance-en-soi-2.html.txt`*
-
-### 14 mai 2011 : la clef de l&#8217;énergie — `web-articles__6091_seduction-energie.html`
-
-*Rattachement : 0.4026 · `sources-publiques/spikeseduction-archive/web-articles__6091_seduction-energie.html.txt`*
-
-### Spike Séduction — `web-actualite__16835_seminaire-confiance-en-soi.html`
-
-*Rattachement : 0.3011 · `sources-publiques/spikeseduction-archive/web-actualite__16835_seminaire-confiance-en-soi.html.txt`*
-
-### Spike Séduction — `web-actualite__16835_seminaire-confiance-en-soi.html?preview=1`
-
-*Rattachement : 0.2955 · `sources-publiques/spikeseduction-archive/web-actualite__16835_seminaire-confiance-en-soi.html?preview=1.txt`*
 
 ---
 

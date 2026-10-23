@@ -4,15 +4,17 @@ titre: "Signes d'intérêt (après-midi)"
 categorie: "Seduction & Rencontres"
 categorie_brute: "Sedirection Rencontres"
 slug: "signes-interet-apres-midi"
-slug_catalogue: "signes-interet-apres-midi"
 url: "https://mat-consulting.fr/produit/signes-interet-apres-midi/"
 statut: reconstituee
 mots_fiche: 890
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 23
 citations: 0
-extraits_voix: 5
-tracklist: 0
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C179
@@ -24,77 +26,70 @@ confiance: 1.0
 
 **C177** · Seduction & Rencontres · 890 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
-### Video PYq13NLYF-0 — `PYq13NLYF-0`
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*Rattachement : 0.1263 · `podcasts/transcripts/final/PYq13NLYF-0-transcript.md`*
+*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
 
-> Stéphane Edouard décide de révéler les anecdotes mensongères publiées sur lui. Il dénonce la désinformation des journalistes de public et leur demande de corriger leurs articles. Il s'en prend à l'article de public qui reproduit des propos de Benoît Michaud sans les contextualiser. Stéphane Edouard revient sur l'émission de télé-réalité mariée au premier regard, dont il était expert, et commente les propos de Benoît Michaud. Stéphane Edouard estime que les journalistes de public ne font pas preuve de probité en publiant des articles mensongers. Il invite Valérie Salomon, directrice de publication de public, à corriger l'article en question pour rétablir la vérité. Stéphane Edouard invite ses followers à se poser la question de la probité des journalistes et de la directrice de publication de public.
+- Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+- Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
+- Mutisme sur sa propre vie sentimentale : Ses histoires vous resteront opaques, les questions recevant des réponses laconiques (« oui », « non »), quand elles ne sont pas simplement éludées.
+- Émotions disproportionnées : Des événements anodins la plongeront dans des pleurs inexpliqués, sans qu'aucune justification ne soit jamais offerte.
+- Insistance sur le contact physique : L'exigence de câlins entre hétérosexuels crée, selon l'orateur, une tension permanente liée aux « érections involontaires » — problème qu'il qualifie lui-même d'impossible à clarifier.
+- Traitement de « gendre potentiel » par sa famille : Lors des présentations familiales, les sous-entendus matrimoniaux deviennent explicites (remarques sur le « métissage », questions sur le baptême).
+- Fâcheries chronophages et disproportionnées : Des conflits mineurs (fenêtre ouverte oubliée sous la pluie) génèrent des bouderies de plusieurs jours, semaines, voire des reproches ressassés des années après.
 
-### Video yCgVt4zZejg — `yCgVt4zZejg`
+### SYNTHESE - 1EJbWzJtHS8 — `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese`
 
-*Rattachement : 0.1113 · `podcasts/transcripts/final/yCgVt4zZejg-transcript.md`*
+*podcast · `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md`*
 
-### Video -arsbMg7ZHM — `-arsbMg7ZHM`
+- L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
+- Première erreur : croire que les sentiments sont partagés automatiquement
+- Deuxième erreur : croire que la rupture est soudaine alors que c'est une lente descente
+- Le ressentiment vs retentissement : accumuler les petites blessures conduit à la rupture
+- L'absence d'empathie : partir du principe que ce qu'on ressent est réciproque
+- L'amour rend aveugle (faire l'autruche) - pour un homme, tomber amoureux c'est résoudre un problème
+- Critique de la victimisation : "tu n'es pas la cicatrice que t'a laissée ton ex"
+- *Lien avec formations** :
 
-*Rattachement : 0.1071 · `podcasts/transcripts/final/-arsbMg7ZHM-transcript.md`*
-
-### Video AfNMYWhL5iU — `AfNMYWhL5iU`
-
-*Rattachement : 0.1038 · `podcasts/transcripts/final/AfNMYWhL5iU-transcript.md`*
-
-### Émettre une critique constructive — `xbezr4jiiHE`
-
-*Rattachement : 0.1005 · `podcasts/transcripts/final/xbezr4jiiHE-transcript.md`*
-
-> 2. indiqué et je voudrais saluer fameuse hommes influents le niveau misogynie et des noms internat vous connaissez désormais le modus operandi de la chaîne d' influence de la chaîne de stéphane edouard christophe tu connais par coeur c'est toi qui fais les montages une vidéos d'actu une vidéo skopies et un conseil pratique voilà les conseils pratiques n'ont pas forcément ceux qui font l'audience la plus spectaculaire dans les premiers jours par contre ça fait des audiences de traîne car ce sont en
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Synthèse : Vidéo TAWOe8DlYNs (contenu tronqué) — `Video-TAWOe8DlYNs-synthese`
-
-*Rattachement : 0.409 · `podcasts/syntheses/Video-TAWOe8DlYNs-synthese.md`*
-
-### Synthèse : J'apprends à m'adresser à un.e prof.fe non-binaire (indice : ça finit par "ule") — `J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese`
-
-*Rattachement : 0.3313 · `podcasts/syntheses/J'apprends-à-m'adresser-à-un.e-prof.fe-non-binaire-(indice-ça-finit-par-ule)-synthese.md`*
-
-### Synthèse : 6QTtJmWoIGI — `Video-6QTtJmWoIGI-synthese`
-
-*Rattachement : 0.3103 · `podcasts/syntheses/Video-6QTtJmWoIGI-synthese.md`*
+> "On ne peut pas décrire correctement un problème si on n'a pas les bons mots — et ce garçon n'a pas encore les bons mots pour comprendre sa rupture."
 
 ### Synthèse – Vidéoscopie DU5A0W8vOwE — `L'embrayage-qui-crie-famine-depuis-des-mois-synthese`
 
-*Rattachement : 0.3009 · `podcasts/syntheses/L'embrayage-qui-crie-famine-depuis-des-mois-synthese.md`*
+*podcast · `L'embrayage-qui-crie-famine-depuis-des-mois-synthese.md`*
 
-> [Développement personnel, 2 : ON – NE – LÂCHE – RIEN](./formations/Sedirection Rencontres/resilience.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [Signes d'intérêt (matin)](./formations/Sedirection Rencontres/signes-interet-matin.md) [Le décodeur ultime de signes d'intérêts !](./formations/Sedirection Rencontres/signes-interet.md) [Développement personnel, 2 : ON – NE – LÂCHE – RIEN](./formations/developpement-personnel-2-on-ne-lache-rien.md) [Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER](./formations/developpement-personnel-2-tenacite-apprendre-a-ne-rien-lache.md) [Développement personnel, 2 : ON &#8211; NE &#8211; LÂCHE &#8211; RIEN](./formations/resilience.md) [Signes d&rsquo;intérêt (matin)](./formations/signes-drsquointeret.md) [Le décodeur ultime de signes d&rsquo;intérêts !](./formations/signes-interet.md)
+- La métaphore : Une voiture pas entretenue -> embrayage qui lâche
+- Le processus lent : Pas de rupture brutale mais négligence progressive
+- Les signes : Pas d'investissement, pas d'attention -> rupture perçue comme "brutale"
+- L'analogie : "On ne comprend pas ce qui se passe" alors que ça "hurle famine depuis des mois"
 
-## Ses écrits sur ce thème (ancien site)
+### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*podcast · `Video-_HLOLxJlxHI-synthese.md`*
 
-### 5 signes d&#8217;interêt d&#8217;une femme — `web-articles__1155_signes-interet.html`
 
-*Rattachement : 0.1856 · `sources-publiques/spikeseduction-archive/web-articles__1155_signes-interet.html.txt`*
+## Ses développements sur le sujet
 
-### Vidéo 2/3 : analysez votre timidité — `web-articles__seduction-debutants__11338_analysez-votre-timidite.html`
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*Rattachement : 0.1341 · `sources-publiques/spikeseduction-archive/web-articles__seduction-debutants__11338_analysez-votre-timidite.html.txt`*
+*« 7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md » · origine : lien-declare*
 
-### Spike Seduction — `web-articles__408_cette-fille-dans-le-metrosuite-reperer-ses-signes-dinteret.html`
+> Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
 
-*Rattachement : 0.1249 · `sources-publiques/spikeseduction-archive/web-articles__408_cette-fille-dans-le-metrosuite-reperer-ses-signes-dinteret.html.txt`*
+### SYNTHESE - 1EJbWzJtHS8 — `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese`
 
-### Spike Seduction — `web-articles__603_la-sociologie-du-dragueur-suite-en-video.html`
+*« Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md » · origine : lien-declare*
 
-*Rattachement : 0.117 · `sources-publiques/spikeseduction-archive/web-articles__603_la-sociologie-du-dragueur-suite-en-video.html.txt`*
+> L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
 
-### Spike Séduction — `web-articles__17494_podcast-all.html`
+### Synthèse – Vidéoscopie DU5A0W8vOwE — `L'embrayage-qui-crie-famine-depuis-des-mois-synthese`
 
-*Rattachement : 0.1155 · `sources-publiques/spikeseduction-archive/web-articles__17494_podcast-all.html.txt`*
+*« L'embrayage-qui-crie-famine-depuis-des-mois-synthese.md » · origine : lien-declare*
+
+> La métaphore : Une voiture pas entretenue -> embrayage qui lâche
 
 ---
 
@@ -129,13 +124,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C179`, en annonçant « reconstituée depuis C179 ». Jamais `C177` — la trace serait fausse.
-
-## La parole des participants
-
-*Forum et témoignages : c'est la voix de ceux qui ont suivi, **pas** la sienne. On ne la cite jamais comme citation de l'auteur.*
-
-- Spike Séduction — `tierce-actualite__450_exclusivite-la-video-de-spikeseduction.html` (rattachement 0.1426)
-- Vidéo 1/3 : évaluez votre timidité en 7 minutes — `tierce-articles__11298_evaluez-votre-timidite.html` (rattachement 0.1088)
 
 ---
 

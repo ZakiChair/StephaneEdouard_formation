@@ -4,15 +4,17 @@ titre: "Comprendre les gens (matin) Rattrapage de sociologie pour ceux qui ont p
 categorie: "Intelligence Sociale"
 categorie_brute: "Intelligence Sociale"
 slug: "comprendre-les-gens-matinrattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole"
-slug_catalogue: "comprendre-les-gens-matinrattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole"
 url: "https://mat-consulting.fr/produit/comprendre-les-gens-matinrattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole/"
 statut: reconstituee
 mots_fiche: 2467
 mots_verbatim: 0
-mots_page_produit: 0
+mots_annonce: 0
+programme: 0
+sections_annonce: 0
+points_annonce: 0
+documents_materiau: 4
+idees_forces: 10
 citations: 0
-extraits_voix: 10
-tracklist: 0
 doublon_titre: oui
 reconstitution: oui
 fiche_jumelle: C073
@@ -24,91 +26,53 @@ confiance: 1.0
 
 **C061** · Intelligence Sociale · 2467 mots
 
-## Ce qu'il a dit sur ce thème (vidéoscopie)
+## La matière qu'il a lui-même déclarée
 
-*Transcriptions YouTube du corpus, passages verbatim rattachés par le vocabulaire du thème. L'identifiant du fichier est donné.*
-
-### Video Twk5FXQKdeM — `Twk5FXQKdeM`
-
-*Rattachement : 0.2135 · `podcasts/transcripts/final/Twk5FXQKdeM-transcript.md`*
-
-### Les PROGRESSISTES seront les COCUS du monde qu'ils auront EUX-MÊMES érigé — `OO904JaBWys`
-
-*Rattachement : 0.2122 · `podcasts/transcripts/final/OO904JaBWys-transcript.md`*
-
-> 66. c'est comme ça donc tu vas chercher ton chez quiétude celui-ci est-il une raison non je le sens non c'est dans mon adn c'est dans la souffrance intérieure je le sens c'est pas discutable ensuite je sens que nicolo derrière la caméra doit à nouveau faire allonger c'est pas dans son contrat mais je le sens je sens que vous nous avez un pouce pour nouri tribus et de cette vidéo je sens que vous devriez vous abonner à la chaîne si vous en voulez d'autres et je sens également et surtout que vous
-
-> 65. d'être harcelée sur des réseaux sociaux alors que ceux qui n'ont pas ça détruit leur vie ça s'est un peu manichéen peu à peu bébête pour pas mal de personnes quand on parle de parole de la victime on ne parle plus de récits ou parle de ressenti j'ai ressenti que machin un machine m'a coupé la jambe peu importe ce que machine a objectivement fait tu ressens que quelqu'un de la zombie alors pour conclure moi je sens plusieurs choses d'abord je sens que aura me dois de l'argent à bon ben je le sens
-
-> 48. un vocifère ce ministre américaine josh freeman employer le mot trash shing pour dénoncer dès les années 70 cette forme de sabotage de réputation manipulatrice malhonnête excessive destiné à dénigrer détruire imagine que la quelqu'un ou quelqu'une en 30 minutes pondent que tu aurais tenu des propos d'accord machin sens sans preuve sans lien et c'est que cent mille personnes 85,6 unsa que sa part dit d'un ton employeur et que ça décide que jusqu'à la fin de ta vie tu ne travailleras plus jamais
-
-### Video ABaGrL_kdu8 — `ABaGrL_kdu8`
-
-*Rattachement : 0.2095 · `podcasts/transcripts/final/ABaGrL_kdu8-transcript.md`*
-
-### Video LfkvDekiWus — `LfkvDekiWus`
-
-*Rattachement : 0.1935 · `podcasts/transcripts/final/LfkvDekiWus-transcript.md`*
-
-### Video etJeJuWOwYI — `etJeJuWOwYI`
-
-*Rattachement : 0.1896 · `podcasts/transcripts/final/etJeJuWOwYI-transcript.md`*
-
-## Ce qu'il a dit sur ce thème (podcasts)
-
-### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
-
-*Rattachement : 0.5482 · `podcasts/syntheses/Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
-
-> 1. La formule beauté + intelligence + disponibilité = constante Cette équation constitue le cœur de l'analyse. Elle signifie que : Quand quelqu'un possède les trois qualités (beauté, intelligence, disponibilité), cette personne devient automatiquement plus accessible aux autres Cette accessibilité accrue la rend également plus "volatile" sur le marché relationnel Les personnes qui cumulent ces trois attributs sont généralement celles qui attirent le plus mais aussi celles qui restent le moins longtemps disponibles
-
-> 2. La disponibilité comme concept à double sens Le mot "disponibilité" doit être compris dans deux sens : Sens littéral** : avoir du temps libre, être accessible Sens figuré (vacances)** : au sens de "vaquer à ses occupations" - c'est-à-dire avoir une vie propre, des intérêts, unpropre
-
-### Synthèse – Vidéoscopie AfNMYWhL5iU — `Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese`
-
-*Rattachement : 0.4026 · `podcasts/syntheses/Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese.md`*
-
-> [Comprendre les gens (apres-midi) Rattrapage de sociologie pour ceux qui ont pris](./formations/Intelligence Sociale/comprendre-les-gens-apres-midirattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole.md) [Comprendre les gens (matin) Rattrapage de sociologie pour ceux qui ont pris math](./formations/Intelligence Sociale/comprendre-les-gens-matinrattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole.md) [Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l'é](./formations/Intelligence Sociale/lire-dans-les-pensees.md) [Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l&r](./formations/lire-dans-les-pensees.md)
-
-> Points clés L'autosatisfaction** : "Stéphane et Edouard, tout leur contenu c'est dire 'j'ai raison depuis 15 ans'" L'effet de rattrapage** : Ce n'est pas un exploitsuprême de pointer du doigt un "bug civilisationnel" quand tout le monde peut le voir Le parallèle historique** : L'homme qui a compris que la Terre était ronde avant tout le monde a été traité d'hérétique Le constat** : "Les peuples deviennent fous, les dirigeants sont fous depuis longtemps"
-
-### Synthèse — Vidéo M2-I4Ewy40U — `A-Dive-into-the-Brain-of-a-Child-Woman-synthese`
-
-*Rattachement : 0.3134 · `podcasts/syntheses/A-Dive-into-the-Brain-of-a-Child-Woman-synthese.md`*
-
-> [Comprendre les gens (apres-midi) Rattrapage de sociologie pour ceux qui ont pris](./formations/Intelligence Sociale/comprendre-les-gens-apres-midirattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole.md) [Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l'é](./formations/Intelligence Sociale/lire-dans-les-pensees.md) [La résilience](./formations/la-resilience.md) [Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l&r](./formations/lire-dans-les-pensees.md)
-
-> Conclusion L'analyse met en lumière une mécanique sociale où l'injonctif à la femme-enfant de performer pour le regard masculin crée une incapacité à l'effort autonome. La double morale est structurelle.
+*Ces documents portent une section « Formations et fiches liées » qui désigne explicitement cette formation : c'est l'auteur qui a indexé sa propre matière. Les idées fortes et le verdict sont extraits de ces documents.*
 
 ### Synthèse : Islamo-Gauchisme - Fermons les facs de sociologie — `#IslamoGauchisme-let's-start-by-closing-the-sociology-faculties-synthese`
 
-*Rattachement : 0.2939 · `podcasts/syntheses/#IslamoGauchisme-let's-start-by-closing-the-sociology-faculties-synthese.md`*
+*podcast · `#IslamoGauchisme-let's-start-by-closing-the-sociology-faculties-synthese.md`*
 
-> [Comprendre les gens (apres-midi) Rattrapage de sociologie pour ceux qui ont pris](./formations/Intelligence Sociale/comprendre-les-gens-apres-midirattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole.md) [Comprendre les gens (matin) Rattrapage de sociologie pour ceux qui ont pris math](./formations/Intelligence Sociale/comprendre-les-gens-matinrattrapage-de-sociologie-pour-ceux-qui-ont-pris-maths-a-l-ecole.md) [Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l'é](./formations/Intelligence Sociale/lire-dans-les-pensees.md) [Comprendre les gens. Rattrapage de sociologie pour ceux qui ont pris maths à l&r](./formations/lire-dans-les-pensees.md)
 
-## Ses écrits sur ce thème (ancien site)
+### Synthèse – Vidéoscopie AfNMYWhL5iU — `Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese`
 
-*Archive de son site personnel, restitué par la Wayback Machine. C'est bien sa plume.*
+*podcast · `Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese.md`*
 
-### Voyage dans le monde de la psycho-sociologie : comprendre les gens | Spike Séduction — `web-actualite__19022_comprendre-les-gens.html`
+- L'autosatisfaction : "Stéphane et Edouard, tout leur contenu c'est dire 'j'ai raison depuis 15 ans'"
+- L'effet de rattrapage : Ce n'est pas un exploitsuprême de pointer du doigt un "bug civilisationnel" quand tout le monde peut le voir
+- Le parallèle historique : L'homme qui a compris que la Terre était ronde avant tout le monde a été traité d'hérétique
+- Le constat : "Les peuples deviennent fous, les dirigeants sont fous depuis longtemps"
 
-*Rattachement : 0.1944 · `sources-publiques/spikeseduction-archive/web-actualite__19022_comprendre-les-gens.html.txt`*
+### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-### Commandez le séminaire &laquo;&nbsp;intelligence sociale&nbsp;&raquo; — `web-actualite__4843_intelligence-sociale.html?preview=1`
+*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
-*Rattachement : 0.17 · `sources-publiques/spikeseduction-archive/web-actualite__4843_intelligence-sociale.html?preview=1.txt`*
 
-### Faut-il dire la vérité aux enfants (sur les relations hommes-femmes) ? — `web-articles__seduction-avance__11471_declaration-amour-enfant.html`
+### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*Rattachement : 0.1645 · `sources-publiques/spikeseduction-archive/web-articles__seduction-avance__11471_declaration-amour-enfant.html.txt`*
+*podcast · `Video-vvh8wAYHRBw-synthese.md`*
 
-### Spike Séduction — `web-articles__11471_declaration-amour-enfant.html`
+- L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
+- La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
+- Le platonique n'est pas interprétable : Les rendez-vous sans consommation ne permettent aucune déduction quant aux intentions ou à la compatibilité réelle du couple.
+- La première nuit comme déclencheur analytique : C'est uniquement après la consommation sexuelle que le mécanisme de réflexion féminine s'enclenche véritablement.
+- L'écart d'âge de 18 ans : Si l'absence de désir d'enfants rend la chose viable, l'écart reste significatif et impose de clarifier les attentes mutuelles.
+- La responsabilité individuelle comme prérequis méthodologique : Édouard insiste sur l'importance d'endosser sa part de contribution dans une situation plutôt que de se victimiser.
 
-*Rattachement : 0.1628 · `sources-publiques/spikeseduction-archive/web-articles__11471_declaration-amour-enfant.html.txt`*
+## Ses développements sur le sujet
 
-### Spike Séduction — `web-actualite__18220_comprendre-les-gens.html`
+### Synthèse – Vidéoscopie AfNMYWhL5iU — `Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese`
 
-*Rattachement : 0.16 · `sources-publiques/spikeseduction-archive/web-actualite__18220_comprendre-les-gens.html.txt`*
+*« Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese.md » · origine : lien-declare*
+
+> L'autosatisfaction : "Stéphane et Edouard, tout leur contenu c'est dire 'j'ai raison depuis 15 ans'"
+
+### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
+
+*« Video-vvh8wAYHRBw-synthese.md » · origine : lien-declare*
+
+> L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 
 ---
 
