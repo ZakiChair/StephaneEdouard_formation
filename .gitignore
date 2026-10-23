@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+
+# Sauvegardes de travail (jamais versionnees)
+_BACKUP_*/
+_SAUVEGARDE_*/
+*.bak
+*.tmp
+*.log
+
+# Dependance optionnelle
+node_modules/

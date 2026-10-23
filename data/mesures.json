@@ -1,0 +1,860 @@
+{
+ "comptes": {
+  "transcripts_total": 407,
+  "transcripts_fr": 376,
+  "transcripts_trad_auto": 17,
+  "transcripts_non_transcripts": 14,
+  "trad_auto_marqueur_total": 18,
+  "syntheses": 343,
+  "fiches_formation": 369,
+  "fiches_couche1": 83,
+  "fiches_couche2_plus_stubs": 286,
+  "stubs_payants": 101,
+  "livres": 99,
+  "archive_pages": 1059,
+  "archive_tierce": 497,
+  "archive_pdf": 8,
+  "archive_mots": 1187405,
+  "archive_tierce_mots": 151405,
+  "catalogue_mat_consulting": 187,
+  "quarantaine_pages_sans_panneau": 7,
+  "dossiers": {
+   "podcasts/transcripts/final": {
+    "fichiers": 731,
+    "mots": 2341125
+   },
+   "podcasts/syntheses": {
+    "fichiers": 343,
+    "mots": 134883
+   },
+   "formations": {
+    "fichiers": 369,
+    "mots": 908691
+   },
+   "livres": {
+    "fichiers": 110,
+    "mots": 34564
+   },
+   "podcasts/recaps": {
+    "fichiers": 2,
+    "mots": 627
+   },
+   "suggestions-de-livres": {
+    "fichiers": 3,
+    "mots": 3705
+   },
+   "controverses": {
+    "fichiers": 2,
+    "mots": 244
+   },
+   "podcasts/episodes": {
+    "fichiers": 1,
+    "mots": 124
+   },
+   "sources-publiques/mat-consulting-catalogue": {
+    "fichiers": 188,
+    "mots": 1220588
+   },
+   "sources-publiques/pages-archivees": {
+    "fichiers": 9,
+    "mots": 1544
+   },
+   "sources-publiques/spikeseduction-archive": {
+    "fichiers": 1566,
+    "mots": 1425042
+   },
+   "sources-publiques/vaincrelatimidite.fr": {
+    "fichiers": 37,
+    "mots": 5059
+   },
+   "TOTAL": {
+    "fichiers": 3361,
+    "mots": 6076196
+   }
+  }
+ },
+ "couches": {
+  "couche1_verbatim": 83,
+  "couche2_redigee_sans_section": 185,
+  "stub_section_paywall": 101,
+  "total": 369,
+  "canon_layer1": 75,
+  "canon_layer2": 264,
+  "canon_layer0_stub": 30
+ },
+ "registres": {
+  "R1_oral": {
+   "registre": "R1 ORAL (transcripts FR)",
+   "note": "le flux de l'auteur : videoscopie, podcasts",
+   "fichiers": 376,
+   "mots": 2105621,
+   "vous": 21365,
+   "tu": 21604,
+   "ratio_vous_tu": 0.99,
+   "phrases": 69560,
+   "phrase_mediane": 15.0,
+   "phrase_moyenne": 30.2,
+   "phrase_p90": 91,
+   "part_phrases_le_8_mots": 26.0,
+   "questions": 5187,
+   "part_questions": 7.46,
+   "tics": {
+    "c'est pas": {
+     "n": 847,
+     "per_1k": 0.4
+    },
+    "en gros": {
+     "n": 249,
+     "per_1k": 0.12
+    },
+    "d'ailleurs": {
+     "n": 1445,
+     "per_1k": 0.69
+    },
+    "evidemment": {
+     "n": 1377,
+     "per_1k": 0.65
+    },
+    "du coup": {
+     "n": 679,
+     "per_1k": 0.32
+    },
+    "bref": {
+     "n": 460,
+     "per_1k": 0.22
+    },
+    "c'est-a-dire": {
+     "n": 1285,
+     "per_1k": 0.61
+    },
+    "par contre": {
+     "n": 996,
+     "per_1k": 0.47
+    },
+    "au fait": {
+     "n": 88,
+     "per_1k": 0.04
+    },
+    "bah": {
+     "n": 1231,
+     "per_1k": 0.58
+    },
+    "en vrai": {
+     "n": 50,
+     "per_1k": 0.02
+    },
+    "faut": {
+     "n": 3369,
+     "per_1k": 1.6
+    },
+    "en realite": {
+     "n": 410,
+     "per_1k": 0.19
+    },
+    "tu vas": {
+     "n": 589,
+     "per_1k": 0.28
+    },
+    "le mec": {
+     "n": 355,
+     "per_1k": 0.17
+    },
+    "voila": {
+     "n": 3581,
+     "per_1k": 1.7
+    },
+    "je te dis un truc": {
+     "n": 1,
+     "per_1k": 0.0
+    },
+    "et voila": {
+     "n": 149,
+     "per_1k": 0.07
+    },
+    "un petit": {
+     "n": 2704,
+     "per_1k": 1.28
+    },
+    "en effet": {
+     "n": 44,
+     "per_1k": 0.02
+    }
+   },
+   "fichiers_total": 407,
+   "traductions_auto_exclues": 17,
+   "non_transcripts_exclus": 14,
+   "mots_total": 2239321,
+   "mots_fr": 2105621,
+   "retenus_plus_1500_mots": 335,
+   "mots_retenus_plus_1500": 2085887,
+   "reperes": {
+    "c'est pas": {
+     "n": 842,
+     "per_1k": 0.4
+    },
+    "d'ailleurs": {
+     "n": 1442,
+     "per_1k": 0.69
+    },
+    "bah": {
+     "n": 1219,
+     "per_1k": 0.58
+    },
+    "en gros": {
+     "n": 246,
+     "transcripts": 133,
+     "per_1k": 0.12
+    },
+    "evidemment": {
+     "n": 1364,
+     "per_1k": 0.65
+    },
+    "c'est-a-dire": {
+     "n": 1279,
+     "per_1k": 0.61
+    },
+    "par contre": {
+     "n": 987,
+     "per_1k": 0.47
+    },
+    "du coup": {
+     "n": 673,
+     "per_1k": 0.32
+    },
+    "bref": {
+     "n": 453,
+     "per_1k": 0.22
+    },
+    "au fait": {
+     "n": 88,
+     "per_1k": 0.04
+    },
+    "videoscopie": {
+     "n": 319,
+     "transcripts": 117,
+     "per_1k": 0.15
+    },
+    "tonton stephane": {
+     "n": 196,
+     "transcripts": 105,
+     "per_1k": 0.09
+    },
+    "je te dis un truc": {
+     "n": 1,
+     "transcripts": 1,
+     "per_1k": 0.0
+    },
+    "portez-vous bien": {
+     "n": 11,
+     "transcripts": 11,
+     "per_1k": 0.01
+    },
+    "ne faisiez pas les cons": {
+     "n": 9,
+     "transcripts": 9,
+     "per_1k": 0.0
+    },
+    "merci encore a toi": {
+     "n": 10,
+     "transcripts": 10,
+     "per_1k": 0.0
+    },
+    "le mec": {
+     "n": 322,
+     "transcripts": 137,
+     "per_1k": 0.15
+    },
+    "tu vas": {
+     "n": 584,
+     "transcripts": 178,
+     "per_1k": 0.28
+    },
+    "je ne dis pas que": {
+     "n": 45,
+     "transcripts": 33,
+     "per_1k": 0.02
+    },
+    "et c'est la que ca coince": {
+     "n": 0,
+     "transcripts": 0,
+     "per_1k": 0.0
+    },
+    "c'est rigolo mais": {
+     "n": 0,
+     "transcripts": 0,
+     "per_1k": 0.0
+    },
+    "motif_cest_pas_transcripts": 251,
+    "motif_cest_pas_pct_transcripts": 74.9,
+    "chaine_nue_cest_pas": 2686,
+    "chaine_nue_cest_pas_per_1k": 1.29
+   }
+  },
+  "R1b_oral_1500": {
+   "registre": "R1b ORAL (transcripts FR > 1500 mots)",
+   "note": "sous-ensemble fort : le denominateur historique de la persona",
+   "fichiers": 335,
+   "mots": 2085887,
+   "vous": 20931,
+   "tu": 21484,
+   "ratio_vous_tu": 0.97,
+   "phrases": 68489,
+   "phrase_mediane": 15,
+   "phrase_moyenne": 30.4,
+   "phrase_p90": 91,
+   "part_phrases_le_8_mots": 26.0,
+   "questions": 5053,
+   "part_questions": 7.38,
+   "tics": {
+    "c'est pas": {
+     "n": 842,
+     "per_1k": 0.4
+    },
+    "en gros": {
+     "n": 246,
+     "per_1k": 0.12
+    },
+    "d'ailleurs": {
+     "n": 1442,
+     "per_1k": 0.69
+    },
+    "evidemment": {
+     "n": 1364,
+     "per_1k": 0.65
+    },
+    "du coup": {
+     "n": 673,
+     "per_1k": 0.32
+    },
+    "bref": {
+     "n": 453,
+     "per_1k": 0.22
+    },
+    "c'est-a-dire": {
+     "n": 1279,
+     "per_1k": 0.61
+    },
+    "par contre": {
+     "n": 987,
+     "per_1k": 0.47
+    },
+    "au fait": {
+     "n": 88,
+     "per_1k": 0.04
+    },
+    "bah": {
+     "n": 1219,
+     "per_1k": 0.58
+    },
+    "en vrai": {
+     "n": 50,
+     "per_1k": 0.02
+    },
+    "faut": {
+     "n": 3344,
+     "per_1k": 1.6
+    },
+    "en realite": {
+     "n": 410,
+     "per_1k": 0.2
+    },
+    "tu vas": {
+     "n": 584,
+     "per_1k": 0.28
+    },
+    "le mec": {
+     "n": 354,
+     "per_1k": 0.17
+    },
+    "voila": {
+     "n": 3548,
+     "per_1k": 1.7
+    },
+    "je te dis un truc": {
+     "n": 1,
+     "per_1k": 0.0
+    },
+    "et voila": {
+     "n": 149,
+     "per_1k": 0.07
+    },
+    "un petit": {
+     "n": 2684,
+     "per_1k": 1.29
+    },
+    "en effet": {
+     "n": 42,
+     "per_1k": 0.02
+    }
+   }
+  },
+  "R2_ecrit_verbatim": {
+   "registre": "R2 ECRIT verbatim (couche 1)",
+   "note": "voix ecrite de l'auteur : page produit mat-consulting.fr",
+   "fichiers": 83,
+   "mots": 20497,
+   "vous": 531,
+   "tu": 53,
+   "ratio_vous_tu": 10.02,
+   "phrases": 751,
+   "phrase_mediane": 19,
+   "phrase_moyenne": 27.2,
+   "phrase_p90": 58,
+   "part_phrases_le_8_mots": 20.8,
+   "questions": 154,
+   "part_questions": 20.51,
+   "tics": {
+    "d'ailleurs": {
+     "n": 2,
+     "per_1k": 0.1
+    },
+    "evidemment": {
+     "n": 4,
+     "per_1k": 0.2
+    },
+    "du coup": {
+     "n": 2,
+     "per_1k": 0.1
+    },
+    "bref": {
+     "n": 11,
+     "per_1k": 0.54
+    },
+    "c'est-a-dire": {
+     "n": 3,
+     "per_1k": 0.15
+    },
+    "au fait": {
+     "n": 1,
+     "per_1k": 0.05
+    },
+    "faut": {
+     "n": 28,
+     "per_1k": 1.37
+    },
+    "en realite": {
+     "n": 1,
+     "per_1k": 0.05
+    },
+    "voila": {
+     "n": 6,
+     "per_1k": 0.29
+    },
+    "et voila": {
+     "n": 1,
+     "per_1k": 0.05
+    },
+    "un petit": {
+     "n": 1,
+     "per_1k": 0.05
+    }
+   }
+  },
+  "R3_redige_llm": {
+   "registre": "R3 REDIGE par LLM (couche 2 + stubs)",
+   "note": "doctrine reconstituee - PAS la voix",
+   "fichiers": 286,
+   "mots": 582062,
+   "vous": 1951,
+   "tu": 1882,
+   "ratio_vous_tu": 1.04,
+   "phrases": 21855,
+   "phrase_mediane": 19,
+   "phrase_moyenne": 26.6,
+   "phrase_p90": 46,
+   "part_phrases_le_8_mots": 13.4,
+   "questions": 692,
+   "part_questions": 3.17,
+   "tics": {
+    "d'ailleurs": {
+     "n": 2,
+     "per_1k": 0.0
+    },
+    "du coup": {
+     "n": 89,
+     "per_1k": 0.15
+    },
+    "bref": {
+     "n": 3,
+     "per_1k": 0.01
+    },
+    "faut": {
+     "n": 410,
+     "per_1k": 0.7
+    },
+    "en realite": {
+     "n": 91,
+     "per_1k": 0.16
+    },
+    "tu vas": {
+     "n": 1,
+     "per_1k": 0.0
+    },
+    "le mec": {
+     "n": 196,
+     "per_1k": 0.34
+    },
+    "voila": {
+     "n": 6,
+     "per_1k": 0.01
+    },
+    "un petit": {
+     "n": 8,
+     "per_1k": 0.01
+    }
+   },
+   "dont_stubs": 101,
+   "dont_sans_section": 185
+  },
+  "R4_fond_archive": {
+   "registre": "R4 ECRIT DE FOND (ancien site de l'auteur)",
+   "note": "blog + actualites de l'auteur : registre 3",
+   "fichiers": 1059,
+   "mots": 1187405,
+   "vous": 23563,
+   "tu": 5315,
+   "ratio_vous_tu": 4.43,
+   "phrases": 46577,
+   "phrase_mediane": 19,
+   "phrase_moyenne": 25.4,
+   "phrase_p90": 50,
+   "part_phrases_le_8_mots": 16.7,
+   "questions": 7206,
+   "part_questions": 15.47,
+   "tics": {
+    "c'est pas": {
+     "n": 1,
+     "per_1k": 0.0
+    },
+    "en gros": {
+     "n": 58,
+     "per_1k": 0.05
+    },
+    "d'ailleurs": {
+     "n": 29,
+     "per_1k": 0.02
+    },
+    "evidemment": {
+     "n": 299,
+     "per_1k": 0.25
+    },
+    "du coup": {
+     "n": 106,
+     "per_1k": 0.09
+    },
+    "bref": {
+     "n": 362,
+     "per_1k": 0.3
+    },
+    "c'est-a-dire": {
+     "n": 15,
+     "per_1k": 0.01
+    },
+    "par contre": {
+     "n": 124,
+     "per_1k": 0.1
+    },
+    "au fait": {
+     "n": 48,
+     "per_1k": 0.04
+    },
+    "bah": {
+     "n": 50,
+     "per_1k": 0.04
+    },
+    "en vrai": {
+     "n": 27,
+     "per_1k": 0.02
+    },
+    "faut": {
+     "n": 1648,
+     "per_1k": 1.39
+    },
+    "en realite": {
+     "n": 85,
+     "per_1k": 0.07
+    },
+    "soyons lucides": {
+     "n": 1,
+     "per_1k": 0.0
+    },
+    "tu vas": {
+     "n": 78,
+     "per_1k": 0.07
+    },
+    "le mec": {
+     "n": 83,
+     "per_1k": 0.07
+    },
+    "voila": {
+     "n": 294,
+     "per_1k": 0.25
+    },
+    "et voila": {
+     "n": 19,
+     "per_1k": 0.02
+    },
+    "un petit": {
+     "n": 209,
+     "per_1k": 0.18
+    },
+    "en effet": {
+     "n": 133,
+     "per_1k": 0.11
+    }
+   },
+   "pdfs": 8,
+   "mots_pdf": 16369,
+   "pdf_liste": [
+    {
+     "fichier": "pdf-10erreurs.txt",
+     "mots": 3178
+    },
+    {
+     "fichier": "pdf-110924-parler-de-soi-photointro.txt",
+     "mots": 22
+    },
+    {
+     "fichier": "pdf-110924-parler-de-soi-shema1.txt",
+     "mots": 155
+    },
+    {
+     "fichier": "pdf-GSE-sommaire-version-essentielle.txt",
+     "mots": 347
+    },
+    {
+     "fichier": "pdf-GSE-version-gratuite.txt",
+     "mots": 8915
+    },
+    {
+     "fichier": "pdf-HIFI-QUESTIONNAIRE.txt",
+     "mots": 317
+    },
+    {
+     "fichier": "pdf-best-of.txt",
+     "mots": 44
+    },
+    {
+     "fichier": "pdf-comment-se-faire-draguer-sur-FB.txt",
+     "mots": 3391
+    }
+   ],
+   "par_section": {
+    "actualite": {
+     "pages": 257,
+     "mots": 220824
+    },
+    "articles": {
+     "pages": 716,
+     "mots": 915734
+    },
+    "ateliers-workshops-cours": {
+     "pages": 86,
+     "mots": 50847
+    }
+   },
+   "top_pages": [
+    {
+     "mots": 7414,
+     "fichier": "web-articles__seduction-debutants__16137_elle-dit-le-contraire-de-ce-quelle-pense.html.txt"
+    },
+    {
+     "mots": 5984,
+     "fichier": "web-articles__seduction-avance__5268_sortir-de-la-solitude.html.txt"
+    },
+    {
+     "mots": 5772,
+     "fichier": "web-articles__seduction-debutants__16074_drague-trop-de-theorie-pas-assez-de-pratique.html.txt"
+    },
+    {
+     "mots": 5764,
+     "fichier": "web-articles__10740_cours-seduction-exemples.html.txt"
+    },
+    {
+     "mots": 5757,
+     "fichier": "web-articles__17278_normal-vs-original.html.txt"
+    },
+    {
+     "mots": 5602,
+     "fichier": "web-articles__11471_declaration-amour-enfant.html.txt"
+    },
+    {
+     "mots": 5580,
+     "fichier": "web-articles__seduction-fondamentaux__17686_beaute-appretement.html.txt"
+    },
+    {
+     "mots": 5542,
+     "fichier": "web-articles__10806_ne-pas-sortir-filles-de-lest.html.txt"
+    },
+    {
+     "mots": 5515,
+     "fichier": "web-articles__10399_changer-de-vie-ou-habiter.html.txt"
+    },
+    {
+     "mots": 5353,
+     "fichier": "web-articles__seduction-avance__15754_francais-arme-fatale-seduction.html.txt"
+    },
+    {
+     "mots": 5314,
+     "fichier": "web-articles__www.spikeseduction.com__articles__124_first-date-par-blusher-1ere-partie.html.txt"
+    },
+    {
+     "mots": 4974,
+     "fichier": "web-articles__17183_5-profils-psycho-masculins.html.txt"
+    },
+    {
+     "mots": 4790,
+     "fichier": "web-articles__seduction-avance__14207_adultere-savoir-si-trompe.html.txt"
+    },
+    {
+     "mots": 4784,
+     "fichier": "web-articles__16730_saimer-soi-meme-reponse.html.txt"
+    },
+    {
+     "mots": 4360,
+     "fichier": "web-articles__15536_343-salauds.html.txt"
+    },
+    {
+     "mots": 4360,
+     "fichier": "web-actualite__15536_343-salauds.html.txt"
+    },
+    {
+     "mots": 4347,
+     "fichier": "web-articles__16851_interview-dunia-miralles.html.txt"
+    },
+    {
+     "mots": 4318,
+     "fichier": "web-articles__seduction-avance__17183_5-profils-psycho-masculins.html.txt"
+    },
+    {
+     "mots": 4303,
+     "fichier": "web-articles__seduction-avance__16070_hollande-femmes.html.txt"
+    },
+    {
+     "mots": 4293,
+     "fichier": "web-articles__18279_rencontre-uber-2.html.txt"
+    },
+    {
+     "mots": 4222,
+     "fichier": "web-articles__16527_tinder.html.txt"
+    },
+    {
+     "mots": 4218,
+     "fichier": "web-articles__seduction-fondamentaux__17089_plaire-en-societe.html.txt"
+    },
+    {
+     "mots": 4174,
+     "fichier": "web-articles__11765_quel-geek-etes-vous.html.txt"
+    },
+    {
+     "mots": 4063,
+     "fichier": "web-articles__seduction-avance__15733_une-belle-voiture-attire-t-elle-les-femmes.html.txt"
+    },
+    {
+     "mots": 4034,
+     "fichier": "web-articles__11074_vraie-psychologie-femmes-1-low-self-esteem.html.txt"
+    }
+   ]
+  },
+  "R5_tierce_archive": {
+   "registre": "R5 SOURCES TIERCES (temoignages + forum)",
+   "note": "la parole des participants : PAS la voix de l'auteur",
+   "fichiers": 497,
+   "mots": 151405,
+   "vous": 1045,
+   "tu": 1150,
+   "ratio_vous_tu": 0.91,
+   "phrases": 5992,
+   "phrase_mediane": 18.0,
+   "phrase_moyenne": 25.2,
+   "phrase_p90": 49,
+   "part_phrases_le_8_mots": 16.4,
+   "questions": 852,
+   "part_questions": 14.22,
+   "tics": {
+    "c'est pas": {
+     "n": 10,
+     "per_1k": 0.07
+    },
+    "en gros": {
+     "n": 16,
+     "per_1k": 0.11
+    },
+    "d'ailleurs": {
+     "n": 52,
+     "per_1k": 0.34
+    },
+    "evidemment": {
+     "n": 27,
+     "per_1k": 0.18
+    },
+    "du coup": {
+     "n": 25,
+     "per_1k": 0.17
+    },
+    "bref": {
+     "n": 52,
+     "per_1k": 0.34
+    },
+    "c'est-a-dire": {
+     "n": 12,
+     "per_1k": 0.08
+    },
+    "par contre": {
+     "n": 29,
+     "per_1k": 0.19
+    },
+    "au fait": {
+     "n": 7,
+     "per_1k": 0.05
+    },
+    "bah": {
+     "n": 12,
+     "per_1k": 0.08
+    },
+    "en vrai": {
+     "n": 18,
+     "per_1k": 0.12
+    },
+    "faut": {
+     "n": 167,
+     "per_1k": 1.1
+    },
+    "en realite": {
+     "n": 7,
+     "per_1k": 0.05
+    },
+    "tu vas": {
+     "n": 13,
+     "per_1k": 0.09
+    },
+    "le mec": {
+     "n": 8,
+     "per_1k": 0.05
+    },
+    "voila": {
+     "n": 39,
+     "per_1k": 0.26
+    },
+    "et voila": {
+     "n": 1,
+     "per_1k": 0.01
+    },
+    "un petit": {
+     "n": 29,
+     "per_1k": 0.19
+    },
+    "en effet": {
+     "n": 14,
+     "per_1k": 0.09
+    }
+   },
+   "par_section": {
+    "actualite": 39,
+    "articles": 38,
+    "ateliers-workshops-cours": 32,
+    "forum": 388
+   }
+  }
+ }
+}

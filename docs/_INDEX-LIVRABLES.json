@@ -1,0 +1,102 @@
+[
+ {
+  "fichier": "00-EMPREINTE-VOIX-MESUREE.md",
+  "mots": 3067,
+  "sha256": "4d6a2b1b1f2e"
+ },
+ {
+  "fichier": "01-CADRE-PRUDENCE-FACTUELLE.md",
+  "mots": 1546,
+  "sha256": "dc8e9d9b1012"
+ },
+ {
+  "fichier": "02-PERSONA-STEphane.md",
+  "mots": 2623,
+  "sha256": "2d6ee6ec91f2"
+ },
+ {
+  "fichier": "10-carte-conceptuelle.md",
+  "mots": 24140,
+  "sha256": "26b99e07ccef"
+ },
+ {
+  "fichier": "11-corpus-A.md",
+  "mots": 15665,
+  "sha256": "59e58379f92d"
+ },
+ {
+  "fichier": "12-corpus-B.md",
+  "mots": 15516,
+  "sha256": "1cfc9c90e239"
+ },
+ {
+  "fichier": "13-corpus-C.md",
+  "mots": 16114,
+  "sha256": "350bd8572d7b"
+ },
+ {
+  "fichier": "14-corpus-D.md",
+  "mots": 14503,
+  "sha256": "eba60abba439"
+ },
+ {
+  "fichier": "15-audit-referentiel.md",
+  "mots": 9621,
+  "sha256": "6e48577a44ac"
+ },
+ {
+  "fichier": "16-doctrine-ecrite-bibliotheque.md",
+  "mots": 15880,
+  "sha256": "555726ca6c30"
+ },
+ {
+  "fichier": "17-couche2-formations-redigees.md",
+  "mots": 137066,
+  "sha256": "1b12781bbd0e"
+ },
+ {
+  "fichier": "18-taxonomie-oppositions.md",
+  "mots": 5292,
+  "sha256": "9ede790660a5"
+ },
+ {
+  "fichier": "19-couche1-voix-ecrite.md",
+  "mots": 5157,
+  "sha256": "70f8d5342bb6"
+ },
+ {
+  "fichier": "20-index-canonique-fiches.md",
+  "mots": 9376,
+  "sha256": "0d6f8a1cd076"
+ },
+ {
+  "fichier": "21-formations-reconstituees.md",
+  "mots": 40800,
+  "sha256": "20c7a4462f3f"
+ },
+ {
+  "fichier": "22-contenu-gratuit-web.md",
+  "mots": 4983,
+  "sha256": "2881c4d38525"
+ },
+ {
+  "fichier": "23-sources-publiques-veille.md",
+  "mots": 892,
+  "sha256": "ba1632966d3d"
+ },
+ {
+  "fichier": "24-sites-dedies-auteur.md",
+  "mots": 4075,
+  "sha256": "037dfb0a080b"
+ },
+ {
+  "fichier": "25-pages-archivees.md",
+  "mots": 1463,
+  "sha256": "9201943326c3"
+ },
+ {
+  "fichier": "26-ancien-site-auteur.md",
+  "mots": 1037,
+  "sha256": "44e161b03533"
+ }
+]

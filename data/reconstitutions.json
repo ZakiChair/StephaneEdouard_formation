@@ -1,0 +1,961 @@
+[
+ {
+  "cid": "C004",
+  "title": "Enfer du salariat (apres-midi)",
+  "jumelle": "C005",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C009",
+  "title": "Like a boss, 1: Devenir INDISPENSABLE au travail (apres-midi)",
+  "jumelle": "C007",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C010",
+  "title": "Like a boss, 1: Devenir INDISPENSABLE au travail (matin)",
+  "jumelle": "C007",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C011",
+  "title": "Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (après midi)",
+  "jumelle": "C016",
+  "mode": "theme",
+  "score": 0.62
+ },
+ {
+  "cid": "C012",
+  "title": "Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)",
+  "jumelle": "C016",
+  "mode": "theme",
+  "score": 0.83
+ },
+ {
+  "cid": "C013",
+  "title": "Like a boss, 3: Seduire et fideliser ses clients A VIE (après midi)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.43
+ },
+ {
+  "cid": "C014",
+  "title": "Like a boss, 3: Seduire et fideliser ses clients A VIE (matin)",
+  "jumelle": "C006",
+  "mode": "theme",
+  "score": 0.6
+ },
+ {
+  "cid": "C018",
+  "title": "Ameliorer sa voix (avec une chanteuse professionnelle) (apres-midi)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.2
+ },
+ {
+  "cid": "C019",
+  "title": "Ameliorer sa voix (avec une chanteuse professionnelle) (matin)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.2
+ },
+ {
+  "cid": "C023",
+  "title": "100 jours pour la rendre amoureuse (apres-midi)",
+  "jumelle": "C026",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C024",
+  "title": "100 jours pour la rendre amoureuse (matin)",
+  "jumelle": "C026",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C027",
+  "title": "Les couples ne fonctionnent plus – matin",
+  "jumelle": "C003",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C028",
+  "title": "Les couples ne fonctionnent plus – après-midi",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.4
+ },
+ {
+  "cid": "C029",
+  "title": "Survivre à la ROUTINE du couple (après midi)",
+  "jumelle": "C025",
+  "mode": "theme",
+  "score": 0.6
+ },
+ {
+  "cid": "C030",
+  "title": "Survivre à la ROUTINE du couple (matin)",
+  "jumelle": "C025",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C032",
+  "title": "Rester seduisant en couple (apres-midi)",
+  "jumelle": "C034",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C033",
+  "title": "Rester seduisant en couple (matin)",
+  "jumelle": "C034",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C037",
+  "title": "Le bonheur – matin",
+  "jumelle": "C038",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C039",
+  "title": "Fabriquer sa chance (apres-midi)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.0
+ },
+ {
+  "cid": "C040",
+  "title": "Fabriquer sa chance (matin)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.0
+ },
+ {
+  "cid": "C041",
+  "title": "L'amant idéal, 2 (après-midi)",
+  "jumelle": "C042",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C044",
+  "title": "Développe ta force mentale (après-midi)",
+  "jumelle": "C239",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C045",
+  "title": "Développe ta force mentale (matin)",
+  "jumelle": "C239",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C046",
+  "title": "Le bonheur – après-midi",
+  "jumelle": "C071",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C048",
+  "title": "À mort la procrastination (après-midi)",
+  "jumelle": "C190",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C049",
+  "title": "À mort la procrastination (matin)",
+  "jumelle": "C190",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C053",
+  "title": "Une motivation en beton (apres-midi)",
+  "jumelle": "C047",
+  "mode": "theme",
+  "score": 0.5
+ },
+ {
+  "cid": "C054",
+  "title": "Une motivation en beton (matin)",
+  "jumelle": "C047",
+  "mode": "theme",
+  "score": 0.5
+ },
+ {
+  "cid": "C055",
+  "title": "Comprendre les gens, 2 (après-midi)",
+  "jumelle": "C057",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C056",
+  "title": "Comprendre les gens, 2 (matin)",
+  "jumelle": "C057",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C058",
+  "title": "Comment avoir du charisme (apres-midi)",
+  "jumelle": "C066",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C059",
+  "title": "Comment avoir du charisme (matin)",
+  "jumelle": "C066",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C060",
+  "title": "Comprendre les gens (apres-midi) Rattrapage de sociologie pour ceux qui ont pris maths a l ecole",
+  "jumelle": "C073",
+  "mode": "theme",
+  "score": 0.89
+ },
+ {
+  "cid": "C061",
+  "title": "Comprendre les gens (matin) Rattrapage de sociologie pour ceux qui ont pris maths à l'école",
+  "jumelle": "C073",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C062",
+  "title": "Confiance en soi (apres-midi)",
+  "jumelle": "C064",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C063",
+  "title": "Confiance en soi (matin)",
+  "jumelle": "C064",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C067",
+  "title": "Discernement – après-midi",
+  "jumelle": "C071",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C068",
+  "title": "Discernement – matin",
+  "jumelle": "C069",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C078",
+  "title": "Formations — Stéphane Édouard",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.33
+ },
+ {
+  "cid": "C082",
+  "title": "Logique de l'Homme (après-midi)",
+  "jumelle": "C084",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C083",
+  "title": "Logique de l'Homme (matin)",
+  "jumelle": "C084",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C086",
+  "title": "L'amant idéal, 2 : faire jouir une femme (matin)",
+  "jumelle": "C042",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C089",
+  "title": "Les jeunes filles, 1: Decoder les attentes feminines (apres-midi)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.2
+ },
+ {
+  "cid": "C090",
+  "title": "Les jeunes filles, 1: Decoder les attentes feminines (matin)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.2
+ },
+ {
+  "cid": "C091",
+  "title": "Les jeunes filles, 2: Plus de RENCONTRES, maintenant! (après midi)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.29
+ },
+ {
+  "cid": "C092",
+  "title": "Les jeunes filles, 2: Plus de RENCONTRES, maintenant! (matin)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.4
+ },
+ {
+  "cid": "C093",
+  "title": "Logique des femmes (apres-midi)",
+  "jumelle": "C081",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C094",
+  "title": "Logique des femmes II (apres-midi)",
+  "jumelle": "C081",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C095",
+  "title": "Logique des femmes II (matin)",
+  "jumelle": "C081",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C096",
+  "title": "Logique des femmes (matin)",
+  "jumelle": "C081",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C098",
+  "title": "Au secours, mon chef est une femme (/un homme) – apres-midi",
+  "jumelle": "C100",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C099",
+  "title": "Au secours, mon chef est une femme (/un homme) – matin",
+  "jumelle": "C100",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C102",
+  "title": "Premier rendez-vous (apres-midi)10 scenarii parfaits",
+  "jumelle": "C101",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C103",
+  "title": "Premier rendez-vous (matin) 10 scenarii parfaits",
+  "jumelle": "C101",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C104",
+  "title": "Rencontre (enfin) une fille bien ! (après-midi)",
+  "jumelle": "C106",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C105",
+  "title": "Rencontre (enfin) une fille bien ! (matin)",
+  "jumelle": "C106",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C114",
+  "title": "Intelligence relationnelle, 1: Doubler son RESEAU (après-midi)",
+  "jumelle": "C071",
+  "mode": "theme",
+  "score": 0.5
+ },
+ {
+  "cid": "C115",
+  "title": "Intelligence relationnelle, 1: Doubler son RESEAU (matin)",
+  "jumelle": "C071",
+  "mode": "theme",
+  "score": 0.5
+ },
+ {
+  "cid": "C116",
+  "title": "Intelligence sociale online (apres-midi) Internet, reseaux, applications",
+  "jumelle": "C113",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C117",
+  "title": "Intelligence sociale online (matin) Internet, reseaux, applications",
+  "jumelle": "C113",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C119",
+  "title": "L art delicat de la connexion (apres-midi)",
+  "jumelle": "C112",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C120",
+  "title": "L art delicat de la connexion (matin)",
+  "jumelle": "C112",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C124",
+  "title": "La santé mentale – après-midi",
+  "jumelle": "C269",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C125",
+  "title": "La santé mentale – matin",
+  "jumelle": "C126",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C130",
+  "title": "Entouré pour réussir (après-midi)",
+  "jumelle": "C121",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C131",
+  "title": "Entouré pour réussir (matin)",
+  "jumelle": "C121",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C133",
+  "title": "Briser la glace (apres-midi)",
+  "jumelle": "C127",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C134",
+  "title": "Briser la glace (matin)",
+  "jumelle": "C127",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C135",
+  "title": "Ce que vos parents auraient du vous apprendre (apres-midi)",
+  "jumelle": "C139",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C136",
+  "title": "Ce que vos parents auraient du vous apprendre (matin)",
+  "jumelle": "C139",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C140",
+  "title": "Développement personnel, 1: Decupler sa CREATIVITE (après midi)",
+  "jumelle": "C240",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C141",
+  "title": "Développement personnel, 1: Decupler sa CREATIVITE (matin)",
+  "jumelle": "C240",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C142",
+  "title": "Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER",
+  "jumelle": "C163",
+  "mode": "theme",
+  "score": 0.5
+ },
+ {
+  "cid": "C144",
+  "title": "Ebook et audio",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.0
+ },
+ {
+  "cid": "C145",
+  "title": "Ebook seul",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.0
+ },
+ {
+  "cid": "C146",
+  "title": "Ce qu'il est URGENT d'apprendre à vos (futurs ?) enfants – après-midi",
+  "jumelle": "C148",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C147",
+  "title": "Ce qu'il est URGENT d'apprendre à vos (futurs ?) enfants – matin",
+  "jumelle": "C148",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C151",
+  "title": "Get a life (apres-midi)",
+  "jumelle": "C137",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C152",
+  "title": "Get a life (matin)",
+  "jumelle": "C137",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C155",
+  "title": "La peur (apres-midi) La supporter, l affronter, la vaincre",
+  "jumelle": "C184",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C156",
+  "title": "La peur (matin) La supporter, l affronter, la vaincre",
+  "jumelle": "C184",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C158",
+  "title": "Briller en ligne (après-midi)",
+  "jumelle": "C183",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C159",
+  "title": "Briller en ligne (matin)",
+  "jumelle": "C183",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C164",
+  "title": "Se construire une garde robe complete (apres-midi)",
+  "jumelle": "C138",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C165",
+  "title": "Se construire une garde robe complete (matin)",
+  "jumelle": "C138",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C168",
+  "title": "Se reconstruire apres une blessure (ce qui ne te tue pas te rend plus fort) (apres-midi)",
+  "jumelle": "C170",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C169",
+  "title": "Se reconstruire apres une blessure (ce qui ne te tue pas te rend plus fort) (matin)",
+  "jumelle": "C170",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C171",
+  "title": "Simplifiez-vous la vie ! (webinaire court et impactant, 2h « seulement »)",
+  "jumelle": "C349",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C172",
+  "title": "Secret agenda (apres-midi)",
+  "jumelle": "C174",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C173",
+  "title": "Secret agenda (matin)",
+  "jumelle": "C174",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C175",
+  "title": "Seduire bureau – ecole (apres-midi)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.0
+ },
+ {
+  "cid": "C176",
+  "title": "Seduire bureau – ecole (matin)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.0
+ },
+ {
+  "cid": "C177",
+  "title": "Signes d'intérêt (après-midi)",
+  "jumelle": "C179",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C178",
+  "title": "Signes d'intérêt (matin)",
+  "jumelle": "C179",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C180",
+  "title": "Small talk (badinage) (apres-midi)",
+  "jumelle": "C182",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C181",
+  "title": "Small talk (badinage) (matin)",
+  "jumelle": "C182",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C187",
+  "title": "Changez d'image (apres-midi)",
+  "jumelle": "C186",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C188",
+  "title": "Changez d'image (matin)",
+  "jumelle": "C186",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C209",
+  "title": "Catalogue des Formations",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.0
+ },
+ {
+  "cid": "C225",
+  "title": "Comprendre les gens, 2 (matin)",
+  "jumelle": "C057",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C234",
+  "title": "Cultivez votre INTELLIGENCE ÉMOTIONNELLE",
+  "jumelle": "C070",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C241",
+  "title": "Développement personnel, 2 : ON – NE – LÂCHE – RIEN",
+  "jumelle": "C163",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C242",
+  "title": "Développement personnel, 2: Tenacite: apprendre a ne RIEN LACHER",
+  "jumelle": "C163",
+  "mode": "theme",
+  "score": 0.5
+ },
+ {
+  "cid": "C246",
+  "title": "Discernement – matin",
+  "jumelle": "C069",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C247",
+  "title": "DOUBLE ton RÉSEAU",
+  "jumelle": "C123",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C251",
+  "title": "Entouré pour réussir (matin)",
+  "jumelle": "C121",
+  "mode": "theme",
+  "score": 0.67
+ },
+ {
+  "cid": "C260",
+  "title": "Intelligence relationnelle, 1: Doubler son RESEAU (matin)",
+  "jumelle": "C071",
+  "mode": "theme",
+  "score": 0.5
+ },
+ {
+  "cid": "C261",
+  "title": "Intelligence relationnelle, 2: Les secrets du POUVOIR (après midi)",
+  "jumelle": "C071",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C262",
+  "title": "Intelligence relationnelle, 2: Les secrets du POUVOIR (matin)",
+  "jumelle": "C071",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C270",
+  "title": "Langage des hommes",
+  "jumelle": "C087",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C274",
+  "title": "Le bonheur : 7 techniques pour être heureux et surfer la vie",
+  "jumelle": "C038",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C275",
+  "title": "Le bonheur – matin",
+  "jumelle": "C038",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C277",
+  "title": "Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures LIKE A BOSS",
+  "jumelle": "C003",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C279",
+  "title": "Le décodeur ultime de signes d&rsquo;intérêts !",
+  "jumelle": "C179",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C286",
+  "title": "Les couples ne fonctionnent plus – matin",
+  "jumelle": "C003",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C287",
+  "title": "Les jeunes filles, 2: Plus de RENCONTRES, maintenant! (matin)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.4
+ },
+ {
+  "cid": "C289",
+  "title": "Like a boss, 2: Des presentations (ecrites et orales) qui TUENT (matin)",
+  "jumelle": "C016",
+  "mode": "theme",
+  "score": 0.83
+ },
+ {
+  "cid": "C290",
+  "title": "Like a boss, 2 : des presentations (écrites et orales) qui TUENT",
+  "jumelle": "C016",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C291",
+  "title": "Like a boss, 3: Seduire et fideliser ses clients A VIE (après midi)",
+  "jumelle": null,
+  "mode": "none",
+  "score": 0.43
+ },
+ {
+  "cid": "C292",
+  "title": "Like a boss, 3: Seduire et fideliser ses clients A VIE (matin)",
+  "jumelle": "C006",
+  "mode": "theme",
+  "score": 0.6
+ },
+ {
+  "cid": "C294",
+  "title": "Logique de l&rsquo;Homme (matin)",
+  "jumelle": "C084",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C295",
+  "title": "Logique des hommes – le côté obscur de H pur",
+  "jumelle": "C084",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C297",
+  "title": "L&rsquo;amant, 2",
+  "jumelle": "C042",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C298",
+  "title": "L&rsquo;amant idéal, 2 : faire jouir une femme (matin)",
+  "jumelle": "C042",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C299",
+  "title": "L&rsquo;amant idéal, 2 (après-midi)",
+  "jumelle": "C042",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C300",
+  "title": "L&rsquo;école des hommes",
+  "jumelle": "C088",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C313",
+  "title": "Où / quand / comment rencontrer une fille bien",
+  "jumelle": "C106",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C318",
+  "title": "Plus de rencontres",
+  "jumelle": "C162",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C327",
+  "title": "Rencontre (enfin) une fille bien ! (matin)",
+  "jumelle": "C106",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C330",
+  "title": "Reçois ton La Furia© dédicacé !",
+  "jumelle": "C154",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C333",
+  "title": "Sauver sa santé mentale",
+  "jumelle": "C126",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C345",
+  "title": "Signes d&rsquo;intérêt (matin)",
+  "jumelle": "C179",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C348",
+  "title": "Simplifiez-vous la vie ! (webinaire court et impactant, 2h « seulement »)",
+  "jumelle": "C349",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C353",
+  "title": "S&rsquo;entourer pour réussir, ou le secret des affinités électives",
+  "jumelle": "C121",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C358",
+  "title": "Survivre à la ROUTINE du couple (matin)",
+  "jumelle": "C025",
+  "mode": "theme",
+  "score": 1.0
+ },
+ {
+  "cid": "C359",
+  "title": "Survivre aux mensonges du nouveau monde (le discernement)",
+  "jumelle": "C069",
+  "mode": "base-URL",
+  "score": 1.0
+ },
+ {
+  "cid": "C366",
+  "title": "Vivre avec la procrastination",
+  "jumelle": "C050",
+  "mode": "base-URL",
+  "score": 1.0
+ }
+]
