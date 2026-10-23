@@ -9,7 +9,7 @@ url: "https://mat-consulting.fr/catalogue/like-a-boss-3-seduire-et-fideliser-ses
 statut: reconstituee
 mots_fiche: 2111
 mots_verbatim: 0
-mots_page_produit: 256
+mots_page_produit: 227
 citations: 0
 extraits_voix: 20
 tracklist: 4
@@ -252,11 +252,6 @@ SIRET 49852947800014
 
  
  Ce logo signifie que l’intégralité du site est en http S et que toutes vos commandes sont donc sécurisées à la perfection
-
----
-
-*Source : Wayback Machine, capture du produit mat-consulting.fr « like-a-boss-3-seduire-et-fideliser-ses-clients-a-vie » (la page du site vivant a été retirée).*
-*Avis clients sur la page archivée : 0 (tierce).*
 
 ## Ce qu'il a dit sur ce thème (vidéoscopie)
 
