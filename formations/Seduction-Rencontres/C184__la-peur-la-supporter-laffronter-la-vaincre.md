@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 17
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -221,12 +222,15 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 
 ### Développe ta force mentale et prépare-toi aux combats de la vie — `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese`
 
-*podcast · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
+*podcast / vidéoscopie · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – Vidéoscopie nLD30feel6k — `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese`
 
-*podcast · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+*podcast / vidéoscopie · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
 - La respiration : Dark Vador hors caméra - le souffle nerveux trahit la vrai nature
@@ -235,13 +239,15 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 
 ### Synthèse : The Circus of "A-Gendered" Children on TV — `The-Circus-of-A-Gendered-Children-on-TV-synthese`
 
-*podcast · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
+*podcast / vidéoscopie · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Vaincre la peur — `Vaincre-la-peur-synthese`
 
-*podcast · `Vaincre-la-peur-synthese.md`*
+*podcast / vidéoscopie · `Vaincre-la-peur-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -250,6 +256,55 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 *« France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md » · origine : lien-declare*
 
 > Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+L’anecdote du mois Contrairement à ce que propage la fémininisation depuis 30 ans avec ses « c’est beau un homme qui pleure », je vous déconseille sérieusement de prendre au mot cette idée reçue, au risque de passer pour une belle fiotte. Je le sais, je l’ai fait. Bon, j’avais mes raisons (j’étais très, très déçu de… 
+
+Read More
+
+---
+
+### Points clés
+
+1. L’anecdote du mois
+Contrairement à ce que propage la fémininisation depuis 30 ans avec ses « c’est beau un homme qui pleure », je vous déconseille sérieusement de prendre au mot cette idée reçue, au risque de passer pour une belle fiotte
+2. Bon, j’avais mes raisons (j’étais très, très déçu de quelque chose ou plutôt de quelqu’un) mais n’empêche, j’ai été très con
+3. Je m’en suis vertement voulu, mais de tout échec il faut tirer leçon, et c’est ce que j’ai fait
+4. FLASHBACK : LA PEUR EST LA NORME DE L’ENFANT
+Quand on était enfant – même l’enfant de deux parents normaux qui vous nourrissent, vous chérissent, vous protègent et vous aiment, on avait souvent peur
+5. Peur de l’extérieur, principalement, c’est-à-dire des univers excentrés au-delà des limites de leur champ de surveillance
+6. La régence du monde par d’autres adultes, dont nous n’étions pas l’unique source de préoccupation, s’imposait à nous par une implacable succession de comparaisons en notre défaveur
+7. Ces «autres» adultes qui remplissaient le monde entier étaient plus grands, plus imposants, leurs voix plus lourdes et menaçantes, leurs connaissances plus exactes, leur pouvoir de punition plus prompt
+8. Nous ne les défiions qu’à de rares occasions, mis hors de nous par ce qui nous semblait alors, dans nos yeux d’enfants, une insoutenable injustice
+9. Et cela se terminait généralement avec quelques hurlements bien sentis, une gifle ou deux, et une privation de liberté (ie le fameux  «va dans ta chambre»)
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

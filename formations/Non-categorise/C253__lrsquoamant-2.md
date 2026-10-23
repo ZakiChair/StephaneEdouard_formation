@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 2
 documents_materiau: 4
+pages_developpement: 3
 idees_forces: 5
 citations: 0
 doublon_titre: oui
@@ -78,12 +79,15 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 
 ### Elle voulait le confort, elle a eu l'ennui — Étude de cas — `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le choix : Confort matériel immédiat vs. individuation à long terme.
 - Le mécanisme : "Abandon consenti de souveraineté" — sacrifice de l'ambition personnelle sur l'autel de la sécurité.
@@ -93,13 +97,15 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 
 ### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
 
-*podcast · `Video-_HLOLxJlxHI-synthese.md`*
+*podcast / vidéoscopie · `Video-_HLOLxJlxHI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*podcast · `Video-mFySAh0g-MI-synthese.md`*
+*podcast / vidéoscopie · `Video-mFySAh0g-MI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -108,6 +114,140 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 *« Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md » · origine : lien-declare*
 
 > Le choix : Confort matériel immédiat vs. individuation à long terme.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire &laquo;&nbsp;L&rsquo;amant idéal&nbsp;&raquo;
+
+*`web-actualite__5665_sexe-devenir-amant-ideal.html?preview=1.txt` · 1360 mots · archive de l'auteur*
+
+Comment devenir un bon amant
+Commandez le séminaire
+« L’amant idéal »
+Commandez le séminaire
+« L’amant idéal »
+Video:preview séminaire sexe - devenir un bon coup
+Référence :
+sexe - amant ideal
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+avoir eu quelques expériences sexuelles
+Objectifs :
+découvrir et mettre à profit les spécificités de la psychologie féminine pour booster son plaisir sexuel et l'envie de vous faire plaisir
+Durée totale :
+2h26mn
+Taille du fichier :
+69,6Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Etre sexué
+Le 4 septembre dernier, le séminaire
+«être sexué»
+démarrait la sixième saison des séminaires SpikeSéduction, la 2010/2011. Dans une salle comble, avec l’un de mes séminaires qui m’a procuré le plus de plaisir à dispenser, notamment parce que dans la salle, au fond à droite, je distinguais la tête un peu ahurie de mon ex patron venue voir ce que son ex «employé» faisait de ses soirées. Ou plutôt de ses journées, en l’occurrence, puisque nous inaugurions par la même occasion les séminaires en après-midi (14h-17h au lieu de 20h-23h).
+Il semblerait que mon plaisir ait été communicatif puisque, en cumulant présence en salle et commandes des enregistrements mp3, ce séminaire détient toujours le record absolu d’auditeurs, avec plusieurs centaines d’entre vous qui désormais savent ce qu’adopter un comportement sexué signifie. Merci de votre fidélité, et félicitations pour avoir compris que
+vous
+êtes la seule personne sur qui vous pouvez investir avec un rendement de 100%. Plus fort qu’un lingot d’or.
+Un seul
+(conn)aître
+vous manque...
+Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
+confident
+, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’
+
+### Dégagez l&rsquo;énergie d&rsquo;un boxeur
+
+*`web-articles__6091_seduction-energie.html?preview=1.txt` · 1132 mots · archive de l'auteur*
+
+L'importance de l'énergie dans la séduction
+Dégagez l’énergie d’un boxeur
+Dégagez l’énergie d’un boxeur
+Video:preview séminaire dégagez l'énergie d'un boxeur
+Référence :
+énergie
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+produire et dégager plus d'énergie afin d'inspirer confiance et de devenir plus séduisant
+Durée totale :
+2h14mn
+Taille du fichier :
+55 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+L'amant idéal
+Etre sexué
+Il parait qu’il n’y a pas de vérité(s) universelle(s) ; ou alors très peu. En 5 années de Spike Séduction, j’ai tout de même eu l’occasion de faire un certain nombre de
+constats
+, constats transformés par le temps en
+certitudes
+, certitudes elles-mêmes transformées, par l’expérience et la réflexion, en
+vérités
+. Alors, je ne sais pas si la vérité qui suit est - ou non - universelle, mais en tout cas je ne lui connais aucune exception.
+Aucune
+exception en 5 ans et plusieurs centaines d’ateliers et de séminaires, avouez que «ça cause». Disons-le clairement et sans plus attendre.
+Tout garçon/homme confronté à une problématique de séduction est toujours (toujours) confronté à une problématique de manque d’énergie
+Vous avez l'impression de faire tout ce qu'il faut pour être séduisant mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant.
+Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l'impression que les autres s'entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant.
+Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l'impression que les "portes" qui vous auraient permis de le faire se referment quelques secondes avant que vous n'ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant
+Vous ne parlez jamais assez fort ? Etc. etc.
+Que ce manque d'énergie soit passager ou chronique, là n’est pas la question - du 
+
+### Premier rendez-vous : les 16 erreurs et pièges à éviter (si vous voulez qu&rsquo;il y en ait un second) | Spike S&eacute;duction
+
+*`web-articles__913_premier-rendez-vous.html__2.txt` · 1677 mots · archive de l'auteur*
+
+Suite du premier épisode (les 16 erreurs et pièges du premier rendez-vous à éviter sous peine de ne jamais en voir un second), par Alexandre,
+coach séduction
+Au menu :
+pourquoi éviter les
+restaurants
+comment déceler les rendez-vous à problèmes,
+partir au bon moment,
+parce que ce n’est pas la peine de sortir tous les soirs…
+si c’est pour planter tous vos rendez-vous en beauté.
+6/ Point de repas, tu ne feras…
+Quand on cale son
+premier rendez-vous
+vers les 20h-21h, il peut être tentant même pour un premier, dans l’emportement, de proposer un dîner, convaincu d’avoir ‘enfin’ trouvé la perle rare… Ne commettez pas cette erreur ! Alors oui, j’entends déjà d’ici certains dire :
+Moi, ça a marché, j’ai rencontré Josiane devant une choucroute au
+pied de cochon
+à Strasbourg !
+Alors, bien sûr que oui que ça
+peut
+marcher et marchera si votre rendez-vous est réellement intéressante et intéressée, mais combien de
+non
+intéressante et
+non
+intéressées vous devrez vous infliger, et combien de centaines d’€ partiront en fumée ? Ce conseil vaut vraiment de l’
+or
+, car en plus de vous faire faire des économies très importantes ( les parisiens avec un peu de gout me comprendrons, car le petit repas en tête à tête oscillera tout de même entre 50€ et 80€ ), il vous permettra surtout d’éviter de vous retrouver bloqué avec une fille inintéressante pendant au minimum 1h30-2h, ce qui dans certaines conditions peut se révéler totalement insoutenable. Car si au moins certaines arrivent à faire illusion pendant un certain temps, d’autres n’ont malheureusement pas pour elle (et vous), cette capacité… et une fille qui vous dégoute par sa vulgarité, sa bêtise ou son comportement juste après l’entrée, alors que les plats sont déjà commandés… croyez moi, vous aimeriez être n’importe où, sauf là !
+Donc limitez vous à prendre un verre pour un premier rendez-vous, sachant que sur paris, vous pouvez déjà en avoir facilement pour 15 à 30€. Idem, je vous déconseille les endroits trop sélectif, ou le prix pour deux cocktails oscillera entre 35€ et 50€ , pour une première date, ça ne rime à rien… comme pour le repas, ça revient à faire du ‘
+trop tôt… trop vite…
+‘, ce qui contrairement à ce que le garçon la
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ## Concepts
 

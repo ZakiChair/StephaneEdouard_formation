@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -118,13 +119,54 @@ Ce logo signifie que l’intégralité du site est en http S et que toutes vos c
 
 ### Synthèse : Calin-o-thérapie — _62qQTwB-1s — `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese`
 
-*podcast · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
+*podcast / vidéoscopie · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse _z11PNOSbnM — `Video-_z11PNOSbnM-synthese`
 
-*podcast · `Video-_z11PNOSbnM-synthese.md`*
+*podcast / vidéoscopie · `Video-_z11PNOSbnM-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+### Le marché des rencontres
+- Première étape : libéralisation (droit de cuissage aboli).
+- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
+
+### Analyse des participants
+- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
+
+### zpdY-7SD_Sg-synthese
+# Synthèse : Je regarde (à contrecoeur) ce gamin "twerker" dans une église — zpdY-7SD_Sg
+
+<think>
+The user wants me to generate a podcast/video synthesis based on the transcript provided. Let me analyze the content carefully.
+
+This appears to be from a video by Édouard (likely Édouard, given the style references), discussing the "Benjamin Ludwig" incident - a young man who allegedly twerked in a church in Paris. Let me structure the synthesis.
+
+Key themes from the transcript:
+1. Édouard analyzes the now-infamous video of Benjamin Ludwig in a church
+2. He questions the authenticity of the video - suggesting it may be a setup/false flag operati
+
+### aBhIcSeNRxY-synthese
+# Synthèse aBhIcSeNRxY
+
+**Thèmes principaux** : Relations amoureuses, Compatibilité, Défauts de couple, Conseils pratiques
+
+**Points clés** :
+- Les détails insignifiants en apariencia peuvent devenir des problèmes majeurs dans une relation sur le long terme
+- **Deux puntos cruciales** :
+  1. **Le rapport à l'argent** : Le partage ultra-équitable des frais кому like split bills peut gâcher le plaisir. La gestion des économies et du "matelas" de sécurité est déterminante pour la résilience du couple face aux imprévus
+  2. **Le rapport à la nourriture** : Des différences alimentaires significatives créent des tensions quotidiennes constantes
+- *
+
+---
 
 ---
 

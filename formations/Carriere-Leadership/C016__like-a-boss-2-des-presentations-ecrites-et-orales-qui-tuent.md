@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 10
 points_annonce: 10
 documents_materiau: 6
+pages_developpement: 0
 idees_forces: 17
 citations: 0
 doublon_titre: oui
@@ -171,19 +172,23 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### Ces podcasts "féministes" engageaient des femmes... pour ne pas les payer 👌 — `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese`
 
-*podcast · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
+*podcast / vidéoscopie · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le Planning Familial — _-QaP5zYWdI — `Cette-vidéo-du-Planning-Familial-fait-partie-de-mon-TOP3-#woke-synthese`
 
-*podcast · `Cette-vidéo-du-Planning-Familial-fait-partie-de-mon-TOP3-#woke-synthese.md`*
+*podcast / vidéoscopie · `Cette-vidéo-du-Planning-Familial-fait-partie-de-mon-TOP3-#woke-synthese.md`*
 
+**Son verdict**
 
 > "Quand tu sais que Macron va utiliser le fait qu'il a passé des lois pour les personnes LGBT tout à coup ça ne suffit pas aux titres que nous ne sommes pas son électorat."
 
 ### Synthèse : Le Brésil, ce nouvel eldorado de la girl-next-door occidentale — wM7cRsZKhHg — `Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese`
 
-*podcast · `Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese.md`*
+*podcast / vidéoscopie · `Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'aveu involontaire : L'une des intervenantes admet que 90 % des conversations dans sa « maison de femmes » tournent autour du sexe, ironiquement l'inverse du cliché misogyne habituel qu'elle aurait elle-même qualifié d'« abject » si un homme l'avait formulé.
 - La vulgarité sans poésie : Édouard distingue entre la vulgarité assumée et articulée (son ancien format) et celle-ci, brute et sans nuance intellectuelle, où l'on se vante de multiplier les partenaires comme d'un exploitsans autocritique.
@@ -194,7 +199,9 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-*podcast · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
+*podcast / vidéoscopie · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
 - Mécanique d'annulation : un mot de travers = label "problématique" = exclusion = destruction professionnelle. 30 minutes suffisent à détruire une réputation.
@@ -204,12 +211,15 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### This case would be front-page news if only the murderer were a man, but... 🤫 — `This-case-would-be-front-page-news-if-only-the-murderer-were-a-man,-but...-🤫-synthese`
 
-*podcast · `This-case-would-be-front-page-news-if-only-the-murderer-were-a-man,-but...-🤫-synthese.md`*
+*podcast / vidéoscopie · `This-case-would-be-front-page-news-if-only-the-murderer-were-a-man,-but...-🤫-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-*podcast · `Video-u8r9BLSx7UU-synthese.md`*
+*podcast / vidéoscopie · `Video-u8r9BLSx7UU-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 - Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.

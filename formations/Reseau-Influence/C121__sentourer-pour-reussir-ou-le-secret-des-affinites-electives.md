@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 5
 citations: 0
 doublon_titre: oui
@@ -59,12 +60,15 @@ doublon_titre: oui
 
 ### Synthèse – VZDYK4RHd38 — `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese`
 
-*podcast · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
+*podcast / vidéoscopie · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Cette chanteuse faisait l'unanimité chez les wokes, mais ça c'était avant — Synthèse — `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese`
 
-*podcast · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+*podcast / vidéoscopie · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Parcours : De Mélissa Peterson à Lizzo, en embrassant les codes du wokisme pour réussir dans l'industrie musicale.
 - Grammy2023 pour "Il était temps, bordel", singles variés (La Vérité Blesse, Jus, Huile de Coco) tous dans le top 100 US.
@@ -74,18 +78,21 @@ doublon_titre: oui
 
 ### L'entraide entre femmes : un déficit historique — `L'entraide-entre-femmes-un-déficit-historique-synthese`
 
-*podcast · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
+*podcast / vidéoscopie · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Le secret derrière ces millions de femmes seules est si bête que c'en est gênant — `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese`
 
-*podcast · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
+*podcast / vidéoscopie · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
 
-*podcast · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
+*podcast / vidéoscopie · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -94,6 +101,56 @@ doublon_titre: oui
 *« Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md » · origine : lien-declare*
 
 > Parcours : De Mélissa Peterson à Lizzo, en embrassant les codes du wokisme pour réussir dans l'industrie musicale.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+« Chacun veut être autonome, mais en même temps que grandit notre liberté individuelle grandit notre besoin d'être lié aux autres (…) il y a quelques années, seuls le couple, la famille et les amis étaient des lieux d'investissement affectif » ~ JC Kaufmann (le sociologue qui ne m'aime pas) Les paradoxes de quiconque cherche à bien s'entourer… 
+
+Read More
+
+---
+
+### Points clés
+
+1. « Chacun veut être autonome, mais en même temps que grandit notre liberté individuelle grandit notre besoin d'être lié aux autres (…) il y a quelques années, seuls le couple, la famille et les amis étaient des lieux d'investissement affectif » ~ JC Kaufmann (le sociologue qui ne m'aime pas)
+Les paradoxes de quiconque cherche à bien s'entourer
+
+Dans une société narcissique, on cherche inlassablemen
+2. Problème : un peu partout dans le monde, des millions d'enfants sont en froid avec leurs parents, qu'ils ignorent depuis des années et vice et versa
+3. Si vous ne savez pas gérer vos relations extra-familiales, il en sera exactement de même avec les relations familiales
+4. Vos parts de masculinité et de féminité ne recherchent pas la même chose
+5. On puise souvent malgré soit les modèles relationnels dans la petite enfance, c'est-à-dire l'époque de la relation fusionnelle et idéalisée
+6. C'est un paradoxe à dépasser et dont il faut se défaire au plus vite
+7. La vie est tragique (au sens philosophique du terme)
+8. J'approche des 50 ans, je n'en aurai plus jamais 40
+9. Mais c'est ainsi, je dois l'accepter et continuer d'avancer en dépit
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

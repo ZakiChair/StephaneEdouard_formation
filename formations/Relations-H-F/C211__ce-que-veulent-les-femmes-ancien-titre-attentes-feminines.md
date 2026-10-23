@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 7
 citations: 3
 doublon_titre: oui
@@ -48,24 +49,30 @@ doublon_titre: oui
 
 ### Synthèse : L'Autodidacte - Moravia (lectures buissonnières) — `Cette-histoire-est-l'une-de-mes-préférées,-vas-tu-deviner-la-fin-synthese`
 
-*podcast · `Cette-histoire-est-l'une-de-mes-préférées,-vas-tu-deviner-la-fin-synthese.md`*
+*podcast / vidéoscopie · `Cette-histoire-est-l'une-de-mes-préférées,-vas-tu-deviner-la-fin-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse 47jhynafWCc — `Video-47jhynafWCc-synthese`
 
-*podcast · `Video-47jhynafWCc-synthese.md`*
+*podcast / vidéoscopie · `Video-47jhynafWCc-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 - 5 ans après MeToo, la société demeure "très sexiste" selon le rapport
 
 ### Synthèse – VWOdU4c3R2o — `Video-VWOdU4c3R2o-synthese`
 
-*podcast · `Video-VWOdU4c3R2o-synthese.md`*
+*podcast / vidéoscopie · `Video-VWOdU4c3R2o-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video p1WU4JiuIzQ — p1WU4JiuIzQ — `Video-p1WU4JiuIzQ-synthese`
 
-*podcast · `Video-p1WU4JiuIzQ-synthese.md`*
+*podcast / vidéoscopie · `Video-p1WU4JiuIzQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
 - Le ressentiment comme mécanisme universel : Ce n'est pas une question de genre, mais une réaction humaine face à un sentiment d'insuffisance dans le présent.
@@ -86,6 +93,68 @@ doublon_titre: oui
 *« Video-p1WU4JiuIzQ-synthese.md » · origine : lien-declare*
 
 > Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette formation déchiffre les désirs et attentes féminines selon une approche pragmatique et non-mythologique. Stéphane Édouard déconstruit les mythes propagés par le féminisme occidental importé des États-Unis et replace la compréhension véritable des dynamiques hommes-femmes au centre de l'analyse. Comprendre ce que veulent vraiment les femmes — au-delà des discours officiels — est essentiel pour construire des relations authentiques et éviter les malentendus structurels.
+
+---
+
+### Points clés
+
+- Ce que les femmes veulent réellement diffère souvent de ce qu'elles déclarent vouloir
+- Le féminisme américain a importé des concepts qui ne correspondent pas à la réalité française
+- La vraie attractivité féminine repose sur l'autonomie et la profondeur, pas sur l'apparence seule
+- Les femmes cherchent l'hypergamie — vers le haut dans la hiérarchie économique et physique
+- La "dette sexuelle" est un concept importé qui confuse davantage qu'il n'éclaire
+- Les signes d'intérêt féminins sont souvent incohérents avec les demandes directes
+- L'homme doit apporter quelque chose au-delà de la simple disponibilité
+
+---
+
+### Concepts enseignés
+
+### La formule Beauté + Intelligence + Disponibilité = Constante
+Quand une femme possède les trois qualités (beauté, intelligence, disponibilité au sens de "vacances"), elle devient automatiquement plus attractive ET plus insaisissable. Cette équation révèle que ce qui rend quelqu'un attirant est aussi ce qui rend la relation difficile. Une femme qui cumule ces trois attributs n'a pas "besoin" d'un homme — elle le choisit. Et c'est précisément cette autonomie qui attire.
+
+### L'hypergamie féminine
+Les femmes recherchent une hypergamie économique et physique — vers le haut dans la hiérarchie. Les hommes acceptent plus facilement des partenaires hypogames (vers le bas). Cette asymétrie structure les dynamiques relationnelles : les femmes disposent du pouvoir de sélection, les hommes doivent prouver leur valeur. Ce n'est pas du "sexisme" — c'est une dynamique naturelle observée dans toutes les sociétés.
+
+### La déconstruction de la "dette sexuelle"
+Le concept de "dette sexuelle" tel que présenté par certaines vulgarisatrices est une construction idéologique spécifiquement américaine importée en France. Ce concept mélange des dynamiques réelles (céder vs. consentir) avec une idéologie qui ne correspond pas à la réalité des relations hommes-femmes. La distinction céder/consentir existe et est valide, mais elle est souvent appliquée de manière sélective pour servir une narrative victimaire. Le consentement est spécifique — vouloir une activité sexuelle ne signifie pas donner son accord pour tout.
+
+### L'absence de motivation comme repoussoir
+En logique masculine, une femme sans projet personnel est perçue comme une "coquille vide" — attrayante en surface mais creuse à l'intérieur. L'homme cherchera à fuir une femme attrayante mais sans substance parce qu'elle représente un risque émotionnel et existentiel. Il ne veut pas être le seul contenu de sa vie. Une femme très belle mais sans substance est plus difficile à garder qu'une femme moins belle mais avec une vie riche.
+
+### Le capital triple (Physique, Intellectuel, Économique)
+L'attraction initiale est physique, mais la conversion dépend du capital intellectuel. Les données Tinder révèlent que le capital écrit (communication digitale) est plus important que le simple physique pour convertir les matchs en rendez-vous. La formule : capital physique attire, mais c'est le capital intellectuel qui convertit. Combiner les trois capitals maximise les chances de succès.
+
+---
+
+### Exercices / Pratiques
+
+- **Développer un projet personnel** : Avant de chercher une relation, avoir quelque chose à offrir au-delà de l'apparence. Une passion, un but, une direction. Les hommes sont attirés par les femmes qui ont leur propre vie.
+- **Évaluer sa propre valeur** : Utiliser la formule Beauté + Intelligence + Disponibilité pour identifier où vous vous situez. Où êtes-vous sur l'échelle de ces trois attributs ?
+- **Ne pas faire du couple son seul existential** : Si votre seule motivation c'est de trouver un homme, alors vous n'avez pas de vie — vous avez un vide. Et l'homme le sent.
+- **Améliorer son capital écrit** : La communication digitale (messages, profil) est cruciale pour convertir. Baptiste (1 match pour 1000) convertit mieux à l'écrit que les "beaux" physiquement.
+- **Comprendre l'hypergamie** : Les femmes cherchent vers le haut. L'homme doit prouver sa valeur, pas sa simple disponibilité.
+- **Poser la question centrale** : "Qu'est-ce que je peux offrir à part mon apparence ?" Si la réponse est "rien", alors vous avez un problème de fond.
+
+---
+
+### Citations de Stéphane
+
+> "Le consentement est spécifique. Vouloir une activité sexuelle en particulier ne signifie pas donner ton accord pour tout."
+
+> "Une femme très belle mais sans substance est plus difficile à garder qu'une femme moins belle mais avec une vie riche."
+
+> "Beauté, intelligence, disponibilité = constante. Quand une personne possède les trois et n'est pas complètement sans dessus dessous mentalement, généralement elle n'est pas prise, elle nous échappe."
+
+---
 
 ## Citations de l'auteur
 

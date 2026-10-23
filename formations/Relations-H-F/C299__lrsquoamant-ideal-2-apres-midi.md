@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 2
 documents_materiau: 4
+pages_developpement: 3
 idees_forces: 5
 citations: 0
 doublon_titre: non
@@ -82,12 +83,15 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 
 ### Synthèse – VZDYK4RHd38 — `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese`
 
-*podcast · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
+*podcast / vidéoscopie · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le choix : Confort matériel immédiat vs. individuation à long terme.
 - Le mécanisme : "Abandon consenti de souveraineté" — sacrifice de l'ambition personnelle sur l'autel de la sécurité.
@@ -97,13 +101,15 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 
 ### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
 
-*podcast · `Video-_HLOLxJlxHI-synthese.md`*
+*podcast / vidéoscopie · `Video-_HLOLxJlxHI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video qA7bQ-TfQoQ — qA7bQ-TfQoQ — `Video-qA7bQ-TfQoQ-synthese`
 
-*podcast · `Video-qA7bQ-TfQoQ-synthese.md`*
+*podcast / vidéoscopie · `Video-qA7bQ-TfQoQ-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -112,6 +118,128 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 *« Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md » · origine : lien-declare*
 
 > Le choix : Confort matériel immédiat vs. individuation à long terme.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire &laquo;&nbsp;L&rsquo;amant idéal&nbsp;&raquo;
+
+*`web-actualite__5665_sexe-devenir-amant-ideal.html?preview=1.txt` · 1360 mots · archive de l'auteur*
+
+Comment devenir un bon amant
+Commandez le séminaire
+« L’amant idéal »
+Commandez le séminaire
+« L’amant idéal »
+Video:preview séminaire sexe - devenir un bon coup
+Référence :
+sexe - amant ideal
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+avoir eu quelques expériences sexuelles
+Objectifs :
+découvrir et mettre à profit les spécificités de la psychologie féminine pour booster son plaisir sexuel et l'envie de vous faire plaisir
+Durée totale :
+2h26mn
+Taille du fichier :
+69,6Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Etre sexué
+Le 4 septembre dernier, le séminaire
+«être sexué»
+démarrait la sixième saison des séminaires SpikeSéduction, la 2010/2011. Dans une salle comble, avec l’un de mes séminaires qui m’a procuré le plus de plaisir à dispenser, notamment parce que dans la salle, au fond à droite, je distinguais la tête un peu ahurie de mon ex patron venue voir ce que son ex «employé» faisait de ses soirées. Ou plutôt de ses journées, en l’occurrence, puisque nous inaugurions par la même occasion les séminaires en après-midi (14h-17h au lieu de 20h-23h).
+Il semblerait que mon plaisir ait été communicatif puisque, en cumulant présence en salle et commandes des enregistrements mp3, ce séminaire détient toujours le record absolu d’auditeurs, avec plusieurs centaines d’entre vous qui désormais savent ce qu’adopter un comportement sexué signifie. Merci de votre fidélité, et félicitations pour avoir compris que
+vous
+êtes la seule personne sur qui vous pouvez investir avec un rendement de 100%. Plus fort qu’un lingot d’or.
+Un seul
+(conn)aître
+vous manque...
+Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
+confident
+, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’
+
+### 30 avril : devenez l&#8217;amant idéal
+
+*`web-actualite__5665_sexe-devenir-amant-ideal.html.txt` · 1701 mots · archive de l'auteur*
+
+30 avril : devenez l’amant idéal
+Le 4 septembre dernier, le séminaire
+«être sexué»
+démarrait la sixième saison des séminaires SpikeSéduction, la 2010/2011. Dans une salle comble, avec l’un de mes séminaires qui m’a procuré le plus de plaisir à dispenser, notamment parce que dans la salle, au fond à droite, je distinguais la tête un peu ahurie de mon ex patron venue voir ce que son ex «employé» faisait de ses soirées. Ou plutôt de ses journées, en l’occurrence, puisque nous inaugurions par la même occasion les séminaires en après-midi (14h-17h au lieu de 20h-23h).
+Il semblerait que mon plaisir ait été communicatif puisque, en cumulant présence en salle et commandes des enregistrements mp3, ce séminaire détient toujours le record absolu d’auditeurs, avec plusieurs centaines d’entre vous qui désormais savent ce qu’adopter un comportement sexué signifie. Merci de votre fidélité, et félicitations pour avoir compris que
+vous
+êtes la seule personne sur qui vous pouvez investir avec un rendement de 100%. Plus fort qu’un lingot d’or.
+Un seul
+(conn)aître
+vous manque…
+Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
+confident
+, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’enregistrement du séminaire est
+disponible ici
+Mais une attitude sexuée, bien que pré-requise, ne reste qu’une entrée en matière. Une (belle) promesse, qu’il vous faudra tenir lorsque l’intimité sera votre seul témoin, autrement dit,
+au lit
+En clair, je vous réserve un séminaire à ma façon sur le sexe.
+Précisions importantes :
+Ce séminaire est accessible et compréhensible en tant que tel, même si vous avez manqué « être sexué »
+Ce séminaire s’adresse à ceux d’entre vous qui sont en couple
+aux célibataires : n’attendez pas « d’avoir une copine » pour vous intéresser aux moyens de lui donner du plaisir, ce serait trop tard…
+…et tout est dépeuplé
+Il 
+
+### 21 mars : l&#8217;homme idéal à la radio
+
+*`web-actualite__5568_21-mars-lhomme-ideal-a-la-radio.html.txt` · 300 mots · archive de l'auteur*
+
+21 mars : l’homme idéal à la radio
+Je serai cet après-midi invité pendant 2 heures de Laurence Péraud (Sud Radio) dans son talk-show
+« faut qu’on en parle »
+. Au programme : séduction, confiance en soi, et… homme idéal
+(Ré)Ecoutable ici :
+http://www.sudradio.fr/index.php?id=115&art=14#newsart
+Vous aimez ? Dites-le
+La saga de l’homme idéal (10 épisodes)
+L’homme idéal : Amazon en rupture de stock
+L’homme idéal, jour J
+L’homme idéal J-1 : pour un plan sans accrocs
+Spikeséduction à la radio (… pendant 2 heures)
+Lire 100% du site demanderait une centaine d'heures...
+le séminaire,
+les réponses de la séduction
+, en dvd
+47€ seulement
+l'ebook,
+Entretiens privés
+, vol.1,
+Un commentaire pour “21 mars : l’homme idéal à la radio”
+Doudou
+21 mars 2011 à 23:15
+Moment suréaliste d’une blague non comprise :
+L’invité a signalé qu’il été handicapé visuel.
+L’animatrice : On n’est pas totalement sincère dans notre relation à l’autre… comme le dit l’invité…les femmes disent que ce n’est pas le physique qui leur plaît mais ça jour  quand même.
+Est-ce que de la sincérité est obligatoire pour séduire correctement ?
+Stéphane : Déja au moins on ne peut pas reprocher à l’invité de s’intéresser aux filles que pour leur physique
+L’animatrice : C’est clair
+Stéphane : C’est une chose de faîte
+L’animatrice : En même temps excusez-moi Stéphane mais a priori l’invité est handicapé visuel donc…
+Stéphane : Pfff oui c’était l’objet du… (NR du calembrour ?)
+C’est à partir de la 55ème minute.
+<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
+NOUVEAU
+
+
+- Stéphane : Déja au moins on ne peut pas reprocher à l’invité de s’intéresser aux filles que pour leur physique
+- L’animatrice : C’est clair
+- Stéphane : C’est une chose de faîte
+- L’animatrice : En même temps excusez-moi Stéphane mais a priori l’invité est handicapé visuel donc…
+- Stéphane : Pfff oui c’était l’objet du… (NR du calembrour ?)
 
 ---
 

@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 1
 idees_forces: 13
 citations: 0
 doublon_titre: oui
@@ -32,7 +33,9 @@ confiance: 1.0
 
 ### Synthèse : Les “jeunes” avec #Hidalgo2022 ! 🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳 — tLRSQbAi6q4 — `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese`
 
-*podcast · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+*podcast / vidéoscopie · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'effet de communication : Hidalgo aurait changé de position sur le rassemblement de la gauche entre le matin et le soir de la même journée, suggérant une stratégie improvisée
 - La question du timing : L'analyse ironique des trois mois de campagne déjà écoulés sans percée notable
@@ -44,12 +47,15 @@ confiance: 1.0
 
 ### Synthèse : Marlène Schiappa et les romans érotiques — `Video-mLULElak73E-synthese`
 
-*podcast · `Video-mLULElak73E-synthese.md`*
+*podcast / vidéoscopie · `Video-mLULElak73E-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*podcast · `Video-vvh8wAYHRBw-synthese.md`*
+*podcast / vidéoscopie · `Video-vvh8wAYHRBw-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 - La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
@@ -71,6 +77,84 @@ confiance: 1.0
 *« Video-vvh8wAYHRBw-synthese.md » · origine : lien-declare*
 
 > L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Voyage dans le monde de la psycho-sociologie : comprendre les gens | Spike Séduction
+
+*`web-actualite__19022_comprendre-les-gens.html.txt` · 951 mots · archive de l'auteur*
+
+Référence :
+comprendre les gens
+Difficulté (sur 5) :
+***
+Enregistré :
+oui
+Prérequis :
+–
+Objectifs :
+rattraper en une journée ce que votre scolarité aurait dû vous apprendre sur la psychologie et la sociologie
+Durée totale :
+journée
+Tarif :
+à partir de 75euros dans les commandes groupées
+Séminaire(s) complémentaire(s) recommandé(s) :
+logique des femmes
+Un petit théâtre de 50 places remplace l’habituelle « salle de séminaire »
+« L’humanité est ainsi, il ne s’agit pas de la
+changer
+, mais de la
+connaître
+. » – Flaubert
+2ème séminaire de l’année 2015 : 1ère immersion dans le monde passionnant de la psycho-sociologie !
+Axiome 1
+Vous avez appris des milliers de choses à l’école, au collège, au lycée, à la faculté, en « grande école », en école d’art, ou ailleurs.
+Sur ces milliers, voire ces dizaines de milliers, combien concernaient
+la compréhension de l’être humain ?
+Réponse : une poignée. Peut-être même pas. Zéro ?
+Axiome 2
+La plupart des gens s’estiment « au dessus de ça ». Ils estiment
+ne pas avoir besoin d’apprendre
+les mécanismes qui les régissent :
+Parce que, justement, ils refusent l’idée d’être régis par un autre mécanisme qu’eux-mêmes (c’est idiot : la liberté absolue est à la fois une utopie et un désespoir si jamais elle venait à se réaliser)
+Parce qu’en sciences humaines, contrairement à la chirurgie, la mécanique ou l’informatique, ils pensent tout savoir sans rien avoir étudié (« je connais les femmes, j’en suis une » / « je connais les hommes, j’en suis un ». Ben voyons)
+Parce qu’ils estiment ces études et ces recherches superflues, pensant que tout le monde
+a priori
+, raisonne avec le même matériel
+logique
+idéo-logique
+qu’eux-mêmes. D’où les fameux grands maux de la société : – a – l’ « incompréhension », – b – les « malentendus » et – c – le « manque de communication » »
+Mais si vous lisez SpikeSed, alors vous êtes plus intelligents que la moyenne (ce n’est pas de l’auto flagornerie, c’est un fait, confirmé année après année). Et les gens intelligents savent qu’ils n’ont pas la « science infuse ». De plus, comme vous êtes venus parce que vous vous intéressez à la séduction, vous avez
+une soif plus globale de comprendre
+les mécanismes inconscients qui
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

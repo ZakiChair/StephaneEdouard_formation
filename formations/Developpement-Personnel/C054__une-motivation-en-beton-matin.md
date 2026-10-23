@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 1
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -158,18 +159,21 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 
 ### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
 
-*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+*podcast / vidéoscopie · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La logique masculine face à l'absence de motivation — `La-logique-masculine-face-à-l'absence-de-motivation-synthese`
 
-*podcast · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
+*podcast / vidéoscopie · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le Cosby Show — 7 leçons de vie — `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese`
 
-*podcast · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
+*podcast / vidéoscopie · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
 
+**Son verdict**
 
 > Ce qui était à mes parents n'a jamais été à moi — je suis parti de zéro matériellement et psychologiquement, et ce qui est à moi aujourd'hui, je ne le dois qu'à moi.
 
@@ -177,7 +181,9 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 
 ### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
 
-*podcast · `Video-HstnkVr4op4-synthese.md`*
+*podcast / vidéoscopie · `Video-HstnkVr4op4-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 - L'émission aborde le sexisme dans la télé-réalité
@@ -187,7 +193,9 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 
 ### Synthèse : Émettre une critique constructive — xbezr4jiiHE — `Émettre-une-critique-constructive-synthese`
 
-*podcast · `Émettre-une-critique-constructive-synthese.md`*
+*podcast / vidéoscopie · `Émettre-une-critique-constructive-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Un système de gradation en trois niveaux : pour éviter la confrontation brutale, Stéphane utilise un esquema progressif avant d'en venir à la critique frontale.
 - Premier palier — l'humour et la dérision : tourner le problème en joke de manière inoffensive permet de faire passer le message sans déclaration de guerre.
@@ -210,6 +218,30 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 *« Émettre-une-critique-constructive-synthese.md » · origine : lien-declare*
 
 > Un système de gradation en trois niveaux : pour éviter la confrontation brutale, Stéphane utilise un esquema progressif avant d'en venir à la critique frontale.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 12
 citations: 0
 doublon_titre: non
@@ -113,22 +114,27 @@ N’appelez que si aucune de mes formations ne semble répondre à votre questio
 
 ### Elle voulait le confort, elle a eu l'ennui — Étude de cas — `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
 
-*podcast · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
+*podcast / vidéoscopie · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – cWXgXeCFvtM — `Video-cWXgXeCFvtM-synthese`
 
-*podcast · `Video-cWXgXeCFvtM-synthese.md`*
+*podcast / vidéoscopie · `Video-cWXgXeCFvtM-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - 55pK6U9bxjs — `Étude-de-cas-–-L'histoire-la-plus-abjecte-des-10-dernières-années-synthese`
 
-*podcast · `Étude-de-cas-–-L'histoire-la-plus-abjecte-des-10-dernières-années-synthese.md`*
+*podcast / vidéoscopie · `Étude-de-cas-–-L'histoire-la-plus-abjecte-des-10-dernières-années-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le "permis de faire des enfants" questionné : certaines personnes ne devraient pas se reproduire (théorie de la sélection).
 - Le dilemme du prisonnier appliqué : quand on récompense la trahison systématiquement, on encourage la trahison.
@@ -139,6 +145,8 @@ N’appelez que si aucune de mes formations ne semble répondre à votre questio
 - *Lien avec formations** :
 - École des Hommes (choix de partenaires, dynamiques relationnelles)
 
+**Son verdict**
+
 > "L'utopie de et le refus de reconnaître laagency féminine dans le choix de partenaires cause des drames."
 
 ## Ses développements sur le sujet
@@ -148,6 +156,69 @@ N’appelez que si aucune de mes formations ne semble répondre à votre questio
 *« Étude-de-cas-–-L'histoire-la-plus-abjecte-des-10-dernières-années-synthese.md » · origine : lien-declare*
 
 > Le "permis de faire des enfants" questionné : certaines personnes ne devraient pas se reproduire (théorie de la sélection).
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+&nbsp; Une décision importante ne se prend jamais seul Si vous estimez avoir besoin des conseils de Stéphane Edouard en sa qualité de sociologue (on ne sait jamais) spécialiste incontesté (même par ses ennemis) des relations hommes-femmes auteur à succès entrepreneur pas trop mauvais non plus Alors c’est ici que ça se passe.   *… 
+
+Read More
+
+---
+
+### Points clés
+
+1. &nbsp;
+
+#tab-title-additional_information,#zenwoowishBtn,
+2. important}
+Une décision importante ne se prend jamais seul
+Si vous estimez avoir besoin des conseils de Stéphane Edouard en sa qualité de
+
+ 	sociologue (on ne sait jamais)
+ 	spécialiste incontesté (même par ses ennemis) des relations hommes-femmes
+ 	auteur à succès
+ 	entrepreneur pas trop mauvais non plus
+
+Alors c’est ici que ça se passe
+3. size-large {margin-right:10px;}}  
+* Jours ouvrés
+** Disponible aux heures de bureau, du lundi au vendredi
+Bonnes (et moins bonnes) questions à soumettre en étude de cas
+Contrairement à une imbécilité ultra répandue, il y a bien des mauvaises questions, en tous cas des questions qui mettent un interlocuteur – même qualifié – dans l'impossibilité d'y apporter un traitement satisfaisant dans les
+4. Voici une liste non exhaustive de ces questions qui vous feraient irrémédiablement gaspiller votre argent
+Questions bêtes
+
+ 	Donne-moi une méthode pas-à-pas pour obtenir ceci ou cela
+5. Réponse : commence, et appelle quand tu es bloqué
+ 	Comment gérer (au mieux) ce qui va sans doute advenir
+6. Réponse : si ça n'est pas encore arrivé, c'est que ça n'existe pas
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

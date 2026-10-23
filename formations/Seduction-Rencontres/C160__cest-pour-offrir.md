@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -32,12 +33,15 @@ doublon_titre: oui
 
 ### La logique masculine face à l'absence de motivation — `La-logique-masculine-face-à-l'absence-de-motivation-synthese`
 
-*podcast · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
+*podcast / vidéoscopie · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video uXOONmB50JU — uXOONmB50JU — `Video-uXOONmB50JU-synthese`
 
-*podcast · `Video-uXOONmB50JU-synthese.md`*
+*podcast / vidéoscopie · `Video-uXOONmB50JU-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les appels ne mentent pas : Plus de 80% des appels féminins concernent un homme qui s'éloigne, alors que les appels masculins concernent une femme qui ne se donne pas — révélant un pattern inverse selon le genre.
 - L'absence d'assertivité féminine : En refusant de « discriminer » précocement et en plaçant tous les prétendants dans un « bain commun », les femmes externalisent un choix qui devrait leur appartenir.
@@ -53,6 +57,45 @@ doublon_titre: oui
 *« Video-uXOONmB50JU-synthese.md » · origine : lien-declare*
 
 > Les appels ne mentent pas : Plus de 80% des appels féminins concernent un homme qui s'éloigne, alors que les appels masculins concernent une femme qui ne se donne pas — révélant un pattern inverse selon le genre.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Comme son nom l'indique, cette page te permet d'offrir un contenu payant de tonton Stéphane à une personne dans le besoin. Ps : il n'est pas nécessaire d'avoir joué dans la série américaine ci-après
+
+---
+
+### Points clés
+
+1. Comme son nom l'indique, cette page te permet d'offrir un contenu payant de tonton Stéphane à une personne dans le besoin
+2. Ps : il n'est pas nécessaire d'avoir joué dans la série américaine ci-après
+#tab-title-additional_information,#zenwoowishBtn,
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

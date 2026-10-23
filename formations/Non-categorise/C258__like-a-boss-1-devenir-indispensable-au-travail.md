@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 15
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -143,12 +144,16 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
 
-*podcast · `Video-hVchQj-xiOo-synthese.md`*
+*podcast / vidéoscopie · `Video-hVchQj-xiOo-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
 - Parallèle historique : le centre Pompidou (années 70) avait lui aussisymbolisé une époque de transition, mais dans un contexte de modernité industrielle encore vivante.
 - Désindustrialisation française : la vidéo des Gilets Jaunes en Belgique (usine désaffectée convertie en centre d'art) illustre ce même phénomène de perte identitaire territoriale.
 - Archéologie du contenu : référence à d'anciennes vidéos de la chaîne qui documentaient déjà ces transformations, consultables dans les archives.
+
+**Son verdict**
 
 > L'industrie, c'est ce qui empêche un pays de couler, d'avoir une balance du déficit extérieur monstrueuse et de devenir un musée à touristes.
 
@@ -156,7 +161,9 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
 
-*podcast · `Video-yCgVt4zZejg-synthese.md`*
+*podcast / vidéoscopie · `Video-yCgVt4zZejg-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
 - L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
@@ -178,6 +185,16 @@ Le bouche à oreille à géométrie variable
 *« Video-yCgVt4zZejg-synthese.md » · origine : lien-declare*
 
 > L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 2
 documents_materiau: 1
+pages_developpement: 3
 idees_forces: 7
 citations: 0
 doublon_titre: oui
@@ -149,7 +150,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse : Les “jeunes” avec #Hidalgo2022 ! 🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳 — tLRSQbAi6q4 — `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese`
 
-*podcast · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+*podcast / vidéoscopie · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'effet de communication : Hidalgo aurait changé de position sur le rassemblement de la gauche entre le matin et le soir de la même journée, suggérant une stratégie improvisée
 - La question du timing : L'analyse ironique des trois mois de campagne déjà écoulés sans percée notable
@@ -166,6 +169,153 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 *« Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md » · origine : lien-declare*
 
 > L'effet de communication : Hidalgo aurait changé de position sur le rassemblement de la gauche entre le matin et le soir de la même journée, suggérant une stratégie improvisée
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire &laquo;&nbsp;changez de vie&nbsp;&raquo; 2013
+
+*`web-actualite__15158_changer-de-vie-seminaire-2013.html?preview=1.txt` · 1590 mots · archive de l'auteur*
+
+Get a life, le meilleur séminaire au monde pour changer de vie
+Commandez le séminaire « changez de vie » 2013
+Commandez le séminaire « changez de vie » 2013
+Référence :
+get a life (changez de vie)
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+Mesurer sa motivation réelle de changer de vie et mettre en place un plan d’action pour y parvenir
+Durée totale :
+6h05mn
+Taille du fichier :
+360 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Ce que vos parents auraient dû vous apprendre
+Etre sexué I : les fondamentaux
+Parce que vous l’avez bien mérité grâce à votre participation exemplaire en séminaire, l’année 2013 va se terminer avec 2 journées monumentales et surtout (c’est une première) complémentaires :
+Get a life
+(9 novembre) et
+Survivre au salariat
+(7 décembre)
+Tout chaud : les témoignages sur la semaine dernière
+Mais les bonnes choses d’abord, commençons par les bonnes choses : les témoignages sur le dernier séminaire
+100 jours pour la rendre amoureuse - témoignages
+[ 9:22 ]
+Ce qu’est
+Get a life
+A la manière de nos séminaires best-seller
+Etre sexué 1
+Etre sexué 2
+, dont le premier vous montre tout l’horizon des possibles et vous pousse à tous les dépasser, et dont le second décline les concepts du premier mais dans les contraintes du réel,
+Get a life
+est le meilleur moyen de :
+casser l’emprise que les habitudes ont pris sur vous
+sortir de votre zone de confort
+vous faire un cercle social de qualité
+remettre votre vie en mouvement
+redécouvrir le goût de faire des activités avec une femme qui vous plaît
+changer de job
+changer de ville
+changer de vie
+vivre ses rêves avant la retraite
+Bref,
+Get a life
+sera une gigantesque journée « coup de pied au c.. » pour tous ceux qui éprouvent la sensation de s’être arrêtés, rouillés, bornés dans leur vie, et qui veulent la remettre en marche.
+La qualité et la vérité des analyses de Stéphane, vérifiée depuis 2006
+Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pas
+justifié
+développé
+argumenté avec logique et intelligence
+, et c’est évidemment ce q
+
+### Inner-game et life-style : changez de vie
+
+*`web-articles__1022_changer-de-vie.html.txt` · 283 mots · archive de l'auteur*
+
+L’équipe
+Inner-game et life-style : changez de vie
+Pourquoi nous contentons-nous trop souvent d’
+exister
+au lieu de
+vivre
+? Il faut se donner les moyens d’apprécier tout ce que l’on fait pour constater avec ravissement le rayonnement de la pleine possession de soi. Soyez l’excellence
+de votre quotidien, l’habitude vous paraîtra plus légère, et la légèreté sera l’envol de vos plus hautes attentes. Donnez au sublime le moyen de se répandre et d’écourter les plats regrets et les vains remords, le plaisir n’en sera que plus grand et la grandeur moins amère. Vous trouverez dans cet article quelques petites idées pratiques pour que votre vie soit plus à l’image de votre volonté et pour que votre volonté soit la cause de votre image.
+La suite
+De l'importance de l'énergie en séduction (préambule)
+Pourquoi suivre un atelier séduction, par Alexandre, partie II
+C'est par là que ça se passe
+How to be a PUA, par Juggler
+Pas encore de commentaire.
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face=""> <i> <li> <ol> <strike> <strong> <sub> <sup> <ul>
+Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+Spike choisi par France 2 parmi
+et par M6 pour
+66 minutes
+aux cotés de Mystery
+Pensée de février : retour sur mon changement de vie
+Lifestyle : cadeau
+La séduction pour les nuls : jeudi
+Juste un détail par rapport au look: je rajo...
+salut
+Très très bon article, j'aime le style de l...
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### Changez d&#8217;environnement, par Alexis
+
+*`web-articles__10589_changer-environnement.html.txt` · 2673 mots · archive de l'auteur*
+
+Changez d’environnement, par Alexis
+Changez d’environnement, par Alexis
+Vous avez entre 37 et 57% de chance de devenir obèse si vous côtoyez une personne qui l’est (Etude sur 12 000 personnes entre 1971 et 2003).
+Je suis toujours surpris. Nous ne faisons pas ce que nous sommes censés faire. Lorsque les gens veulent changer, ils mettent en place des stratégies d’évitement. Et puis un jour Carl Jung frappe à leur porte et leur dit : « ce qu’on ne veut pas savoir de soi-même finit par arriver de l’extérieur comme un destin »
+Pour ceux qui ne me connaissent pas, je m’appelle Alexis, j’ai un
+blog pour les hommes
+qui veulent se développer. Et mon but est clair : vous poussez à faire ce que vous savez que vous devez faire, mais que vous ne faites pas. Que ce soit pratiquer du sport 3x/semaine, manger sainement ou devenir plus sociable.
+Pourquoi est-ce le problème n°1 ?
+Que ce soit pour créer votre entreprise, devenir séduisant, aborder une jeune inconnue. Il va falloir changer quelque chose, ça vous le saviez. Pourtant la plupart des personnes ne le font pas.
+Ce à quoi les gens n’osent pas faire face c’est simplement qu’ils n’arrivent pas à se forcer à faire ce qu’ils doivent faire
+Nous sommes des petits êtres fragiles qui pour ne pas se fatiguer succombent à la voie la plus facile. Plus vous empruntez cette voie, plus vous vous faites des choses que vous n’êtes pas censé faire, plus elles s’installent, plus elles deviennent ancrées. Nos mauvais comportements deviennent des habitudes. C’est comme bétonner un petit chemin de traverse. C’est pratiquement comme çà que la plupart des gens vivent leur vie. Ils sont dans un groupe, ils font des choses chaque jour, les mêmes jours après jours, ils pensent de la même manière, font les mêmes activités et puis ils agrandissent ce chemin et continuent de goudronner… Ils créent des autoroutes de pensées, d’habitudes, d’actions…
+Vous savez que nous dépendons de notre environnement.
+Notre environnement nous contrôle inconsciemment
+, il nous influence, il affecte nos comportements, comme un marionnettiste sournois. Il a même fait baisser notre
+testostérone
+de 20% en 15 ans. Heureusement
+vous pouvez contrôler votre environnement… cons
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

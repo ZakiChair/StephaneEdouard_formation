@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 10
 citations: 0
 doublon_titre: non
@@ -54,7 +55,9 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 
 ### Synthèse : Il s’est stérilisé. A priori, ça n’était pas urgent — orzckQYNQ0c — `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese`
 
-*podcast · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+*podcast / vidéoscopie · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 - Inversion de la charge contraceptive : Historiquement, les femmes assument la quasi-totalité de la responsabilité contraceptive (pilule, stérilet), avec des effets secondaires souvent sous-estimés, tandis que les hommes se contentent du préservatif.
@@ -65,7 +68,9 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 
 ### Synthèse – Vidéoscopie DU5A0W8vOwE — `L'embrayage-qui-crie-famine-depuis-des-mois-synthese`
 
-*podcast · `L'embrayage-qui-crie-famine-depuis-des-mois-synthese.md`*
+*podcast / vidéoscopie · `L'embrayage-qui-crie-famine-depuis-des-mois-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La métaphore : Une voiture pas entretenue -> embrayage qui lâche
 - Le processus lent : Pas de rupture brutale mais négligence progressive
@@ -74,8 +79,9 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 
 ### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
 
-*podcast · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
+*podcast / vidéoscopie · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -90,6 +96,92 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 *« L'embrayage-qui-crie-famine-depuis-des-mois-synthese.md » · origine : lien-declare*
 
 > La métaphore : Une voiture pas entretenue -> embrayage qui lâche
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Avoue. Une fois. Au moins une (1) fois. Tu te l'es posée, la question : comment savoir si une femme est intéressée (vraiment intéressée). Alors tu es parti fouiller sur le web. Et tu en as trouvé, du contenu. Des tonnes de contenus, devrais-je dire. Morcelées, éparpillées, ventilées partout sur des blogs, des pages, des… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Tu te l'es posée, la question : comment savoir si une femme est intéressée (vraiment intéressée)
+2. Morcelées, éparpillées, ventilées partout sur des blogs, des pages, des forums
+3. Sans parler des vidéos Youtube ou un type sorti de nulle part, debout devant un tableau blanc, dénué de tout diplôme en sciences humaines, vient t'expliquer la psychologie féminine découverte au cours de ses deux dernières années à draguer sur les boulevards
+4. Et si on arrêtait le massacre à l'information sauvage
+5. Souvent, en regardant des tutos youtube sur la psychologie, les rapports hommes-femmes, le coaching ou encore la séduction, je me dis que ces gens devraient avoir la décence de fermer leur gueule et de reconnaître que, il y a encore 6 mois, ils n'y connaissaient rien et buvaient mes contenus comme tout le monde
+6. Alors apprenez directement auprès de moi : en faisant sauter les intermédiaires vous allez gagner du temps
+7. &nbsp;
+
+
+
+
+
+
+
+
+
+
+Voir cette publication sur Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+Une publication partagée par MELISSA ISABELLE (@melissaisabellee)
+
+
+
+Comment savoir si une fille est intéressée : le décodeur ultime
+Dans cette journée « mono-thème », il sera question à 100 % de signes d'intérêt
+8. Matin, après-midi, nous passerons en revue le meilleur du meilleur du meilleur de la psycho-sociologie pour vous permettre, une bonne
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

@@ -13,6 +13,7 @@ programme: 5
 sections_annonce: 10
 points_annonce: 2
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 6
 citations: 2
 doublon_titre: non
@@ -97,7 +98,9 @@ Will, un ado débrouillard, quitte son milieu modeste pour s’installer chez so
 
 ### Synthèse : Elle voue une haine aux hommes, mais n'assume pas & supprime. Pas de bol je réuploade — wRo8FGZHphM — `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese`
 
-*podcast · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+*podcast / vidéoscopie · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
 - L'absence historique de la misandrie comme pensée structurée : contrairement à la misogynie documentée chez les plus grands penseurs, aucune figure intellectuelle majeure n'a produit de corpus misandre significatif — les citations sont absentes, les auteurs inexistants.
@@ -108,18 +111,21 @@ Will, un ado débrouillard, quitte son milieu modeste pour s’installer chez so
 
 ### Elle voulait le confort, elle a eu l'ennui — Étude de cas — `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Montrer son intérêt à un homme (2/2) — `Montrer-son-intérêt-à-un-homme,-pt.22-synthese`
 
-*podcast · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
+*podcast / vidéoscopie · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Konbini et le combat d'arrière-garde des femmes — `Video-2886bTU-5Yk-synthese`
 
-*podcast · `Video-2886bTU-5Yk-synthese.md`*
+*podcast / vidéoscopie · `Video-2886bTU-5Yk-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -128,6 +134,73 @@ Will, un ado débrouillard, quitte son milieu modeste pour s’installer chez so
 *« Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md » · origine : lien-declare*
 
 > Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+L'ascenseur social est un mythe moderne — la méritocratie affichée cache des mécanismes de reproduction sociale que l'intelligence sociale permet de comprendre et de contourner. Comprendre comment fonctionne réellement la mobilité sociale demande d'analyser les capitaux (économiques, sociaux, symboliques), les réseaux, et les stratégies de passage vers le haut.
+
+---
+
+### Points clés
+
+- L'ascenseur social n'existe pas dans l'absolu — il y a des mécanismes de blocage et des mécanismes d'ouverture
+- Les capitaux se convertissent : économique → social → symbolique
+- La preuve sociale est le mécanisme par lequel les classes sociales se reproduisent
+- L'intérêt (75/20/5) est le moteur des dynamiques de classe — bien plus que le mérite
+- Le discernement permet de voir les opportunités là où les autres voient des murs
+
+---
+
+### Concepts enseignés
+
+### Les capitaux selon Bourdieu (Framework)
+
+**Capital économique** : L'argent, les biens, les ressources financières. Le capital le plus visible mais pas le plus important.
+
+**Capital social** : Les réseaux, les relations, les connexions. Ce capital se transmet de génération en génération et决定 votre accès aux opportunités.
+
+**Capital symbolique** : Le prestige, l'honneur, la reconnaissance. Ce capital est le plus difficile à acquire et le plus durable.
+
+La conversion entre capitaux est le mécanisme central de l'ascenseur social — l'argent achète l'accès aux réseaux, les réseaux achètent le prestige.
+
+### La preuve sociale et la reproduction de classe
+
+Les classes supérieures maintiennent leur statut en transmettant leurs codes, leurs réseaux, leurs stratégies. La "culture générale" est un marqueur de classe qui permet de reconnaître les siens. Les gens imitent les comportements des autres dans leur classe — et sont excludes des classes supérieures s'ils n'ont pas les codes.
+
+### L'intérêt comme moteur (75/20/5)
+
+75% des comportements des classes supérieures visent l'intérêt économique, 15-20% l'émotionnel, 5% le moral. La philanthropie et les discours sur "l'excellence" cachent souvent des stratégies d'intérêt économique. Comprendre ces motivations permet de naviguer les dynamiques de classe.
+
+### Stratégies d'ascension
+
+1. **Accumulation des capitaux** : Commencer par le capital économique, puis convertir vers le social et le symbolique
+2. **Acquisition des codes** : Apprendre les codes culturels, vestimentaires, linguistiques de la classe cible
+3. **Networking stratégique** : Construire des relations avec des personnes des classes supérieures
+4. **Discernement** : Voir les opportunités là où les autres voient des barriers
+
+---
+
+### Exercices / Pratiques
+
+- **Audit de vos capitaux** : Évaluez votre capital économique, social et symbolique actuel — identify où vous pouvez progresser
+- **Cartographie sociale** : Identifiez les nœuds de pouvoir dans votre domaine et les chemins d'accès
+- **Acquisition des codes** : Observez les codes vestimentaires, linguistiques, comportementaux des classes supérieures que vous visez
+- **Le test de l'intérêt** : Analysez les comportements "désintéressés" de ceux qui vous entourent — quel est leur vrai intérêt ?
+- **Networking de qualité** : Construisez des relations authentiques avec des personnes qui ont les capitaux que vous souhaitez acquire
+
+---
+
+### Citations de Stéphane
+
+> "L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux."
+
+> "75% des comportements s'expliquent par l'intérêt économique, 15-20% par l'émotionnel/sexy, et 5% par le moral/symbolique."
+
+---
 
 ## Citations de l'auteur
 

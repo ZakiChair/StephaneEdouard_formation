@@ -13,6 +13,7 @@ programme: 26
 sections_annonce: 7
 points_annonce: 10
 documents_materiau: 1
+pages_developpement: 2
 idees_forces: 0
 citations: 3
 doublon_titre: oui
@@ -139,8 +140,150 @@ Femme mère et femme enfant : sauras-tu les reconnaître sur cette image
 
 ### Esther Villard - La manipulation dans les relations hommes-femmes — `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese`
 
-*podcast · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
+*podcast / vidéoscopie · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire logique des femmes
+
+*`web-actualite__17102_logique-des-femmes.html?preview=1.txt` · 1109 mots · archive de l'auteur*
+
+Référence :
+logique des femmes
+Nouveauté :
+vidéo LIVE (disponible en option)
+Déroulement :
+19 juillet 2014
+Enregistré :
+oui (audio)
+Prérequis :
+Objectifs :
+Découvrir le fruit des recherches de Stéphane sur l’essence féminine (F pure) afin de « dé-fantasmer » les femmes du quotidien et les faire descendre de leur piédestal
+Durée totale :
+journée
+Tarif :
+à partir de 75euros dans les commandes groupées et (nouveau) en fonction de la date de réservation
+Séminaires complémentaires recommandés :
+langage des femmes, l’amant idéal
+Vous êtes-vous déjà fait l’un des réflexions suivantes :
+Cette fille là ne devrait pas (ne peut pas) être avec ce type là !
+Comment a t-elle pu me dire [X], et dans la minute qui suit [Y] à quelqu’un d’autre (meilleure amie, confident)
+Comment ne peut-elle pas voir que [...]
+Comment peut-elle prendre une décision aussi importante, basée uniquement sur [...]
+Pourquoi dit elle A alors que c’est manifestement B qui est devant ses/nos yeux ?
+Pourquoi l’amitié homme-femme finit-elle toujours mal, à quelle échéance, et comment ?
+Comment une femme peut être la « femme de la vie » de 2 hommes totalement différents, et leur « correspondre“ totalement à chacun ?
+Pourquoi une femme peut se savoir très belle (car très demandée) et à la fois se sentir totalement
+insecure
+Pourquoi l’apparence extérieure (vêtements, apprêtement) tient-elle une place si importante chez F pure ?
+Pourquoi les femmes se croient toutes uniques, et entrent dans une rage folle dès lors que l’on cherche un dénominateur commun ? Pourquoi leur règle préférée est-elle « il n’y a pas de règle » ?
+Pourquoi les femmes détestent-elles la solitude ? Pourquoi est-ce plus une femme est féminine, plus elle est entourée ?
+Pourquoi plus de 90% des femmes affirment-elles déjà avoir été violentées/attouchées/etc., est-ce sociologiquement possible, et que peut-on en déduire si c’est faux ?
+etc. etc. (liste loin d’être exhaustive)
+Le séminaire ultime sur « F pure »
+Aussi appelée « l’essence féminine »
+Au cours de cette journée au format interactif où vous pourrez partager vos expériences personnelles (que vous soyez en salle avec nous ou bien en vidéo par
+tchat
+), vous entendrez des dizaines de
+révé
+
+### Courrier des lecteurs : logique des femmes et nutrition | Spike Séduction
+
+*`web-articles__20103_courrier-des-lecteurs-logique-des-femmes-et-nutrition.html.txt` · 466 mots · archive de l'auteur*
+
+Stéphane,
+Je suis actuellement en stage dans un cabinet de nutrition où j’apprends des techniques d’entretien motivationnel, les principes de base de l’alliance thérapeutique et d’une manière plus générale, tout ce qui me servira à mener des entretiens. Anorexie, boulimie, obésité, troubles du comportement alimentaire… je vois défiler pas mal de patientes et ce qui me frappe c’est que je vois dans ma pratique quotidienne des illustrations de
+tous tes séminaires
+Je ne t’apprends rien en effet si je te dis que le 95% de la clientèle des cabinets de thérapie (encore plus pour tout ce qui touche à l’alimentation) sont des femmes.
+De la manipulation à l’état pur
+, du langage et de la
+logique des femmes
+dans tous les sens,
+des secret agendas
+qui font froid dans le dos (j’essaie de ne pas trop penser au mari ou au conjoint dans l’histoire pour rester le plus professionnel possible)… Bref tu auras compris que les journées sont épuisantes donc j’ai trouvé le moyen de me changer les idées ce week end.
+Persol sur le nez, j’ai passé mon dimanche au volant d’une vieille Austin de 1932 magnifiquement restaurée par un passionné. N’importe qui devrait apprendre à rouler dans une telle voiture. Le jeu dans le volant, les sensations sur la route, les suspensions quasiment inexistantes, le klaxon d’époque, un vrai bonheur sur la route.
+Bonne semaine et à bientôt,
+Simon
+p.s.
+Le dernier podcast
+est top. Le video apporte une vraie valeur ajoutée. En témoigne le nombre de vue sur Youtube ;)
+Comment séduire : les 5 règles fondamentales
+Comment séduire une femme : de votre voisine de palier tout mignonne et qui vous plairait bien, à une inconnue abordée dans la rue, ou encore sur internet, les règles ne sont pas fondamentalement différentes.
+D'abord, vous aurez fait un grand pas lorsque vous aurez compris que la plupart de...
+lisez la suite
+Le contenu de nos articles est réservé à nos membres.
+Vous pouvez en faire partie gratuitement en indiquant votre email ci-dessous.
+Vous commencerez la lecture de l'article
+immédiatement après avoir validé.
+ACCEDER A L'ARTICLE
+Nous n'envoyons jamais de spam. jamais.
+Séminaire de mai : get lucky (fabriquez votre chance)
+en vente jusqu'au 31/05/2015 mi
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette formation explore la logique féminine selon les frameworks de Stéphane Édouard. Comprendre comment les femmes pensent, fonctionnent et interagissent est essentiel pour naviguer les relations amoureuses avec discernement. La logique féminine n'est pas une supériorité ou une inferiorité — c'est un système autonome de pensée et d'action qui diffère irréductiblement de la logique masculine (H pur). L'homme qui comprend cette logique évite les malentendus destructeurs et peut construire des relations authentiques.
+
+---
+
+### Points clés
+
+- La logique féminine opère différemment de la logique masculine — ce n'est pas une version dégradée de la raison
+- Les femmes utilisent le pouvoir émotionnel là où les hommes utilisent le pouvoir physique
+- L'incohérence féminine n'est pas un défaut mais un mécanisme de défense — c'est une nature, pas une contradiction
+- La disponibilité féminine (au sens de "vacances" — avoir une vie propre) est le véritable attracteur
+- Les femmes détiennent le pouvoir de sélection dans les relations — les hommes proposent, les femmes trient
+- L'essence féminine repose sur l'autonomie, pas sur la dépendance au regard masculin
+- L'amitié homme-femme est un oxymore — si tu es trop ami, tu deviens le "copain gay"
+
+---
+
+### Concepts enseignés
+
+### La logique féminine comme système autonome
+La femme ne fonctionne pas selon la logique masculine (étapes, cohérence linéaire, "pourquoi ?"). Elle est dans sa logique propre — différenciatrice, évalue tout en termes de connexion et d'émotion. L'homme qui demande "pourquoi ?" et attend une réponse cohérente commet l'erreur de projeter sa propre logique. Accepter cette différence, c'est comprendre que l'incohérence n'est pas un défaut — c'est une nature.
+
+### Le pouvoir émotionnel féminin
+Les femmes n'ont pas le pouvoir physique des hommes, donc elles utilisent le pouvoir émotionnel. C'est la logique de l'inclusivité par les ressources disponibles. Les leviers de manipulation féminine identifiés par Esther Villard : contrôle émotionnel, gratification intermittente (le chaud-froid), victimisation, chantage, alternances de comportement. Ces mécanismes ne sont pas des "défauts moraux" mais des outils forgés par l'évolution.
+
+### La disponibilité comme attracteur
+La vraie disponibilité féminine, c'est l'indépendance. Une femme qui a besoin d'un homme pour exister n'est pas disponible — elle est en demande. L'homme le sent et recule. La formule Beauté + Intelligence + Disponibilité = Constante révèle que les personnes qui cumulent ces trois qualités attirent davantage mais deviennent plus insaisissables. La "disponibilité" au sens de Stéphane, c'est avoir une vie propre, des intérêts, un remplissage — pas le vide.
+
+### La sélection féminine
+Ce sont les femmes qui disposent des propositions masculines et qui en évincent 80-90%. La sélection fonctionne à l'inverse de ce que disent les discours officiels. En réalité, les hommes proposent, les femmes trient. L'hypergamie féminine pousse les femmes à rechercher vers le haut dans la hiérarchie — économique et physique. Les hommes acceptent plus facilement des partenaires hypogames. Cette asymétrie structure les dynamiques relationnelles.
+
+### L'essence féminine
+La vraie valeur d'une femme ne réside pas dans son apparence mais dans sa profondeur. Une femme qui n'a que son apparence est comme un cadeau sans contenu — beautiful wrapping but nothing inside. L'essence féminine, c'est l'autonomie, pas la dépendance au regard masculin. Une femme qui "cherche un homme" n'a pas de vie — elle a un vide.
+
+---
+
+### Exercices / Pratiques
+
+- **Observer sans juger** : Quand une femme semble incohérente, ne pas chercher la contradiction mais demander : "Dans quelle logique est-elle ?" Accepter que sa logique n'est pas la vôtre.
+- **Évaluer la disponibilité** : Poser la question : "Cette femme a-t-elle sa propre vie, ses propres projets ?" Si son seul projet c'est vous, elle n'est pas disponible — elle est en demande.
+- **Repérer les leviers de manipulation** : Si votre partenaire utilise régulièrement la victimisation, le chantage, le chaud-froid, vous êtes probablement dans une dynamique de manipulation. Les actes révèlent la vérité, pas les paroles.
+- **Vérifier plutôt que croire** : Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux. Observer les comportements plutôt que les discours.
+- **Utiliser la répartition 75/20/5** : 75% des comportements visent l'intérêt économique, 15-20% l'émotionnel/sexy, 5% le moral/symbolique. Cette répartition doit guider votre analyse par défaut.
+
+---
+
+### Citations de Stéphane
+
+> "L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux."
+
+> "En logique des hommes, on vous perçoit comme une belle coquille vide."
+
+> "Une femme qui n'a pas besoin de vous pour exister est paradoxalement celle qui vous attire le plus — et celle qui vous échappe le plus facilement."
+
+---
 
 ## Citations de l'auteur
 

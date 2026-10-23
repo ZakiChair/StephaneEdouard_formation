@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 12
 documents_materiau: 4
+pages_developpement: 2
 idees_forces: 6
 citations: 0
 doublon_titre: non
@@ -152,12 +153,15 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 
 ### L'entraide entre femmes : un déficit historique — `L'entraide-entre-femmes-un-déficit-historique-synthese`
 
-*podcast · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
+*podcast / vidéoscopie · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : La "techno-gréviste" est la révélation de ce début d’année 2023 — o21lanW3u3E — `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese`
 
-*podcast · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
+*podcast / vidéoscopie · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
 - Contradiction retraite-climat : La techno-gréviste affirme un lien entre retraite et climat, mais ignore que la retraite actuelle repose sur les énergies fossiles (engrais, productivité, transports)
@@ -168,13 +172,15 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 
 ### Synthèse – OPtQxFnZFX4 — `Video-OPtQxFnZFX4-synthese`
 
-*podcast · `Video-OPtQxFnZFX4-synthese.md`*
+*podcast / vidéoscopie · `Video-OPtQxFnZFX4-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video xDk6c-sODgg — xDk6c-sODgg — `Video-xDk6c-sODgg-synthese`
 
-*podcast · `Video-xDk6c-sODgg-synthese.md`*
+*podcast / vidéoscopie · `Video-xDk6c-sODgg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -183,6 +189,85 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 *« La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md » · origine : lien-declare*
 
 > Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Si une femme est piégée dans son couple, c&#039;est pour CETTE raison
+
+*`web-articles__seduction-fondamentaux__22952_piegees-couple-vraies-raisons-lesquelles-femmes-malheureuses-restent-couple.html.txt` · 2330 mots · archive de l'auteur*
+
+Si les chiffres des divorces n’augmentent plus guère depuis une dizaine d’années (environ 130.000 par an, statistiques Insee), il faudrait pas pour autant se réjouir, en tous cas selon
+Jean-Claude Kaufmann
+, pour qui les femmes seraient de plus en plus malheureuses,
+piégées dans leur couple,
+par une mystérieuse force invisible les privant de leur libre arbitre et les empêchant de mettre fin à la torture de partager la vie (et le lit?) de celui qu’elles n’aiment plus. La même force invisible qui a empêché Jacqueline Sauvage de déposer plainte pour mauvais traitement avant de tirer à la carabine sur le dos de son mari? Nous allons (peut-être) le savoir dans son livre.
+Rappel
+Si la barbe ne fait pas le philosophe, la moustache fait-elle le sociologue? Penchons-nous sur le cas
+Jean-Claude Kaufmann
+, le seul sociologue qui réalise le tour de force d’être lu, commenté et discuté par une majorité de femmes (profil milieu de vie, clientèle femme actuelle et Jean-Jacques Salomé. Ma mère, quoi).
+Jean-Claude Kaufmann, le sociologue qui parle à l’oreille des femmes
+L’analyse de JC Kaufmann sur le piège du couple, et les raisons poussant Madame à rester sous le même toit que Monsieur
+déjà, il présuppose qu’elles veulent sincèrement, réellement, sans arrières pensées,
+partir
+, mais n’y parviennent pas. Ce qui amène immédiatement vers la première question logique: pourquoi? Dans la mesure où les femmes disposent – en occident tout du moins – de tous leurs droits fondamentaux à l’égal des hommes, par quel tour de force leur a-ton subtilisé le
+libre arbitre
+d’être maîtresse de leur destinée, et à qui profite le crime?
+Le couple serait une stratégie de renforcement mutuel de
+l’estime de soi
+et de la
+confiance en soi
+Le couple est une mécanique fragile déréglée/cassée par la routine (waouh, niveau concept, ça décoiffe)
+Si les femmes ne partent pas, c’est aussi, parfois, pour des raisons
+matérielles et de confort
+. Ne pas perdre la maison si patiemment décorée…
+… mais cette explication étant trop simple, il faut y substituer un beau wishful thinking à même de propulser l’ouvrage en tête
+des ventes sur Amazon
+(le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
+
+### 10 bonnes raisons (et 3 mauvaises) de préférer les femmes après 40 ans | Spike Séduction
+
+*`web-articles__20371_femmes-40-ans.html.txt` · 1587 mots · archive de l'auteur*
+
+Comprendre les femmes n’empêche pas de comprendre les hommes. Surtout qu’ils sont globalement plus simples, plus prévisibles, plus logiques. Et tout aussi prédéterminés génétiquement. A quoi? A aimer les femmes plus jeunes qu’eux, plus fertiles, et accessoirement très apprêtées. Bonjour Jean-Luc, si tu nous écoutes
+du fond de ton cachot
+De mon côté, les choses sont allées un peu différemment, sur ça et sur le reste. D’abord, je déteste les déterminismes, qu’ils soient sociaux, économiques, historiques, et même génétiques. Libre arbitre, discernement, goût personnel, qui m’aime me suive, etc.: ça a déjà plus de gueule.
+Ensuite, j’ai toujours plu aux femmes plus âgées. Les plus jeunes (qui deviennent chaque jour plus nombreuses, c’est la loi des nombres et du temps qui passe) me trouvent exigeant, moralisateur, râleur, et psycho-rigide. Une attirance qui, heureusement pour moi, n’est pas unilatérale. J’ai toujours trouvé que les femmes de 40 ans poutraient. Et maintenant, je vais expliquer pourquoi.
+Cette introduction, faite de phrases très courtes et hachée menue de ponctuation, est très étrange non ? Je veux dire, je n’écris pas comme ça, d’habitude, si ? Ainsi soit-il. Faisons le tour des raisons de
+préférer la femme dans sa quarantaine
+En commençant par dézinguer quelques lieux communs sans fondement (pléonasme)
+3 FAUSSES bonnes raisons de préférer les femmes de 40 ans
+Fausse
+bonne raison, 1. Elles seraient plus portées sur « la chose »
+Faux. L’envie de s(e faire) allonger est un paramètre entièrement personnel, qui varie plus selon les caractères que selon les âges de la vie. Sinon les maisons de retraite seraient remplies de nymphomanes, ce qui aux dernières nouvelles n’est pas exactement le cas. Même si.
+Fausse
+bonne raison, 2. Elles seraient toutes des « bons coups »
+De plus, ayant grandi dans des années 70 patriarcales et encore peu enclines à la féminisation de notre xxième siècle (et la réduction de la liberté au plaisir individuel, théorisée en son temps par qui-on-sait), les chances que leur maman se soit penchée sur leur clitoris pour leur en expliquer le mode d’emploi sont assez maigres, ignorant probablement elles-même son existence et ses fonction
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

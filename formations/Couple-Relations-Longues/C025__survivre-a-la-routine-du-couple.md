@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 12
 documents_materiau: 4
+pages_developpement: 1
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -148,23 +149,115 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 
 ### Je regarde le 2ème clip de Wejdene — `Je-regarde-le-2&egrave;me-clip-de-Wejdene-synthese`
 
-*podcast · `Je-regarde-le-2&egrave;me-clip-de-Wejdene-synthese.md`*
+*podcast / vidéoscopie · `Je-regarde-le-2&egrave;me-clip-de-Wejdene-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La résilience — `La-résilience-synthese`
 
-*podcast · `La-résilience-synthese.md`*
+*podcast / vidéoscopie · `La-résilience-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Survivre aux mensonges du nouveau monde : le discernement — `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese`
 
-*podcast · `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese.md`*
+*podcast / vidéoscopie · `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video xDk6c-sODgg — xDk6c-sODgg — `Video-xDk6c-sODgg-synthese`
 
-*podcast · `Video-xDk6c-sODgg-synthese.md`*
+*podcast / vidéoscopie · `Video-xDk6c-sODgg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Si une femme est piégée dans son couple, c&#039;est pour CETTE raison
+
+*`web-articles__seduction-fondamentaux__22952_piegees-couple-vraies-raisons-lesquelles-femmes-malheureuses-restent-couple.html.txt` · 2330 mots · archive de l'auteur*
+
+Si les chiffres des divorces n’augmentent plus guère depuis une dizaine d’années (environ 130.000 par an, statistiques Insee), il faudrait pas pour autant se réjouir, en tous cas selon
+Jean-Claude Kaufmann
+, pour qui les femmes seraient de plus en plus malheureuses,
+piégées dans leur couple,
+par une mystérieuse force invisible les privant de leur libre arbitre et les empêchant de mettre fin à la torture de partager la vie (et le lit?) de celui qu’elles n’aiment plus. La même force invisible qui a empêché Jacqueline Sauvage de déposer plainte pour mauvais traitement avant de tirer à la carabine sur le dos de son mari? Nous allons (peut-être) le savoir dans son livre.
+Rappel
+Si la barbe ne fait pas le philosophe, la moustache fait-elle le sociologue? Penchons-nous sur le cas
+Jean-Claude Kaufmann
+, le seul sociologue qui réalise le tour de force d’être lu, commenté et discuté par une majorité de femmes (profil milieu de vie, clientèle femme actuelle et Jean-Jacques Salomé. Ma mère, quoi).
+Jean-Claude Kaufmann, le sociologue qui parle à l’oreille des femmes
+L’analyse de JC Kaufmann sur le piège du couple, et les raisons poussant Madame à rester sous le même toit que Monsieur
+déjà, il présuppose qu’elles veulent sincèrement, réellement, sans arrières pensées,
+partir
+, mais n’y parviennent pas. Ce qui amène immédiatement vers la première question logique: pourquoi? Dans la mesure où les femmes disposent – en occident tout du moins – de tous leurs droits fondamentaux à l’égal des hommes, par quel tour de force leur a-ton subtilisé le
+libre arbitre
+d’être maîtresse de leur destinée, et à qui profite le crime?
+Le couple serait une stratégie de renforcement mutuel de
+l’estime de soi
+et de la
+confiance en soi
+Le couple est une mécanique fragile déréglée/cassée par la routine (waouh, niveau concept, ça décoiffe)
+Si les femmes ne partent pas, c’est aussi, parfois, pour des raisons
+matérielles et de confort
+. Ne pas perdre la maison si patiemment décorée…
+… mais cette explication étant trop simple, il faut y substituer un beau wishful thinking à même de propulser l’ouvrage en tête
+des ventes sur Amazon
+(le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Vous avez remarqué ? Désormais tout le monde est devenu sociologue, tout le monde est anthropologue, tout le monde est expert en sciences cognitives, tout le monde est [insérer la spécialité de votre choix] depuis qu'ils ont visionné 3 ou 4 vidéos sur Youtube sur le sujet. Sic. Mais vous savez quoi ? Laissons-les dire,… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Désormais tout le monde est devenu sociologue, tout le monde est anthropologue, tout le monde est expert en sciences cognitives, tout le monde est [insérer la spécialité de votre choix] depuis qu'ils ont visionné 3 ou 4 vidéos sur Youtube sur le sujet
+2. Laissons-les dire, laissons-les faire : il faut que jeunesse se passe…
+Et pourtant…
+Les hommes ne savent (toujours) pas QUOI FAIRE avec les femmes
+Oui, j'ose le répéter : les hommes ne savent pas quoi faire avec les femmes
+3. Au risque de simplifier un peu, c'est vrai et je l'ai vérifié à des centaines, à des milliers de reprises : vous voulez une/des femme(s) dans votre vie, vous mettez en place tout un tas d'actions et d'investissements pour leur faire comprendre que vous êtes le bon (l'homme propose, la femme dispose : c'est la loi du marché), mais quand vous les avez, vous n'en faites plus rien d'intéressant
+4. La vie fantasmatique d'un homme seul est bien plus riche que la vie réelle d'un homme en relation
+Des scénarii osés, pour des rencontres mémorables
+Beaucoup trop d'hommes n'ont qu'un panel d'activités trop limité à proposer à une femme, dont 80% consiste à boire où à manger assis dans un lieu clos
+boire un café
+boire un verre
+boire un verre + dîner
+boire un verre + dîner + boire un verre
+Une amie 
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 2
 documents_materiau: 6
+pages_developpement: 1
 idees_forces: 39
 citations: 0
 doublon_titre: oui
@@ -145,7 +146,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse : 4000💶/month = middle class: #Bayrou sweating on RTL — xUtLFQzjJA0 — `4000💶month-=-middle-class-#Bayrou-sweating-on-RTL-synthese`
 
-*podcast · `4000💶month-=-middle-class-#Bayrou-sweating-on-RTL-synthese.md`*
+*podcast / vidéoscopie · `4000💶month-=-middle-class-#Bayrou-sweating-on-RTL-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 4000€ net = ~3300€ après impôts, simulation faite sur la base d'un célibataire sans enfants avec un taux marginal standard
 - À 4000€/mois, on se situe dans les 5% les plus aisés de la population française, pas dans la classe moyenne
@@ -156,7 +159,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse – JzQUVZfi95k — `Cette-députée-F.I-qu'il-ne-fallait-surtout-pas-dessiner-!-synthese`
 
-*podcast · `Cette-députée-F.I-qu'il-ne-fallait-surtout-pas-dessiner-!-synthese.md`*
+*podcast / vidéoscopie · `Cette-députée-F.I-qu'il-ne-fallait-surtout-pas-dessiner-!-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Paradoxe du panafricanisme : Les Noirs qui réussissent n'aident plus les autres, la solidarité disparaît dès qu'il y a ascension sociale. L'auteur cite des exemples concrets.
 - Critique de la gauche radicale : « L'intelligentsia se sent redevable à la classe laborieuse immigrée » — flatterie des instincts les plus bas, promotion de comportements asociels.
@@ -165,7 +170,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -176,11 +183,15 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ### SYNTHESE - 0FlUCFoxtfE — `Le-couple-le-plus-agaçant-de-l'année-synthese`
 
-*podcast · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+*podcast / vidéoscopie · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les gens qui disent ne pas être stéréotypés sont souvent les plus stéréotypés.
 - Le pseudo-arcdeuxième tour : "je ne discrimine personne" → "donc tout le monde peut me plaire" = faille logique.
@@ -191,11 +202,15 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 - Logique et Argumentation
 - Intelligence Sociale
 
+**Son verdict**
+
 > "On ne peut pas tout avoir : refuser les stéréotypes et vivre en consumériste. Le vrai courage c'est d'assumer ce qu'on est."
 
 ### Synthèse : Trump VS Biden 1-1 — y0l8asQJ4Fo — `Trump-VS-Biden-1-1-synthese`
 
-*podcast · `Trump-VS-Biden-1-1-synthese.md`*
+*podcast / vidéoscopie · `Trump-VS-Biden-1-1-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Un débat unanimement jugé ennuyeux : La plupart des commentateurs, toutes tendances confondues, ont qualifié ce débat de "the worst" — le pire de tous les débats américains à ce jour.
 - L'erreur fondamentale de Trump : Le candidat sortant s'est adressé au public derrière la caméra au lieu de son interlocuteur, commettant une faute de basics pour un professionnel rompu à l'exercice télévisuel.
@@ -206,8 +221,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse – VWOdU4c3R2o — `Video-VWOdU4c3R2o-synthese`
 
-*podcast · `Video-VWOdU4c3R2o-synthese.md`*
+*podcast / vidéoscopie · `Video-VWOdU4c3R2o-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -228,6 +244,94 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 *« La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md » · origine : lien-declare*
 
 > "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Inner-game et life-style : changez de vie
+
+*`web-articles__1022_changer-de-vie.html.txt` · 283 mots · archive de l'auteur*
+
+L’équipe
+Inner-game et life-style : changez de vie
+Pourquoi nous contentons-nous trop souvent d’
+exister
+au lieu de
+vivre
+? Il faut se donner les moyens d’apprécier tout ce que l’on fait pour constater avec ravissement le rayonnement de la pleine possession de soi. Soyez l’excellence
+de votre quotidien, l’habitude vous paraîtra plus légère, et la légèreté sera l’envol de vos plus hautes attentes. Donnez au sublime le moyen de se répandre et d’écourter les plats regrets et les vains remords, le plaisir n’en sera que plus grand et la grandeur moins amère. Vous trouverez dans cet article quelques petites idées pratiques pour que votre vie soit plus à l’image de votre volonté et pour que votre volonté soit la cause de votre image.
+La suite
+De l'importance de l'énergie en séduction (préambule)
+Pourquoi suivre un atelier séduction, par Alexandre, partie II
+C'est par là que ça se passe
+How to be a PUA, par Juggler
+Pas encore de commentaire.
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face=""> <i> <li> <ol> <strike> <strong> <sub> <sup> <ul>
+Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+Spike choisi par France 2 parmi
+et par M6 pour
+66 minutes
+aux cotés de Mystery
+Pensée de février : retour sur mon changement de vie
+Lifestyle : cadeau
+La séduction pour les nuls : jeudi
+Juste un détail par rapport au look: je rajo...
+salut
+Très très bon article, j'aime le style de l...
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Pourquoi si peu de contenus sur l'image dans ce catalogue de formations ? Plusieurs raisons à cela : 1. Une raison de hiérarchie Comme le montrent dans Paris les groupuscules extrémistes de modeux de ce qu’il est convenu d’appeler la semaine de la mode (fashion week), le rôle du contenant ne doit jamais dépasser celui du contenu…. 
+
+Read More
+
+---
+
+### Points clés
+
+1. Pourquoi si peu de contenus sur l'image dans ce catalogue de formations
+2. Une raison de hiérarchie
+Comme le montrent dans Paris les groupuscules extrémistes de modeux de ce qu’il est convenu d’appeler la semaine de la mode (fashion week), le rôle du contenant ne doit jamais dépasser celui du contenu
+3. Le statut d’homme sexué et intéressant – tel que nous le concevons – s’accompagnant mal de celui d’huître creuse passant tout son temps libre à disserter sur les blogs du mercato des maisons de couture
+4. Une raison de diversité
+Comme vous le savez probablement si vous suivez le site depuis un certain temps, les séminaires ne sont pas répétés à l’infini, comme un prof d’université qui aurait préparé son cours une bonne fois pour toutes en début de carrière et se contenterait d’en ressortir les feuillets en chaque début d’année, ne changeant pour l’occasion que de slip et de chaussettes
+5. (Les profs, pour une raison qui ne m’est pas très claire, aiment porter les mêmes vêtements longtemps
+6. J’avais un prof de maths, Mr Vanhule, qui n’avait que 2 pulls, et on n’était jamais bien sûr du jour où il substituait l’un à l’autre, car les deux étaient couverts par de la barbe, de la poussière de craie et des poils de chat)
+7. Mr Vanhule entouré de ses élèves, lycée Thierry Maulnier, Nice, 1995
+3
+8. Une raison d’expérience
+Nos séminaires ne s’appuyant pas sur une simple étude « académique » d’un sujet (ce qu
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

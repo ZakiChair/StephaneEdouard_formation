@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 6
 points_annonce: 10
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 22
 citations: 0
 doublon_titre: oui
@@ -125,22 +126,27 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 
 ### Développe ta force mentale et prépare-toi aux combats de la vie — `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese`
 
-*podcast · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
+*podcast / vidéoscopie · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La résilience — `La-résilience-synthese`
 
-*podcast · `La-résilience-synthese.md`*
+*podcast / vidéoscopie · `La-résilience-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Konbini et le combat d'arrière-garde des femmes — `Video-2886bTU-5Yk-synthese`
 
-*podcast · `Video-2886bTU-5Yk-synthese.md`*
+*podcast / vidéoscopie · `Video-2886bTU-5Yk-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Vous n'êtes pas prêts à rejoindre ce camp de masculinité — y9swYuM4_Jw — `Vous-n'êtes-pas-prêts-à-rejoindre-ce-camp-de-masculinité-synthese`
 
-*podcast · `Vous-n'êtes-pas-prêts-à-rejoindre-ce-camp-de-masculinité-synthese.md`*
+*podcast / vidéoscopie · `Vous-n'êtes-pas-prêts-à-rejoindre-ce-camp-de-masculinité-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La symbolique du tipi comme miroir inversé : Là où les Castors Juniors utilisaient le tipi comme jeu d'enfant, ces adultes en âge de procréer cherchent dans ce même espace un réconfort qu'ils n'arrivent plus à trouver ailleurs — révélant une régression vers la horde primitive.
 - L'orthopraxie comme nouvelle religiosité : L'interdiction de viande et d'alcool dans ces cercles n'est pas anodine. C'est le propre des religions que de proposer des interdits alimentaires. Ces stages sont des substituts isés de la transcendance, une spiritualité sans église.
@@ -151,7 +157,9 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 
 ### SYNTHESE - Eu9WHLDaFgE — `Yseult-=-césar-2021-de-la-pleurniche-synthese`
 
-*podcast · `Yseult-=-césar-2021-de-la-pleurniche-synthese.md`*
+*podcast / vidéoscopie · `Yseult-=-césar-2021-de-la-pleurniche-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les parents de Jordana : père cadre supérieur automobile + mère infirmière = 12-15K€/mois, Mercedes, sacs Chanel
 - Rebutation de l'empathie collective pour des groupes (l'empathie est individuelle)
@@ -161,6 +169,8 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 - Suggestion sarcastique : qu'elle aille se plaindre au président camerounais à l'hôtel Intercontinental de Genève
 - La underbite narrative : victimisation comme stratégie
 - La confusión mentale entre combat féministe, indigéniste, et wokisme
+
+**Son verdict**
 
 > "Elle s'empare de plus de combats qu'elle ne peut porter — elle n'a ni le talent de Lucchini ni la finesse de Berre"
 
@@ -177,6 +187,58 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 *« Yseult-=-césar-2021-de-la-pleurniche-synthese.md » · origine : lien-declare*
 
 > Les parents de Jordana : père cadre supérieur automobile + mère infirmière = 12-15K€/mois, Mercedes, sacs Chanel
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Lors du webinar « ne rien lâcher », vous avez pu goûter à mon concept de force mentale . Aujourd'hui, dans ce « vrai » séminaire « physique », je vous propose d'aller encore plus loin. Car entre les deux, j'ai vécu du lourd. Et quand je vis du lourd, j'encaisse, je digère, je conceptualise et je vous le retranscris. Je… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Lors du webinar « ne rien lâcher », vous avez pu goûter à mon concept de force mentale
+2. Aujourd'hui, dans ce « vrai » séminaire « physique », je vous propose d'aller encore plus loin
+3. Et quand je vis du lourd, j'encaisse, je digère, je conceptualise et je vous le retranscris
+4. Je n'y peux rien, c'est mon fonctionnement interne : faire partager, comprendre, ressentir les choses qui m'arrivent
+5. Au passage, j'en profite pour vous remercier d'avoir permis à Mat-consulting de voir son chiffre croître
+6. J'ai déjà versé le surplus à une association caritative, soit dit au passage
+7. Pour ceux qui penseraient que je vis pour l'argent : je vis chichement
+8. Pourquoi développer sa force mentale et se préparer au combat
+Parce que l'aptitude à monter au front de face (1), c'est la définition même de H pur, et ce qui le différencie de F
+« J'ai détesté chaque minute d'entraînement, mais j'ai dit : n'abonne pas
+9. Souffre maintenant et vie le reste de ta vie comme un champion »
+(1) sans appeler à l'aide, sans faire de sous-entendus, sans appeler à l'aide ses parents / l'instituteur / le patron / la police, sans faire des pétitions comme une fiotte, bref sans compter systématiquement sur les autres pour régler ses problèmes
+Tu crois ne pas avoir de combats qui t'attendent
+10. J'en ai encore eu la démonstration ce matin avec un voisin qui a installé son moteur
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

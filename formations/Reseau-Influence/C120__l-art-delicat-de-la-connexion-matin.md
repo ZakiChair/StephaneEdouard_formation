@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 8
 points_annonce: 8
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -131,8 +132,9 @@ Comme d’habitude. Puis vous pratiquerez, observant le monde avec une grille de
 
 ### Synthèse : McKinsey Affair: A State Scandal? — `McKinsey-Affair-A-State-Scandal-synthese`
 
-*podcast · `McKinsey-Affair-A-State-Scandal-synthese.md`*
+*podcast / vidéoscopie · `McKinsey-Affair-A-State-Scandal-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -141,6 +143,30 @@ Comme d’habitude. Puis vous pratiquerez, observant le monde avec une grille de
 *« Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md » · origine : corpus*
 
 > Thème central Analyse des stratégies féminines pour signaler un intérêt romantique à un homme. Stéphane évalue plusieurs techniques (l'amitié comme prétexte, le tango, les cartes de visite, les cadeaux, la confrontation directe) et conclut que la simplicité et la sincérité l'emportent sur les stratégies complexes.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

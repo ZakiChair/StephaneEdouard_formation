@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 5
 documents_materiau: 4
+pages_developpement: 3
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -105,12 +106,15 @@ Au cour de cette journée, vous allez en apprendre, dans un langage aussi clair 
 
 ### Synthèse : Islamo-Gauchisme - Fermons les facs de sociologie — `#IslamoGauchisme-let's-start-by-closing-the-sociology-faculties-synthese`
 
-*podcast · `#IslamoGauchisme-let's-start-by-closing-the-sociology-faculties-synthese.md`*
+*podcast / vidéoscopie · `#IslamoGauchisme-let's-start-by-closing-the-sociology-faculties-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – Vidéoscopie AfNMYWhL5iU — `Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese`
 
-*podcast · `Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese.md`*
+*podcast / vidéoscopie · `Critique-de-l'auto-satisfaction-des-experts-anti-féministes-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'autosatisfaction : "Stéphane et Edouard, tout leur contenu c'est dire 'j'ai raison depuis 15 ans'"
 - L'effet de rattrapage : Ce n'est pas un exploitsuprême de pointer du doigt un "bug civilisationnel" quand tout le monde peut le voir
@@ -119,12 +123,15 @@ Au cour de cette journée, vous allez en apprendre, dans un langage aussi clair 
 
 ### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+*podcast / vidéoscopie · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*podcast · `Video-vvh8wAYHRBw-synthese.md`*
+*podcast / vidéoscopie · `Video-vvh8wAYHRBw-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 - La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
@@ -146,6 +153,134 @@ Au cour de cette journée, vous allez en apprendre, dans un langage aussi clair 
 *« Video-vvh8wAYHRBw-synthese.md » · origine : lien-declare*
 
 > L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Voyage dans le monde de la psycho-sociologie : comprendre les gens | Spike Séduction
+
+*`web-actualite__19022_comprendre-les-gens.html.txt` · 951 mots · archive de l'auteur*
+
+Référence :
+comprendre les gens
+Difficulté (sur 5) :
+***
+Enregistré :
+oui
+Prérequis :
+–
+Objectifs :
+rattraper en une journée ce que votre scolarité aurait dû vous apprendre sur la psychologie et la sociologie
+Durée totale :
+journée
+Tarif :
+à partir de 75euros dans les commandes groupées
+Séminaire(s) complémentaire(s) recommandé(s) :
+logique des femmes
+Un petit théâtre de 50 places remplace l’habituelle « salle de séminaire »
+« L’humanité est ainsi, il ne s’agit pas de la
+changer
+, mais de la
+connaître
+. » – Flaubert
+2ème séminaire de l’année 2015 : 1ère immersion dans le monde passionnant de la psycho-sociologie !
+Axiome 1
+Vous avez appris des milliers de choses à l’école, au collège, au lycée, à la faculté, en « grande école », en école d’art, ou ailleurs.
+Sur ces milliers, voire ces dizaines de milliers, combien concernaient
+la compréhension de l’être humain ?
+Réponse : une poignée. Peut-être même pas. Zéro ?
+Axiome 2
+La plupart des gens s’estiment « au dessus de ça ». Ils estiment
+ne pas avoir besoin d’apprendre
+les mécanismes qui les régissent :
+Parce que, justement, ils refusent l’idée d’être régis par un autre mécanisme qu’eux-mêmes (c’est idiot : la liberté absolue est à la fois une utopie et un désespoir si jamais elle venait à se réaliser)
+Parce qu’en sciences humaines, contrairement à la chirurgie, la mécanique ou l’informatique, ils pensent tout savoir sans rien avoir étudié (« je connais les femmes, j’en suis une » / « je connais les hommes, j’en suis un ». Ben voyons)
+Parce qu’ils estiment ces études et ces recherches superflues, pensant que tout le monde
+a priori
+, raisonne avec le même matériel
+logique
+idéo-logique
+qu’eux-mêmes. D’où les fameux grands maux de la société : – a – l’ « incompréhension », – b – les « malentendus » et – c – le « manque de communication » »
+Mais si vous lisez SpikeSed, alors vous êtes plus intelligents que la moyenne (ce n’est pas de l’auto flagornerie, c’est un fait, confirmé année après année). Et les gens intelligents savent qu’ils n’ont pas la « science infuse ». De plus, comme vous êtes venus parce que vous vous intéressez à la séduction, vous avez
+une soif plus globale de comprendre
+les mécanismes inconscients qui
+
+### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+
+*`web-actualite__5347_seminaire-developpement-personnel-2.html.txt` · 1111 mots · archive de l'auteur*
+
+Tout ce que vos parents auraient dû vous apprendre  (...)
+Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+Rien. Non, rien de rien. Ce séminaire n’a rien de commun avec les séminaires Spikeséduction habituels, dont vous avez été plusieurs milliers à travers les années à reconnaître la qualité et la pertinence en matière de relations hommes-femmes, de séduction, mais aussi de cette relation à vous-même qu’il est convenu d’appeler développement personnel  (voir
+témoignages
+).
+Problématique
+Vous le savez (surtout si vous avez lu
+You can always get what you want
+), le bagage parental et scolaire détermine grandement votre trajectoire, que ce soit sociale, professionnelle ou affective. C’est un fait. En clair, c’est de la combinaison « maman-papa-école » que naissent beaucoup de croyances limitantes, de peurs de l’inconnu, de rationalisations, bref, de bornes que vous mettez à votre destin.
+Des millions de gens n’ont jamais pris la peine d’y réfléchir, ne serait-ce que pendant les quelques instants que vous mettez à lire cet article. Certains (et je l’espère, beaucoup parmi vous) en ont déjà un début de conscience. Mais si je peux me permettre, avoir
+conscience
+des choses, c’est bien joli, mais, prise seule, la conscience ne vous avancera pas bien loin.
+Un moustachu célèbre disait il n’y a pas si longtemps qu’il fallait « philosopher à coups de marteau ». Pour devenir quelqu’un et ne pas subir sa vie, c’est au marteau…piqueur (!) qu’il faut passer son éducation, et dynamiter toutes les croyances limitantes que l’on nous a tatouées partout sur le corps depuis la naissance, en termes
+de vie sociale (vous apprendrez pendant cette journée à casser votre cercle et à rentrer dans celui des gens intéressants
+de vie professionnelle (vous apprendrez pendant cette journée que ce qui paye est souvent ce qui est interdit… mais quoi ?!?
+et bien sûr… de vie amoureuse (vous découvrirez en quoi les gens font le contraire de ce qu’ils disent/conseillent, et comment l’utiliser à votre avantage)
+Programme de la journée
+(Liste non exhaustive. Comme d’habitude, vous recevrez plus que ce que vous étiez venus chercher)
+Matinée  (10h-13h)
+A – Apprendre à se conn
+
+### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+
+*`web-articles__5338_seminaire-developpement-personnel-2.html.txt` · 1111 mots · archive de l'auteur*
+
+Tout ce que vos parents auraient dû vous apprendre  (...)
+Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+Rien. Non, rien de rien. Ce séminaire n’a rien de commun avec les séminaires Spikeséduction habituels, dont vous avez été plusieurs milliers à travers les années à reconnaître la qualité et la pertinence en matière de relations hommes-femmes, de séduction, mais aussi de cette relation à vous-même qu’il est convenu d’appeler développement personnel  (voir
+témoignages
+).
+Problématique
+Vous le savez (surtout si vous avez lu
+You can always get what you want
+), le bagage parental et scolaire détermine grandement votre trajectoire, que ce soit sociale, professionnelle ou affective. C’est un fait. En clair, c’est de la combinaison « maman-papa-école » que naissent beaucoup de croyances limitantes, de peurs de l’inconnu, de rationalisations, bref, de bornes que vous mettez à votre destin.
+Des millions de gens n’ont jamais pris la peine d’y réfléchir, ne serait-ce que pendant les quelques instants que vous mettez à lire cet article. Certains (et je l’espère, beaucoup parmi vous) en ont déjà un début de conscience. Mais si je peux me permettre, avoir
+conscience
+des choses, c’est bien joli, mais, prise seule, la conscience ne vous avancera pas bien loin.
+Un moustachu célèbre disait il n’y a pas si longtemps qu’il fallait « philosopher à coups de marteau ». Pour devenir quelqu’un et ne pas subir sa vie, c’est au marteau…piqueur (!) qu’il faut passer son éducation, et dynamiter toutes les croyances limitantes que l’on nous a tatouées partout sur le corps depuis la naissance, en termes
+de vie sociale (vous apprendrez pendant cette journée à casser votre cercle et à rentrer dans celui des gens intéressants
+de vie professionnelle (vous apprendrez pendant cette journée que ce qui paye est souvent ce qui est interdit… mais quoi ?!?
+et bien sûr… de vie amoureuse (vous découvrirez en quoi les gens font le contraire de ce qu’ils disent/conseillent, et comment l’utiliser à votre avantage)
+Programme de la journée
+(Liste non exhaustive. Comme d’habitude, vous recevrez plus que ce que vous étiez venus chercher)
+Matinée  (10h-13h)
+A – Apprendre à se conn
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

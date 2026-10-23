@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 5
 documents_materiau: 2
+pages_developpement: 2
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -141,13 +142,124 @@ C’est surprendre et charmer une quasi inconnue en lui dévoilant son _secret 
 
 ### Le secret derrière ces millions de femmes seules est si bête que c'en est gênant — `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese`
 
-*podcast · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
+*podcast / vidéoscopie · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
 
-*podcast · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
+*podcast / vidéoscopie · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire secret agenda
+
+*`web-actualite__16365_secret-agenda.html?preview=1.txt` · 1077 mots · archive de l'auteur*
+
+Décodez le secret agenda des femmes
+Commandez le séminaire
+Commandez le séminaire
+Référence :
+(en français : plan de vie secret)
+Déroulement :
+29 mars 2014
+Enregistré :
+oui
+Prérequis :
+Objectifs :
+décoder les projets non exprimés de toute femme afin de vous donner le
+choix
+vis à vis de l’avenir de cette relation
+Durée totale :
+journée
+Tarif :
+150€ la demi-journée puis dégressif avec le nombre de demi-journées commandés
+Séminaires complémentaires recommandés :
+relations longues ii : typologie de femmes,
+relations longues iii : 100 jours
+Ecoutez des extraits
+Secret agenda - extrait 1
+[ 4:37 ]
+Secret agenda - extrait 2
+[ 5:14 ]
+D’après mes statistiques internes, la problématique la plus souvent abordée sur le forum ces derniers mois… le
+(plan de vie). Hasard ? Bien sûr que non.
+Rappel :
+Ca n’est pas contre vous, mais une femme est physiologiquement concue pour « graver dans le marbre » une hiérarchie de priorités , même si elle ne s’en rend pas compte. Et si elle s’en rend compte, elle ne vous le dira pas. Il n’y a pas (forcément) méchanceté ou manipulation, juste de la psychologie. »
+Exemples de ces décisions/priorités
+Combien d’enfants elle aura,
+A quel âge,
+Avec qui (typologie d’homme),
+Où elle vivra (ville/pays, appartement/maison),
+Comment elle subsistera (salariat, entrepreunariat, femme au foyer, escorting, héritages, etc.)
+Si vous ignorez les réponses à toutes ces questions, c’est comme si vous boxiez les yeux fermés… Vous n’allez pas aller loin.
+Pourquoi un séminaire sur le
+Problématique 1 : du pain & des jeux
+Comme l’ont montré d’autres observateurs avisés avant moi, la société n’a jamais été aussi frivole… en apparence, et en apparence seulement, car dans l’âpre réalité des rencontres (qu’elles soient diurnes, nocturnes, ou sur Internet), les femmes utilisent le déséquilibre démographique en leur faveur (trop d’hommes, trop disponibles tout le temps) pour faire des choix basés uniquement sur leur
+plan de vie
+Problématique 2 : des jeux ? Quels jeux ?
+Le
+de la femme, c’est plus qu’une volonté, qu’un souhait ou qu’un désir. Elle va vraiment
+tout
+faire pour que cela se produise. Sauf accident, ou rencontre avec un homme susceptible de l’infléchir.
+Problémati
+
+### La théorie du stylo ou le secret de ceux qui y arrivent
+
+*`web-articles__7075_apprendre-a-seduire-4.html.txt` · 1151 mots · archive de l'auteur*
+
+Je sais que mon article va encore en agacer une poignée, et je sais aussi que ce sont les seuls qui écrivent pour se plaindre. Je vais donc leur épargner la peine de chercher l’adresse, il s’agit de reclamations @ spikeseduction.com.
+Vous me direz, ce n’est pas particulièrement difficile à deviner, rien ln’étant moins toléré que la remise en cause des  principes de notre éducation. Essayez donc de dire à un type gros qu’il mange mal, il vous répondra que c’est dans les gènes et que les gênes sont de ces choses qu’on ne critique pas. Quant à une femme, n’y pensez même pas. Mais ce n’est pas de gras qu’il s’agit aujourd’hui, ce sera pour une autre fois. Si ce n’est déjà fait.
+Il est 7h08 du matin et je vous écris depuis le Ferry reliant Athènes à Santorini, où je ne parviens pas à déterminer, des croissants grecs ou du décorateur de la cabine, lesquels ont plus mauvais goût. Sur la tablette pliante devant moi, mon mc book air, le jus de 3 oranges pressées par une machine dont le fonctionnement semble reproduire en modèle réduit le principe du toboggan d’un parc aquatique, ainsi qu’une pile de hiéroglyphes sur parchemin ancien. A la différence près que ce ne sont pas des parchemins mais un bloc notes de marque Oxford. Et pas des hiéroglyphes mais bien l’écriture de mon voisin.
+Un voisin contrariant
+Il y a des gauchers contrariés, peut-être des droitiers contrariés (l’esprit de contredire la contradiction, sans doute), mais le plus probable était le dit voisin n’ait pas été contrarié du tout. Il écrivait avec l’application de ces gens qui passent contre votre gré une éponge de graisse et d’eau savonneuse sur votre pare brise pendant que vous attendez au feu rouge, c’est à dire aucune application du tout. Il écrivait vraiment, délibérément mal. J’ignore si ses notes avaient pour but d’être relues – probablement pas, fut-ce par lui – mais je n’arrivais pas à détourner mon attention. Je fais mes
+n
+comme mes
+m
+, et mes
+t
+comme des
+p
+, mais lui faisait ses
+n
+parfois comme des
+r
+, la fois suivante comme des
+z
+, puis comme des signes n’ayant jamais été recensés auparavant dans notre univers. Et quant à ceux que j’entends se dire
+« normal, il est grec »
+, la réponse est non
+
+
+- il s’agit là de la vraie humilité, pas celle dont certains me reprochent – à tort – de manquer
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

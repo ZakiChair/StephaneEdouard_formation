@@ -13,6 +13,7 @@ programme: 18
 sections_annonce: 2
 points_annonce: 6
 documents_materiau: 0
+pages_developpement: 1
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -92,6 +93,79 @@ Je dois vraiment vous le dire ? Bon, allez :
 - Technique pour être heureux, #5 : ajuster son aspiration comme un aspirateur
 - Technique pour être heureux, #6 : l’unanimisme
 - Technique pour être heureux, #7 : verbaliser
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Au bonheur des dames
+
+*`web-articles__886_au-bonheur-des-dames.html.txt` · 321 mots · archive de l'auteur*
+
+Conseil séduction - Relooking homme
+Au bonheur des dames
+Vous êtes vous déjà retrouvé, à 4 heures du matin, en bras de chemises, dans le froid, à la porte (close) d'un hôtel, alors que des bras chauds et accueillants vous attendent 5 étages plus haut, et le tout
+rue des mauvais garçons
+? Ca ne s'invente pas, et ça fera partie des histoires que je raconterai à mes petits enfants. Lisez comment tout a commencé,
+sur le forum
+Cette fille dans le métro...(suite) : repérer ses signes d...
+Shopping vêtements : l’affaire Ebay du jour (M.a.J 11 mai...
+La femme et le pantin
+Confessions d'un dragueur, d'Alain Soral, en intégralité
+La femme et le pantin
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face=""> <i> <li> <ol> <strike> <strong> <sub> <sup> <ul>
+Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+Forum séduction et relooking
+Forum séduction et relooking
+Pour ceux qui aiment les forums séduction actifs et à taille humaine :
+Best-of des articles look >>
+Best-of des articles séduction >>
+Prochains évènements
+Séminaire body-langage >>
+Atelier dream job >>
+Séminaire bootcamp >>
+Conseil séduction au téléphone
+Besoin d'un conseil séduction ou relation longue, sans attendre ?
+Appelez Spike >>
+Ecoutez le témoignage d'un participant au relooking
+Giuliano Fujiwara, la boutique qui se fout de votre gueule
+Veuillez nous excuser
+Nouveau : le relooking en solo
+On en apprend beaucoup dans ce livre, comment...
+Bonojur à tous,
+Peut-être ai-je mal lu mai...
+votre site promet mais  malheureusement je ne...
+Séduction à lire ou à relire
+Draguer sur MSN, les 7 commandements, partie II (par The Ker...
+Hitch, expert en séduction ?
+Séduction : du timide au tombeur (from AFC to PUA)
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Réflexion philosophique sur le bonheur declaré vs le bonheur authentique, et méfiance envers ceux qui ont besoin de hurler leur bonheur face caméra.
+
+### Points clés
+
+- Citation de Romain Gary : "Les gens les plus heureux qu'il avait rencontrés étaient parfois des cordonniers avec des activités simples et solitaires"
+- Ces personnes n'auraient jamais besoin de déclarer explicitement qu'ils sont heureux
+- Méfiance face aux gens qui ont besoin d'hurler leur bonheur face caméra
+- "Les mots assénés, je m'en méfie"
+- Le bonheur authentique ne se déclare pas, il se ressent et se v
+
+### 8AQZQ5cqIiU-synthese
+# Synthèse — That time I found myself (unexpectedly) debating with the spokesperson for the National Front
+
+**Video ID**: 8AQZQ5cqIiU
+**URL**: https://www.youtube.com/watch?v=8AQZQ5cqIiU
+
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 12
 documents_materiau: 4
+pages_developpement: 1
 idees_forces: 24
 citations: 0
 doublon_titre: oui
@@ -152,12 +153,15 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 
 ### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
 
-*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+*podcast / vidéoscopie · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : La "techno-gréviste" est la révélation de ce début d’année 2023 — o21lanW3u3E — `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese`
 
-*podcast · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
+*podcast / vidéoscopie · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
 - Contradiction retraite-climat : La techno-gréviste affirme un lien entre retraite et climat, mais ignore que la retraite actuelle repose sur les énergies fossiles (engrais, productivité, transports)
@@ -168,7 +172,9 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 
 ### Synthèse : Les “jeunes” avec #Hidalgo2022 ! 🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳 — tLRSQbAi6q4 — `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese`
 
-*podcast · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+*podcast / vidéoscopie · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'effet de communication : Hidalgo aurait changé de position sur le rassemblement de la gauche entre le matin et le soir de la même journée, suggérant une stratégie improvisée
 - La question du timing : L'analyse ironique des trois mois de campagne déjà écoulés sans percée notable
@@ -180,7 +186,9 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 
 ### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
 
-*podcast · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+*podcast / vidéoscopie · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
 - L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
@@ -190,6 +198,8 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 - L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
 - *Lien avec formations** :
 - École des Hommes (rapport au corps, dynamiques Hommes/Femmes)
+
+**Son verdict**
 
 > "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
 
@@ -212,6 +222,66 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 *« Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md » · origine : lien-declare*
 
 > Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Si une femme est piégée dans son couple, c&#039;est pour CETTE raison
+
+*`web-articles__seduction-fondamentaux__22952_piegees-couple-vraies-raisons-lesquelles-femmes-malheureuses-restent-couple.html.txt` · 2330 mots · archive de l'auteur*
+
+Si les chiffres des divorces n’augmentent plus guère depuis une dizaine d’années (environ 130.000 par an, statistiques Insee), il faudrait pas pour autant se réjouir, en tous cas selon
+Jean-Claude Kaufmann
+, pour qui les femmes seraient de plus en plus malheureuses,
+piégées dans leur couple,
+par une mystérieuse force invisible les privant de leur libre arbitre et les empêchant de mettre fin à la torture de partager la vie (et le lit?) de celui qu’elles n’aiment plus. La même force invisible qui a empêché Jacqueline Sauvage de déposer plainte pour mauvais traitement avant de tirer à la carabine sur le dos de son mari? Nous allons (peut-être) le savoir dans son livre.
+Rappel
+Si la barbe ne fait pas le philosophe, la moustache fait-elle le sociologue? Penchons-nous sur le cas
+Jean-Claude Kaufmann
+, le seul sociologue qui réalise le tour de force d’être lu, commenté et discuté par une majorité de femmes (profil milieu de vie, clientèle femme actuelle et Jean-Jacques Salomé. Ma mère, quoi).
+Jean-Claude Kaufmann, le sociologue qui parle à l’oreille des femmes
+L’analyse de JC Kaufmann sur le piège du couple, et les raisons poussant Madame à rester sous le même toit que Monsieur
+déjà, il présuppose qu’elles veulent sincèrement, réellement, sans arrières pensées,
+partir
+, mais n’y parviennent pas. Ce qui amène immédiatement vers la première question logique: pourquoi? Dans la mesure où les femmes disposent – en occident tout du moins – de tous leurs droits fondamentaux à l’égal des hommes, par quel tour de force leur a-ton subtilisé le
+libre arbitre
+d’être maîtresse de leur destinée, et à qui profite le crime?
+Le couple serait une stratégie de renforcement mutuel de
+l’estime de soi
+et de la
+confiance en soi
+Le couple est une mécanique fragile déréglée/cassée par la routine (waouh, niveau concept, ça décoiffe)
+Si les femmes ne partent pas, c’est aussi, parfois, pour des raisons
+matérielles et de confort
+. Ne pas perdre la maison si patiemment décorée…
+… mais cette explication étant trop simple, il faut y substituer un beau wishful thinking à même de propulser l’ouvrage en tête
+des ventes sur Amazon
+(le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

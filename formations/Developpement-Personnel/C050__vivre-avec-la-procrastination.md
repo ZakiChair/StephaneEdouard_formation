@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 20
 citations: 0
 doublon_titre: oui
@@ -70,7 +71,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### Synthèse : Il s’est stérilisé. A priori, ça n’était pas urgent — orzckQYNQ0c — `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese`
 
-*podcast · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+*podcast / vidéoscopie · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 - Inversion de la charge contraceptive : Historiquement, les femmes assument la quasi-totalité de la responsabilité contraceptive (pilule, stérilet), avec des effets secondaires souvent sous-estimés, tandis que les hommes se contentent du préservatif.
@@ -81,7 +84,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -92,17 +97,21 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ### Marguerite Stern : Behind the Scenes of the Feminist Dream Life — `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese`
 
-*podcast · `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese.md`*
+*podcast / vidéoscopie · `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le Cosby Show — 7 leçons de vie — `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese`
 
-*podcast · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
+*podcast / vidéoscopie · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
 
+**Son verdict**
 
 > Ce qui était à mes parents n'a jamais été à moi — je suis parti de zéro matériellement et psychologiquement, et ce qui est à moi aujourd'hui, je ne le dois qu'à moi.
 
@@ -110,7 +119,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### Synthèse 47jhynafWCc — `Video-47jhynafWCc-synthese`
 
-*podcast · `Video-47jhynafWCc-synthese.md`*
+*podcast / vidéoscopie · `Video-47jhynafWCc-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 - 5 ans après MeToo, la société demeure "très sexiste" selon le rapport
@@ -134,6 +145,56 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 *« Video-47jhynafWCc-synthese.md » · origine : lien-declare*
 
 > 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Procrastination : des solutions existent… oui mais lesquelles ? Il va de cesser de procrastiner comme d'arrêter de fumer : on connaît tous des gens qui y sont parvenus, et affirment la main sur le coeur ne jamais avoir été tentés de rechuter. Problème : ce sont les moins nombreux, ils sont même l'exception. Et révèlent… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Procrastination : des solutions existent… oui mais lesquelles
+2. Il va de cesser de procrastiner comme d'arrêter de fumer : on connaît tous des gens qui y sont parvenus, et affirment la main sur le coeur ne jamais avoir été tentés de rechuter
+3. Problème : ce sont les moins nombreux, ils sont même l'exception
+4. Souvent, il s'agit d'un détail insignifiant, qui ne fonctionne pas pour nous
+5. « J'étais occupée à procrastiner toute la journée, désolée »
+Procrastination : des solutions (enfin) à votre portée
+J'ai globalement de la chance
+6. Un certain nombre de facultés m'ont été léguées par je ne sais quel phénomène de transmission
+7. De quelque ancêtre, ou bien par le résultat alambiqué de quelque macédoine de gènes, j'ai hérité une certaine intelligence verbale et logique qui m'ont permis de vivre de ma plume et de ma voix
+8. Pour le reste, j'ai fait comme tout le monde, j'ai travaillé
+9. Mais là encore, toutes les facettes d'une même personne ne se laissent pas mouler par le travail avec la même plasticité
+10. Ce qui m'a demandé le plus d'effort et d'abnégation
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

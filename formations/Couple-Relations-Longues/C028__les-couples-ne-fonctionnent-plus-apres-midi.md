@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 20
 citations: 0
 doublon_titre: non
@@ -32,7 +33,9 @@ confiance: 0
 
 ### Synthèse – Vidéoscopie DS2SQWBDEm0 — `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese`
 
-*podcast · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+*podcast / vidéoscopie · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
 - L'évolution : Avant 40-50 ans -> maintenant 25 ans à cause des couples précoces
@@ -41,22 +44,27 @@ confiance: 0
 
 ### Donald Trump VS Joe Biden — Le débat de l'humiliation — `Donald-Trump-VS-Joe-Biden-le-débat-de-l'humiliation-synthese`
 
-*podcast · `Donald-Trump-VS-Joe-Biden-le-débat-de-l'humiliation-synthese.md`*
+*podcast / vidéoscopie · `Donald-Trump-VS-Joe-Biden-le-débat-de-l'humiliation-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Développe ta force mentale et prépare-toi aux combats de la vie — `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese`
 
-*podcast · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
+*podcast / vidéoscopie · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Faire appartement à part — La nouvelle lubie des couples bobos — `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese`
 
-*podcast · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
+*podcast / vidéoscopie · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - FnmOmeQkYWo — `Qu'est-ce-donc-cette-diablerie-synthese`
 
-*podcast · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+*podcast / vidéoscopie · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le film : 3 couples (hétéro, bi, intergénérationnel) = "liberté sexuelle" de façade
 - Les truismesde ("on est pas que des bonnes épouses", "le plaisir féminin")
@@ -66,6 +74,8 @@ confiance: 0
 - Le circuit de l'argent : subsidies du contribuable → CNC → festival → propagande progressiste
 - Les arguments datent de 50 ans (Mai 68)
 - Le contexte de Mai 68 = besoin de repeupler après la guerre + inflation 2 chiffres
+
+**Son verdict**
 
 > "Tant que vous n'êtes pas capables de correctement décrire le problème, vous ne savez pas le résoudre"
 
@@ -82,6 +92,30 @@ confiance: 0
 *« Qu'est-ce-donc-cette-diablerie-synthese.md » · origine : lien-declare*
 
 > Le film : 3 couples (hétéro, bi, intergénérationnel) = "liberté sexuelle" de façade
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

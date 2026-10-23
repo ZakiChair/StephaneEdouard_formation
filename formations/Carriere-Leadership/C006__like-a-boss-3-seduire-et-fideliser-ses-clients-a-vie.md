@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 5
 points_annonce: 2
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -86,7 +87,9 @@ J’ai bien conscience que, dit comme ça, cela paraît abstrait, lourd à digé
 
 ### SYNTHESE - 4rNQ8ps9RW0 — `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese`
 
-*podcast · `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md`*
+*podcast / vidéoscopie · `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'empathie gauchiste est inversement proportionnelle à la proximité : elle se manifeste pour les inconnueque pour les proches.
 - La visite d'un atelier d'architecte déchu par la crise européenne (2008, euro, manque de compétitivité) ne suscite aucune réaction — mais les migrants sí.
@@ -97,22 +100,27 @@ J’ai bien conscience que, dit comme ça, cela paraît abstrait, lourd à digé
 - École des Hommes (intelligence relationnelle, empathie select)
 - Intelligence Sociale (analyse du gauchisme, biais d'empathie inversée)
 
+**Son verdict**
+
 > "L'incapacité à ressentir de l'empathie pour une famille devant ses yeux tout en en ayant à l'infini pour des gens lointains = maladie mentale."
 
 ### Synthèse : Calin-o-thérapie — _62qQTwB-1s — `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese`
 
-*podcast · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
+*podcast / vidéoscopie · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast / vidéoscopie · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse _z11PNOSbnM — `Video-_z11PNOSbnM-synthese`
 
-*podcast · `Video-_z11PNOSbnM-synthese.md`*
+*podcast / vidéoscopie · `Video-_z11PNOSbnM-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -121,6 +129,58 @@ J’ai bien conscience que, dit comme ça, cela paraît abstrait, lourd à digé
 *« Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md » · origine : lien-declare*
 
 > L'empathie gauchiste est inversement proportionnelle à la proximité : elle se manifeste pour les inconnueque pour les proches.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Je sais pas vous, mais j'ai déjà eu l'occasion de mourir plusieurs fois. Médiatiquement parlant, s'entend. Tout a commencé dans la 17ème année du XXIème siècle de notre ère par un bien sombre article dans 20 minutes qui m'accusait de… l'inverse exact de ce que je disais en vidéo. Entreprise de diffamation relayée depuis, chaque… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Je sais pas vous, mais j'ai déjà eu l'occasion de mourir plusieurs fois
+2. Tout a commencé dans la 17ème année du XXIème siècle de notre ère par un bien sombre article dans 20 minutes qui m'accusait de… l'inverse exact de ce que je disais en vidéo
+3. Entreprise de diffamation relayée depuis, chaque année ou presque, par un con-frère ou une con-soeur fainéant de la presse aux ordres (pléonasme)
+4. Mais… ici, on ne lâche rien, parce que :
+Mes clients m'ont toujours sauvé la vie
+Devant l'adversité, 100 % de mes clients se montrent (encore aujourd'hui) solidaires et unis
+5. Que vous soyez entrepreneur, consultant indépendant, profession libérale ou bien tout simplement salarié, vous vivez parce que vous touchez un revenu, et vous touchez un revenu de vos clients
+6. Celui qui ne sait pas fidéliser ses clients est condamné
+
+soit à en créer de nouveaux en permanence (coûteux, épuisant, dangereux)
+soit à ne plus devenir indispensable, c'est à dire remplaçable, c'est-à-dire bientôt DEHORS
+7. Nous traversons une crise économique, bancaire, politique, géographique même, et bientôt immobilière
+8. Comme je le répète depuis plusieurs mois, vous devez armer votre game professionnel envers et contre tout
+9. Le reste de votre vie (sociale & amoureuse inclus) en dépend
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

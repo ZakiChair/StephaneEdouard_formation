@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 3
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: non
@@ -108,22 +109,27 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 
 ### Synthèse : Agnès Buzyn — ZcbNucAOWeY — `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese`
 
-*podcast · `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese.md`*
+*podcast / vidéoscopie · `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La résilience — `La-résilience-synthese`
 
-*podcast · `La-résilience-synthese.md`*
+*podcast / vidéoscopie · `La-résilience-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Survivre aux mensonges du nouveau monde : le discernement — `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese`
 
-*podcast · `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese.md`*
+*podcast / vidéoscopie · `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Un monde sans hommes : cette nouvelle lubie des séries cache un projet eugéniste — x-SRTVdzZxg — `Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese`
 
-*podcast · `Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese.md`*
+*podcast / vidéoscopie · `Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le CNC, sponsor de propagande : L'orateur rappelle que le Centre National du Cinéma, financé par les places de cinéma, impose des tests et stages de féminisme et d'inclusivité aux bénéficiaires — qualifies de « propagande » à tous les sens du terme.
 - Une uchronie dystopique classique : *Y: Le Dernier Homme* relève du genre bien établi de l'uchronie dystopique, où un événement fictif — ici surnaturel — modifie le cours de l'histoire. L'orateur compare favorablement ce genre à *Les Ravages* de Barjavel.
@@ -139,6 +145,59 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 *« Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese.md » · origine : lien-declare*
 
 > Le CNC, sponsor de propagande : L'orateur rappelle que le Centre National du Cinéma, financé par les places de cinéma, impose des tests et stages de féminisme et d'inclusivité aux bénéficiaires — qualifies de « propagande » à tous les sens du terme.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Il pleut 182 jours par an à Abbeville. 123 à Montélimar. Et 87 à Toulon. What the fuck ? Parce qu’un climat, dans le cas précis de cet exemple, s’objective d’abord au nombre de jours de pluie annuels. Dans ces conditions, comment objectiver, sinon le bonheur, du moins le plaisir ? Je propose de le faire au nombre de sourires…. 
+
+Read More
+
+---
+
+### Points clés
+
+1. Parce qu’un climat, dans le cas précis de cet exemple, s’objective d’abord au nombre de jours de pluie annuels
+2. Dans ces conditions, comment objectiver, sinon le bonheur, du moins le plaisir
+3. Avec ma nouvelle échelle de mesure, j’obtiens donc une intéressante carte de France (voire du monde) où les concentrations de gens qui tirent le plus la tronche se superposent curieusement avec les zones d’intense travail salarié
+4. (hormis l’Europe de l’Est, hors-concours car y tirer la tronche est un sport national)
+SÉDUIRE = ABSENCE DE VALIDATION…
+…OR SALARIAT = VALIDATION HIÉRARCHIQUE PERMANENTE
+Et même sans aller extrapoler très loin : je sais pas vous, mais moi j’ai donné, le lever à 6h45, le départ de la maison à 7h35 et le retour à 19h30-20h (les bons jours) et 20h30-22h (les mauvais)
+5. Hé ho, ouvrez les yeux : le salariat c’est la corvéabilité & l’attente de validation des objectifs par la hierarchie VS la séduction c’est la liberté & l’absence de validation
+6. Dans ces conditions…
+…comment sortir de la tour de la contradiction infernale
+7. Réponse : en regardant l’échiquier avec une paire de lunettes différente
+8. CE QU’EST SURVIVRE À L’ENFER DU SALARIAT
+Survivre à l’enfer du salariat, c’est :
+
+une définition exhaust
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

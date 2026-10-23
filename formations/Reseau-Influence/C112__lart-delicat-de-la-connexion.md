@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 8
 points_annonce: 8
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -127,28 +128,33 @@ Comme d’habitude. Puis vous pratiquerez, observant le monde avec une grille de
 
 ### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
 
-*podcast · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
+*podcast / vidéoscopie · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : McKinsey Affair: A State Scandal? — `McKinsey-Affair-A-State-Scandal-synthese`
 
-*podcast · `McKinsey-Affair-A-State-Scandal-synthese.md`*
+*podcast / vidéoscopie · `McKinsey-Affair-A-State-Scandal-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Montrer son intérêt à un homme (2/2) — `Montrer-son-intérêt-à-un-homme,-pt.22-synthese`
 
-*podcast · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
+*podcast / vidéoscopie · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – e7rX5iDJ9yg — `Video-e7rX5iDJ9yg-synthese`
 
-*podcast · `Video-e7rX5iDJ9yg-synthese.md`*
+*podcast / vidéoscopie · `Video-e7rX5iDJ9yg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video qA7bQ-TfQoQ — qA7bQ-TfQoQ — `Video-qA7bQ-TfQoQ-synthese`
 
-*podcast · `Video-qA7bQ-TfQoQ-synthese.md`*
+*podcast / vidéoscopie · `Video-qA7bQ-TfQoQ-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -157,6 +163,57 @@ Comme d’habitude. Puis vous pratiquerez, observant le monde avec une grille de
 *« Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md » · origine : corpus*
 
 > Thème central Analyse des stratégies féminines pour signaler un intérêt romantique à un homme. Stéphane évalue plusieurs techniques (l'amitié comme prétexte, le tango, les cartes de visite, les cadeaux, la confrontation directe) et conclut que la simplicité et la sincérité l'emportent sur les stratégies complexes.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Tout le monde sait (« sent ») l’importance de la connexion, personne ou presque ne sait la définir, la concevoir clairement, l’exposer aisément. Ce que les femmes en disent : « C’était magique » « Je l’ai su tout de suite » « J’aurais été prête à tout pour lui » « Ca ne s’explique pas, ça se ressent » Au risque d’être toujours un… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Tout le monde sait (« sent ») l’importance de la connexion, personne ou presque ne sait la définir, la concevoir clairement, l’exposer aisément
+2. Ce que les femmes en disent :
+« C’était magique »
+« Je l’ai su tout de suite »
+« J’aurais été prête à tout pour lui »
+« Ca ne s’explique pas, ça se ressent »
+Au risque d’être toujours un peu plus iconoclaste, qu’en savent-elles, que ça ne s’explique pas
+3. Et à force de les entendre dire – à qui veut l’entendre – que rien ne s’explique, jamais, ça ne fait justement que décupler mon envie d’expliquer mieux
+4. FAISONS SIMPLE
+Vous pouvez bien savoir briser la glace avec la terre entière, partout et tout le temps (c’est une image, évidemment que dans la réalité ça n’est pas souhaitable), tant que vous ne maîtrisez pas la connexion, vous ne transformerez jamais les essais, vous subirez un nombre de pertes inexplicables tout à fait considérable, à la moindre micro erreur (de timing, de mot, de geste, de cho
+5. Et ne songez même pas, même un seul instant, lui demander les raisons de cet oubli soudain : elle l’a « su tout de suite »… (voir point numéro 1)
+6. Alors nous n’expliquerons pas, dans ce séminaire, pourquoi les femmes n’expliquent jamais rien
+7. Ce que nous allons expliquer, en revanche, c’est comment favoriser la création d’une connexion rapide et indéfectible entre deux personnes
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

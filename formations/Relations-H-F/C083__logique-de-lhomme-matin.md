@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -47,13 +48,39 @@ confiance: 1.0
 
 ### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
 
-*podcast · `L'intelligence-relationnelle-1-synthese.md`*
+*podcast / vidéoscopie · `L'intelligence-relationnelle-1-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La résilience — `La-résilience-synthese`
 
-*podcast · `La-résilience-synthese.md`*
+*podcast / vidéoscopie · `La-résilience-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

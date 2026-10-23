@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 0
+pages_developpement: 0
 idees_forces: 0
 citations: 2
 doublon_titre: oui

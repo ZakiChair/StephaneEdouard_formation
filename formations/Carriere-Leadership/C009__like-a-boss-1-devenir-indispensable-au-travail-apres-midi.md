@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 15
 documents_materiau: 4
+pages_developpement: 5
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -147,22 +148,28 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast / vidéoscopie · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
 
-*podcast · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
+*podcast / vidéoscopie · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
 
-*podcast · `Video-hVchQj-xiOo-synthese.md`*
+*podcast / vidéoscopie · `Video-hVchQj-xiOo-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
 - Parallèle historique : le centre Pompidou (années 70) avait lui aussisymbolisé une époque de transition, mais dans un contexte de modernité industrielle encore vivante.
 - Désindustrialisation française : la vidéo des Gilets Jaunes en Belgique (usine désaffectée convertie en centre d'art) illustre ce même phénomène de perte identitaire territoriale.
 - Archéologie du contenu : référence à d'anciennes vidéos de la chaîne qui documentaient déjà ces transformations, consultables dans les archives.
+
+**Son verdict**
 
 > L'industrie, c'est ce qui empêche un pays de couler, d'avoir une balance du déficit extérieur monstrueuse et de devenir un musée à touristes.
 
@@ -170,7 +177,9 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
 
-*podcast · `Video-yCgVt4zZejg-synthese.md`*
+*podcast / vidéoscopie · `Video-yCgVt4zZejg-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
 - L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
@@ -192,6 +201,92 @@ Le bouche à oreille à géométrie variable
 *« Video-yCgVt4zZejg-synthese.md » · origine : lien-declare*
 
 > L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### &laquo;&nbsp;Ici on n&#8217;apprend pas à manipuler mais à devenir&nbsp;&raquo; (courrier des lecteurs)
+
+*`web-actualite__11160_manipuler-ou-devenir-un-homme.html.txt` · 911 mots · archive de l'auteur*
+
+« Ici on n’apprend pas à manipuler mais à devenir » (courrier des lecteurs)
+« Ici on n’apprend pas à manipuler mais à devenir » (courrier des lecteurs)
+Bonjour Stéphane,
+Je m’appelle Myda, étudiant de 22 ans et lecteur régulier de Spikeseduction. Si je t’écris, c’est pour la simple raison que depuis que j’ai découvert ton site tu m’as appris énormément de choses, tu as réussi à changer ma vision et je pense qu’un
+merci
+est la moindre des choses.
+Je prend un grand plaisir a lire tes articles, ta newsletter et le contenu de ton site, j’aimerai donc t’exprimer tout le bien que je pense de ton travail après maintenant un an et demi de consultation de ton site. J’y suis inscrit et je ne manquerai pas de m’y présenter d’ici peu. Pour faire simple je suis tombé sur ton site après une rupture. Une recherche sur la manipulation, si mes souvenirs sont bons, m’a mené tout droit sur spikeseduction.com du temps ou il était encore noir et brun. Au final on n’y apprend pas à manipuler mais à devenir, ce qui est tout a ton honneur.
+Il ne suffit pas d’aimer pour réussir
+J’ai tout de suite été séduit par la pertinence et la qualité des articles que j’y ai trouvé. Je n’étais pas à proprement parler un AFC à 100% à ce moment la, mais je n’en étais pas loin. J’avais rencontré cette fille… tu vois
+La
+fille? Brune aux yeux bleux, fine, le genre de fille que la plus part des garçons n’oseraient pas aborder, considérant qu’elle est trop bien pour eux.. C’est ce que je pensais au départ, puis à force de parler et encore parler comme un gentil garçon bien poli et respectueux, je me suis rendu compte qu’elle n’était pas un monstre qui me sucerait le sang jusqu’à ce qu’il ne me reste plus que la peau et os. Alors j’ai décider de me comporter comme un homme, et comme un homme de m’habiller et me coiffer en conséquence. Le résultat n’était pas aussi flamboyant qu’un relooking mais il suffisait à être mieux habillé que beaucoup de monde. Quand je vois la confiance que cela m’a apporté, je me demande ce que cela sera lorsque je ferais un
+chez toi. Mais étant un étudiant, habitant loin et n’ayant pas encore les moyens, je me contente de ce que je peux en attentant.
+Soit , très vite je me rend co
+
+### &laquo;&nbsp;Ici on n&#8217;apprend pas à manipuler mais à devenir&nbsp;&raquo; (courrier des lecteurs)
+
+*`web-articles__11160_manipuler-ou-devenir-un-homme.html.txt` · 911 mots · archive de l'auteur*
+
+« Ici on n’apprend pas à manipuler mais à devenir » (courrier des lecteurs)
+« Ici on n’apprend pas à manipuler mais à devenir » (courrier des lecteurs)
+Bonjour Stéphane,
+Je m’appelle Myda, étudiant de 22 ans et lecteur régulier de Spikeseduction. Si je t’écris, c’est pour la simple raison que depuis que j’ai découvert ton site tu m’as appris énormément de choses, tu as réussi à changer ma vision et je pense qu’un
+merci
+est la moindre des choses.
+Je prend un grand plaisir a lire tes articles, ta newsletter et le contenu de ton site, j’aimerai donc t’exprimer tout le bien que je pense de ton travail après maintenant un an et demi de consultation de ton site. J’y suis inscrit et je ne manquerai pas de m’y présenter d’ici peu. Pour faire simple je suis tombé sur ton site après une rupture. Une recherche sur la manipulation, si mes souvenirs sont bons, m’a mené tout droit sur spikeseduction.com du temps ou il était encore noir et brun. Au final on n’y apprend pas à manipuler mais à devenir, ce qui est tout a ton honneur.
+Il ne suffit pas d’aimer pour réussir
+J’ai tout de suite été séduit par la pertinence et la qualité des articles que j’y ai trouvé. Je n’étais pas à proprement parler un AFC à 100% à ce moment la, mais je n’en étais pas loin. J’avais rencontré cette fille… tu vois
+La
+fille? Brune aux yeux bleux, fine, le genre de fille que la plus part des garçons n’oseraient pas aborder, considérant qu’elle est trop bien pour eux.. C’est ce que je pensais au départ, puis à force de parler et encore parler comme un gentil garçon bien poli et respectueux, je me suis rendu compte qu’elle n’était pas un monstre qui me sucerait le sang jusqu’à ce qu’il ne me reste plus que la peau et os. Alors j’ai décider de me comporter comme un homme, et comme un homme de m’habiller et me coiffer en conséquence. Le résultat n’était pas aussi flamboyant qu’un relooking mais il suffisait à être mieux habillé que beaucoup de monde. Quand je vois la confiance que cela m’a apporté, je me demande ce que cela sera lorsque je ferais un
+chez toi. Mais étant un étudiant, habitant loin et n’ayant pas encore les moyens, je me contente de ce que je peux en attentant.
+Soit , très vite je me rend co
+
+### Courrier des lecteurs : devenir un homme &#8211; suite
+
+*`web-articles__3724_devenir-un-homme-2.html.txt` · 831 mots · archive de l'auteur*
+
+Courrier des lecteurs : devenir un homme – suite
+Cher
+Gentleman,
+Le poème
+« Tu seras un homme, mon fils »
+étant le cadeau empoisonné du père qui n’a pas le temps de s’occuper de son fils et lui laisse un mode d’emploi sur la table (c’est comme laisser un billet, en moins cher) pendant qu’il file au boulot ou qu’il enfile sa maîtresse, je ne te ferai pas de te l’opposer comme simple et unique réponse à
+ton courrier
+. Non, j’ai pris le temps de réfléchir, et de concevoir une réponse personnalisée. Comme en atelier, après tout. Bon, assez parlé, allons-y.
+Comme Monsieur Jourdain qui faisait de la prose, la plupart des gens parlent le langage de la tautologie : un homme, c’est ce qu’ils croisent tous les jours dans la rue en descendant de chez eux. Autrement dit, A=A.
+Il faut souvent attendre longtemps pour tomber sur un des rares à penser à
+questionner ce qui semble aller de soi
+. Cela semble être ton cas, et il va donc falloir se servir, pour l’analyse, d’outils… d’homme. Comme la phénoménologie de l’esprit, par exemple, qui veut que l’homme se définisse par opposition victorieuse à ce qui s’en écarte. Autrement dit, si A=A, c’est (entre autres) parce que A est différent de B.
+Une parodie de paradis
+Un homme n’est pas un enfant
+La nostalgie du paradis perdu (la voix de maman que l’on entendait crier “A table !” du fond de sa chambre douillette) ne le pousse pas à se recréer une parodie de paradis virtuel. Moi aussi j’ai passé des après-midi de bonheur intenses, à m’exploser la rate à la console avec mes copains de collège, mais j’étais… au collège, justement. Alors évidemment, même passé 18-20 ans, une partie de wii entre amis le vendredi soir n’a jamais rendu personne no-life ; mais blanchir chaque nuit devant son écran comme un gros marchmallow mou entre ses oreillettes Surcouf, oui. Quant à la collection de XIII et de Corto Maltese qui dépasse de l’étagère, sans vouloir vous vexer, il faudrait tout de même arrêter la plaisanterie… Et si vous en doutiez encore, pensez aux businessmen en  costume gris et chaussettes Spirou.
+Un homme n’est pas une femme
+Aussi prompts que soient ces messieurs à moquer les crèmes de beauté et autres systèmes dépilatoires, ils font m
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

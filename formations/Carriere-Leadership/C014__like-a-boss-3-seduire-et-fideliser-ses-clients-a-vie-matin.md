@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 16
 citations: 0
 doublon_titre: oui
@@ -118,7 +119,9 @@ Ce logo signifie que l’intégralité du site est en http S et que toutes vos c
 
 ### SYNTHESE - 4rNQ8ps9RW0 — `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese`
 
-*podcast · `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md`*
+*podcast / vidéoscopie · `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'empathie gauchiste est inversement proportionnelle à la proximité : elle se manifeste pour les inconnueque pour les proches.
 - La visite d'un atelier d'architecte déchu par la crise européenne (2008, euro, manque de compétitivité) ne suscite aucune réaction — mais les migrants sí.
@@ -129,26 +132,33 @@ Ce logo signifie que l’intégralité du site est en http S et que toutes vos c
 - École des Hommes (intelligence relationnelle, empathie select)
 - Intelligence Sociale (analyse du gauchisme, biais d'empathie inversée)
 
+**Son verdict**
+
 > "L'incapacité à ressentir de l'empathie pour une famille devant ses yeux tout en en ayant à l'infini pour des gens lointains = maladie mentale."
 
 ### Synthèse : Calin-o-thérapie — _62qQTwB-1s — `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese`
 
-*podcast · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
+*podcast / vidéoscopie · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Ces podcasts "féministes" engageaient des femmes... pour ne pas les payer 👌 — `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese`
 
-*podcast · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
+*podcast / vidéoscopie · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse _z11PNOSbnM — `Video-_z11PNOSbnM-synthese`
 
-*podcast · `Video-_z11PNOSbnM-synthese.md`*
+*podcast / vidéoscopie · `Video-_z11PNOSbnM-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-*podcast · `Video-u8r9BLSx7UU-synthese.md`*
+*podcast / vidéoscopie · `Video-u8r9BLSx7UU-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 - Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.

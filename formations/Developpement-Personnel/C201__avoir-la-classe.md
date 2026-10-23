@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 2
 documents_materiau: 5
+pages_developpement: 5
 idees_forces: 33
 citations: 3
 doublon_titre: non
@@ -145,7 +146,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse : 4000💶/month = middle class: #Bayrou sweating on RTL — xUtLFQzjJA0 — `4000💶month-=-middle-class-#Bayrou-sweating-on-RTL-synthese`
 
-*podcast · `4000💶month-=-middle-class-#Bayrou-sweating-on-RTL-synthese.md`*
+*podcast / vidéoscopie · `4000💶month-=-middle-class-#Bayrou-sweating-on-RTL-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 4000€ net = ~3300€ après impôts, simulation faite sur la base d'un célibataire sans enfants avec un taux marginal standard
 - À 4000€/mois, on se situe dans les 5% les plus aisés de la population française, pas dans la classe moyenne
@@ -156,7 +159,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse – JzQUVZfi95k — `Cette-députée-F.I-qu'il-ne-fallait-surtout-pas-dessiner-!-synthese`
 
-*podcast · `Cette-députée-F.I-qu'il-ne-fallait-surtout-pas-dessiner-!-synthese.md`*
+*podcast / vidéoscopie · `Cette-députée-F.I-qu'il-ne-fallait-surtout-pas-dessiner-!-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Paradoxe du panafricanisme : Les Noirs qui réussissent n'aident plus les autres, la solidarité disparaît dès qu'il y a ascension sociale. L'auteur cite des exemples concrets.
 - Critique de la gauche radicale : « L'intelligentsia se sent redevable à la classe laborieuse immigrée » — flatterie des instincts les plus bas, promotion de comportements asociels.
@@ -165,7 +170,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -176,11 +183,15 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ### SYNTHESE - 0FlUCFoxtfE — `Le-couple-le-plus-agaçant-de-l'année-synthese`
 
-*podcast · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+*podcast / vidéoscopie · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les gens qui disent ne pas être stéréotypés sont souvent les plus stéréotypés.
 - Le pseudo-arcdeuxième tour : "je ne discrimine personne" → "donc tout le monde peut me plaire" = faille logique.
@@ -191,12 +202,15 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 - Logique et Argumentation
 - Intelligence Sociale
 
+**Son verdict**
+
 > "On ne peut pas tout avoir : refuser les stéréotypes et vivre en consumériste. Le vrai courage c'est d'assumer ce qu'on est."
 
 ### Synthèse – VWOdU4c3R2o — `Video-VWOdU4c3R2o-synthese`
 
-*podcast · `Video-VWOdU4c3R2o-synthese.md`*
+*podcast / vidéoscopie · `Video-VWOdU4c3R2o-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -217,6 +231,166 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 *« La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md » · origine : lien-declare*
 
 > "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Réservez votre Master Classe de Spike
+
+*`web-actualite__808_reservez-votre-master-classe-de-spike.html.txt` · 865 mots · archive de l'auteur*
+
+La Master Classe de Spike constitue l’opportunité la plus abordable du moment d’accéder à un enseignement de la séduction de haut niveau. Elle s’adresse à tous ceux :
+qui souhaitent renforcer progressivement leur compétences avant de s’affronter au terrain
+qui souhaitent découvrir la qualité de la méthode et des conseils de Spike avant de s’offrir éventuellement un [...]
+Réservez votre Master Classe de Spike » Séduction, relooking homme - comment séduire, plaire, par Spike
+La référence en conseil séduction et relooking homme
+Réservez votre Master Classe de Spike
+La Master Classe de Spike constitue l’opportunité la plus abordable du moment d’accéder à un enseignement de la séduction de haut niveau.
+Elle s’adresse à tous ceux :
+qui souhaitent renforcer progressivement leur compétences avant de s’affronter au terrain
+qui souhaitent découvrir la qualité de la méthode et des conseils de Spike avant de s’offrir éventuellement un atelier séduction
+qui ont déjà suivi un atelier et souhaitent continuer à travailler et progresser
+Le déroulement
+Un participant, de niveau intermédiaire à avancé - un élève d'atelier Classic par exemple – demande à travailler une situation (street, bar, club, soirée, 1er rendez-vous, etc.). Tous les participants regardent et écoutent attentivement pendant que Spike corrige et conseille l’élève, donne des exemples, des images, des anecdotes réelles vécues dans des situations analogues, liste les pièges à éviter et réalise la démonstration de ce qu’il faudrait faire dans certains passages difficiles. L’élève recommence alors jusqu’à atteindre la perfection.
+Dans une Master Classe, tous les spectateurs peuvent bénéficier de la qualité des conseils de Spike appliqués à un éventail de toutes les situations rencontrées sur le field.
+Le contenu
+Body Langage,
+Niveau d’énergie,
+Inflexion,
+Openers,
+Look,
+Jeu de rôle,
+Visualisation,
+Story telling,
+Projection,
+Numclose,
+Kissclose,
+font partie (entre autres) des thèmes abordés au fil des situations travaillées. Ils ne sont pas présentés dans l’ordre « théorique » d’un cours magistral, ce sont au contraire les problèmes rencontrés lors de l’application
+pratique
+qui guident le déroulement des trois heures d
+
+
+- 3 dates au choix, réservation par simple email avant la fin des places disponibles
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### Cette fille dans ma classe, I (mode d&#8217;emploi de la drague en cours et à la Fac)
+
+*`web-articles__949_draguer-fac-cours-1.html.txt` · 860 mots · archive de l'auteur*
+
+Comment aborder une fille à la fac et la séduire ?
+Comment plaire / relooking homme - La référence
+Cette fille dans ma classe, I (mode d’emploi de la drague en cours et à la Fac)
+Il y a cette fille à la Fac, tu ne peux t'empêcher de suivre des yeux partout où elle passe. Elle est peut-être en cours avec toi, auquel cas tu es toujours assis
+derrière
+elle en classe pour pouvoir l'observer, et tu remarques le jour où, dans le courant de l'année, elle change par hasard de parfum. Ca te rend heureux ? Très bien, continue comme ça. Mais si tu veux un mode d'emploi simple, logique, et
+qui marche
+pour l'aborder et la séduire, tu es au bon endroit.
+Draguer à la fac :
+mode d'emploi, partie I
+Draguer à la fac : premier constat
+Contrairement à l'
+inconnue abordée
+dans la rue, vous allez être amené à croiser relativement souvent les mêmes personnes (filles ou garçons). Cela implique donc de dérouler un jeu de séduction sur une durée suffisamment longue pour que vous puissiez vous griller des centaines de fois. Autrement dit la séduction en lieux fermés apporte son lot de pièges supplémentaires mais (et heureusement pour vous) elle permet aussi d'utiliser des techniques que l'urgence du street pick-up vous interdit. En d'autres termes, le lieu fermé apporte cet avantage / contrainte qu'il amplifie l'intensité de vos relations sociales, c'est à dire, plus de temps pour séduire, mais aussi plus d'occasions de se planter,etc.
+En règle générale, il faut avoir une attention de tout les instants. Ne calibrez pas vôtre attitude sur la situation. Ne pensez pas, "Ah il y a machine qui se ramène je vais faire la star" mais
+soyez
+la star en permanence. Vous évitez ainsi de passer pour un gros lourd mais surtout vous vous fondez
+un caractère
+et vous ne jouer pas
+un rôle
+(ce qui est bénéfique sur la durée, le but du game étant aussi de vous développer socialement).
+Draguer en cours : deuxième constat
+Si vous avez compris dans les grandes lignes du jeu de la séduction, la fac ainsi que toutes les autres écoles se révèlent être un field relativement facile d'accès. Pas besoin de méthode de la mort pour closer. Cet article n'a pas seulement vocation à expliquer la façon dont il faut vous y p
+
+### Cette fille dans ma classe, II (mode d&#8217;emploi de la drague en cours et à la Fac)
+
+*`web-articles__951_draguer-fac-cours-2.html.txt` · 1294 mots · archive de l'auteur*
+
+Comment aborder une fille à la fac et la séduire ?
+Comment plaire, relooking homme - La référence française
+Cette fille dans ma classe, II (mode d’emploi de la drague en cours et à la Fac)
+Dans la première partie de
+draguer à la fac
+, vous vous êtes souvenu de l'importance de multiplier les interactions, de ne pas tout jouer sur un coup de dés, et d'analyser le terrain au lieu de foncer tête baissée comme un boulet. Aujourd'hui, apprenez à gérer l'entourage, et l'abordage.
+2) Draguer à la fac : savoir gérer l'entourage
+"Tout homme qui dirige, qui fait quelque chose, a contre lui, ceux qui voudraient faire la même chose, ceux qui font précisément le contraire, et surtout, la grande armée des gens beaucoup plus sévères, qui ne font rien."
+Jules Clarétie
+L'avantage d'
+aborder une inconnue
+dans la rue est assurément le fait que l'interaction ne va concerner que vous deux. En revanche, quand vous abordez un
+set
+(dans un lieu inconnu ou pas) vous devez prendre en compte toute les personnes qui le composent. Et bien par extension voyez votre Fac comme un set géant.
+Une erreur fréquente consiste à ne considérer que votre cible. Ne sous-estimez pas la puissance des ragots et autres bassesses que les autres vont entreprendre à votre égard.  Votre réputation peut se voir ruiner en quelques jours si vous vous faites trop d'ennemis. Pourquoi les stars attachent une très grande importance à leur image d'après vous ? Et pourquoi les magazines tels que Gala ou Closer se vendent comme des petits pains ?
+Pour contrer à ces éventualités, armez-vous d'un social proof à rude épreuve. Voyez votre entourage comme autant d'opportunités pour closer plutôt que comme des ennemis potentiels. Rappel de la définition du social proof : Que les gens aient ou non le goût sûr, ils se sentent toujours mieux une fois rangés à l’avis de la majorité. Utilisez cette caractéristique à votre profit en vous faisant remarque par votre cible en compagnie d’une ou plusieurs autres filles. Les effets sont démoniaques.
+3) Comment aborder à la fac ?
+"Je ne me méfie pas de l'action, juste de l'inaction" Winston Churchill
+Première méthode. (ou comment isoler sa cible)
+Vous avez repéré une fille qui vous intéres
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+La classe est un concept qui dépasse largement l'apparence physique — c'est une manière d'être, de se présenter, de parler et d'agir qui trahit l'éducation reçue et la valeur personnelle. Cette formation explore les mécanismes de la vraie distinction : cette qualité rare qui fait qu'on remarque quelqu'un sans savoir pourquoi, cette capacité à rester maître de soi en toutes circonstances. La classe ne s'achète pas mais se construit par l'accumulation d'automatismes sociaux précis et une connaissance approfondie des codes.
+
+---
+
+### Points clés
+
+- La classe réside dans la retenue — savoir se limiter, ne pas tout montrer, garder le contrôle de soi
+- L'homme de classe est celui qui sait naviguer dans toutes les situations sans perdre sa contenance
+- Les codes vestimentaires ne sont qu'une facade sans le contenu intérieur qui va avec
+- La vraie classe se manifeste dans les moments de pression — c'est là qu'on reconnaît l'homme vrai
+- Le langage est un marqueur fondamental de classe — les mots qu'on choisit, le ton, la retenue
+- La discrétion est plus classe que l'exhibition — celui qui cherche l'attention révèle son insécurité
+
+---
+
+### Concepts enseignés
+
+### La classe comme maîtrise de soi
+
+Avoir la classe, c'est d'abord être maître de ses réactions. Face à l'injustice, l'insulte ou la provocation, l'homme de classe ne réagit pas impulsivement — il respire, évalue, puis répond avec discernement. Cette capacité à rester froid quand tout le monde s'échauffe est le marqueur le plus sûr de la véritable distinction. L'impulsivité est l'apanage de ceux qui n'ont pas été éduqués à la maîtrise de leurs émotions.
+
+### La retenue élégante
+
+Il existe une forme de retenue élégante qui consiste à se retenir d'utiliser contre quelqu'un une information qu'on a découverte. La retenue inélégante consiste à ne pas prononcer les mots exacts — la différence entre les deux en dit long sur la personne. L'homme de classe sait que certaines vérités doivent rester tues, que certaines cartes ne doivent pas être jouées même quand on les a. Cette retenue est perçue par les autres comme de la profondeur — c'est en fait de la maîtrise.
+
+### Le langage comme marqueur de classe
+
+Les mots qu'on choisit révèlent notre milieu d'origine et notre éducation. L'homme de classe évite les grossièretés inutiles, le vocabulaire brutal, les expressions lowers. Il parle avec précision, choisit ses mots, restructure ses phrases avant de parler. Ce n'est pas du parler petit-bourgeois — c'est de la maîtrise verbale qui s'acquiert par la lecture et la réflexion.
+
+### La présentation de soi
+
+Avoir la classe ne signifie pas s'habiller luxueusement — c'est avant tout être propre, range, adapter sa tenue au contexte. Un homme en chemise blanche bien passée et pantalons classiques aura toujours plus de classe qu'un homme en costume de marque mal ajusté. Les détails comptent : chaussures cirées, ongles nets, cheveux disciplinés, parfum discret. La classe est dans la cohérence entre la tenue et la posture — un homme bien habillé mais voûté perd toute sa distinction.
+
+---
+
+### Exercices / Pratiques
+
+- Prendre conscience de ses réactions automatiques dans les situations de tension — noter ce qu'on aurait dû faire plutôt que ce qu'on a fait
+- Travailler sa tenue vestimentaire : adapter ses vêtements au contexte professionnel et social
+- Écouter les gens qui ont de la classe et analyser ce qui les distingue dans leur manière de parler et d'agir
+- Pratiquer la retenue dans les conversations : ne pas tout dire, garder certaines informations pour soi
+- Développer son vocabulary par la lecture quotidienne de qualité
+- S'entraîner à rester impassible face aux provocations —Work sur le poker face
+
+---
+
+### Citations de Stéphane
+
+> "Il y a une forme de retenue élégante qui consiste à se retenir d'utiliser contre quelqu'un une information qu'on a découverte."
+
+> "La différence entre la retenue élégante et la retenue inélégante en dit long sur la personne."
+
+> "La classe, c'est de savoir qu'on pourrait détruire quelqu'un mais choisir de ne pas le faire."
+
+---
 
 ## Citations de l'auteur
 

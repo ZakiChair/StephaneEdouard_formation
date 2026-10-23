@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -74,13 +75,15 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
 
-*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+*podcast / vidéoscopie · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le Cosby Show — 7 leçons de vie — `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese`
 
-*podcast · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
+*podcast / vidéoscopie · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
 
+**Son verdict**
 
 > Ce qui était à mes parents n'a jamais été à moi — je suis parti de zéro matériellement et psychologiquement, et ce qui est à moi aujourd'hui, je ne le dois qu'à moi.
 
@@ -88,7 +91,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
 
-*podcast · `Video-HstnkVr4op4-synthese.md`*
+*podcast / vidéoscopie · `Video-HstnkVr4op4-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 - L'émission aborde le sexisme dans la télé-réalité
@@ -98,7 +103,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*podcast · `Video-vvh8wAYHRBw-synthese.md`*
+*podcast / vidéoscopie · `Video-vvh8wAYHRBw-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 - La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
@@ -120,6 +127,30 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 *« Video-vvh8wAYHRBw-synthese.md » · origine : lien-declare*
 
 > L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

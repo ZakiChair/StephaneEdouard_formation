@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -83,12 +84,15 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 ### Serais-tu un harceleur aux USA ? — `Serais-tu-un-harceleur-aux-USA-12-synthese`
 
-*podcast · `Serais-tu-un-harceleur-aux-USA-12-synthese.md`*
+*podcast / vidéoscopie · `Serais-tu-un-harceleur-aux-USA-12-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Tu me manques — tu-me-manques — `Tu-me-manques-synthese`
 
-*podcast · `Tu-me-manques-synthese.md`*
+*podcast / vidéoscopie · `Tu-me-manques-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le « tu me manques » comme signal faible : Un message de ce type n'est jamais anodin. Il survient généralement quand la personne qui l'envoie n'a pas fait le deuil de la relation précédente et doute de son choix actuel.
 - Le ressentiment comme mécanisme central : Ce n'est pas de l'amour ou de la nostalgie pur, mais une forme de rancœur accumulée qui resurgit avec le temps. Quand on quitte une relation sans avoir pleinement résolu les tensions, le ressentiment s'installe.
@@ -99,8 +103,9 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 ### Synthèse : 20Qx2jb_xZU - Analyse TF1 — `Video-20Qx2jb_xZU-synthese`
 
-*podcast · `Video-20Qx2jb_xZU-synthese.md`*
+*podcast / vidéoscopie · `Video-20Qx2jb_xZU-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -109,6 +114,92 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 *« Tu-me-manques-synthese.md » · origine : lien-declare*
 
 > Le « tu me manques » comme signal faible : Un message de ce type n'est jamais anodin. Il survient généralement quand la personne qui l'envoie n'a pas fait le deuil de la relation précédente et doute de son choix actuel.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+221 par jour Le nombre de fois où vous consultez votre smartphone (source). À multiplier par 2 si vous êtes une femme. Et par 4 si vous avez moins de 25 ans. Alors sachant que la requête n°1 à son appareil est de prendre / recevoir des nouvelles de son cercle d'amis, selon vous cette statistique… 
+
+Read More
+
+---
+
+### Points clés
+
+1. 221 par jour
+Le nombre de fois où vous consultez votre smartphone (source)
+2. Alors sachant que la requête n°1 à son appareil est de prendre / recevoir des nouvelles de son cercle d'amis, selon vous cette statistique :
+
+a) influe sur les stratégies relationnelles (personnelles, amoureuses et professionnelles)
+b) « je sais pas, j'en m'en fous, je suis un hétéro binaire de base, j'aime pas le téléphone et tout ce qui y est associé, j'ai un forfait 5 minutes par mois 2 sms, et
+3. Ce problème, c'est que le HBB (l'hétéro binaire de base) a beau se foutre comme d'une guigne de la communication, des modes, des sensations et des sentiments, il a quand même envie besoin de femmes dans sa vie, ne serait-ce que pour ne pas subir une relation par défaut, et toutes les conséquences malencontreuses qui y sont associées (paternité forcée, vie sexuelle inexistante, chantage et autres m
+4. Notez qu'il viendra généralement aussi à bout de 50 % du patrimoine que vous aviez patiemment accumulé avec le temps
+5. &nbsp;
+
+
+
+
+
+
+
+
+
+
+Voir cette publication sur Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+Une publication partagée par Art Memes
+6. (@ancientcringe)
+
+
+Que vous vous intéressiez ou pas au langage, à la communica
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

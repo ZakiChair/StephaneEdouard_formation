@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 15
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -141,28 +142,33 @@ Nous nous livrerons donc ensemble à des **techniques avancées de visualisatio
 
 ### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Cultive ta confiance en toi — `Cultive-ta-confiance-en-toi-synthese`
 
-*podcast · `Cultive-ta-confiance-en-toi-synthese.md`*
+*podcast / vidéoscopie · `Cultive-ta-confiance-en-toi-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
 
-*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+*podcast / vidéoscopie · `Faites-toujours-confiance-aux-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Gaslighting : cette drôle manière d'abréger les femmes — `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese`
 
-*podcast · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
+*podcast / vidéoscopie · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : "Influenceurs" à l'Élysée — Ww4-NKUrOjw — `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese`
 
-*podcast · `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
+*podcast / vidéoscopie · `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
 
+**Son verdict**
 
 > "Tant que vous ne savez pas décrire correctement un problème, ce que vous croyez être une solution en fait sera tiré au hasard."
 
@@ -173,6 +179,58 @@ Nous nous livrerons donc ensemble à des **techniques avancées de visualisatio
 *« Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md » · origine : corpus*
 
 > 3. **Consulter un tiers de confiance** : Un ami qui connaît la situation peut aider à maintenir la perspective. Attention : il faut quelqu'un de vraiment confiance, pas quelqu'un qui va prendre parti.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Un proverbe africain dit de se méfier d’un homme qui vous vend des chemises torse nu. Je ne connais pas beaucoup de proverbes africains. C’est même le seul, à vrai dire (j’ai attendu des années, de pouvoir le placer à bon escient !). Méfiez-vous des vendeurs de confiance en soi, vérifiez qu’ils ne soient pas… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Un proverbe africain dit de se méfier d’un homme qui vous vend des chemises torse nu
+2. C’est même le seul, à vrai dire (j’ai attendu des années, de pouvoir le placer à bon escient
+3. Méfiez-vous des vendeurs de confiance en soi, vérifiez qu’ils ne soient pas torse nu
+4. JE L’AVAIS DÉJÀ ÉCRIT DANS L’HOMME IDÉAL
+« À en croire l’expression populaire, la confiance en soi s’utiliserait en doses, la fameuse « bonne dose de confiance en soi »
+5. Comme la levure ou le sucre vanillé, on pourrait donc la stocker (date de péremption à l’appui), et en sortir du placard, aussi souvent que nécessaire, la quantité demandée par la vie (…)
+6. Mais stockez tant que vous voudrez, devant quelqu’un (ou une situation) qui vous impressionne, l’issue est toujours la même : vous ne savez plus où vous l’avez rangée
+7. Dans ces conditions, dirait la cigale à la fourmi, à quoi bon
+8. (…) La confiance en soi n’a d’intérêt que dès lors que vous avez la certitude de pouvoir compter sur elle au beau milieu de l’action, (…) il faudrait donc apprendre à la générer sur commande »
+Et croyez-vous vraiment qu’il existe une méthode pour la générer sur commande
+9. Le cas échéant, relisez l’anecdote du marchand de chemise (à ne pas confondre avec le marchand de Venise)
+10. Si vous y croyez, alors vous croyez peut-être aussi qu’on peut lire l’avenir dans les cartes, devenir riche en travaillant de chez soi 1h par jour, épouser un top-model sur femmes russes point com,
+
+
+---
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

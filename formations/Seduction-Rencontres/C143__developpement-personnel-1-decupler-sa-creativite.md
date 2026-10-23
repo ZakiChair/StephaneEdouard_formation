@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 10
 points_annonce: 6
 documents_materiau: 3
+pages_developpement: 4
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -152,18 +153,148 @@ Crédit photo: interactiveconseil
 
 ### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Je décompte les affabulations d'Oussama Ammar — `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese`
 
-*podcast · `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese.md`*
+*podcast / vidéoscopie · `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : The Circus of "A-Gendered" Children on TV — `The-Circus-of-A-Gendered-Children-on-TV-synthese`
 
-*podcast · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
+*podcast / vidéoscopie · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Prochain séminaire séduction et développement personnel
+
+*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
+
+Séduction, relooking homme - Le site de référence
+Prochain séminaire séduction et développement personnel
+Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
+(Bibi)
+(Bibi à nouveau)
+(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
+Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
+“changez de vie”
+et poursuivie par le séminaire
+“devenez intéressant”
+du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
+Prochain séminaire séduction : le pitch
+Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
+amoureuses
+, mais également
+professionnelles
+, et
+amicales
+Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
+comment
+, exactement ? Ah…
+Des nouvelles bientôt, dans
+l’agenda
+Témoignages sur le séminaire changez de vie du 19 juillet
+Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
+Développement personnel : quel but ?
+Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
+séminaire séduction
+Un commentaire
+Où et quand nous inscrivons-nous?
+
+### Les dandys sont toujours seuls (ou les limites du développement personnel)
+
+*`web-articles__10710_developpement-%E2%80%A6imites-dangers.html.txt` · 1964 mots · archive de l'auteur*
+
+Interrogés sur la femme parfaite dans les années 90, près d’un américain sur deux désignait Pamela Anderson et c’est tout de même difficile à concevoir sur le corps de quelqu’un dont pas une pièce n’est d’origine. Et encore plus difficile aujourd’hui quand on cherche à se souvenir à quoi elle ressemblait.
+D’abord parce qu’à force d’opérations (ou de coups de son boyfriend Tommy Lee) elle a changé de visage depuis cette époque. Et aussi parce qu’arrivée à 4x ans sans jamais dormir la nuit, elle est fripée comme ma vieille table à repasser. Prenons donc un exemple plus récent de la « perfection » telle qu’elle décide de s’incarner sur quelqu’un :
+Valeria Lukyanova.
+Enfant du pays aux paupières baissées, cette jeune russe a deux fois moins d’années au compteur que Pamela (soit 2x) et au moins 2 fois plus d’opérations sur le billard. Son objectif est prodigieusement atteint : elle ressemble à Barbie. Pardon, correctif : elle
+est
+Barbie. Les filles les plus minces que je connaisse (soit mes deux dernières copines) font du 34 en taille, mais Barbie doit faire du 25, ce qui n’est physiologiquement possible qu’en se faisant retirer des côtes. Les filles les plus belles que je connaisse (soit mes ex, plus
+Valentina Cervi
+Julianne Moore
+) ont un visage d’artiste à contempler des heures durant, mais Barbie n’a que faire de la nature qui un jour a calculé que pour sourire il fallait que nos pommettes puissent se plier un peu. Un pli pouvant être assimilé par un objectif de photographe à une ride, il a fallu faire un choix, dont la conséquence est qu’aujourd’hui même mon autoradio est plus expressif lorsqu’il me dit « hello ».
+Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 2000 ont des poupées russes, et si l’un d’entre vous trouve « parfaite » une de ces saucisses, qu’il interrompe immédiatement la lecture de ce site et tape « verse le jus » dans la barre d’adresse de son navigateur, où il rejoindra plein d’amis qui pensent comme lui. Vous êtes toujours là ? Tant mieux, je vais donc pouvoir vous expliquer sans plus attendre le rapport avec l’article du jour, la
+recherche de perfection
+Perfection es-tu là ?
+Je dînais tout seul l’autre soir avec
+
+### Les dandys sont toujours seuls (ou les limites du développement personnel)
+
+*`web-articles__seduction-avance__10710_developpement-personnel-limites-dangers.html.txt` · 1964 mots · archive de l'auteur*
+
+Interrogés sur la femme parfaite dans les années 90, près d’un américain sur deux désignait Pamela Anderson et c’est tout de même difficile à concevoir sur le corps de quelqu’un dont pas une pièce n’est d’origine. Et encore plus difficile aujourd’hui quand on cherche à se souvenir à quoi elle ressemblait.
+D’abord parce qu’à force d’opérations (ou de coups de son boyfriend Tommy Lee) elle a changé de visage depuis cette époque. Et aussi parce qu’arrivée à 4x ans sans jamais dormir la nuit, elle est fripée comme ma vieille table à repasser. Prenons donc un exemple plus récent de la « perfection » telle qu’elle décide de s’incarner sur quelqu’un :
+Valeria Lukyanova.
+Enfant du pays aux paupières baissées, cette jeune russe a deux fois moins d’années au compteur que Pamela (soit 2x) et au moins 2 fois plus d’opérations sur le billard. Son objectif est prodigieusement atteint : elle ressemble à Barbie. Pardon, correctif : elle
+est
+Barbie. Les filles les plus minces que je connaisse (soit mes deux dernières copines) font du 34 en taille, mais Barbie doit faire du 25, ce qui n’est physiologiquement possible qu’en se faisant retirer des côtes. Les filles les plus belles que je connaisse (soit mes ex, plus
+Valentina Cervi
+Julianne Moore
+) ont un visage d’artiste à contempler des heures durant, mais Barbie n’a que faire de la nature qui un jour a calculé que pour sourire il fallait que nos pommettes puissent se plier un peu. Un pli pouvant être assimilé par un objectif de photographe à une ride, il a fallu faire un choix, dont la conséquence est qu’aujourd’hui même mon autoradio est plus expressif lorsqu’il me dit « hello ».
+Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 2000 ont des poupées russes, et si l’un d’entre vous trouve « parfaite » une de ces saucisses, qu’il interrompe immédiatement la lecture de ce site et tape « verse le jus » dans la barre d’adresse de son navigateur, où il rejoindra plein d’amis qui pensent comme lui. Vous êtes toujours là ? Tant mieux, je vais donc pouvoir vous expliquer sans plus attendre le rapport avec l’article du jour, la
+recherche de perfection
+Perfection es-tu là ?
+Je dînais tout seul l’autre soir avec
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Sans doute mon séminaire le plus philosophique à ce jour, raison pour laquelle je lui ai décerné 4 étoiles, niveau difficulté. Sans aller jusqu'à la métaphysique, nous ferons le lien entre notre sentiment de créativité et celui de notre bien-être. Je parie, depuis l'instant où j'ai eu l'idée de cette thématique, que certains d'entre vous vont… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Sans doute mon séminaire le plus philosophique à ce jour, raison pour laquelle je lui ai décerné 4 étoiles, niveau difficulté
+2. Sans aller jusqu'à la métaphysique, nous ferons le lien entre notre sentiment de créativité et celui de notre bien-être
+3. Je parie, depuis l'instant où j'ai eu l'idée de cette thématique, que certains d'entre vous vont se poser la question suivante, alors je vais vous faciliter le travail et l'écrire à votre place
+4. Qu'est-ce que ça peut bien me fou… Je suis pas un artiste, je suis enseignant / artisan / commercial / comptable
+5. La créativité, c'est juste la base de l'intelligence complexe
+6. Et ce n'est pas moi qui vous le dit, vous pouvez même retrouver ce type de schéma facilement sur le web
+7. Et si vous regardez le programme de mes séminaires au cours des années :Leadership : DONEComplexité : PERMANENTEIntelligence émotionnelle : EN COURSIntelligence relationnelle : EN COURS
+X intérêts de travailler sa créativité
+La créativité, contrairement à la mémoire et à la logique pure, n'a pas de limites
+8. Aussi longtemps que je me souvienne… lien vers l'article « manger à tous les râteliers » : https://www
+9. com/articles/seduction-fondamentaux/13050_choisir-ses-conseils-seduction
+10. Extrait :
+Différence entre créativité et « être un artiste »
+Chez nous les « productifs », l'artiste a mauvaise presse (et souvent à raison, à mon avis)
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

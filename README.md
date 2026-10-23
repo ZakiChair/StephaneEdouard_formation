@@ -25,10 +25,11 @@ provenance.
 | Fiches | **369** |
 | Points de programme | **2 866** (269 fiches) |
 | Annonces développées | **135 097 mots** de la prose de l'auteur (221 fiches) |
-| Documents de matière | **1 159** — les liens que l'auteur pose lui-même |
+| Documents de matière | **1 159** — les liens que l'auteur pose lui-même (353 fiches) |
 | Idées fortes extraites | **3 506** |
+| Pages de l'auteur sur son propre séminaire | **945** (228 fiches) |
 | Sections d'annonce | **1 357** |
-| Mots dans le dépôt | **446 537** |
+| Mots dans le dépôt | **793 782** |
 
 ### Les statuts
 
@@ -38,8 +39,9 @@ provenance.
 | **citations** | **83** | Citations authentiques, sans verbatim de session |
 | **reconstituee** | **119** | Fiche payante, reconstituée depuis une fiche jumelle |
 | **doctrine** | **62** | Doctrine reconstituée par LLM — **pas** sa voix |
-| **non-reconstituable** | **18** | Fiche payante, aucune substitution fiable — assumée |
+| **non-reconstituable** | **17** | Fiche payante, aucune substitution fiable — assumée |
 | **paywall** | **4** | Contenu de session derrière le paiement |
+| **index-catalogue** | **1** | L'index du catalogue lui-même — pas une formation |
 
 ## La matière : deux sources que l'auteur a lui-même indexées
 
@@ -79,6 +81,28 @@ renommé par l'auteur** (« À mort la procrastination » est devenu « Vivre av
 la procrastination »), **0 appariement douteux**, 47 formations sans page
 d(product aujourd'hui retirée du site, sans archive).
 
+## Les six sources d'une fiche
+
+Chaque formation est reconstituée à partir de ce que l'auteur a **lui-même**
+produit. Les sources sont presented separement, jamais melangees :
+
+| Source | Ce qu'elle est | Fiches |
+|---|---|---|
+| **Le programme** | la tracklist de la page produit : les chapitres du seminaire, dans l'ordre, avec ses mots | 269 |
+| **L'annonce du séminaire** | sa prose sur son seminaire, decoupee en sections, avec le deroule numerote, les listes et les citations | 257 |
+| **La matière qu'il a lui-même déclarée** | ses idées fortes et son verdict, extraits des 1 159 documents où il a lui-meme écrit quels fiches ils alimentent | 353 |
+| **Ce qu'il a écrit sur son propre séminaire** | les pages de son propre site retrouvé **par le nom du seminaire** — « Devenez intéressant, mod. 3 : passez maitre en story-telling » | 228 |
+| **Ce que la fiche dit de ce séminaire** | sa doctrine : points clés, concepts enseignés, exercices, citations | 331 |
+| **Verbatim et citations** | le texte de la section « Contenu complet », et les formules entre guillemets | 83 |
+
+Les sources ne se recouvrent pas : **la page de l'auteur sur son propre
+séminaire** est un matériau différent de l'annonce de la page produit. La
+première est un article ou une actualité qu'il a écrit sur son séminaire ;
+la seconde est la fiche de vente de la journée.
+
+**367 des 369 formations** portent au moins une source. Les deux exceptions
+sont dites dans leur fichier.
+
 ## La règle qui compte : verbatim ou reconstitution## La règle qui compte : verbatim ou reconstitution
 
 Trois statuts ne se valent pas. Confondre les deux, c'est attribuer à l'auteur
@@ -112,6 +136,8 @@ Contrôles passés sur l'ensemble du dépôt :
 - **3 506 / 3 506** idées fortes retrouvées **mot pour mot** dans le document
   que la fiche cite.
 - **947 / 947** sections d'annonce retrouvées dans leur page produit.
+- **1 285 / 1 285** passages de développement retrouvés mot pour mot dans la page d'archive qu'elle nomme.
+- **1 776 / 1 776** blocs de doctrine retrouvés mot pour mot dans la fiche d'origine.
 - **257 / 257** citations de fiche vérifiées mot pour mot.
 - **0** fichier contenant du déchet de page (widgets YouTube, navigation).
 - **0** secret dans l'arbre.

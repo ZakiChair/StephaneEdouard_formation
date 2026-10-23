@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 2
 documents_materiau: 2
+pages_developpement: 3
 idees_forces: 0
 citations: 0
 doublon_titre: non
@@ -82,13 +83,140 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 
 ### Emily in Paris : L'Instagrammer est le Futur de l'Homme — `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese`
 
-*podcast · `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese.md`*
+*podcast / vidéoscopie · `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – OPtQxFnZFX4 — `Video-OPtQxFnZFX4-synthese`
 
-*podcast · `Video-OPtQxFnZFX4-synthese.md`*
+*podcast / vidéoscopie · `Video-OPtQxFnZFX4-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### 30 avril : devenez l&#8217;amant idéal
+
+*`web-actualite__5665_sexe-devenir-amant-ideal.html.txt` · 1701 mots · archive de l'auteur*
+
+30 avril : devenez l’amant idéal
+Le 4 septembre dernier, le séminaire
+«être sexué»
+démarrait la sixième saison des séminaires SpikeSéduction, la 2010/2011. Dans une salle comble, avec l’un de mes séminaires qui m’a procuré le plus de plaisir à dispenser, notamment parce que dans la salle, au fond à droite, je distinguais la tête un peu ahurie de mon ex patron venue voir ce que son ex «employé» faisait de ses soirées. Ou plutôt de ses journées, en l’occurrence, puisque nous inaugurions par la même occasion les séminaires en après-midi (14h-17h au lieu de 20h-23h).
+Il semblerait que mon plaisir ait été communicatif puisque, en cumulant présence en salle et commandes des enregistrements mp3, ce séminaire détient toujours le record absolu d’auditeurs, avec plusieurs centaines d’entre vous qui désormais savent ce qu’adopter un comportement sexué signifie. Merci de votre fidélité, et félicitations pour avoir compris que
+vous
+êtes la seule personne sur qui vous pouvez investir avec un rendement de 100%. Plus fort qu’un lingot d’or.
+Un seul
+(conn)aître
+vous manque…
+Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
+confident
+, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’enregistrement du séminaire est
+disponible ici
+Mais une attitude sexuée, bien que pré-requise, ne reste qu’une entrée en matière. Une (belle) promesse, qu’il vous faudra tenir lorsque l’intimité sera votre seul témoin, autrement dit,
+au lit
+En clair, je vous réserve un séminaire à ma façon sur le sexe.
+Précisions importantes :
+Ce séminaire est accessible et compréhensible en tant que tel, même si vous avez manqué « être sexué »
+Ce séminaire s’adresse à ceux d’entre vous qui sont en couple
+aux célibataires : n’attendez pas « d’avoir une copine » pour vous intéresser aux moyens de lui donner du plaisir, ce serait trop tard…
+…et tout est dépeuplé
+Il 
+
+### Commandez le séminaire &laquo;&nbsp;L&rsquo;amant idéal&nbsp;&raquo;
+
+*`web-actualite__5665_sexe-devenir-amant-ideal.html?preview=1.txt` · 1360 mots · archive de l'auteur*
+
+Comment devenir un bon amant
+Commandez le séminaire
+« L’amant idéal »
+Commandez le séminaire
+« L’amant idéal »
+Video:preview séminaire sexe - devenir un bon coup
+Référence :
+sexe - amant ideal
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+avoir eu quelques expériences sexuelles
+Objectifs :
+découvrir et mettre à profit les spécificités de la psychologie féminine pour booster son plaisir sexuel et l'envie de vous faire plaisir
+Durée totale :
+2h26mn
+Taille du fichier :
+69,6Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Etre sexué
+Le 4 septembre dernier, le séminaire
+«être sexué»
+démarrait la sixième saison des séminaires SpikeSéduction, la 2010/2011. Dans une salle comble, avec l’un de mes séminaires qui m’a procuré le plus de plaisir à dispenser, notamment parce que dans la salle, au fond à droite, je distinguais la tête un peu ahurie de mon ex patron venue voir ce que son ex «employé» faisait de ses soirées. Ou plutôt de ses journées, en l’occurrence, puisque nous inaugurions par la même occasion les séminaires en après-midi (14h-17h au lieu de 20h-23h).
+Il semblerait que mon plaisir ait été communicatif puisque, en cumulant présence en salle et commandes des enregistrements mp3, ce séminaire détient toujours le record absolu d’auditeurs, avec plusieurs centaines d’entre vous qui désormais savent ce qu’adopter un comportement sexué signifie. Merci de votre fidélité, et félicitations pour avoir compris que
+vous
+êtes la seule personne sur qui vous pouvez investir avec un rendement de 100%. Plus fort qu’un lingot d’or.
+Un seul
+(conn)aître
+vous manque...
+Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
+confident
+, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’
+
+### L&#8217;homme idéal, jour J
+
+*`web-actualite__5544_lhomme-ideal-jour-j.html.txt` · 225 mots · archive de l'auteur*
+
+L’homme idéal, jour J
+C’est le grand jour, le livre est en librairie depuis ce matin (photo ci-dessous prise à la Fnac des Ternes). A l’heure où j’écris ces lignes, il est 4ème meilleure vente d’Amazon toutes catégories confondues ! Si vous ne l’avez pas encore commandé, faites-le
+avant ce soir minuit
+pour m’aider à réaliser le fameux « plan sans accrocs » et bénéficier d’une invitation à la conférence / dédicace qui se tiendra le 2 avril.
+Aidez-nous à battre, l’espace d’un soir, tous les vendeurs de rêves, aidez-nous à positionner premier le premier livre à dire la vérité sur ce sujet !
+Vous avez découvert cet article avant tous vos amis ? Faites-leur savoir
+L’homme idéal : Amazon en rupture de stock
+L’homme idéal J-1 : pour un plan sans accrocs
+La saga de l’homme idéal (10 épisodes)
+Apprendre à séduire, pourquoi faire ?
+A venir : Vente privée, par Spike (précédée d’une mini-conférence relooking)
+Lire 100% du site demanderait une centaine d'heures...
+le séminaire,
+les réponses de la séduction
+, en dvd
+47€ seulement
+l'ebook,
+Entretiens privés
+, vol.1,
+<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
+NOUVEAU
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

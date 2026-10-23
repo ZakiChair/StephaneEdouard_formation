@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 14
 citations: 0
 doublon_titre: oui
@@ -70,7 +71,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -81,16 +84,21 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ### Marguerite Stern : Behind the Scenes of the Feminist Dream Life — `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese`
 
-*podcast · `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese.md`*
+*podcast / vidéoscopie · `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse 47jhynafWCc — `Video-47jhynafWCc-synthese`
 
-*podcast · `Video-47jhynafWCc-synthese.md`*
+*podcast / vidéoscopie · `Video-47jhynafWCc-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 - 5 ans après MeToo, la société demeure "très sexiste" selon le rapport
@@ -108,6 +116,16 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 *« Video-47jhynafWCc-synthese.md » · origine : lien-declare*
 
 > 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 2
 points_annonce: 12
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -63,8 +64,66 @@ PS : Les tomes en promotion ne sont pas dédicacés.
 
 ### Synthèse aBhIcSeNRxY — `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese`
 
-*podcast · `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese.md`*
+*podcast / vidéoscopie · `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Tu étais où le soir du lancement de La Furia à Paris ? Chez toi ? C'est ballot, tu n'as pas pu me faire dédicacer ton exemplaire. Heureusement qu'il y a Internet : rattrape-toi vite, il m'en reste quelques-uns et je m'appliquerai même à écrire ton prénom sans (trop de) fautes. Index des articles par… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Tu étais où le soir du lancement de La Furia à Paris
+2. C'est ballot, tu n'as pas pu me faire dédicacer ton exemplaire
+3. Heureusement qu'il y a Internet : rattrape-toi vite, il m'en reste quelques-uns et je m'appliquerai même à écrire ton prénom sans (trop de) fautes
+4. Index des articles par numéro
+
+Mensonges médiatiques et vérités Internet, pt
+5. 1 : fiers d'être dupes
+Mensonges médiatiques et vérités Internet, pt
+6. 2 : florilège d'impostures
+Argent et prolétariat : histoire d'une folie à deux, pt
+7. Argent et prolétariat : histoire d'une folie à deux, pt
+8. 2 : le monde festoie sur le cratère d'un volcan
+Vers la remigration, pt
+9. 3 : Hapsatou Sy, Anne-Yvonne et les vélotaffeurs
+Les Mousquetaires, nos Samuraï à nous
+
+PS : Les tomes en promotion ne sont pas dédicacés
+10. &nbsp;
+#tab-title-additional_information,#zenwoowishBtn,
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

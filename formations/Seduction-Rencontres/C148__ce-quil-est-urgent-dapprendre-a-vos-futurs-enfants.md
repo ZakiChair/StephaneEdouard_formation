@@ -13,6 +13,7 @@ programme: 13
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 3
+pages_developpement: 1
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -64,7 +65,9 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 ### Synthèse : Il s’est stérilisé. A priori, ça n’était pas urgent — orzckQYNQ0c — `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese`
 
-*podcast · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+*podcast / vidéoscopie · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 - Inversion de la charge contraceptive : Historiquement, les femmes assument la quasi-totalité de la responsabilité contraceptive (pilule, stérilet), avec des effets secondaires souvent sous-estimés, tandis que les hommes se contentent du préservatif.
@@ -75,7 +78,9 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 ### Je t'aime toujours, mais c'est mieux comme ça — Synthèse — `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese`
 
-*podcast · `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md`*
+*podcast / vidéoscopie · `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Décryptage : "Je t'aime toujours, mais c'est mieux comme ça" = rupture définitive, pas une pause.
 - Signaux forts : Réssentiment accumulé sur la durée, départ reflechi, pas impulsif.
@@ -86,8 +91,9 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 ### Synthèse – dxztnF6LyAg — `Video-dxztnF6LyAg-synthese`
 
-*podcast · `Video-dxztnF6LyAg-synthese.md`*
+*podcast / vidéoscopie · `Video-dxztnF6LyAg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -102,6 +108,77 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 *« Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md » · origine : lien-declare*
 
 > Décryptage : "Je t'aime toujours, mais c'est mieux comme ça" = rupture définitive, pas une pause.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Faut-il dire la vérité aux enfants (sur les relations hommes-femmes) ?
+
+*`web-articles__seduction-avance__11471_declaration-amour-enfant.html.txt` · 2778 mots · archive de l'auteur*
+
+Bonjour Stéphane,
+Je partage mes nuits avec une jeune femme qui travaille avec des enfants plus ou moins en difficulté. Aujourd’hui celle-ci a reçu en séance un garçon de 9 ans qui lui a
+avoué son amour
+pour une de ses petites camarades d’école.
+« C’est la plus belle fille que j’ai jamais vue. De ma vie. »
+dit-il, mais il n’a pour l’instant pas vraiment fait de démarche pour aller la voir, est tétanisé, et en souffre depuis longtemps (à son échelle). Il est assez mal dans sa peau et manque de confiance en lui, notamment en raison de son surpoids. Connaissant mon intérêt pour les disciplines de la « séduction » – à défaut d’un autre terme – ma compagne s’en est ouvert à moi pour avoir mon avis.
+D’autre part, je suis papa de deux enfants (plus petits) et j’avoue que cette question me taraude. Le cas du patient de 9 ans en surpoids incapable de parler à une fillette me semble assez clair en ce sens que je pressens comment cet enfant va fabriquer des complexes et devenir un futur client probable de la psychologie et des conseils en bois de tous genres… Cependant, le cas de mes propres enfants me pousse à la réflexion.
+Je suis assez âgé et donc normalement assez expérimenté pour comprendre toutes les choses contre-intuitives dont nous débattons à longueur de
+forum
+, mais je me demande comment transmettre ce savoir sans cynisme à mes enfants. Pour être encore plus précis, je vois comment l’éducation sociale est en train de faire son oeuvre en transformant un garçon qui a naturellement des bons réflexes quant à la gente féminine alors même qu’il n’a pas atteint l’âge de la différence visible des sexes.
+Apprendre à « dire bonjour à la dame » et tous les registres de la politesse cassera certainement ses comportements innés, et je ne vois pas comment mon éducation pourrait lui éviter de passer obligatoirement par cette naïveté vis à vis des rapports homme/femme. Il n’est pas impossible qu’à l’instar de la sexualité « technique », la « séduction » soit quelque chose d’inabordable avec ses enfants. En substance, comment suggères-tu que l’éducation d’un père « éclairé » puisse enrayer la perpétuation des croyances limitantes.
+Basile
+Bonjour Basile,
+Excellente question que l
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Avec désormais une belle dizaine d'années de recul, il m'est désormais facile de dégager 3 grandes tendances en ce qui concerne l'écoulement de mes précieux séminaires (faut-il le rappeler, pour la 100ème fois : l'information se trouve dans mes séminaires, les réseaux sociaux ne me servent que de canaux de communication, j'y fais surtout le… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Avec désormais une belle dizaine d'années de recul, il m'est désormais facile de dégager 3 grandes tendances en ce qui concerne l'écoulement de mes précieux séminaires (faut-il le rappeler, pour la 100ème fois : l'information se trouve dans mes séminaires, les réseaux sociaux ne me servent que de canaux de communication, j'y fais surtout le pitre et rien d'autre, vous laissant, à vous clients paya
+2. La sociologie dissidente, c'est comme la fessée à l'âge adulte: une fois essayée, difficile de revenir en arrière)
+
+3 types de séminaires
+
+certains atteignent des pics de vente hystériques, puis se normalisent jusqu'à une nouvelle communication de ma part à leur sujet (ex : ce qui ne te tue pas…)
+d'autres attendent sagement « d'entrer en percussion » avec un évènement d'actualité ou une saisonnali
+3. J'en vends même pendant la finale de la Coupe du Monde (véridique)
+4. J'en déduis qu'ils constituent le point sensible de mon oeuvre, qu'ils font écho aux inquiétudes les plus communément partagées
+5. L'archétype de ces séminaires, c'est « ce que vos parents »… Un condensé de croyances limitantes
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

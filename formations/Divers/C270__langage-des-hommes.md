@@ -13,6 +13,7 @@ programme: 5
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 1
 idees_forces: 5
 citations: 0
 doublon_titre: oui
@@ -77,12 +78,15 @@ Indice : pas avec ses oreilles, manifestement.
 
 ### Synthèse – eLtPp7XklAc — `Stéphane-Edouard-attendri-par-une-Femen-synthese`
 
-*podcast · `Stéphane-Edouard-attendri-par-une-Femen-synthese.md`*
+*podcast / vidéoscopie · `Stéphane-Edouard-attendri-par-une-Femen-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video p1WU4JiuIzQ — p1WU4JiuIzQ — `Video-p1WU4JiuIzQ-synthese`
 
-*podcast · `Video-p1WU4JiuIzQ-synthese.md`*
+*podcast / vidéoscopie · `Video-p1WU4JiuIzQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
 - Le ressentiment comme mécanisme universel : Ce n'est pas une question de genre, mais une réaction humaine face à un sentiment d'insuffisance dans le présent.
@@ -97,6 +101,55 @@ Indice : pas avec ses oreilles, manifestement.
 *« Video-p1WU4JiuIzQ-synthese.md » · origine : lien-declare*
 
 > Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Hommes-femmes : le top 10 des mythes et contre-vérités
+
+*`web-articles__908_relations-hommes-femmes.html.txt` · 324 mots · archive de l'auteur*
+
+Relations hommes-femmes : le top 10 des contre vérités
+Conseil séduction - Relooking homme
+Hommes-femmes : le top 10 des mythes et contre-vérités
+Le sujet des relations hommes-femmes n'a jamais été aussi à la mode depuis la disparition de Tournez Manège et du regretté Charlie Oleg, qui transformait n'importe quel slow larmoyant en lambada endiablée. Hélas, ici comme ailleurs, les femmes ont de l'avance... Lire la suite sur
+CommeUnCamion
+et discutez-en dans
+la rubrique séduction du forum
+Payer, ou bien être le prix ?
+Relooking gratuit
+Extrait de la méthode Spike : les projections, suite (par A...
+Si je vous dis que vous avez un joli bronzage.
+Partir, c'est revivre un peu
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face=""> <i> <li> <ol> <strike> <strong> <sub> <sup> <ul>
+Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+Forum séduction et relooking
+Forum séduction et relooking
+Pour ceux qui aiment les forums séduction actifs et à taille humaine :
+Best-of des articles look >>
+Best-of des articles séduction >>
+Prochains évènements
+Séminaire body-langage >>
+Atelier dream job >>
+Séminaire bootcamp >>
+Conseil séduction au téléphone
+Besoin d'un conseil séduction ou relation longue, sans attendre ?
+Appelez Spike >>
+Ecoutez le témoignage d'un participant au relooking
+Hommes-femmes : le top 10 des mythes et contre-vérités
+Vous résidez en Suisse ? Profitez de l'atelier séduction C...
+Relooking SpikeSéduction à New-York : les petites boutique...
+Moi je dirai que Truffaut avait tout compris....
+Merci Kami, ce fût extra
+Et alors, le meilleur fondant on le trouve o�...
+Séduction à lire ou à relire
+Rien sur Robert
+Cette fille dans le métro...(suite) : comment prendre son n...
+La trousse de toilette idéale pour l'été
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
 
 ---
 

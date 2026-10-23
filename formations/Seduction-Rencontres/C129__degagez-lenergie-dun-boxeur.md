@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 5
 points_annonce: 2
 documents_materiau: 5
+pages_developpement: 3
 idees_forces: 9
 citations: 0
 doublon_titre: non
@@ -90,12 +91,15 @@ _\*un vrai_
 
 ### Synthèse – KmtLfLqyFXo — `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese`
 
-*podcast · `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese.md`*
+*podcast / vidéoscopie · `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – Vidéoscopie By3rr1asx9w — `Dépenses-de-l'État-en-2024-dérapage-ou-pas-synthese`
 
-*podcast · `Dépenses-de-l'État-en-2024-dérapage-ou-pas-synthese.md`*
+*podcast / vidéoscopie · `Dépenses-de-l'État-en-2024-dérapage-ou-pas-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La question centrale : Les dépenses de l'État ont-elles dérapé en 2024 ?
 - Les annonces récentes : Aides d'urgence à la filière bio, chèque énergie, revalorisation salariale petite enfance, Ukraine (5 milliards)
@@ -104,7 +108,9 @@ _\*un vrai_
 
 ### Synthèse — Vidéo MhbMzfYHG-Q — `L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese`
 
-*podcast · `L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese.md`*
+*podcast / vidéoscopie · `L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Données de sécurité : moins de 10% des décès routiers ont lieu sur autoroute (54% en zone rurale, 38% en urbain). La vitesse n'est pas la cause principale — distraction, alcool, somnolence, absence de ceinture le sont.
 - Physique de l'énergie cinétique : calculs comparatifs (bille de paintball, balle de tennis, 22 LR, 357 Magnum, rugbyman, voiture à 130 km/h = 1 million de joules = 1000 rugbymen). Ce qui tue = arrêt trop brutal, pas la vitesse.
@@ -114,13 +120,15 @@ _\*un vrai_
 
 ### Synthèse – WOASKqF3xNA — `Video-WOASKqF3xNA-synthese`
 
-*podcast · `Video-WOASKqF3xNA-synthese.md`*
+*podcast / vidéoscopie · `Video-WOASKqF3xNA-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video xDk6c-sODgg — xDk6c-sODgg — `Video-xDk6c-sODgg-synthese`
 
-*podcast · `Video-xDk6c-sODgg-synthese.md`*
+*podcast / vidéoscopie · `Video-xDk6c-sODgg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -135,6 +143,180 @@ _\*un vrai_
 *« L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese.md » · origine : lien-declare*
 
 > Données de sécurité : moins de 10% des décès routiers ont lieu sur autoroute (54% en zone rurale, 38% en urbain). La vitesse n'est pas la cause principale — distraction, alcool, somnolence, absence de ceinture le sont.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Dégagez l&rsquo;énergie d&rsquo;un boxeur
+
+*`web-articles__6091_seduction-energie.html?preview=1.txt` · 1132 mots · archive de l'auteur*
+
+L'importance de l'énergie dans la séduction
+Dégagez l’énergie d’un boxeur
+Dégagez l’énergie d’un boxeur
+Video:preview séminaire dégagez l'énergie d'un boxeur
+Référence :
+énergie
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+produire et dégager plus d'énergie afin d'inspirer confiance et de devenir plus séduisant
+Durée totale :
+2h14mn
+Taille du fichier :
+55 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+L'amant idéal
+Etre sexué
+Il parait qu’il n’y a pas de vérité(s) universelle(s) ; ou alors très peu. En 5 années de Spike Séduction, j’ai tout de même eu l’occasion de faire un certain nombre de
+constats
+, constats transformés par le temps en
+certitudes
+, certitudes elles-mêmes transformées, par l’expérience et la réflexion, en
+vérités
+. Alors, je ne sais pas si la vérité qui suit est - ou non - universelle, mais en tout cas je ne lui connais aucune exception.
+Aucune
+exception en 5 ans et plusieurs centaines d’ateliers et de séminaires, avouez que «ça cause». Disons-le clairement et sans plus attendre.
+Tout garçon/homme confronté à une problématique de séduction est toujours (toujours) confronté à une problématique de manque d’énergie
+Vous avez l'impression de faire tout ce qu'il faut pour être séduisant mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant.
+Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l'impression que les autres s'entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant.
+Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l'impression que les "portes" qui vous auraient permis de le faire se referment quelques secondes avant que vous n'ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant
+Vous ne parlez jamais assez fort ? Etc. etc.
+Que ce manque d'énergie soit passager ou chronique, là n’est pas la question - du 
+
+### Coaching online : dégagez l&#8217;énergie d&#8217;un boxeur grâce à l&#8217;alimentation
+
+*`web-articles__8497_preview-coaching-alimentation-energie.html.txt` · 382 mots · archive de l'auteur*
+
+Coaching online : dégagez l’énergie d’un boxeur grâce à l’alimentation
+Coaching online : dégagez l’énergie d’un boxeur grâce à l’alimentation
+Les plus assidus d’entre vous se souviennent du
+Pack Energie
+lancé il y a… un certain temps (là je masque que je ne sais plus combien exactement, et que j’ai la flemme de chercher précisément). L’idée était de prendre le problème de l’énergie à la base, cette base étant… l’alimentation. Oui, pas besoin de grande métaphore pour comprendre que c’est le carburant de votre corps, et qu’il ne peut guère faire de miracles avec un combustible de mauvaise qualité.
+Mauvaises combinaisons d’aliments (ou mauvais aliments tout court)
+=
+plus d’énergie dépensée à digérer
+=
+moins de disponible pour vous !
+Ce pack était fantastique, à un détail près : il nécessitait que vous habitiez Paris, et que vous dégagiez du temps pour plusieurs rendez-vous étalés sur plusieurs semaines avec différents intervenants.
+J’ai donc cherché un moyen de vous faire bénéficier du même service, sans les contraintes.
+Et j’ai trouvé.
+Il s’agit d’un programme de coaching
+online
+complet (plus besoin de se déplacer sur Paris donc), conçu spécialement pour SpikeSeduction, où vous recevrez chaque semaine
+une
+vidéo
+expliquant les grandes règles de la semaine
+un
+dossier
+sur un aliment que vous ignorez et qui s’avère excellent pour votre santé
+un
+résumé
++ des
+actions
+concrètes à mettre en oeuvre tout de suite pour booster votre énergie
+Ceci n’est qu’une préview. Plus de détails disponibles très bientôt.
+Mais si vous êtes intéressé, inscrivez-vous dès maintenant à la liste d’attente pour recevoir toutes les infos en exclusivité
+avant
+la sortie officielle du programme.
+Entrez votre e-mail :
+Offre limitée aux
+50
+premiers inscrits
+(l’inscription à la liste d’attente est sans engagement, on ne va pas venir chez vous avec des cordes un fouet si vous donnez votre email et que vous changez d’avis par la suite)
+Marco
+19 septembre 2011 à 21:21
+« Offre limitée aux 50 premiers inscrits »
+Ouhla le marketing ricain fais des ravages, même sur spikeseduction!!
+Urluberlu
+19 septembre 2011 à 23:52
+Moi ? Qu’est-ce que je pense ? Ben,…rien.
+énergie
+coaching alimentation
+
+### 14 mai 2011 : la clef de l&#8217;énergie
+
+*`web-articles__6091_seduction-energie.html.txt` · 1437 mots · archive de l'auteur*
+
+14 mai 2011 : la clef de l’énergie
+A l’heure où j’écris ces lignes, les réservations affluent pour le séminaire consacré à la sexualité féminine vue sous l’angle de la psychologie (
+l’amant idéal
+). Vous avez raison, il sera très bon, d’ailleurs je vous prépare une introduction à ma façon, sur base d’analyse d’
+Eyes Wide Shut
+; je l’ai revu récemment, avec un oeil totalement différent de celui qui était le mien il y a dix ans. Mais il ne sera pas le seul à se révéler puissant. Le 14 mai (oui, attention, les deux séminaires sont plus rapprochés que d’habitude, ne vous trompez pas de date dans vos agendas), autre thème fondamental au programme
+Il parait qu’il n’y a pas de vérité(s) universelle(s) ; ou alors très peu. En 5 années de Spike Séduction, j’ai tout de même eu l’occasion de faire un certain nombre de
+constats
+, constats transformés par le temps en
+certitudes
+, certitudes elles-mêmes transformées, par l’expérience et la réflexion, en
+vérités
+. Alors, je ne sais pas si la vérité qui suit est – ou non – universelle, mais en tout cas je ne lui connais aucune exception.
+Aucune
+exception en 5 ans et plusieurs centaines d’ateliers et de séminaires, avouez que «ça cause». Disons-le clairement et sans plus attendre.
+Tout garçon/homme confronté à une problématique de séduction est toujours (toujours) confronté à une problématique de manque d’énergie
+Vous avez l’impression de faire tout ce qu’il faut pour être séduisant mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
+Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l’impression que les autres s’entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant.
+Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l’impression que les « portes » qui vous auraient permis de le faire se referment quelques secondes avant que vous n’ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant
+Vous ne parlez jamais assez fort ? Etc. etc.
+Que ce manque d’énergie so
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Comment avoir de l'énergie ? On dit qu’il n’y aurait pas de vérité(s) universelle(s) ; ou alors très peu. En plus de 10 ans j’ai tout de même eu l’occasion de faire un certain nombre de constats, constats transformés par le temps en certitudes, certitudes elles-mêmes transformées, par l’expérience et la réflexion, en vérités. Alors, je ne… 
+
+Read More
+
+---
+
+### Points clés
+
+1. On dit qu’il n’y aurait pas de vérité(s) universelle(s) ; ou alors très peu
+2. En plus de 10 ans j’ai tout de même eu l’occasion de faire un certain nombre de constats, constats transformés par le temps en certitudes, certitudes elles-mêmes transformées, par l’expérience et la réflexion, en vérités
+3. Alors, je ne sais pas si la vérité qui suit est – ou non – universelle, mais en tout cas je ne lui connais aucune exception
+4. Toute personne confrontée à une problématique de charisme (au sens large) a toujours un problème de manque chronique d’énergie
+
+Vous avez l'impression de faire tout ce qu'il faut pour être le meilleur vous-même mais les résultats se font attendre
+5. Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant
+6. Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l'impression que les autres s'entêtent dans leur perception erronée de vous
+7. Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant
+8. Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l'impression que les « portes » qui vous auraient permis de le faire se referment quelques secondes avant que vous n'ayez pu les emprunter
+9. Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant
+Vous ne parlez jamais assez fort
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

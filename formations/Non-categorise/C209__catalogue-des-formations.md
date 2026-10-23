@@ -5,7 +5,7 @@ categorie: "Non categorise"
 categorie_brute: "Non catégorisé"
 slug: "catalogue-complet"
 url: ""
-statut: non-reconstituable
+statut: index-catalogue
 mots_fiche: 3148
 mots_verbatim: 0
 mots_annonce: 0
@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 0
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: non
@@ -25,6 +26,12 @@ confiance: 0
 # Catalogue des Formations
 
 **C209** · Non categorise · 3148 mots
+
+## Ce que contient cette fiche
+
+Ce n'est **pas une formation** : c'est l'index du catalogue mat-consulting.fr, qui liste tous ses séminaires par catégorie. Elle sert de table de correspondance entre les 369 fiches du canon et les pages produits.
+
+La liste complète des formations reste dans [INDEX.md](../INDEX.md) et dans `data/index-canonique.json`.
 
 ---
 

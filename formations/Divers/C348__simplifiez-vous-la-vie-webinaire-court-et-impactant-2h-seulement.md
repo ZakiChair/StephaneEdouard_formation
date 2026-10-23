@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 27
 citations: 0
 doublon_titre: oui
@@ -96,7 +97,9 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 
 ### SYNTHESE - -arsbMg7ZHM — `Court-extrait-–-préférences-YouTube-synthese`
 
-*podcast · `Court-extrait-–-préférences-YouTube-synthese.md`*
+*podcast / vidéoscopie · `Court-extrait-–-préférences-YouTube-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La musculation sans comportement humain n'intéresse pas.
 - L'anthropologie sociale comme centre d'intérêt principal.
@@ -107,11 +110,15 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 - Intelligence Sociale
 - Communication et Langage
 
+**Son verdict**
+
 > "Je ne crains pas les fautes d'orthographe, je crains l'insécurité économique et le vandalisme."
 
 ### SYNTHESE - FnmOmeQkYWo — `Qu'est-ce-donc-cette-diablerie-synthese`
 
-*podcast · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+*podcast / vidéoscopie · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le film : 3 couples (hétéro, bi, intergénérationnel) = "liberté sexuelle" de façade
 - Les truismesde ("on est pas que des bonnes épouses", "le plaisir féminin")
@@ -122,12 +129,15 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 - Les arguments datent de 50 ans (Mai 68)
 - Le contexte de Mai 68 = besoin de repeupler après la guerre + inflation 2 chiffres
 
+**Son verdict**
+
 > "Tant que vous n'êtes pas capables de correctement décrire le problème, vous ne savez pas le résoudre"
 
 ### Synthèse – ebpWGsLSpCE — `Video-ebpWGsLSpCE-synthese`
 
-*podcast · `Video-ebpWGsLSpCE-synthese.md`*
+*podcast / vidéoscopie · `Video-ebpWGsLSpCE-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 

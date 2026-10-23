@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 6
 points_annonce: 5
 documents_materiau: 5
+pages_developpement: 7
 idees_forces: 25
 citations: 3
 doublon_titre: oui
@@ -133,7 +134,9 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 
 ### SYNTHESE - 1CEJLpHtcHk — `Bill-&-Melinda-Gates-divorce-—-their-marriage-contract-revealed-synthese`
 
-*podcast · `Bill-&-Melinda-Gates-divorce-—-their-marriage-contract-revealed-synthese.md`*
+*podcast / vidéoscopie · `Bill-&-Melinda-Gates-divorce-—-their-marriage-contract-revealed-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Marriage comme problème à résoudre (logique engineer) plutôt que comme engagement émotionnel.
 - Égalité proclamée mais contrat très déséquilibré : week-end avec ex, droit de veto de l'ex sur le mariage.
@@ -144,16 +147,21 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 - Logique des Hommes
 - Relations Longues
 
+**Son verdict**
+
 > "27 ans de mariage malgré le déséquilibre — prouvant que le contrat de couple fonctionne mieux que l'espoir romantique. Mais le prix était énorme pour Melinda."
 
 ### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
 
-*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+*podcast / vidéoscopie · `Faites-toujours-confiance-aux-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse — Interpretation d'un mensaje de rupture — `Video-9BcvH3jL8eE-synthese`
 
-*podcast · `Video-9BcvH3jL8eE-synthese.md`*
+*podcast / vidéoscopie · `Video-9BcvH3jL8eE-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Je t'aime toujours" — formule de politesse pour adoucir
 - "C'est mieux comme ça" — sufficient resentiment to move on
@@ -166,7 +174,9 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 
 ### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
 
-*podcast · `Video-HstnkVr4op4-synthese.md`*
+*podcast / vidéoscopie · `Video-HstnkVr4op4-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 - L'émission aborde le sexisme dans la télé-réalité
@@ -176,8 +186,9 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 
 ### Synthèse – VWOdU4c3R2o — `Video-VWOdU4c3R2o-synthese`
 
-*podcast · `Video-VWOdU4c3R2o-synthese.md`*
+*podcast / vidéoscopie · `Video-VWOdU4c3R2o-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -198,6 +209,184 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 *« Video-HstnkVr4op4-synthese.md » · origine : lien-declare*
 
 > Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire &laquo;&nbsp;apprenez à négocier&nbsp;&raquo;
+
+*`web-actualite__13522_comment-bien-negocier.html?preview=1.txt` · 1243 mots · archive de l'auteur*
+
+Séminaire apprendre à bien négocier
+Commandez le séminaire « apprenez à négocier »
+Commandez le séminaire « apprenez à négocier »
+Référence :
+négociation
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+appliquer les techniques de pouvoir et de manipulation pour négocier mieux
+Durée totale :
+5h03mn
+Taille du fichier :
+359 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Respect
+Techniques de séduction à l’écrit
+En 2009 (4 ans déjà), nous étions les premiers du genre à organiser un séminaire sur le
+pouvoir
+. Souvenez-vous, Sarkozy était président, le Vélib venait à peine de naître, Facebook était encore tout nouveau et les sites de séduction francophones ne parlaient que de vulgaires techniques de drague toutes faites importées des USA.
+Notre légitimité sur un sujet aussi ambitieux ? Avoir étudié auprès des sociologues Français et Autrichiens experts du sujet à Sciences-Po. 4 ans plus tard, le délai de prescription est largement passé : il nous aurait « suffi », pour terminer la saison en douceur avant l’été, d’organiser le même séminaire… et de l’enregistrer cette fois-ci. Mais c’était trop facile. C’était ce que n’importe quel bloggueur / webmarketeur aurait fait. J’ai donc décidé un nouvelle fois d’organiser un séminaire entièrement nouveau :
+une journée pour savoir
+négocier
+Négocier = combat = force = sexué
+Contrairement à ce que raconte à peu près toute l’opinion courante – qu’elle découle des films, des livres, des actualités ou bien tout simplement des idées reçues -, le marqueur du MAS (
+M
+âle
+A
+dulte
+S
+exué), dans la vie
+réelle
+, n’est pas de savoir se battre comme un chimpanzé pour protéger sa guenon, mais bien de savoir
+négocier
+ce dont il a besoin. La démonstration en est simple : vous mettez une simple gifle à quelqu’un qui ne vous y a pas autorisé et vous terminez au poste. Vous obtenez le
+consentement de quelqu’un par la négociation,
+et dès lors il ne peut rien contre vous.
+La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Etats doivent y recour
+
+### Journée spéciale : apprenez à négocier
+
+*`web-articles__13522_comment-negocier.html.txt` · 1592 mots · archive de l'auteur*
+
+En 2009 (4 ans déjà), nous étions les premiers du genre à organiser un séminaire sur le
+pouvoir
+. Souvenez-vous, Sarkozy était président, le Vélib venait à peine de naître, Facebook était encore tout nouveau et les sites de séduction francophones ne parlaient que de vulgaires techniques de drague toutes faites importées des USA.
+Notre légitimité sur un sujet aussi ambitieux ? Avoir étudié auprès des sociologues Français et Autrichiens experts du sujet à Sciences-Po. 4 ans plus tard, le délai de prescription est largement passé : il nous aurait « suffi », pour terminer la saison en douceur avant l’été, d’organiser le même séminaire… et de l’enregistrer cette fois-ci. Mais c’était trop facile. C’était ce que n’importe quel bloggueur / webmarketeur aurait fait. J’ai donc décidé un nouvelle fois d’organiser un séminaire entièrement nouveau :
+une journée pour savoir
+négocier
+Négocier = combat = force = sexué
+Contrairement à ce que raconte à peu près toute l’opinion courante – qu’elle découle des films, des livres, des actualités ou bien tout simplement des idées reçues -, le marqueur du MAS (
+M
+âle
+A
+dulte
+S
+exué), dans la vie
+réelle
+, n’est pas de savoir se battre comme un chimpanzé pour protéger sa guenon, mais bien de savoir
+négocier
+ce dont il a besoin. La démonstration en est simple : vous mettez une simple gifle à quelqu’un qui ne vous y a pas autorisé et vous terminez au poste. Vous obtenez le
+consentement de quelqu’un par la négociation,
+et dès lors il ne peut rien contre vous.
+La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Etats doivent y recourir pour imposer les besoins de leur politique : avec leurs collaborateurs, avec leur gouvernement, avec les syndicats, avec les autres Etats, etc.
+A votre niveau, vous allez au cours de cette journée devenir capable définitivement de négocier :
+vos rétributions (au premier lieu d’entre elles, votre salaire, ou votre facturation si vous êtes freelance) & vos augmentations
+vos achats importants (immobiliers, mobiliers, etc.)
+votre relation de couple (pour ceux qui en douteraient, voir nos séminaires Relations longues I & II)
+vos dépenses courantes (hôtels, etc.)
+votre li
+
+### 22 juin : une journée pour savoir négocier
+
+*`web-actualite__13522_comment-bien-negocier.html.txt` · 1591 mots · archive de l'auteur*
+
+Attention ce séminaire ne sera
+pas
+disponible a posteriori dans notre base de connaissances
+En 2009 (4 ans déjà), nous étions les premiers du genre à organiser un séminaire sur le
+pouvoir
+. Souvenez-vous, Sarkozy était président, le Vélib venait à peine de naître, Facebook était encore tout nouveau et les sites de séduction francophones ne parlaient que de vulgaires techniques de drague toutes faites importées des USA.
+Notre légitimité sur un sujet aussi ambitieux ? Avoir étudié auprès des sociologues Français et Autrichiens experts du sujet à Sciences-Po. 4 ans plus tard, le délai de prescription est largement passé : il nous aurait « suffi », pour terminer la saison en douceur avant l’été, d’organiser le même séminaire… et de l’enregistrer cette fois-ci. Mais c’était trop facile. C’était ce que n’importe quel bloggueur / webmarketeur aurait fait. J’ai donc décidé un nouvelle fois d’organiser un séminaire entièrement nouveau :
+une journée pour savoir
+négocier
+Négocier = combat = force = sexué
+Contrairement à ce que raconte à peu près toute l’opinion courante – qu’elle découle des films, des livres, des actualités ou bien tout simplement des idées reçues -, le marqueur du MAS (
+M
+âle
+A
+dulte
+S
+exué), dans la vie
+réelle
+, n’est pas de savoir se battre comme un chimpanzé pour protéger sa guenon, mais bien de savoir
+négocier
+ce dont il a besoin. La démonstration en est simple : vous mettez une simple gifle à quelqu’un qui ne vous y a pas autorisé et vous terminez au poste. Vous obtenez le
+consentement de quelqu’un par la négociation,
+et dès lors il ne peut rien contre vous.
+La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Etats doivent y recourir pour imposer les besoins de leur politique : avec leurs collaborateurs, avec leur gouvernement, avec les syndicats, avec les autres Etats, etc.
+A votre niveau, vous allez au cours de cette journée devenir capable définitivement de négocier :
+vos rétributions (au premier lieu d’entre elles, votre salaire, ou votre facturation si vous êtes freelance) & vos augmentations
+vos achats importants (immobiliers, mobiliers, etc.)
+votre relation de couple (pour ceux qui en douteraient, 
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+La session "matin" de la formation Négocier pose le socle mental et stratégique avant d'entrer dans les tactiques de l'après-midi. Stéphane Édouard y démontre que la négociation n'est pas un affrontement entre deux volontés — c'est un **jeu d'information, de posture et de marges de manœuvre**. L'homme qui négocie mal perd sur trois tableaux : il accepte un salaire trop bas, il cède du terrain sans contrepartie, et il sort de la discussion avec le sentiment d'avoir été floué. La formation matinale vise à installer la matrice de pensée qui rend les tactiques (traitées l'après-midi) réellement efficaces. Le principe clé : on ne négocie jamais *contre* quelqu'un, on négocie *avec* un système de contraintes — et comprendre ce système, c'est déjà gagner.
+
+---
+
+### Points clés
+
+- **La négociation est un jeu d'information** — celui qui connaît le BATNA (Best Alternative To a Negotiated Agreement) de l'autre détient un avantage asymétrique décisif.
+- **Le silence est un outil de pression** — la personne qui parle le moins, et qui accepte le silence, impose son tempo et révèle les marges de l'autre partie.
+- **L'ancrage numérique détermine 70% du résultat** — le premier chiffre mentionné devient la référence psychologique, même s'il est arbitraire.
+- **La posture corporelle précède le discours** — épaules en arrière, voix posée, regard stable : le corps négocie avant les mots.
+- **Ne jamais accepter au premier tour** — accepter immédiatement signale soit de la naïveté, soit de la dépendance ; les deux hypothèses tuent la valeur perçue.
+- **Le prix n'est qu'un paramètre parmi d'autres** — délais, garanties, exclusivité, options de sortie, références : un deal se construit sur 5-6 variables.
+- **L'émotion est l'ennemi du négociateur** — la colère, l'enthousiasme, l'empressement trahissent votre niveau d'investissement et font monter le prix ou descendre la proposition.
+
+---
+
+### Concepts enseignés
+
+### 1. La matrice BATNA et l'asymétrie d'information
+
+Avant toute négociation, identifiez votre **meilleure alternative en cas d'échec** (BATNA). Si vous n'avez pas de plan B, vous n'avez pas de position de négociation — vous avez une mendicité. Le BATNA vous donne le droit de dire *non* sans trembler. À l'inverse, identifier le BATNA probable de l'autre partie vous indique où se trouve sa *zone d'acceptation* (ZOPA — Zone Of Possible Agreement). La négociation commence toujours par la cartographie invisible : où l'autre peut-il aller, où peut-il aller, et où sera-t-il obligé de rompre ? Cette cartographie n'est presque jamais explicite — elle se devine à travers les questions, les hésitations, les contraintes logistiques évoquées.
+
+### 2. L'ancrage psychologique et le pouvoir du premier chiffre
+
+La recherche comportementale (Kahneman, Thaler) confirme : le premier chiffre mentionné dans une négociation détermine largement la suite, même s'il est aberrant. Si vous devez vendre un service à 10 000 € et que vous annoncez "15 000", vous déplacez la perception de la valeur. Si vous devez acheter et que vous proposez "7 000" pour un objet qui en vaut 10, vous avez déjà pré-cadré l'échange. Stéphane Édouard insiste : l'ancrage fonctionne à condition d'être **crédible**. Un ancrage délirant sans justification détruit la confiance. Un ancrage légèrement夸张 (exagéré), défendu avec aplomb et rationalité, repositionne toute la négociation. Le matin, on apprend à choisir l'ancrage ; l'après-midi, on apprend à le défendre.
+
+### 3. La posture physique et vocale
+
+Le corps négocie avant la bouche. Dans la session matin, Stéphane introduit les marqueurs physiques de la **posture de haute valeur** : pieds à plat au sol (ancrage), épaules dégagées (pas de rétrécissement), voix dans le grave (le grave signale la maturité et la stabilité), rythme lent (qui force l'autre à s'adapter à votre tempo). Les études sur les *power poses* (Amy Cuddy) ont été nuancées scientifiquement, mais leur effet sur l'état interne du négociateur reste robuste : adopter une posture d'agent (et non de patient) modifie la perception de ses propres marges. Une voix posée pendant 5 secondes après une proposition vaut 10 minutes d'argumentation.
+
+### 4. Le silence comme levier
+
+90% des négociateurs amateurs **détestent le silence**. Ils le remplissent, ils négocient contre eux-mêmes, ils accordent des concessions pour combler le vide. Le silence, dans la matrice de Stéphane, est un **outil d'extraction d'information** : quand vous posez une question et que l'autre tarde à répondre, ce délai révèle son 
+
+### Exercices / Pratiques
+
+- **Exercice 1 — Cartographiez votre BATNA** : avant votre prochaine négociation importante, écrivez noir sur blanc : (a) quelle est votre meilleure alternative si l'accord n'aboutit pas ? (b) quelle est probablement celle de l'autre partie ? (c) où se situe la ZOPA ? Si vous n'avez pas de plan B solide, travaillez à vous en construire un *avant* d'entrer en négociation.
+- **Exercice 2 — Pratiquez l'ancrage calibré** : choisissez un objet de la vie courante (un salaire, un service, une voiture d'occasion). Formulez trois ancrages : un trop bas (que vous n'assumeriez pas), un réaliste, un légèrement夸张. Entraînez-vous à défendre l'ancrage réaliste avec deux arguments factuels.
+- **Exercice 3 — Entraînement au silence** : pendant une conversation banale (commande au restaurant, demande à un collègue), introduisez un silence de 5 secondes après votre dernière phrase. Observez la réaction de l'autre : comble-t-il ? S'excuse-t-il ? Révèle-t-il une information nouvelle ?
+- **Exercice 4 — Travail de la posture** : filmez-vous 2 minutes en train de présenter un projet (même imaginaire). Regardez la vidéo et identifiez trois tics de "posture basse" : pieds qui bougent, voix qui monte en fin de phrase, regard fuyant. Corrigez un tic par semaine.
+- **Exercice 5 — Identification de votre profil** : sur les cinq dernières négociations de votre vie (salaire, achat, conflit domestique), étiquetez-les : gagnant naïf, perdant diplomate, ou joueur. Identifiez le pattern récurrent.
+
+---
+
+### Citations de Stéphane
+
+> "Négocier, ce n'est pas obtenir ce qu'on veut — c'est obtenir ce qu'on vaut. Et les deux ne coïncident pas toujours."
+
+> "Le silence après votre dernière phrase, c'est 5 secondes d'or. Si vous les gâchez, vous avez déjà perdu 30% de votre marge."
+
+> "L'ancrage, c'est comme planter un drapeau en haut d'une montagne : si vous le plantez trop bas, vous grimpez à moitié. Plantez-le toujours un cran au-dessus du raisonnable."
+
+---
 
 ## Citations de l'auteur
 

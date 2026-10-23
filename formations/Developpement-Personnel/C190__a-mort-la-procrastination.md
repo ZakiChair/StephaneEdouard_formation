@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 0
+pages_developpement: 0
 idees_forces: 0
 citations: 3
 doublon_titre: oui
@@ -63,6 +64,69 @@ Et si ce n’était que lors des contrôles… Gares, aéroports, simples trajet
 ### Allez, un dernier exemple de procrastination ?
 
 Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 semaines. Oui, 1 mois au lieu de 6. On ne se refait pas… À moins que ?
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+La procrastination n'est pas un problème de gestion du temps mais un problème émotionnel. Stéphane Édouard révèle que derrière chaque report se cache une émotion que l'on fuit — généralement la peur, l'ennui ou la perfectionnisme. La vraie solution n'est pas de mieux s'organiser mais de comprendre pourquoi votre cerveau cherche à éviter.
+
+---
+
+### Points clés
+
+- La procrastination est un mécanisme de protection contre des émotions désagréables — pas une simple paresse
+- La peur du jugement, la peur de l'échec et l'ennui sont les trois moteurs de la procrastination
+- Les techniques de gestion du temps ne marchent pas si le problème émotionnel n'est pas résolu
+- L'homme qui agit malgré la peur développe un avantage compétitif immense
+- La productivité commence par comprendre pourquoi vous fuyez
+
+---
+
+### Concepts enseignés
+
+### La neuroscience de la procrastination
+
+Le cerveau humain est câblé pour éviter la douleur et rechercher le plaisir immédiat. La tâche difficile crée une résistance émotionnelle que le cerveau cherche à éviter en privilégiant des activités plus agréables mais moins utiles. Ce n'est pas un défaut moral mais un mécanisme neurolologique que vous pouvez reprogrammer.
+
+### Les trois types de procrastinateurs
+
+1. **L'éviteur** : Il fuit les tâches qui déclenchent de l'anxiété — peur de l'échec, peur du jugement, peur de ne pas être à la hauteur
+2. **Le perfectionniste** : Il ne commence pas parce que la tâche ne sera jamais "parfaite" — l'immobilité comme protection
+3. **L'ennuyé** : Il fuit ce qui l'ennuie pour chercher de la stimulation constante — déficit d'engagement
+
+### La logique masculine face à la procrastination
+
+Dans le framework de Stéphane, la procrastination est une forme de faiblesse masculine — l'incapacité à endurer l'inconfort court terme pour un gain long terme. L'homme qui fonctionne en logique masculine agit malgré la peur, pas quand il se sent prêt. La discipline est la capacité à faire ce qui doit être fait quand vous n'en avez pas envie.
+
+### La structure comme solution
+
+La structure externe (horaires fixes, environnement contrôlé, accountability) compense les défaillances de la motivation interne. L'homme qui structured son environnement réduit les décisions et les résistances.
+
+---
+
+### Exercices / Pratiques
+
+- **Identifier l'émotion sous-jacente** : Quand vous reportez une tâche, demandez-vous quelle émotion vous fuyez — anxiety, ennui, peur ?
+- **La règle des 2 minutes** : Si une tâche prend moins de 2 minutes, faites-la immédiatement — ne laissez pas la friction s'installer
+- **Créer des deadlines externes** : Sans accountability, la procrastination gagne toujours — imposez-vous des conséquences
+- **Commencer imparfait** : Acceptez que la première version soit mauvaise — le perfectionnisme est un piège
+- **Éliminer les distractions** : Éteignez les notifications, créez un espace de travail dédié,endez le chemin le plus facile vers l'action
+- **Le body doubling** : Travailler en présence d'autres personnes (même en visio) réduit la procrastination par accountability sociale
+
+---
+
+### Citations de Stéphane
+
+> "La procrastination n'est pas un problème de temps — c'est un problème émotionnel. Vous ne reportez pas parce que vous manquez de temps, vous reportez parce que quelque chose en vous veut éviter cette tâche."
+
+> "L'homme qui agit malgré la peur développe un avantage compétitif que l'homme qui attend de se sentir prêt n'aura jamais."
+
+> "Le perfectionnisme est une forme sophistiquée de procrastination — vous restez immobile en prétendant vouloir faire les choses parfaitement."
+
+---
 
 ## Citations de l'auteur
 

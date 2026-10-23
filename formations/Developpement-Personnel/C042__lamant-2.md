@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 2
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 5
 citations: 0
 doublon_titre: non
@@ -78,12 +79,15 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 
 ### Elle voulait le confort, elle a eu l'ennui — Étude de cas — `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Elle voulait le confort, elle a eu l'ennui — Synthèse — `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le choix : Confort matériel immédiat vs. individuation à long terme.
 - Le mécanisme : "Abandon consenti de souveraineté" — sacrifice de l'ambition personnelle sur l'autel de la sécurité.
@@ -93,18 +97,21 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 
 ### Montrer son intérêt à un homme (2/2) — `Montrer-son-intérêt-à-un-homme,-pt.22-synthese`
 
-*podcast · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
+*podcast / vidéoscopie · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
 
-*podcast · `Video-_HLOLxJlxHI-synthese.md`*
+*podcast / vidéoscopie · `Video-_HLOLxJlxHI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*podcast · `Video-mFySAh0g-MI-synthese.md`*
+*podcast / vidéoscopie · `Video-mFySAh0g-MI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -113,6 +120,59 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 *« Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md » · origine : lien-declare*
 
 > Le choix : Confort matériel immédiat vs. individuation à long terme.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Bon. Je vais faire simple. Pour une grande, pour une immense majorité d'hétéros binaires de base, l'acte sexuel unissant un homme et une femme se réduit à remorquer une F (consentante) sur une app' de rencontre essuyer avec grâce – et un semblant de détachement – une addition au restaurant plus ou moins salée un enchaînement… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Pour une grande, pour une immense majorité d'hétéros binaires de base, l'acte sexuel unissant un homme et une femme se réduit à
+
+remorquer une F (consentante) sur une app' de rencontre
+essuyer avec grâce – et un semblant de détachement – une addition au restaurant plus ou moins salée
+un enchaînement plus ou moins hésitant et foireux pour prolonger la soirée chez l'un ou chez l'autre, sous couvert 
+2. Comme disait Flaubert (encore) mieux que moi :
+« étranger qu'il était toute psychologie »
+La sous-communication, le teasing, l'entretien du désir, les scenarios
+3. Notre hétéro binaire de base se dit que « c'est pour les effeminés », tout en se gargarisant d'avoir eu le culot d'envoyer deux ou 3 dick picks depuis le début de l'année à ses crushs de lycée retrouvés sur Instagram
+4. Ce qui ne va pas sans poser quelques petits problèmes :
+
+Problème n°1 : les femmes n'aiment pas les dick pics
+5. À moins qu'ils ne soient spécifiquement réclamés avec insistance
+6. Problème n°2 : plus de 50% du plaisir ressenti par une femme vient de son cerveau
+Problème n°3 : les 50 % restants, le corps, c'est ultra spéc
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

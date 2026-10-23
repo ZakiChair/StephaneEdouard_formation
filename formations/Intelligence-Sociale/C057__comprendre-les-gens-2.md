@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 7
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -114,23 +115,27 @@ Comprendre / analyser les gens est sans doute le défi le plus intéressant qui 
 
 ### Cultive ta confiance en toi — `Cultive-ta-confiance-en-toi-synthese`
 
-*podcast · `Cultive-ta-confiance-en-toi-synthese.md`*
+*podcast / vidéoscopie · `Cultive-ta-confiance-en-toi-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast / vidéoscopie · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Vaincre la peur — `Vaincre-la-peur-synthese`
 
-*podcast · `Vaincre-la-peur-synthese.md`*
+*podcast / vidéoscopie · `Vaincre-la-peur-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Marlène Schiappa et les romans érotiques — `Video-mLULElak73E-synthese`
 
-*podcast · `Video-mLULElak73E-synthese.md`*
+*podcast / vidéoscopie · `Video-mLULElak73E-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -145,6 +150,56 @@ Comprendre / analyser les gens est sans doute le défi le plus intéressant qui 
 *« 55pK6U9bxjs-transcript.md » · origine : corpus*
 
 > 125. petit concept qui était pourtant parfait qui était femme mère femme enfant elle est devenue mère trop tôt vous l'avez entendu dire dans des centaines de mes de mes études de cas et résultat l'a fini avec le type qui a reconstitué l'étape qui manquait c'est à dire l'étape femme qu'est ce qu'elle dit de berkane makhlouf avec lui je me suis découverte femme et oui c'est pas grave vous n'êtes pas faire les étapes dans l'ordre par contre faut comprendre que c'est comme le dévoiement quand vous prenez
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Je ne vais pas y aller par quatre chemins : vous vous croyez peut-être très intelligents, mais tant que vous ne saurez pas analyser les gens, vous êtes complètement cons. L'oeil intelligent, selon les termes des psychologues de la perception, ne se borne pas à analyser les formes et les mouvements des individus qui sont… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Je ne vais pas y aller par quatre chemins : vous vous croyez peut-être très intelligents, mais tant que vous ne saurez pas analyser les gens, vous êtes complètement cons
+2. L'oeil intelligent, selon les termes des psychologues de la perception, ne se borne pas à analyser les formes et les mouvements des individus qui sont devant nous
+3. Il devine aussi leur pensées et leurs intentions en remarquant comment ils regardent, approchent, évitent, aident ou empêchent d'agir les autres objets et les autres individus ~ Steven Pinker, comprendre la nature humaine
+Nous sous estimons l'importance de l'intelligence sociale, de l'intelligence émotionnelle, et plus globalement de la faculté à comprendre les gens tant que nous n'en pâtissons pa
+4. Il faut avoir vécu (un peu) pour faire le constat suivant : nos confrontations les plus douloureuses viennent du monde social, i
+5. Mes postulats (comment je vois le monde)
+(et comment vous devriez vous en inspirer)
+
+Les individus sont rationnels dans la limite de ce qu'ils comprennent (aussi absurde que vous semble le conflit avec quelqu'un, l'autre se sent parfaitement dans son droit, et motivé à agir de la sorte pour préserver sa liberté)
+Les relations sociales sont logiques (si vous ne les comprenez pas, ce n'est pas elles
+
+
+---
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

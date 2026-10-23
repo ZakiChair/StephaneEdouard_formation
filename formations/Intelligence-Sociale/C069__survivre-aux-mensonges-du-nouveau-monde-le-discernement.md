@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 7
 points_annonce: 13
 documents_materiau: 5
+pages_developpement: 1
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -158,27 +159,33 @@ _\\*\\* je n’ai par contre aucune prétention divinatoire ou pertinence sur le
 
 ### Synthèse : Agnès Buzyn — ZcbNucAOWeY — `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese`
 
-*podcast · `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese.md`*
+*podcast / vidéoscopie · `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
 
-*podcast · `L'intelligence-relationnelle-1-synthese.md`*
+*podcast / vidéoscopie · `L'intelligence-relationnelle-1-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La résilience — `La-résilience-synthese`
 
-*podcast · `La-résilience-synthese.md`*
+*podcast / vidéoscopie · `La-résilience-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Survivre aux mensonges du nouveau monde : le discernement — `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese`
 
-*podcast · `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese.md`*
+*podcast / vidéoscopie · `Survivre-aux-mensonges-du-nouveau-monde-le-discernement-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video py5soTfXpxQ — py5soTfXpxQ — `Video-py5soTfXpxQ-synthese`
 
-*podcast · `Video-py5soTfXpxQ-synthese.md`*
+*podcast / vidéoscopie · `Video-py5soTfXpxQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le discours adolescence des adultes — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
 - La redéfinition du capitalisme et du modèle libéral — Édouard exige des journalistes qu'ils définissent les concepts qu'ils mobilisent : un monde libéral repose sur la libre circulation des hommes, la non-entrave à l'accumulation des capitaux, et l'encouragement à Exhiber et purger ses passions par l'acte d'achat. Or, la France redistribute trop pour être qualifiée d'ultra-libérale.
@@ -192,6 +199,104 @@ _\\*\\* je n’ai par contre aucune prétention divinatoire ou pertinence sur le
 *« Video-py5soTfXpxQ-synthese.md » · origine : lien-declare*
 
 > Le discours adolescence des adultes — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Les 12 plus gros mensonges féminins | Spike Séduction
+
+*`web-articles__20394_mensonges-feminins.html.txt` · 789 mots · archive de l'auteur*
+
+Pour l’anniversaire du séminaire
+langage des femmes 1
+, je vous ai préparé un spécial:
+12 gros, 12 énormes mensonges féminins
+… dans lesquels il faut arrêter de tomber. Une bonne fois pour toute.
+Délectez-vous en connaisseurs de ce concentré de logique féminine.
+1. Je n’ai jamais eu d’aventure d’un soir
+Probabilité de dire la vérité: 5%
+Ce que ça signifie réellement :
+Je n’ai jamais réalisé d’acte sexuel
+assumé
+avec un homme que je venais de rencontrer de mon plein gré , ma lucidité était altérée
+2. L’argent d’un homme n’a aucune importance pour moi
+Probabilité de dire la vérité: 0%
+Ce que ça signifie réellement :
+J’ai déjà séduit (/ me suis laissée séduire par) des hommes pour leurs revenus; problème ils étaient aussi insupportablement égoïstes, ennuyeux ou obsédés sexuels, du coup j’essaie un autre « genre » en essayant de me convaincre que ça va aller mieux, néanmoins n’oublie pas de générer rapidement un patrimoine sérieux afin de me sécuriser et me permettre de devenir une artiste (voir mensonge « je suis une artiste »)
+3. Mon ex est un salaud / jaloux / radin / pervers narcissique, etc.
+Probabilité de dire la vérité: 10%
+Ce que ça signifie réellement :
+Je n’accepte pas ma part de responsabilité dans l’échec de mes relations passées, je pratique la double éthique sans le savoir comme Monsieur Jourdain la prose.
+4. Restons bons amis!
+Probabilité de dire la vérité: 1%
+Ce que ça signifie réellement :
+Désormais je vais te qualifier
+d’ami
+, cette acception sera même validée par ton statut sur les réseaux sociaux (« vous êtes ami(e) avec »), mais tu es désormais au plus bas dans ma liste de priorités, je ne t’inviterai jamais nulle part, je ne serai presque jamais disponible pour toi, et tu n’obtiendras jamais rien de moi. Jamais.
+5. C’est fou, on aime les mêmes choses!
+Probabilité de dire la vérité: 1%
+Ce que ça signifie réellement :
+Je suis tellement raide de toi que mes goûts se calent sur les tiens à mon insu. Quand j’y réfléchis, c’était aussi le cas avec presque tous mes ex. Cf séminaire logique des femmes, chapitre « femme lego ».
+6. Je suis un peu artiste
+Probabilité de dire la vérité: 3%
+Ce que ça signifie réellement :
+J’aimerais tellement vivre en peign
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Malheureusement nous manquons de discernement et d'indépendance dans nos choix ; nous ne distinguons pas entre l'idole de la veille, devenue méprisable aujourd'hui, et celle qui mérite tous nos sacrifices ~ Astolphe de Custine (1790-1857) On ne meurt pas impunément le soir de l'anniversaire des gens. Je l'ai découvert à l'occasion de la disparition de… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Malheureusement nous manquons de discernement et d'indépendance dans nos choix ; nous ne distinguons pas entre l'idole de la veille, devenue méprisable aujourd'hui, et celle qui mérite tous nos sacrifices ~ Astolphe de Custine (1790-1857)
+On ne meurt pas impunément le soir de l'anniversaire des gens
+2. Je l'ai découvert à l'occasion de la disparition de celui qui m'aura appris – sinon « tout » – du moins à respirer, à écouter et à m'exprimer ; ce qui, vous en conviendrez, n'est pas quantité négligeable dans une vie en communauté (non, ça n'est pas Pierre Bénichou)
+3. com/gO5rcW2djG
+— Tweetinão (@tintinades) March 13, 2024
+
+L'échelle des vertus
+
+Qu'y a t-il au-dessus de la médiocrité
+4. Sans doute quelque qualité unanimement dénommée compétence
+5. Inégalement répandue, parfois ardue à dénicher, mais elle existe bel et bien : une fraction de professionnels, quel que soit le domaine, s'avère bel et bien compétents
+6. Heureusement, car c'est grâce à eux que les avions volent, que les toits tiennent, que les ascenseurs montent, que vous connaissez ma voix et désormais mon visage, et globalement que l'Occident est préservé de la faim ainsi que de la colère arbitraire des éléments
+7. Existe t-il une qualité par-delà la compétence, et si oui laquelle
+8. Sans doute quelque vertu généralement dénommée intelligence
+9. Très inégalement répandue, et minoritaire par construction même (si vous en accordiez par principe à tout le monde, dès lors elle cesserait d'exister), n
+
+
+---
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

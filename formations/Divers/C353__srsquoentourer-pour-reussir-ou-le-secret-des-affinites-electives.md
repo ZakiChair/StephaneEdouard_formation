@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 3
+pages_developpement: 2
 idees_forces: 5
 citations: 0
 doublon_titre: oui
@@ -63,12 +64,15 @@ confiance: 1.0
 
 ### Synthèse – VZDYK4RHd38 — `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese`
 
-*podcast · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
+*podcast / vidéoscopie · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Cette chanteuse faisait l'unanimité chez les wokes, mais ça c'était avant — Synthèse — `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese`
 
-*podcast · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+*podcast / vidéoscopie · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Parcours : De Mélissa Peterson à Lizzo, en embrassant les codes du wokisme pour réussir dans l'industrie musicale.
 - Grammy2023 pour "Il était temps, bordel", singles variés (La Vérité Blesse, Jus, Huile de Coco) tous dans le top 100 US.
@@ -78,8 +82,9 @@ confiance: 1.0
 
 ### L'entraide entre femmes : un déficit historique — `L'entraide-entre-femmes-un-déficit-historique-synthese`
 
-*podcast · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
+*podcast / vidéoscopie · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -88,6 +93,93 @@ confiance: 1.0
 *« Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md » · origine : lien-declare*
 
 > Parcours : De Mélissa Peterson à Lizzo, en embrassant les codes du wokisme pour réussir dans l'industrie musicale.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### La discussion du dimanche soir : les vrais hommes disent-ils &laquo;&nbsp;Je t&rsquo;aime&nbsp;&raquo; ?
+
+*`web-articles__12936_lui-dire-je-taime.html.txt` · 1467 mots · archive de l'auteur*
+
+La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
+La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
+Vous l’avez rencontrée lors d’une après midi ensoleillée. Ses cheveux soulevés par le vent semblaient pointer dans votre direction, vous avez pris votre courage à deux mains, et lui avez glissé quelques mots dans l’oreille. [...] Les mois ont passés et chaque jour à ses cotés vous sentez à quel point la vie peut être belle. C’est sûr… vous l’aimez.
+Ne partons dans un débat infini sur le sens que ces mots pourraient prendre s’ils sortaient tout droit de la bouche d’une demoiselle. Mais parlons de
+vous
+. L’avez-vous déjà dit.. ? Si non, peut être écrit ?
+Quelle est sa valeur à vos yeux ? Est-ce une simple formalité, ou un fruit défendu qui ne peut être décroché qu’après de longs mois de relation ? Est-il trop connoté pour que vous puissiez vous risquez à lui dire ?
+Racontez-nous votre idée du
+je t’aime
+12
+Charles
+28 avril 2013 à 20:02
+Sujet intéressant comme souvent et qui me donne l’occasion de parler de ma propre expérience :
+Plus jeune, je l’ai dit…souvent, et c’était pour moi quelque chose d’important. On se sent amoureux, on se sent bien, et on a particulièrement envie de lui faire partager. Je l’ai surement dit aussi pour obtenir quelque chose (son approbation, sa validation, etc…).
+J’ai ensuite réalisé que l’avoir dit ne me rendait pas plus heureux, elle ne m’aimait pas plus et que finalement j’avais le sentiment d’avoir perdu quelque chose (pouvoir, intérêt ).
+J’ai ensuite fait l’inverse; je ne l’ai plus dit. Conscient que les actions parlent plus que les mots, j’ai montré mon amour pour elle de multiple façons mais je ne disait rien. Jusque au jour ou la fille (une jeune russe) avec qui j’étais depuis plusieurs mois/années me dit lors d’une dispute avec un ton sentencieux: « you’ve never told me you love me. »
+Cela m’a appris que:
+La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
+J’étais surement devenu une caricature du type qu
+
+
+- La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
+- J’étais surement devenu une caricature du type qui ne ne dit pas « je t’aime »; esquivant ces mots avec des stratégies ou des phrases stylés complètement débiles.
+
+### La sélection d&rsquo;objets iconiques de la semaine, #1 | Spike S&eacute;duction
+
+*`web-articles__21657_selection-econ-1.html.txt` · 332 mots · archive de l'auteur*
+
+Vous connaissez probablement e-con, notre nouveau site d’objets iconiques de l’inconscient collectif masculin (et féminin) ? Il y a quelques années, on aurait appelé ça du
+lifestyle
+, mais le terme est désormais aussi galvaudé que les Stan Smith, c’est dire…
+Je vais donc, chaque dimanche/lundi me livrer au sympathique exercice de vous faire partager ici, chaque semaine, une sélection « transverse » d’objets particulièrement stylés et incontournables, toutes catégories confondues:
+auto-moto, design, habillement, image-son, mobilier, montres, gastronomie
+~ cliquez sur les images pour accéder au produit ~
+Sélection « transverse » #1
+Le side car DNIEPR K750M de 1966
+L’ampli tuner Akai AA930, à la fois pour le son Akai de la grande époque et l’éclairage bleu nuit
+La platine vinyle Lenco L75, pour aller avec l’Akaî ci-dessus
+Le Polaroid 620 kaki
+L’affiche vintage Perrier des années 60 qui va bien
+Le chesterfield « 1780 » en cuir corso rossa
+La moana Pacific pro: gorgeous diving watch…
+L’eau de parfum « cuir fauve »
+Pour approfondir
+E-con: du lifestyle sur un plateau, chaque lundi
+Comment juger du beau ? L’article définitif
+Sélection de séminaires du 12 – 18 oct
+Have a nice day ? No, have a good life
+24 oct 2015: tuer la routine, la magie de la re-séduction en couple!
+réservations ouvertes jusqu'au 25/10/2015 minuit
+Consolidez les relations et épanouissez-vous en couple
+Décodez la psychologie féminine comme un livre ouvert
+Découvrez les petits secrets des hommes séduisants
+Découvrez la puissance d'avoir une connexion sexuelle avec quelqu'un
+Restez séduisant en couple
+Commandez le séminaire "intelligence sociale mod. II : gérer la solitude et sortir seul"
+Osez aborder les gens qui vous intéressent
+Ayez confiance en vous pour oser plus
+Agrandissez votre réseau
+Assumez et développez votre masculinité
+Terrassez la timidité à grands coups de poings dans la g.
+Osez sortir seul
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+### Le marché des rencontres
+- Première étape : libéralisation (droit de cuissage aboli).
+- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
+
+### Analyse des participants
+- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
+
+### Twk5FXQKdeM-synthese
+# Synthèse Twk5FXQKdeM : Sérotonine, Houellebecq et barbares
 
 ---
 

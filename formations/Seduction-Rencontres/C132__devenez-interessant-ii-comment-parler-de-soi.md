@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 2
 documents_materiau: 4
+pages_developpement: 10
 idees_forces: 24
 citations: 0
 doublon_titre: non
@@ -118,12 +119,15 @@ Vous y apprendrez notamment :
 
 ### Synthèse : 10 Expériences de Psychologie Sociale — `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese`
 
-*podcast · `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese.md`*
+*podcast / vidéoscopie · `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Je ne refuserais pas un p'tit "coup d'deux" avec ces deux-là — ttRaEas4lAY — `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese`
 
-*podcast · `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md`*
+*podcast / vidéoscopie · `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La question centrale : qui dirige réellement le trio ? Édouard souligne que la mise en scène visuelle place l'homme (Guillaume) au centre, mais que l'observation des paroles, regards et postures suggère que c'est Ludmila qui régente l'échange. L'homme apparaît "pusillanime", "introverti", avec un regard "perdu" et une "mollesse générale" qui contraste avec la présence vocale de la femme.
 - L'analyse sociologique du casting : Selon Édouard, les participants appartiennent à la "bonne province de commerçants" — enfants de médecins généralistes, pharmaciens, commerçants ou propriétaires de bijouteries. Ce sont des gens qui "ont le temps", ce qui renvoie à l'histoire du libertinage, pratique d'abord aristocratique puis bourgeoise.
@@ -134,12 +138,15 @@ Vous y apprendrez notamment :
 
 ### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+*podcast / vidéoscopie · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : The #remigration has already begun for Yannick Noah — `The-#remigration-has-already-begun-for-Yannick-Noah-synthese`
 
-*podcast · `The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md`*
+*podcast / vidéoscopie · `The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - *Le contexte fiscal**
 - Départ du Cameroun en 2017, même année où il perd un procès fiscal de 20 ans contre Bercy (1 million d'euros)
@@ -163,6 +170,149 @@ Vous y apprendrez notamment :
 *« The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md » · origine : lien-declare*
 
 > *Le contexte fiscal**
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### 3 avril 2010 : devenez intéressant (et apprenez à parler en public)
+
+*`web-actualite__4033_apprendre-parler-en-public.html.txt` · 1325 mots · archive de l'auteur*
+
+3 avril 2010 : devenez intéressant (et apprenez à  (...)
+3 avril 2010 : devenez intéressant (et apprenez à parler en public)
+Notre premier (et dernier) séminaire
+Devenez vraiment intéressant
+date déjà d’octobre 2008, et vos témoignages étaient unanimement enthousiastes : l’un des tous meilleurs. Un an et demi plus tard, il revient. Entièrement revu, repensé, réécrit, il est encore plus complet, dense, et technique que le premier. Pour preuve, il contient désormais une heure de conseils pour captiver un public, de 2… à 200 personnes !  Le 3 avril prochain, que vous ayez – ou pas – assisté au premier, il n’y aura pas d’endroit plus intéressant dans Paris que notre salle de séminaire
+Souvenez-vous 2008, et, déjà, les témoignages de l’époque :
+Que vous ayez –
+ou pas
+– suivi le dernier, je vous encourage vivement à lire cette page jusqu’au bout : vous êtes concerné dans les deux cas.
+Faites-vous partie de ces gens à l’aise sur n’importe quel sujet ?
+Si vous êtes lecteur régulier du site vous déjà vu cette vidéo, mais je souhaite que vous la regardiez une nouvelle fois, en vous demandant ce que vous auriez répondu à sa place. Auriez-vous réussi à intéresser votre interlocuteur à vos réponses pendant près de 20 minutes ? Essayez de répondre honnêtement à cette question
+Nous sommes d’accord, les dissertations du lycée sur le Bourgeois Gentilhomme vous donnaient des envies de meurtre sur votre vieille prof de français et son bouton sur le nez. Mais aujourd’hui que vous voulez devenir des hommes et plus des petits garçons, vous comprenez que le savoir, c’est le pouvoir. Et le pouvoir, comme disait Kissinger, est un aphrodisiaque absolu.
+Vous croyez sérieusement que votre dernier film au cinéma est un sujet de conversation valable avec un personne de qualité ?
+D’accord, vous allez au cinéma régulièrement avec votre carte Gaumont, vous avez 2 ou 3 livres ouverts à différents endroits de votre appartement, et vous réservez même une place de théâtre une fois par an (statistiques du français moyen, nous avons vérifié). Cela vous donne t-il de la valeur auprès de quiconque, cela vous rend-il plus intéressant qu’un autre ? Vous travaillez votre corps chez vous en faisait des pom
+
+### Commandez le séminaire &laquo;&nbsp;Devenez intéressant, II : comment parler de soi&nbsp;&raquo;
+
+*`web-actualite__6981_savoir-parler-de-soi.html?preview=1.txt` · 1362 mots · archive de l'auteur*
+
+Séminaire : apprenez à parler de vous !
+Commandez le séminaire
+« Devenez intéressant, II : comment parler de soi »
+Commandez le séminaire
+« Devenez intéressant, II : comment parler de soi »
+Video:preview séminaire devenir intéressant 2
+Référence :
+devenir intéressant 2
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+devenir intéressant en sachant quand
+ne pas
+parler de soi, quand parler de soi, et comment parler de soi pour conserver l'intérêt de son interlocuteur et si possible l'accroître
+Durée totale :
+2h41mn
+Taille du fichier :
+77,3 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant I
+Séduire à l'écrit
+Cela fait plusieurs années qu'il en est ainsi : le séminaire de rentrée est un "pilier", votre axe central de développement de l'année, celui à ne pas manquer pour franchir un vrai, un grand cap dans sa vie d'homme. C'était encore le cas l'année passée avec
+Devenir sexué
+et les différentes déclinaisons que nous en avons faites au cours de la saison 2010/2011 (
+l'énergie
+le sexe
+, les fausses croyances des parents, etc.). Cette nouvelle saison ne sera pas en reste, avec le premier pilier qui va frapper très fort :
+Devenir intéressant, II :
+comment parler de soi
+Vous l'avez compris, il s'agit de la suite du premier qui s'est tenu en 2010.
+Soyons clairs d'entrée de jeu :
+Si vous avez participé au premier épisode, alors celui-ci est indispensable car
+complémentaire
+Et pour ceux d'entre vous (nombreux) qui n'auront pas participé au premier, aucune inquiétude, tout est prévu pour que vous puissiez commencer par celui-ci
+(Pas) Assez parlé de vous !
+Avant de partir en vacances j'ai réuni les coachs de l'équipe, qui se sont facilement accordés sur ce constat : au classement des difficultés que vous éprouvez dans le cheminement vers le statut d'homme séduisant,
+savoir parler de soi
+figure systématiquement dans le peloton de tête.
+"Parle-moi de toi"
+. Il y a dix ans j'entendais tous les jeudis matins résonner cette phrase entre les murs du théâtre où mon professeur répétait à ses élèves un peu t
+
+### 3 avril 2010 : devenez intéressant (et apprenez à parler en public)
+
+*`web-articles__4033_apprendre-parler-en-public.html.txt` · 1325 mots · archive de l'auteur*
+
+3 avril 2010 : devenez intéressant (et apprenez à  (...)
+3 avril 2010 : devenez intéressant (et apprenez à parler en public)
+Notre premier (et dernier) séminaire
+Devenez vraiment intéressant
+date déjà d’octobre 2008, et vos témoignages étaient unanimement enthousiastes : l’un des tous meilleurs. Un an et demi plus tard, il revient. Entièrement revu, repensé, réécrit, il est encore plus complet, dense, et technique que le premier. Pour preuve, il contient désormais une heure de conseils pour captiver un public, de 2… à 200 personnes !  Le 3 avril prochain, que vous ayez – ou pas – assisté au premier, il n’y aura pas d’endroit plus intéressant dans Paris que notre salle de séminaire
+Souvenez-vous 2008, et, déjà, les témoignages de l’époque :
+Que vous ayez –
+ou pas
+– suivi le dernier, je vous encourage vivement à lire cette page jusqu’au bout : vous êtes concerné dans les deux cas.
+Faites-vous partie de ces gens à l’aise sur n’importe quel sujet ?
+Si vous êtes lecteur régulier du site vous déjà vu cette vidéo, mais je souhaite que vous la regardiez une nouvelle fois, en vous demandant ce que vous auriez répondu à sa place. Auriez-vous réussi à intéresser votre interlocuteur à vos réponses pendant près de 20 minutes ? Essayez de répondre honnêtement à cette question
+Nous sommes d’accord, les dissertations du lycée sur le Bourgeois Gentilhomme vous donnaient des envies de meurtre sur votre vieille prof de français et son bouton sur le nez. Mais aujourd’hui que vous voulez devenir des hommes et plus des petits garçons, vous comprenez que le savoir, c’est le pouvoir. Et le pouvoir, comme disait Kissinger, est un aphrodisiaque absolu.
+Vous croyez sérieusement que votre dernier film au cinéma est un sujet de conversation valable avec un personne de qualité ?
+D’accord, vous allez au cinéma régulièrement avec votre carte Gaumont, vous avez 2 ou 3 livres ouverts à différents endroits de votre appartement, et vous réservez même une place de théâtre une fois par an (statistiques du français moyen, nous avons vérifié). Cela vous donne t-il de la valeur auprès de quiconque, cela vous rend-il plus intéressant qu’un autre ? Vous travaillez votre corps chez vous en faisait des pom
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Soyons clairs d'entrée de jeu : Si vous avez participé au premier épisode, alors celui-ci est indispensable car complémentaire Et pour ceux d'entre vous (nombreux) qui n'auront pas participé au premier, aucune inquiétude, tout est prévu pour que vous puissiez commencer par celui-ci (PAS) ASSEZ PARLÉ DE VOUS ! Avant de partir en vacances j'ai réuni… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Soyons clairs d'entrée de jeu :
+
+Si vous avez participé au premier épisode, alors celui-ci est indispensable car complémentaire
+Et pour ceux d'entre vous (nombreux) qui n'auront pas participé au premier, aucune inquiétude, tout est prévu pour que vous puissiez commencer par celui-ci
+
+(PAS) ASSEZ PARLÉ DE VOUS
+2. Avant de partir en vacances j'ai réuni les coachs de l'équipe, qui se sont facilement accordés sur ce constat : au classement des difficultés que vous éprouvez dans le cheminement vers le statut d'homme séduisant, savoir parler de soi figure systématiquement dans le peloton de tête
+3. Il y a 20 ans j'entendais tous les jeudis matins résonner cette phrase entre les murs du théâtre où mon professeur répétait à ses élèves un peu trop techniques, trop appliqués (ou bien les deux à la fois) que la pièce, aussi belle soit-elle, n'intéresserait jamais personne si l'acteur qui l'incarne ne parvenait pas à parler de lui à travers elle
+4. Il y a quelques minutes à peine, avant d'ouvrir mon MacBook dans ce wagon de tgv qui file à travers le massif de l'Estérel, je terminais la lecture du journal de bord d'un auteur britannique dont le nom ne vous dirait rien mais dont le leitmotiv, lui, vous dira quelque chose
+5. Traduit en français : « je n'admire rien plus que la capacité à rendre une histoire personnelle intéressante« 
+J'entends d'ici certains d'entre vous penser à haute voix : un homme attirant est un homme mystérieux, et un homme m
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

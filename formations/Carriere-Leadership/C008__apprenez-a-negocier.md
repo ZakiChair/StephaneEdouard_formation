@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 6
 points_annonce: 5
 documents_materiau: 6
+pages_developpement: 3
 idees_forces: 20
 citations: 0
 doublon_titre: oui
@@ -133,7 +134,9 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 
 ### SYNTHESE - 1CEJLpHtcHk — `Bill-&-Melinda-Gates-divorce-—-their-marriage-contract-revealed-synthese`
 
-*podcast · `Bill-&-Melinda-Gates-divorce-—-their-marriage-contract-revealed-synthese.md`*
+*podcast / vidéoscopie · `Bill-&-Melinda-Gates-divorce-—-their-marriage-contract-revealed-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Marriage comme problème à résoudre (logique engineer) plutôt que comme engagement émotionnel.
 - Égalité proclamée mais contrat très déséquilibré : week-end avec ex, droit de veto de l'ex sur le mariage.
@@ -144,21 +147,27 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 - Logique des Hommes
 - Relations Longues
 
+**Son verdict**
+
 > "27 ans de mariage malgré le déséquilibre — prouvant que le contrat de couple fonctionne mieux que l'espoir romantique. Mais le prix était énorme pour Melinda."
 
 ### Donald Trump VS Joe Biden — Le débat de l'humiliation — `Donald-Trump-VS-Joe-Biden-le-débat-de-l'humiliation-synthese`
 
-*podcast · `Donald-Trump-VS-Joe-Biden-le-débat-de-l'humiliation-synthese.md`*
+*podcast / vidéoscopie · `Donald-Trump-VS-Joe-Biden-le-débat-de-l'humiliation-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
 
-*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+*podcast / vidéoscopie · `Faites-toujours-confiance-aux-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse — Interpretation d'un mensaje de rupture — `Video-9BcvH3jL8eE-synthese`
 
-*podcast · `Video-9BcvH3jL8eE-synthese.md`*
+*podcast / vidéoscopie · `Video-9BcvH3jL8eE-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Je t'aime toujours" — formule de politesse pour adoucir
 - "C'est mieux comme ça" — sufficient resentiment to move on
@@ -171,13 +180,15 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 
 ### Synthèse – VWOdU4c3R2o — `Video-VWOdU4c3R2o-synthese`
 
-*podcast · `Video-VWOdU4c3R2o-synthese.md`*
+*podcast / vidéoscopie · `Video-VWOdU4c3R2o-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Vidéoscopie — Analyse de propos sur les femmes et la négociation salariale — `Vidéoscopie-–-Analyse-de-propos-sur-les-femmes-et-la-négociation-salariale-synthese`
 
-*podcast · `Vidéoscopie-–-Analyse-de-propos-sur-les-femmes-et-la-négociation-salariale-synthese.md`*
+*podcast / vidéoscopie · `Vidéoscopie-–-Analyse-de-propos-sur-les-femmes-et-la-négociation-salariale-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -192,6 +203,175 @@ Et de façon générale, un séminaire de tonton Stéphane c’est :
 *« Video-9BcvH3jL8eE-synthese.md » · origine : lien-declare*
 
 > "Je t'aime toujours" — formule de politesse pour adoucir
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire &laquo;&nbsp;apprenez à négocier&nbsp;&raquo;
+
+*`web-actualite__13522_comment-bien-negocier.html?preview=1.txt` · 1243 mots · archive de l'auteur*
+
+Séminaire apprendre à bien négocier
+Commandez le séminaire « apprenez à négocier »
+Commandez le séminaire « apprenez à négocier »
+Référence :
+négociation
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+appliquer les techniques de pouvoir et de manipulation pour négocier mieux
+Durée totale :
+5h03mn
+Taille du fichier :
+359 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Respect
+Techniques de séduction à l’écrit
+En 2009 (4 ans déjà), nous étions les premiers du genre à organiser un séminaire sur le
+pouvoir
+. Souvenez-vous, Sarkozy était président, le Vélib venait à peine de naître, Facebook était encore tout nouveau et les sites de séduction francophones ne parlaient que de vulgaires techniques de drague toutes faites importées des USA.
+Notre légitimité sur un sujet aussi ambitieux ? Avoir étudié auprès des sociologues Français et Autrichiens experts du sujet à Sciences-Po. 4 ans plus tard, le délai de prescription est largement passé : il nous aurait « suffi », pour terminer la saison en douceur avant l’été, d’organiser le même séminaire… et de l’enregistrer cette fois-ci. Mais c’était trop facile. C’était ce que n’importe quel bloggueur / webmarketeur aurait fait. J’ai donc décidé un nouvelle fois d’organiser un séminaire entièrement nouveau :
+une journée pour savoir
+négocier
+Négocier = combat = force = sexué
+Contrairement à ce que raconte à peu près toute l’opinion courante – qu’elle découle des films, des livres, des actualités ou bien tout simplement des idées reçues -, le marqueur du MAS (
+M
+âle
+A
+dulte
+S
+exué), dans la vie
+réelle
+, n’est pas de savoir se battre comme un chimpanzé pour protéger sa guenon, mais bien de savoir
+négocier
+ce dont il a besoin. La démonstration en est simple : vous mettez une simple gifle à quelqu’un qui ne vous y a pas autorisé et vous terminez au poste. Vous obtenez le
+consentement de quelqu’un par la négociation,
+et dès lors il ne peut rien contre vous.
+La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Etats doivent y recour
+
+### Journée spéciale : apprenez à négocier
+
+*`web-articles__13522_comment-negocier.html.txt` · 1592 mots · archive de l'auteur*
+
+En 2009 (4 ans déjà), nous étions les premiers du genre à organiser un séminaire sur le
+pouvoir
+. Souvenez-vous, Sarkozy était président, le Vélib venait à peine de naître, Facebook était encore tout nouveau et les sites de séduction francophones ne parlaient que de vulgaires techniques de drague toutes faites importées des USA.
+Notre légitimité sur un sujet aussi ambitieux ? Avoir étudié auprès des sociologues Français et Autrichiens experts du sujet à Sciences-Po. 4 ans plus tard, le délai de prescription est largement passé : il nous aurait « suffi », pour terminer la saison en douceur avant l’été, d’organiser le même séminaire… et de l’enregistrer cette fois-ci. Mais c’était trop facile. C’était ce que n’importe quel bloggueur / webmarketeur aurait fait. J’ai donc décidé un nouvelle fois d’organiser un séminaire entièrement nouveau :
+une journée pour savoir
+négocier
+Négocier = combat = force = sexué
+Contrairement à ce que raconte à peu près toute l’opinion courante – qu’elle découle des films, des livres, des actualités ou bien tout simplement des idées reçues -, le marqueur du MAS (
+M
+âle
+A
+dulte
+S
+exué), dans la vie
+réelle
+, n’est pas de savoir se battre comme un chimpanzé pour protéger sa guenon, mais bien de savoir
+négocier
+ce dont il a besoin. La démonstration en est simple : vous mettez une simple gifle à quelqu’un qui ne vous y a pas autorisé et vous terminez au poste. Vous obtenez le
+consentement de quelqu’un par la négociation,
+et dès lors il ne peut rien contre vous.
+La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Etats doivent y recourir pour imposer les besoins de leur politique : avec leurs collaborateurs, avec leur gouvernement, avec les syndicats, avec les autres Etats, etc.
+A votre niveau, vous allez au cours de cette journée devenir capable définitivement de négocier :
+vos rétributions (au premier lieu d’entre elles, votre salaire, ou votre facturation si vous êtes freelance) & vos augmentations
+vos achats importants (immobiliers, mobiliers, etc.)
+votre relation de couple (pour ceux qui en douteraient, voir nos séminaires Relations longues I & II)
+vos dépenses courantes (hôtels, etc.)
+votre li
+
+### 22 juin : une journée pour savoir négocier
+
+*`web-actualite__13522_comment-bien-negocier.html.txt` · 1591 mots · archive de l'auteur*
+
+Attention ce séminaire ne sera
+pas
+disponible a posteriori dans notre base de connaissances
+En 2009 (4 ans déjà), nous étions les premiers du genre à organiser un séminaire sur le
+pouvoir
+. Souvenez-vous, Sarkozy était président, le Vélib venait à peine de naître, Facebook était encore tout nouveau et les sites de séduction francophones ne parlaient que de vulgaires techniques de drague toutes faites importées des USA.
+Notre légitimité sur un sujet aussi ambitieux ? Avoir étudié auprès des sociologues Français et Autrichiens experts du sujet à Sciences-Po. 4 ans plus tard, le délai de prescription est largement passé : il nous aurait « suffi », pour terminer la saison en douceur avant l’été, d’organiser le même séminaire… et de l’enregistrer cette fois-ci. Mais c’était trop facile. C’était ce que n’importe quel bloggueur / webmarketeur aurait fait. J’ai donc décidé un nouvelle fois d’organiser un séminaire entièrement nouveau :
+une journée pour savoir
+négocier
+Négocier = combat = force = sexué
+Contrairement à ce que raconte à peu près toute l’opinion courante – qu’elle découle des films, des livres, des actualités ou bien tout simplement des idées reçues -, le marqueur du MAS (
+M
+âle
+A
+dulte
+S
+exué), dans la vie
+réelle
+, n’est pas de savoir se battre comme un chimpanzé pour protéger sa guenon, mais bien de savoir
+négocier
+ce dont il a besoin. La démonstration en est simple : vous mettez une simple gifle à quelqu’un qui ne vous y a pas autorisé et vous terminez au poste. Vous obtenez le
+consentement de quelqu’un par la négociation,
+et dès lors il ne peut rien contre vous.
+La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Etats doivent y recourir pour imposer les besoins de leur politique : avec leurs collaborateurs, avec leur gouvernement, avec les syndicats, avec les autres Etats, etc.
+A votre niveau, vous allez au cours de cette journée devenir capable définitivement de négocier :
+vos rétributions (au premier lieu d’entre elles, votre salaire, ou votre facturation si vous êtes freelance) & vos augmentations
+vos achats importants (immobiliers, mobiliers, etc.)
+votre relation de couple (pour ceux qui en douteraient, 
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Nous avons été les premiers à vous apprendre comment décrocher son dream job et négocier son salaire. Cet atelier a toujours autant de succès, comme le montrent nos nombreux témoignages. Puis, nous avons été les premiers du genre à organiser une formation consacrée aux secrets du pouvoir. Notre légitimité sur un sujet aussi ambitieux ? Avoir… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Nous avons été les premiers à vous apprendre comment décrocher son dream job et négocier son salaire
+2. Cet atelier a toujours autant de succès, comme le montrent nos nombreux témoignages
+3. Puis, nous avons été les premiers du genre à organiser une formation consacrée aux secrets du pouvoir
+4. Avoir étudié auprès des sociologues Français et Autrichiens experts du sujet à Sciences-Po
+5. Le délai de prescription étant largement passé : il nous aurait « suffi » d’organiser le même séminaire… et de l’enregistrer cette fois-ci
+6. C’était ce que n’importe quel blogueur/webmarketeur aurait fait
+7. J’ai donc décidé un nouvelle fois d’organiser un séminaire entièrement nouveau :
+UNE JOURNÉE POUR ENFIN SAVOIR NÉGOCIER
+NÉGOCIER SON SALAIRE… mais pas que
+Contrairement à ce que raconte à peu près toute l’opinion courante – qu’elle découle des films, des livres, des actualités ou bien tout simplement des idées reçues -, le marqueur du MAS (Mâle Adulte Sexué), dans la vie réelle, n’est pas de savoi
+8. La démonstration en est simple : vous mettez une simple gifle à quelqu’un qui ne vous y a pas autorisé et vous terminez au poste
+9. Vous obtenez le consentement de quelqu’un par la négociation, et dès lors il ne peut rien contre vous
+10. La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Et
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

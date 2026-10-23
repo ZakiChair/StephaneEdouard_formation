@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 2
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 24
 citations: 3
 doublon_titre: non
@@ -118,12 +119,15 @@ Vous y apprendrez notamment :
 
 ### Synthèse : 10 Expériences de Psychologie Sociale — `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese`
 
-*podcast · `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese.md`*
+*podcast / vidéoscopie · `10-Psycho-Social-Experiences-That-Will-Shine-a-Light-on-2023-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Je ne refuserais pas un p'tit "coup d'deux" avec ces deux-là — ttRaEas4lAY — `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese`
 
-*podcast · `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md`*
+*podcast / vidéoscopie · `Je-ne-refuserais-pas-un-p'tit-coup-d'deux-avec-ces-deux-là-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La question centrale : qui dirige réellement le trio ? Édouard souligne que la mise en scène visuelle place l'homme (Guillaume) au centre, mais que l'observation des paroles, regards et postures suggère que c'est Ludmila qui régente l'échange. L'homme apparaît "pusillanime", "introverti", avec un regard "perdu" et une "mollesse générale" qui contraste avec la présence vocale de la femme.
 - L'analyse sociologique du casting : Selon Édouard, les participants appartiennent à la "bonne province de commerçants" — enfants de médecins généralistes, pharmaciens, commerçants ou propriétaires de bijouteries. Ce sont des gens qui "ont le temps", ce qui renvoie à l'histoire du libertinage, pratique d'abord aristocratique puis bourgeoise.
@@ -134,12 +138,15 @@ Vous y apprendrez notamment :
 
 ### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+*podcast / vidéoscopie · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : The #remigration has already begun for Yannick Noah — `The-#remigration-has-already-begun-for-Yannick-Noah-synthese`
 
-*podcast · `The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md`*
+*podcast / vidéoscopie · `The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - *Le contexte fiscal**
 - Départ du Cameroun en 2017, même année où il perd un procès fiscal de 20 ans contre Bercy (1 million d'euros)
@@ -163,6 +170,68 @@ Vous y apprendrez notamment :
 *« The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md » · origine : lien-declare*
 
 > *Le contexte fiscal**
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+La réputation est un capitaux immatériel qui se construit sur le long terme et peut se détruire en un instant. Cette formation explore les mécanismes de construction et de protection de la réputation personnelle dans un monde ou l'information circule instantanément. Comprendre comment se construit une réputation, comment la préserver et comment la réparer en cas de dommage est essentiel pour quiconque souhaite avancer dans la vie sociale et professionnelle.
+
+---
+
+### Points clés
+
+- La réputation se construit action par action, mot par mot — chaque interaction compte
+- Dans l'ère numérique, la réputation se détruit plus vite que jamais — un bad buzz peut tout gâcher
+- La différence entre réputation et image : l'image est ce qu'on projette, la réputation est ce dont les autres parlent quand on n'est pas là
+- Les gens jugent sur les preuves concrètes, pas sur les intentions — montrez plutôt que declarez
+- La cohérence entre le déclaratif et le comportemental est la base de la confiance
+- Les réseaux sociaux ont changé la dynamique : tout est permanent et indexable
+
+---
+
+### Concepts enseignés
+
+### Réputation vs image
+
+L'image est ce qu'on choisit de montrer aux autres — la version contrôlée de soi-même. La réputation est ce dont les autres parlent quand on n'est plus dans la pièce — elle est construite par les autres, pas par nous. Cette distinction est fondamentale : on peut manipuler son image pendant des années, mais la réputation finit toujours par refléter la vérité. Les gens remarquent quand quelque chose ne colle pas entre les paroles et les actes.
+
+### La construction reputationnelle par les preuves
+
+La réputation se construit par accumulate de preuves concrètes. Si vous êtes connu pour tenir vos engagements, pour être disponible en cas de besoin, pour être précis dans votre travail — chaque preuve s'ajoute au tableau. Mais si une seule preuve contredit tout le reste, elle peut effacer des années de bonne réputation. C'est pourquoi la cohérence est si importante — c'est la répétition des mêmes comportements qui finit par établir une réputation.
+
+### Les réseaux sociaux : accélérateur de réputation
+
+Les réseaux sociaux ont changé la dynamique reputationnelle de manière fondamentale. Avant, une mauvaise action était limitée à votre cercle immédiat. Aujourd'hui, une seule publication peut atteindre des milliers de personnes en quelques heures. Cette accélération signifie que la gestion de la réputation est devenue à la fois plus importante et plus complexe. Chaque post, chaque commentaire, chaque like en dit long sur celui qui les fait.
+
+### La repair reputationnelle
+
+Quand la réputation subit un dommage, la première réaction — souvent la pire — est de répondre impulsivement. L'homme intelligent sait que certaines attaques ne méritent pas de réponse. La meilleure repair reputationnelle n'est pas le déni mais le travail silencieux — continuer à faire ce qu'on faisait, avec la même qualité, et laisser le temps faire son œuvre. Les gens oublient vite — sauf si on leur donne une raison de ne pas oublier.
+
+---
+
+### Exercices / Pratiques
+
+- Faire un audit de sa réputation actuelle : comment les autres vous décrivent-ils quand vous n'êtes pas là ?
+- Identifier les preuves de votre réputation existante — qu'est-ce qui corrobore ou contredit cette image ?
+- Travailler sur la cohérence entre ses paroles et ses actes — faire ce qu'on promet
+- Apprendre à ignorer les petites attaques — ne pas répondre à chaque critique
+- Développer une présence en ligne cohérente qui reflète la réalité de sa valeur
+- Construire des preuves concrètes de sa fiabilité : ponctualité, tenue des engagements, qualité du travail
+
+---
+
+### Citations de Stéphane
+
+> "On ne peut pas déclarer sa réputation — on la démontre par des actes répétés."
+
+> "La réputation, c'est ce dont les autres parlent quand on n'est plus dans la pièce."
+
+> "Dans l'ère numérique, chaque publication est une piece jointe à votre dossier permanent."
+
+---
 
 ## Citations de l'auteur
 

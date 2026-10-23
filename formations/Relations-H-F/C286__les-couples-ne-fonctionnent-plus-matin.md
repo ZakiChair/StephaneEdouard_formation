@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -32,8 +33,25 @@ confiance: 1.0
 
 ### Faire appartement à part — La nouvelle lubie des couples bobos — `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese`
 
-*podcast · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
+*podcast / vidéoscopie · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+### Le marché des rencontres
+- Première étape : libéralisation (droit de cuissage aboli).
+- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
+
+### Analyse des participants
+- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
+
+### Twk5FXQKdeM-synthese
+# Synthèse Twk5FXQKdeM : Sérotonine, Houellebecq et barbares
 
 ---
 

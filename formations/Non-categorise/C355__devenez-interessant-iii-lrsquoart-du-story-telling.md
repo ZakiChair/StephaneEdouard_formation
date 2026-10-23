@@ -13,6 +13,7 @@ programme: 13
 sections_annonce: 5
 points_annonce: 18
 documents_materiau: 3
+pages_developpement: 10
 idees_forces: 8
 citations: 0
 doublon_titre: non
@@ -131,7 +132,9 @@ _glass drop_
 
 ### Synthèse 5uLG7gyXP30 — `Ce-député-à-l'air-inoffensif-cachait-un-gigantesque-#CHAD-synthese`
 
-*podcast · `Ce-député-à-l'air-inoffensif-cachait-un-gigantesque-#CHAD-synthese.md`*
+*podcast / vidéoscopie · `Ce-député-à-l'air-inoffensif-cachait-un-gigantesque-#CHAD-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Déconstruction de l'image publique d'un homme politique
 - Analyse de la différence entre perception et réalité du caractère
@@ -139,7 +142,9 @@ _glass drop_
 
 ### Synthèse : La starlette du RAP 🇫🇷 en PRISON : COMBIEN de FANS vont-elles l'attendre DEHORS ? — reNP7Hnsd88 — `La-starlette-du-RAP-🇫🇷-en-PRISON-COMBIEN-de-FANS-vont-elles-l'attendre-DEHORS-synthese`
 
-*podcast · `La-starlette-du-RAP-🇫🇷-en-PRISON-COMBIEN-de-FANS-vont-elles-l'attendre-DEHORS-synthese.md`*
+*podcast / vidéoscopie · `La-starlette-du-RAP-🇫🇷-en-PRISON-COMBIEN-de-FANS-vont-elles-l'attendre-DEHORS-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Un parcours atypique : livreur de pizza et freestyleur dominical sur Facebook, La Squale est repéré, signé par une filiale de Warner Bros et collabore avec Lacoste en 2018. Son album *Band Hero* 50 000 exemplaires (disque d'or), loin des 800 000 de Doc Gynéco, son « ancêtre spirituel ».
 - Un casier judiciaire précoce : plusieurs gardes à vue dès 18 ans, détention ferme pour des affaires mineures qu'il qualifie lui-même de « bêtises ». Le profil infractionnel était déjà installé avant la notoriété.
@@ -149,8 +154,9 @@ _glass drop_
 
 ### Synthèse : Un jeune sportif Russe découvre l'hypocrisie occidentale — `Un-jeune-sportif-Russe-découvre-l'hypocrisie-occidentale-synthese`
 
-*podcast · `Un-jeune-sportif-Russe-découvre-l'hypocrisie-occidentale-synthese.md`*
+*podcast / vidéoscopie · `Un-jeune-sportif-Russe-découvre-l'hypocrisie-occidentale-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -165,6 +171,149 @@ _glass drop_
 *« La-starlette-du-RAP-🇫🇷-en-PRISON-COMBIEN-de-FANS-vont-elles-l'attendre-DEHORS-synthese.md » · origine : lien-declare*
 
 > Un parcours atypique : livreur de pizza et freestyleur dominical sur Facebook, La Squale est repéré, signé par une filiale de Warner Bros et collabore avec Lacoste en 2018. Son album *Band Hero* 50 000 exemplaires (disque d'or), loin des 800 000 de Doc Gynéco, son « ancêtre spirituel ».
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### 1er décembre, devenez intéressant III : passez maître en story-telling
+
+*`web-actualite__11636_story-telling.html.txt` · 1283 mots · archive de l'auteur*
+
+Dans les deux premiers du nom (
+Devenez intéressant I et II
+), nous avons notamment
+terrassé de multiples contre vérités (parmi lesquelles croire que l’attention serait un dû, et également que lire beaucoup serait une condition nécessaire et suffisante à votre potentiel d’homme intéressant : c’est faux)
+compris comment accélérer le temps (si si ; et si vous n’en étiez pas convaincu, téléchargez maintenant le séminaire
+Devenez intéressant I
+compris combien il fallait mettre de soi dans son récit, et notamment quel type de faiblesse on pouvait révéler sans trop de crainte
+appris à recréer le lien social qui lui est une vraie condition impérative pour susciter et conserver l’intérêt chez votre auditoire
+appris pourquoi Scarlett Johansson s’était prise en photo toute nue (séminaire
+Devenez intéressant II
+appris à laisser des traces de soi (et là j’entends Alex qui me souffle à l’oreille : non n’écris pas ça ils vont croire que c’est dans les draps !)
+compris pourquoi 1 futur vaut 2 passés
+etc. etc. etc. (comme le savent les milliers de participants à nos séminaires, on en repart toujours avec plus que ce qu’on était venu y chercher ; jamais moins)
+Ces séminaires sont parmi nos 3 best-seller – c’est à dire les deuxièmes plus téléchargés derrière Devenez sexué – : est-ce le fruit du hasard à votre avis ?
+Un thème clé : le fruit du hasard ?
+Evidemment pas ! De la même façon que la bonne humeur est aux hommes ce que la mélancolie est aux femmes, si ces dernières peuvent se contenter de disposer leurs beautés aux endroits stratégiques et d’attendre, un homme qui ne serait ni extrêmement riche ni extrêmement puissant se doit de savoir parler pour séduire, car c’est lui qui fait (presque) tout le boulot !
+Vous l’avez vécu (subi, oserai-je dire ?), vous l’avez donc compris (compris signifiant éthymologiquement, je le rappelle sans cesse, « avoir en soi »), et vous voulez sortir de cette quadrature des relations non choisies pour entrer dans le cercle privilégié de ceux qui choisissent les leurs (affectives, amicales, amoureuses, sexuelles).
+Si vous nous lisez pour la toute première fois et que tout ceci vous parait étrange, voire vous fait sourire, demandez-vous si vos 3 me
+
+### Devenez intéressant, mod. 3 : passez maître en story-telling
+
+*`web-actualite__11636_story-telling.html?preview=1.txt` · 1248 mots · archive de l'auteur*
+
+Le séminaire ultime consacré au story telling
+Devenez intéressant, mod. 3 : passez maître en story-telling
+Devenez intéressant, mod. 3 : passez maître en story-telling
+Référence :
+devenez intéressant mod.3 : story telling
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+devenez intéressant mod.2
+Objectifs :
+comprendre et appliquer les techniques de story-telling pour gagner en maitrise vocale, oratoire et charisme
+Durée totale :
+4h14mn
+Taille du fichier :
+245 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant, mod. 1
+Devenez intéressant, mod. 2
+Ecoutez des extraits
+Story telling - extrait 1
+[ 3:28 ]
+Story telling - extrait 2
+[ 3:14 ]
+Dans les deux premiers du nom (
+Devenez intéressant I et II
+), nous avons notamment
+terrassé de multiples contre vérités (parmi lesquelles croire que l’attention serait un dû, et également que lire beaucoup de livres serait une condition nécessaire et suffisante à être intéressant : ce n’est pas entièrement vrai, il y a énormément de contre-exemples)
+compris comment accélérer le temps (si si ; et si vous n’en étiez pas convaincu, téléchargez maintenant le séminaire
+Devenez intéressant I
+compris combien il fallait mettre de soi dans son récit, et notamment quel type de faiblesse on pouvait révéler sans trop de crainte
+appris à recréer le
+lien social,
+qui lui est une vraie condition impérative pour susciter et conserver l’intérêt chez votre auditoire
+appris pourquoi Scarlett Johansson s’était prise en photo toute nue (séminaire
+Devenez intéressant II
+appris à laisser des traces de soi (et là j’entends Alex qui me souffle à l’oreille : non n’écris pas ça ils vont croire que c’est dans les draps !)
+compris pourquoi « 1 futur vaut 2 passés »
+etc. etc. etc. (comme le savent les milliers de participants à nos séminaires, on en repart toujours avec plus que ce qu’on était venu y chercher. Jamais moins)
+Ces séminaires sont parmi nos 3 best-seller – c’est à dire les deuxièmes plus téléchargés derrière
+Devenez sexué
+– : est-ce le fruit du hasard à votre avis ?
+Le story-telling, un
+
+### Devenez intéressant, mod. 3 : passez maître en story-telling
+
+*`web-articles__11636_story-telling.html.txt` · 1410 mots · archive de l'auteur*
+
+Référence :
+devenez intéressant mod.3 : story telling
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+devenez intéressant mod.2
+Objectifs :
+comprendre et appliquer les techniques de story-telling pour gagner en maitrise vocale, oratoire et charisme
+Durée totale :
+4h14mn
+Taille du fichier :
+245 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant, mod. 1
+Devenez intéressant, mod. 2
+Ecoutez des extraits
+Story telling - extrait 1
+[ 3:28 ]
+Story telling - extrait 2
+[ 3:14 ]
+Dans les deux premiers du nom (
+Devenez intéressant I et II
+), nous avons notamment
+terrassé de multiples contre vérités (parmi lesquelles croire que l’attention serait un dû, et également que lire beaucoup de livres serait une condition nécessaire et suffisante à être intéressant : ce n’est pas entièrement vrai, il y a énormément de contre-exemples)
+compris comment accélérer le temps (si si ; et si vous n’en étiez pas convaincu, téléchargez maintenant le séminaire
+Devenez intéressant I
+compris combien il fallait mettre de soi dans son récit, et notamment quel type de faiblesse on pouvait révéler sans trop de crainte
+appris à recréer le
+lien social,
+qui lui est une vraie condition impérative pour susciter et conserver l’intérêt chez votre auditoire
+appris pourquoi Scarlett Johansson s’était prise en photo toute nue (séminaire
+Devenez intéressant II
+appris à laisser des traces de soi (et là j’entends Alex qui me souffle à l’oreille : non n’écris pas ça ils vont croire que c’est dans les draps !)
+compris pourquoi « 1 futur vaut 2 passés »
+etc. etc. etc. (comme le savent les milliers de participants à nos séminaires, on en repart toujours avec plus que ce qu’on était venu y chercher. Jamais moins)
+Ces séminaires sont parmi nos 3 best-seller – c’est à dire les deuxièmes plus téléchargés derrière
+Devenez sexué
+– : est-ce le fruit du hasard à votre avis ?
+Le story-telling, une arme clé pour
+sortir du lot
+!
+Evidemment pas ! De la même façon que la bonne humeur est aux hommes ce que la mélancolie est aux femmes, si ces dernières peuvent se co
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

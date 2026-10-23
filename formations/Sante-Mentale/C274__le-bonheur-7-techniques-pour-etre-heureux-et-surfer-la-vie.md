@@ -13,6 +13,7 @@ programme: 18
 sections_annonce: 2
 points_annonce: 6
 documents_materiau: 3
+pages_developpement: 9
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -99,12 +100,15 @@ Je dois vraiment vous le dire ? Bon, allez :
 
 ### Le bonheur : 7 techniques pour être heureux et surfer la vie — `Le-bonheur-7-techniques-pour-être-heureux-et-surfer-la-vie-synthese`
 
-*podcast · `Le-bonheur-7-techniques-pour-être-heureux-et-surfer-la-vie-synthese.md`*
+*podcast / vidéoscopie · `Le-bonheur-7-techniques-pour-être-heureux-et-surfer-la-vie-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video HjrJlmCJT3Y — `Video-HjrJlmCJT3Y-synthese`
 
-*podcast · `Video-HjrJlmCJT3Y-synthese.md`*
+*podcast / vidéoscopie · `Video-HjrJlmCJT3Y-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Citation de Romain Gary : "Les gens les plus heureux qu'il avait rencontrés étaient parfois des cordonniers avec des activités simples et solitaires"
 - Ces personnes n'auraient jamais besoin de déclarer explicitement qu'ils sont heureux
@@ -115,8 +119,9 @@ Je dois vraiment vous le dire ? Bon, allez :
 
 ### Synthèse – OPtQxFnZFX4 — `Video-OPtQxFnZFX4-synthese`
 
-*podcast · `Video-OPtQxFnZFX4-synthese.md`*
+*podcast / vidéoscopie · `Video-OPtQxFnZFX4-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -125,6 +130,91 @@ Je dois vraiment vous le dire ? Bon, allez :
 *« Video-HjrJlmCJT3Y-synthese.md » · origine : lien-declare*
 
 > Citation de Romain Gary : "Les gens les plus heureux qu'il avait rencontrés étaient parfois des cordonniers avec des activités simples et solitaires"
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Le meilleur moyen d’être heureux est encore d’apprendre à reconnaître le beau | Spike Séduction
+
+*`web-articles__19014_reconnaitre-le-beau.html.txt` · 306 mots · archive de l'auteur*
+
+Il est assez difficile d’exprimer ses espoirs envers l’avenir car cela revient toujours à avouer une certaine défaite. On espère parce que le monde, comme il va, ne satisfait pas nos exigences.
+L’espérance porte en elle-même sa dose d’amertume et de regrets. Sa remise en question fait toujours apparaître le poison derrière l’onguent. Elle flatte l’avenir mais méprise le présent. Espérer, c’est agir comme si la vie n’avait pas commencé. C’est faire comme si tout était encore à réaliser, comme si les temps que nous vivons ne présentaient un intérêt que parce qu’ils serviront un après, qui lui, existera véritablement. Cette soumission à des temps prochains glorieux cache sous des dehors amicaux une profonde détestation du quotidien, jugé triste et plein de médiocrité.
+Lire la suite sur MasculinSingulier >>
+A lire sur le même thème...
+Comment séduire : les 5 règles fondamentales
+et recevez notre newsletter mensuelle
+Le contenu de nos articles est réservé à nos membres.
+Vous pouvez en faire partie gratuitement en indiquant votre email ci-dessous.
+Vous commencerez la lecture de l'article immédiatement après avoir validé.
+ACCEDER A L'ARTICLE
+Nous n'envoyons jamais de spam. jamais.
+Commandez le séminaire "être un leader"
+Devenir intéressant, écouté et charismatique
+Avoir confiance en soi et oser plus
+Energie / force mentale / aptitude au combat
+Communiquer, convaincre et se vendre pour être plus apprécié au travail
+Développer sa masculinité, être sexué
+Devenez un leader naturel
+Commandez le séminaire "Devenez intéressant, iii : story-telling"
+Devenir intéressant, écouté et charismatique
+Communiquer, convaincre et se vendre pour être plus apprécié au travail
+Les vrais secrets de la sexualité des femmes sont dans leur tête
+Passez maître en story-telling
+
+### Les émotions, c&rsquo;est beau, mais ça ne suffit pas pour être heureux | Spike Séduction
+
+*`web-articles__seduction-debutants__16989_emotions-etre-heureux.html.txt` · 1796 mots · archive de l'auteur*
+
+Bonjour Stéphane,
+Hier, j’ai revu mon ex pour la 1ère fois depuis près de 2 ans.
+J’avais envie de te raconter ce que j’ai vécu, non pas pour te dire que j’ai tout compris à l’amour ou aux femmes (j’en suis bien loin encore^^) ou que je suis un lecteur assidu de SpikeSed et que j’ai su appliqué tes conseils. Je suis pourtant bel et bien un de tes lecteurs, vu quelques vidéos de toi, mais je ne prétends pas avoir tout compris à ce que tu préconises. J’ai l’humilité de penser que j’ai des tonnes de progrès à faire encore en ce domaine, l’humilité pouvant être une source de motivation pour aller plus loin, pour approfondir les choses…bref. Mais pourquoi je t’écris au fait ? J’avais envie de te laisser un témoignage, tu en feras ce que tu souhaites.
+Mis en couple sans trop savoir pourquoi
+J’avais 25 ans, elle 21. C’était il y a 3 ans Nous étions tous les deux dans la même promo d’une licence. Nous avons été en couple un an. On a tenté de s’aimer, notre rencontre a été belle, forte, on s’est mis en couple
+sans trop savoir pourquoi
+, on avait des attentes, mais elles ne collaient pas avec nos envies réelles de l’époque, c’est à dire pour elle ; profiter de la vie, des voyages, des rencontres. Moi : me caser et vivre une relation posée. Ces envies ont été découvertes après la rupture. On a préféré rester ensemble plutôt que d’avoir la maturité de se dire les choses, maturité que ni elle ni moi n’avions.
+Notre relation était fondée sur une très forte
+attirance sexuelle
+, mais surtout sur des rapports de force. Je sais ce que tu penses des filles entre 17 et 25 ans, elle ne désire pas de vraies relations sérieuses (sauf rares cas). C’était exactement ça, on était en couple sans avoir
+une vraie vie de couple
+. Elle a mis un an avant de comprendre ce qu’elle désirait, j’ai mis 2 ans à m’en remettre véritablement et à savoir ce que moi je voulais aussi, je n’arrivais pas à décrocher d’elle. J’ai essayé de la reconquérir sans comprendre qu’elle n’avait jamais voulu vraiment de relation en fait.
+Ce qui était marquant dans notre relation, c’est que, malgré ce côté incompressible de la sociologie actuelle de ce genre de (jeunes) femmes, on avait de très forts sentiments l’un pou
+
+### Etes-vous vraiment heureux lorsque&#8230;
+
+*`web-actualite__5035_etes-vous-vraiment-heureux-lorsque.html.txt` · 183 mots · archive de l'auteur*
+
+Etes-vous
+vraiment
+heureux lorsque…
+Etes-vous
+vraiment
+heureux lorsque…
+… lorsque le réveil sonne chaque matin pour aller travailler ?
+oui
+non
+(rayez la mention inutile)
+Si vous avez rayé le non sans l’ombre d’une hésitation, alors félicitations, vous n’avez pas besoin du séminaire
+vivez de ce que vous aimez
+. Dans tous les autres cas, vous devriez peut-être venir jeter un oeil par ici…
+Informations et réservations >>
+Vous avez découvert cet article avant tous vos amis ? Faites-leur savoir
+La page best-of
+Une âme vulgaire se passe de conseils
+Courrier des lecteurs : devenir un homme, oui mais lequel - suite et fin
+Prochain séminaire séduction et développement personnel
+Agence de relooking nouvelle génération
+Lire 100% du site demanderait une centaine d'heures...
+le séminaire,
+les réponses de la séduction
+, en dvd
+47€ seulement
+l'ebook,
+Entretiens privés
+, vol.1,
+<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
+NEWSLETTER
 
 ---
 

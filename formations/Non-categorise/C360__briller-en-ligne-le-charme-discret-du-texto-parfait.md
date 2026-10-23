@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -83,12 +84,15 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 ### Serais-tu un harceleur aux USA ? — `Serais-tu-un-harceleur-aux-USA-12-synthese`
 
-*podcast · `Serais-tu-un-harceleur-aux-USA-12-synthese.md`*
+*podcast / vidéoscopie · `Serais-tu-un-harceleur-aux-USA-12-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Tu me manques — tu-me-manques — `Tu-me-manques-synthese`
 
-*podcast · `Tu-me-manques-synthese.md`*
+*podcast / vidéoscopie · `Tu-me-manques-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le « tu me manques » comme signal faible : Un message de ce type n'est jamais anodin. Il survient généralement quand la personne qui l'envoie n'a pas fait le deuil de la relation précédente et doute de son choix actuel.
 - Le ressentiment comme mécanisme central : Ce n'est pas de l'amour ou de la nostalgie pur, mais une forme de rancœur accumulée qui resurgit avec le temps. Quand on quitte une relation sans avoir pleinement résolu les tensions, le ressentiment s'installe.
@@ -99,8 +103,9 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 ### Synthèse : 20Qx2jb_xZU - Analyse TF1 — `Video-20Qx2jb_xZU-synthese`
 
-*podcast · `Video-20Qx2jb_xZU-synthese.md`*
+*podcast / vidéoscopie · `Video-20Qx2jb_xZU-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -109,6 +114,16 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 *« Tu-me-manques-synthese.md » · origine : lien-declare*
 
 > Le « tu me manques » comme signal faible : Un message de ce type n'est jamais anodin. Il survient généralement quand la personne qui l'envoie n'a pas fait le deuil de la relation précédente et doute de son choix actuel.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

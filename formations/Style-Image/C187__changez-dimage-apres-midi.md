@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 2
 documents_materiau: 5
+pages_developpement: 8
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -149,7 +150,9 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse : Elle voue une haine aux hommes, mais n'assume pas & supprime. Pas de bol je réuploade — wRo8FGZHphM — `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese`
 
-*podcast · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+*podcast / vidéoscopie · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
 - L'absence historique de la misandrie comme pensée structurée : contrairement à la misogynie documentée chez les plus grands penseurs, aucune figure intellectuelle majeure n'a produit de corpus misandre significatif — les citations sont absentes, les auteurs inexistants.
@@ -160,12 +163,15 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Marguerite Stern : Behind the Scenes of the Feminist Dream Life — `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese`
 
-*podcast · `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese.md`*
+*podcast / vidéoscopie · `Marguerite-Stern-Behind-the-Scenes-of-the-Feminist-Dream-Life-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – JS6GuJawMEs — `Video-JS6GuJawMEs-synthese`
 
-*podcast · `Video-JS6GuJawMEs-synthese.md`*
+*podcast / vidéoscopie · `Video-JS6GuJawMEs-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Anatomie d'un scam : Une femme est contactée par quelqu'un se faisant passer pour Brad Pitt, menant à une relation fictive ayant entraîné des versements de plusieurs centaines de milliers d'euros.
 - Critique de l'analyse médiatique : Les commentateurs ont soutenu la victime sanskritique et morale. Stéphane y voit une forme deendocrination : la femme s'est réellement attachée émotionnellement.
@@ -175,13 +181,15 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 ### Synthèse – OPtQxFnZFX4 — `Video-OPtQxFnZFX4-synthese`
 
-*podcast · `Video-OPtQxFnZFX4-synthese.md`*
+*podcast / vidéoscopie · `Video-OPtQxFnZFX4-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Analyse Vidéoscopique - Weshden, France Télévisions, et Divers — `Video-kjMBBW4fruY-synthese`
 
-*podcast · `Video-kjMBBW4fruY-synthese.md`*
+*podcast / vidéoscopie · `Video-kjMBBW4fruY-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -196,6 +204,173 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 *« Video-JS6GuJawMEs-synthese.md » · origine : lien-declare*
 
 > Anatomie d'un scam : Une femme est contactée par quelqu'un se faisant passer pour Brad Pitt, menant à une relation fictive ayant entraîné des versements de plusieurs centaines de milliers d'euros.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Mythes et contre-vérités du conseil en image
+
+*`web-ateliers-workshops-cours__1102_conseil-en-image.html.txt` · 845 mots · archive de l'auteur*
+
+L’équipe
+Mythes et contre-vérités du conseil en image
+Vous vous apprêtez à souscrire un conseil en image ? Vous pouvez y perdre votre journée, plusieurs centaines d'€, et votre garde-robe. Alors avant de vous inscrire à n'importe quelle agence de conseil en image du coin de la rue, vous seriez avisé de réfléchir à ce qui suit, parce qu'en image comme en tout, les conseilleurs ne sont pas les payeurs
+L'agence (de conseil en image)
+Professionnels ou amateurs ?
+Le premier idiot venu peut aujourd'hui s'acheter de quoi
+construire un site web pour les nuls
+et techniquement mettre en ligne le lendemain un site de relooking / conseil en image avec 3 photos avant-après récupérées sur celui du voisin. L'absence de discernement des gens aidant, il se pourrait même que ce
+particulier
+ait des (quelques) clients, pour un revenu complémentaire qu'il ne déclarera bien sûr jamais. Et hop, payées, les vacances au ski de l'hiver prochain ; c'est ça, la magie du net.
+1er conseil, donc :
+vérifiez que vous avez affaire à une société ou à un professionnel déclaré (= inscrit au registre du commerce, avec un numéro de Siret et un Siren).
+Sa réputation ? (Elle est connue de qui à part de ses amis)
+Ecrire un témoignage bidon requiert à peu près autant d'imagination que d'écrire les dialogues d'un film x, aussi, et même si c'est invérifiable, nous serions prêts à parier que, sur le net, plus de 50% des témoignages, tous sites commerciaux confondus, sont faux. Il n'y a aucune raison qu'il n'en soit pas de même pour le conseil en image. Nous nous rappelons, chez SpikeSéduction, que l'un de nos témoignages (celui d'
+Aurélien
+) avait été recopié par un site de coaching dont la décence nous empêche de citer le nom
+Conseil :
+vérifiez la source des témoignages
+Son expertise et son influence
+L'expertise est la qualité du conseiller à s'adapter à votre cas, sa panoplie de photos de
+relooking avant-après
+doit donc imager autant de looks que de morphotypes
+L'influence d'un site de conseil en image se mesure à sa faculté de créer des
+tendances
+reprises ensuite par les autres.
+Exemple : les costumes Ozwald Boateng, les chemises col officier, les porte-feuilles extra-plats en aluminium, et avant les ves
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### Séminaire changez de vie du 19 juillet 08 : les témoignages continuent
+
+*`web-actualite__1238_temoignage-seminaire-seduction-changez-vie.html.txt` · 325 mots · archive de l'auteur*
+
+Séduction, relooking homme - Le site de référence
+Séminaire changez de vie du 19 juillet 08 : les témoignages continuent
+48h après le séminaire le plus attendu de l’année, vous êtes déjà 14 à avoir laissé
+votre témoignage
+sur le forum. A votre avis, combien sont positifs ? Lisez notamment
+celui-ci
+, adressé à ceux qui pensent
+“pas pour moi, je lis le site gratuitement tous les jours, mais jamais je n’irai payer quoi que ce soit pour participer à un événement, ça va pas non ?”
+Témoignages sur le séminaire changez de vie du 19 juillet
+Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
+Le week-end du 19-20 juillet, faites coup double
+Prochain séminaire séduction et développement personnel
+"En sortant des événements de Spike, on se sent plus intelligent" (témoignage sur le séminaire du 4 octobre)
+témoignages
+Pas encore de commentaire.
+Vous pouvez utiliser ces balises : <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
+Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+Plus de 2000 élèves en 3 ans, choisi par France2 parmi
+, élu premier site de séduction par
+, et leader du marché par
+le Jdd
+Une question sur votre réservation ? 0892.699.088 tous les jours de 11h à 13h et de 15h à 18h
+un email (réponse sous 12h)
+Debutants
+Abonnez-moi par email mensuel :
+Désinscription
+4 octobre : séminaire devenez intéressant
+Avez-vous une tête de valise à roulette ?
+Va, cours, vole, et nous mens
+Arrêtez de déclarer votre amour comme vous déclarez vos i...
+Saches que tu étais mieux de tenter de l'emb...
+Ça c'est vraie ça. L'éternel problème des...
+Lazare,
+si tu es un habitué, tu sais que ...
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### Commandez le séminaire &laquo;&nbsp;changez de vie&nbsp;&raquo; 2013
+
+*`web-actualite__15158_changer-de-vie-seminaire-2013.html?preview=1.txt` · 1590 mots · archive de l'auteur*
+
+Get a life, le meilleur séminaire au monde pour changer de vie
+Commandez le séminaire « changez de vie » 2013
+Commandez le séminaire « changez de vie » 2013
+Référence :
+get a life (changez de vie)
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+Mesurer sa motivation réelle de changer de vie et mettre en place un plan d’action pour y parvenir
+Durée totale :
+6h05mn
+Taille du fichier :
+360 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Ce que vos parents auraient dû vous apprendre
+Etre sexué I : les fondamentaux
+Parce que vous l’avez bien mérité grâce à votre participation exemplaire en séminaire, l’année 2013 va se terminer avec 2 journées monumentales et surtout (c’est une première) complémentaires :
+Get a life
+(9 novembre) et
+Survivre au salariat
+(7 décembre)
+Tout chaud : les témoignages sur la semaine dernière
+Mais les bonnes choses d’abord, commençons par les bonnes choses : les témoignages sur le dernier séminaire
+100 jours pour la rendre amoureuse - témoignages
+[ 9:22 ]
+Ce qu’est
+Get a life
+A la manière de nos séminaires best-seller
+Etre sexué 1
+Etre sexué 2
+, dont le premier vous montre tout l’horizon des possibles et vous pousse à tous les dépasser, et dont le second décline les concepts du premier mais dans les contraintes du réel,
+Get a life
+est le meilleur moyen de :
+casser l’emprise que les habitudes ont pris sur vous
+sortir de votre zone de confort
+vous faire un cercle social de qualité
+remettre votre vie en mouvement
+redécouvrir le goût de faire des activités avec une femme qui vous plaît
+changer de job
+changer de ville
+changer de vie
+vivre ses rêves avant la retraite
+Bref,
+Get a life
+sera une gigantesque journée « coup de pied au c.. » pour tous ceux qui éprouvent la sensation de s’être arrêtés, rouillés, bornés dans leur vie, et qui veulent la remettre en marche.
+La qualité et la vérité des analyses de Stéphane, vérifiée depuis 2006
+Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pas
+justifié
+développé
+argumenté avec logique et intelligence
+, et c’est évidemment ce q
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

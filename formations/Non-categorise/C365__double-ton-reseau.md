@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 8
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -89,7 +90,9 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 
 ### Synthèse : Ces nouvelles humoristes obligées de s'enlaidir pour passer sur #Brut et #Konbini — uyG4G8bWob8 — `Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese`
 
-*podcast · `Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese.md`*
+*podcast / vidéoscopie · `Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'auto-enlaidissement comme rite de passage : L'humoriste présente un effort visible de se rendre peu séduisante (cheveux gras, t-shirt déformé, jupe en jean), ce qui constitue un marqueur culturel identifié des humoristes de gauche sur les réseaux sociaux
 - Une mise en scène non assumée : Malgré la volonté affichée de naturelle, l'analyse révèle une construction visible : double micro (cravate + podcast), micro suspendu au mur, effort de coiffure (cheveux ramenés vers l'avant)
@@ -100,13 +103,15 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 
 ### Elle tape Parisienne dans Google — La Construction Idéologique de la Représentation — `Elle-tape-Parisienne-dans-Google-synthese`
 
-*podcast · `Elle-tape-Parisienne-dans-Google-synthese.md`*
+*podcast / vidéoscopie · `Elle-tape-Parisienne-dans-Google-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Konbini et le combat d'arrière-garde des femmes — `Video-2886bTU-5Yk-synthese`
 
-*podcast · `Video-2886bTU-5Yk-synthese.md`*
+*podcast / vidéoscopie · `Video-2886bTU-5Yk-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -115,6 +120,16 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 *« Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese.md » · origine : lien-declare*
 
 > L'auto-enlaidissement comme rite de passage : L'humoriste présente un effort visible de se rendre peu séduisante (cheveux gras, t-shirt déformé, jupe en jean), ce qui constitue un marqueur culturel identifié des humoristes de gauche sur les réseaux sociaux
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

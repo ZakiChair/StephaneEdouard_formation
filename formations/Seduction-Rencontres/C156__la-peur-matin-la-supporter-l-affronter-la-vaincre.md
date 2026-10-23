@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 17
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -225,12 +226,15 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 
 ### Développe ta force mentale et prépare-toi aux combats de la vie — `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese`
 
-*podcast · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
+*podcast / vidéoscopie · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – Vidéoscopie nLD30feel6k — `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese`
 
-*podcast · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+*podcast / vidéoscopie · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
 - La respiration : Dark Vador hors caméra - le souffle nerveux trahit la vrai nature
@@ -239,13 +243,15 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 
 ### Synthèse : The Circus of "A-Gendered" Children on TV — `The-Circus-of-A-Gendered-Children-on-TV-synthese`
 
-*podcast · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
+*podcast / vidéoscopie · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Vaincre la peur — `Vaincre-la-peur-synthese`
 
-*podcast · `Vaincre-la-peur-synthese.md`*
+*podcast / vidéoscopie · `Vaincre-la-peur-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -254,6 +260,30 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 *« France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md » · origine : lien-declare*
 
 > Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

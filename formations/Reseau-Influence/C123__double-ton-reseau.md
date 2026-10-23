@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 8
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -89,7 +90,9 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 
 ### Synthèse : Ces nouvelles humoristes obligées de s'enlaidir pour passer sur #Brut et #Konbini — uyG4G8bWob8 — `Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese`
 
-*podcast · `Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese.md`*
+*podcast / vidéoscopie · `Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'auto-enlaidissement comme rite de passage : L'humoriste présente un effort visible de se rendre peu séduisante (cheveux gras, t-shirt déformé, jupe en jean), ce qui constitue un marqueur culturel identifié des humoristes de gauche sur les réseaux sociaux
 - Une mise en scène non assumée : Malgré la volonté affichée de naturelle, l'analyse révèle une construction visible : double micro (cravate + podcast), micro suspendu au mur, effort de coiffure (cheveux ramenés vers l'avant)
@@ -100,18 +103,21 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 
 ### Confiné, il rédige une ode à la beauté féminine — La cancel culture en action — `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese`
 
-*podcast · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
+*podcast / vidéoscopie · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Elle tape Parisienne dans Google — La Construction Idéologique de la Représentation — `Elle-tape-Parisienne-dans-Google-synthese`
 
-*podcast · `Elle-tape-Parisienne-dans-Google-synthese.md`*
+*podcast / vidéoscopie · `Elle-tape-Parisienne-dans-Google-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Konbini et le combat d'arrière-garde des femmes — `Video-2886bTU-5Yk-synthese`
 
-*podcast · `Video-2886bTU-5Yk-synthese.md`*
+*podcast / vidéoscopie · `Video-2886bTU-5Yk-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -120,6 +126,61 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 *« Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese.md » · origine : lien-declare*
 
 > L'auto-enlaidissement comme rite de passage : L'humoriste présente un effort visible de se rendre peu séduisante (cheveux gras, t-shirt déformé, jupe en jean), ce qui constitue un marqueur culturel identifié des humoristes de gauche sur les réseaux sociaux
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Ta-dam, 10 conseils merdiques tirés du web pour développer son réseau : distribuez des cartes de visite prenez des cartes de visite scannez les cartes de visite qu'on te donne sur ton ordi publiez du contenu intéressant sur Linkedin il est plus facile qu'avant de se créer un bon réseau (NDLR : ah bon ?)… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Ta-dam, 10 conseils merdiques tirés du web pour développer son réseau :
+
+distribuez des cartes de visite
+prenez des cartes de visite
+scannez les cartes de visite qu'on te donne sur ton ordi
+publiez du contenu intéressant sur Linkedin
+il est plus facile qu'avant de se créer un bon réseau (NDLR : ah bon
+2. )
+écrivez à votre réseau toutes les X semaines/tous les Y mois (très naturel, l'autre va pas du tout le voir venir)
+allez rencontrer des professionnels de votre secteur au pôle emploi, à l'APEC, l'APECITA, au centre de documentation, à la chambre d'agriculture, celle des métiers, dans les sociétés d'intérim… (sos amitié bonsoir)
+lu sur Elle
+3. fr : « votre voisine du 5ème ou le père du meilleur ami de votre fille ont sans doute des parcours professionnels formidables, alors pourquoi se priver de leur expérience
+4. On peut toutes s'entraider de façon ponctuelle, sans condition de statut ou de profession » (et sinon, tu as déjà vu le monde sans wishful thinking ou bien
+5. )
+dans un livre sur le réseau (écrit par une femme) : « on n'a rien à perdre à engager la conversation, rien de tel que l'humour et le fait de savoir se présenter en quelques phrases » (#facileadire)
+Emmanuelle Duez, cofondatrice de Women'Up et de la société The Boson Project : « quand vous engagez la conversation en appelant votre interlocuteur par son nom de famille, ça impressionne
+6. » =&gt; petit rappel de réalisme : quand une inconnue jolie avec du rouge à lèvres appelle un Monsieur par son nom (ou par son prénom
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

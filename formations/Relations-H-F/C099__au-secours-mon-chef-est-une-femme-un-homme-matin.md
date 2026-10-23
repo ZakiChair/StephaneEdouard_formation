@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 5
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: non
@@ -85,8 +86,33 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast / vidéoscopie · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

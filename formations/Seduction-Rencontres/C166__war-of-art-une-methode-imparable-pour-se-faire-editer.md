@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 7
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 12
 citations: 0
 doublon_titre: non
@@ -99,12 +100,15 @@ Témoignage 1\[ 2:58 \] Hide Player \| Play in Popup \| Download
 
 ### Synthèse – WYig06HnKxU — `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese`
 
-*podcast · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
+*podcast / vidéoscopie · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Elle voue une haine aux hommes, mais n'assume pas & supprime. Pas de bol je réuploade — wRo8FGZHphM — `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese`
 
-*podcast · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+*podcast / vidéoscopie · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
 - L'absence historique de la misandrie comme pensée structurée : contrairement à la misogynie documentée chez les plus grands penseurs, aucune figure intellectuelle majeure n'a produit de corpus misandre significatif — les citations sont absentes, les auteurs inexistants.
@@ -115,7 +119,9 @@ Témoignage 1\[ 2:58 \] Hide Player \| Play in Popup \| Download
 
 ### Synthèse : Video y4PKeEdGQ6w — y4PKeEdGQ6w — `Video-y4PKeEdGQ6w-synthese`
 
-*podcast · `Video-y4PKeEdGQ6w-synthese.md`*
+*podcast / vidéoscopie · `Video-y4PKeEdGQ6w-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
 - Échec demographic: l'âge moyen du spectateur est passé de 58 à 64 ans, soit une progression de 6 ans vers le contrade
@@ -126,8 +132,9 @@ Témoignage 1\[ 2:58 \] Hide Player \| Play in Popup \| Download
 
 ### Synthèse : Vous réclamiez des filles inspirantes : vous allez adorer cette 🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔 — xDO5PtHKu3o — `Vous-réclamiez-des-filles-inspirantes-vous-allez-adorer-cette-🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔-synthese`
 
-*podcast · `Vous-réclamiez-des-filles-inspirantes-vous-allez-adorer-cette-🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔-synthese.md`*
+*podcast / vidéoscopie · `Vous-réclamiez-des-filles-inspirantes-vous-allez-adorer-cette-🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -142,6 +149,59 @@ Témoignage 1\[ 2:58 \] Hide Player \| Play in Popup \| Download
 *« Video-y4PKeEdGQ6w-synthese.md » · origine : lien-declare*
 
 > Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Vous écrivez, dessinez, jouez de la musique ou bien nourrissez tout autre projet littéraire ou artistique ? Ne laissez pas votre chance pourrir au fond d’un tiroir ou d’un disque dur : apprenez à séduire un éditeur, un producteur, ou toute autre personne dressée sur la route qui vous sépare du succès et de la… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Vous écrivez, dessinez, jouez de la musique ou bien nourrissez tout autre projet littéraire ou artistique
+2. Ne laissez pas votre chance pourrir au fond d’un tiroir ou d’un disque dur : apprenez à séduire un éditeur, un producteur, ou toute autre personne dressée sur la route qui vous sépare du succès et de la notoriété
+3. – Important : cet atelier n’a aucun rapport avec le livre du même nom, écrit par Steven Pressfield, et n’en reprend pas les concepts –
+ON VOUS A DIT ET RÉPÉTÉ QUE…
+
+que sans piston, point de salut
+que les auteurs (remplacer par : dessinateurs, musiciens, etc
+4. ) avaient tous des parents dans la partie
+que ceux-ci, ou d’autres bienfaiteurs, leur avaient ouvert les portes, ou en tous cas grandement facilité le travail
+que les éditeurs (remplacer par : producteurs, etc
+5. ) recevaient tant de demandes que la vôtre allait se noyer et disparaitre comme une pierre dans l’eau
+qu’il fallait attendre un «coup de chance» ou un signe du destin
+qu’il fallait être prêt à vendre votre projet en 3 minutes à un inconnu croisé dans l’avion ou dans l’ascenseur (le fameux «elevator speech» anglo-saxon)
+que si jamais le miracle se produisait et que quelqu’un m’acceptait, mon texte 
+6. Je suis passé par les mêmes doutes et les mêmes appréhensions que vous avec mon projet littéraire (si vous ne voyez
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

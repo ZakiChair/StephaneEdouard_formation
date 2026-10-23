@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 1
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -158,7 +159,9 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 
 ### Synthèse – Vidéoscopie DS2SQWBDEm0 — `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese`
 
-*podcast · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+*podcast / vidéoscopie · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
 - L'évolution : Avant 40-50 ans -> maintenant 25 ans à cause des couples précoces
@@ -167,12 +170,15 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 
 ### La logique masculine face à l'absence de motivation — `La-logique-masculine-face-à-l'absence-de-motivation-synthese`
 
-*podcast · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
+*podcast / vidéoscopie · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Émettre une critique constructive — xbezr4jiiHE — `Émettre-une-critique-constructive-synthese`
 
-*podcast · `Émettre-une-critique-constructive-synthese.md`*
+*podcast / vidéoscopie · `Émettre-une-critique-constructive-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Un système de gradation en trois niveaux : pour éviter la confrontation brutale, Stéphane utilise un esquema progressif avant d'en venir à la critique frontale.
 - Premier palier — l'humour et la dérision : tourner le problème en joke de manière inoffensive permet de faire passer le message sans déclaration de guerre.
@@ -195,6 +201,30 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 *« Émettre-une-critique-constructive-synthese.md » · origine : lien-declare*
 
 > Un système de gradation en trois niveaux : pour éviter la confrontation brutale, Stéphane utilise un esquema progressif avant d'en venir à la critique frontale.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

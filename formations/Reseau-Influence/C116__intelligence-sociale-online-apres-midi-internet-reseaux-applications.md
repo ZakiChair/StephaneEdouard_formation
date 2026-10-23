@@ -13,6 +13,7 @@ programme: 5
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 7
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -76,13 +77,15 @@ Si je suis aussi certain que ce séminaire va répondre à vos préoccupations, 
 
 ### Confiné, il rédige une ode à la beauté féminine — La cancel culture en action — `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese`
 
-*podcast · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
+*podcast / vidéoscopie · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Tinder — Les Femmes ne Matchent PAS que le TOP 1% — `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese`
 
-*podcast · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
+*podcast / vidéoscopie · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -91,6 +94,130 @@ Si je suis aussi certain que ce séminaire va répondre à vos préoccupations, 
 *« Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md » · origine : corpus*
 
 > [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/Carriere Leadership/couple-rupture-difficile.md) [Développe ta force mentale (après-midi)](./formations/Developpement Personnel/gestion-crise-apres-midi.md) [Développe ta force mentale (matin)](./formations/Developpement Personnel/gestion-crise-matin.md) [# Sources et références croisées](./formations/Intelligence Sociale/intelligence-emotionnelle.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures L](./formations/couple-rupture-difficile.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/cultivez-votre-intelligence-emotionnelle.md) [Développe ta force mentale (matin)](./formations/developpe-ta-force-mentale.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/intelligence-emotionnelle.md)
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### 30 mars, intelligence sociale mod. II : gérer la solitude et sortir seul
+
+*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html.txt` · 1439 mots · archive de l'auteur*
+
+« And this loneliness won’t leave me alone »
+Otis Redding, S
+ittin’ on the dock of the bay
+Mon site a 7 ans, mais jamais n’a t-il eu l’âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu’il suffit de « just do it ».
+Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d’hommes, bien sûr, car pour les femmes c’est une toute autre sociologie) qu’il est
+impossible
+de pousser à faire des rencontres.
+Pourquoi certains n’y arrivent pas…
+… et n’y arriveront peut-être jamais
+Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
+Ils auront acquis la
+capacité
+à faire des rencontres, mais la plupart du temps ces rencontres n’auront pas lieu.
+La nuance est de taille et il est important de bien la comprendre sinon vous n’aurez rien compris
+: acquérir la capacité à faire des rencontres, ça n’entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
+Quel est alors l’élément manquant ? Car chercher le point commun (« pattern », diraient les anglo-saxons) à tous ces garçons c’est trouver la clé du problème.
+Et la clé du problème des rencontres se trouve à 90% du temps dans votre (in)capacité à sortir seul, autrement dit à gérer la solitude.
+La ville, c’est la solitude peuplée
+En théorie (je dis bien en théorie), chacun évolue au milieu d’un réseau de gens qui tous lui veulent du bien, l’un garantissant ses affaires, l’autre ses amours, untel aidant pour ceci et l’autre pour cela mais tous ayant la fiabilité d’une montre suisse et le désintéressement d’un héros de roman.
+C’est vrai, mais uniquement
+partiellement
+Car entre des moments (certes agréables) de la sorte, s’insèrent tout un tas d’autres – correspondant à des étapes-clés de la vie : déménagement, expatriation, ascension sociale, changement de cercle d’amis, etc. – qui se passent dans une partielle ou t
+
+### Commandez le séminaire &laquo;&nbsp;intelligence sociale mod. II : gérer la solitude et sortir seul&nbsp;&raquo;
+
+*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html?preview=1.txt` · 1676 mots · archive de l'auteur*
+
+Comment sortir seul ? Comment gérer la solitude ?
+Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
+Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
+Video:preview séminaire sortir seul pour rencontrer des femmes
+Référence :
+Intelligence sociale module 2
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+mettre en place les bonnes pratiques et développer l'état d'esprit permettant de faire des rencontres seul
+Durée totale :
+3h09mn
+Taille du fichier :
+182 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Intelligence sociale module 1
+Etre un leader
+Ecoutez des extraits gratuits
+Sortir seul - extrait 1
+[ 2:21 ]
+Sortir seul - extrait 2
+[ 1:44 ]
+Jamais ce site n'a eu l'âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu'il suffit de "just do it".
+Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d'hommes, bien sûr, car pour les femmes c'est une toute autre sociologie) qu'il est
+impossible
+de pousser à faire des rencontres.
+Pourquoi certains n'y arrivent pas…
+… et n'y arriveront peut-être jamais
+"And this loneliness won't leave me alone"
+Otis Redding, S
+ittin' on the dock of the bay
+Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
+Ils auront acquis la
+capacité
+à faire des rencontres, mais la plupart du temps ces rencontres n'auront pas lieu.
+La nuance est de taille et il est important de bien la comprendre sinon vous n'aurez rien compris
+: acquérir la capacité à faire des rencontres, ça n'entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
+Quel est alors l'élément manquant ? Car chercher le point com
+
+### 25 sept 2010 : développez votre intelligence sociale
+
+*`web-actualite__4843_intelligence-sociale.html.txt` · 1245 mots · archive de l'auteur*
+
+Le 4 septembre dernier, démarrait la sixième saison des séminaires SpikeSéduction (autant que
+How I met your mother
+). Et pas de n’importe laquelle des manières : avec un record d’affluence, des nouveautés (dont l’opportunité de commander l’enregistrement audio du séminaire pour ceux qui ne peuvent pas se déplacer), et toujours sans aucune hausse de tarif. Vous l’avez manqué ? Lisez les témoignages
+sur le forum
+. Le 25 septembre prochain (oui, c’est dans moins de deux semaines), je donnerai un séminaire à nouveau 100% inédit, et le thème est peut-être le plus important de ces dernières années. Vous en entendez parler presque quotidiennement, il s’agit, wait for it, de
+l’intelligence sociale
+De l’histoire (juste un peu)
+Vous ne devinerez jamais d’où provient l’expression
+compétence sociale
+. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
+Plus d’histoires
+Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon millio
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

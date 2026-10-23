@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 3
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: non
@@ -108,12 +109,15 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 
 ### Synthèse : Agnès Buzyn — ZcbNucAOWeY — `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese`
 
-*podcast · `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese.md`*
+*podcast / vidéoscopie · `Combien-de-fois-A.Buzyn-a-t-elle-menti-à-la-commission-d'enquête-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Un monde sans hommes : cette nouvelle lubie des séries cache un projet eugéniste — x-SRTVdzZxg — `Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese`
 
-*podcast · `Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese.md`*
+*podcast / vidéoscopie · `Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le CNC, sponsor de propagande : L'orateur rappelle que le Centre National du Cinéma, financé par les places de cinéma, impose des tests et stages de féminisme et d'inclusivité aux bénéficiaires — qualifies de « propagande » à tous les sens du terme.
 - Une uchronie dystopique classique : *Y: Le Dernier Homme* relève du genre bien établi de l'uchronie dystopique, où un événement fictif — ici surnaturel — modifie le cours de l'histoire. L'orateur compare favorablement ce genre à *Les Ravages* de Barjavel.
@@ -129,6 +133,16 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 *« Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese.md » · origine : lien-declare*
 
 > Le CNC, sponsor de propagande : L'orateur rappelle que le Centre National du Cinéma, financé par les places de cinéma, impose des tests et stages de féminisme et d'inclusivité aux bénéficiaires — qualifies de « propagande » à tous les sens du terme.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

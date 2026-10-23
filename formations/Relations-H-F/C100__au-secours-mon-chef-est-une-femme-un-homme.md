@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 5
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -81,12 +82,15 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast / vidéoscopie · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Licenciée par l'Empire du Bien : j'invite cette journaliste à rejoindre la mal-pensance — oMDcmgMICwQ — `Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese`
 
-*podcast · `Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md`*
+*podcast / vidéoscopie · `Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Florence Mendez a publié un communiqué Instagram détaillant une agression verbale subie en mars 2022 lors de l'enregistrement de *La Bande Originale*, nécessitant l'intervention des pompiers de Radio France
 - Elle décrit une crise de panique déclenchée par le comportement de la cheffe d'équipe de Nagui, suivi d'une mise à l'écart systématique dans les couloirs
@@ -97,8 +101,9 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*podcast · `Video-mFySAh0g-MI-synthese.md`*
+*podcast / vidéoscopie · `Video-mFySAh0g-MI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -107,6 +112,60 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 *« Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md » · origine : lien-declare*
 
 > Florence Mendez a publié un communiqué Instagram détaillant une agression verbale subie en mars 2022 lors de l'enregistrement de *La Bande Originale*, nécessitant l'intervention des pompiers de Radio France
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Niveau management au féminin, femmes et pouvoir, j'ai commencé mon expérience à la dure,  comme en témoigne mon dernier relevé d'appréciation chez Sofres en 2005 : 3 exemples de biais H/F (parmi plusieurs centaines) Les hommes et les femmes, bien que disposant d'une intelligence moyenne similaire, ne recourent pas aux mêmes stratégies pour asseoir leur… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Niveau management au féminin, femmes et pouvoir, j'ai commencé mon expérience à la dure,  comme en témoigne mon dernier relevé d'appréciation chez Sofres en 2005 :
+Le texte manuscrit émane d'une femme, en l'occurence la n+1 d'Alain Imbert
+3 exemples de biais H/F (parmi plusieurs centaines)
+
+Les hommes et les femmes, bien que disposant d'une intelligence moyenne similaire, ne recourent pas aux même
+2. (par opposition à une équipe d'hommes)
+À moins de travailler sur une plateforme pétrolière ou dans une exploitation aurifère (et encore), il y a fort à parier que vous vous retrouviez sous peu dans l'un des deux cas suivants :
+
+managé par des femmes
+à manager des femmes
+
+Et là, à moins d'avoir un doctorat en différences psycho-sociologiques HF, vous êtes un peu mal barrés
+3. Ne rigolez pas, un prix Nobel de médecine s'est fait prendre la main de sac… à dire l'exacte vérité sur les différences comportementales qu'il observait au sein de son labo
+
+&nbsp;
+Soyons réalistes : à tenter de tirer votre épingle
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

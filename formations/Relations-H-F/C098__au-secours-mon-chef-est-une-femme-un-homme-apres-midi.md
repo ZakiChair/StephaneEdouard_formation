@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 5
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 3
 citations: 0
 doublon_titre: non
@@ -85,7 +86,9 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### Synthèse – RFsDr2AVCmI — `Video-RFsDr2AVCmI-synthese`
 
-*podcast · `Video-RFsDr2AVCmI-synthese.md`*
+*podcast / vidéoscopie · `Video-RFsDr2AVCmI-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Stephane revient sur sa dernière date de tournée : 22 novembre 2022 à Paris
 - Il invite le public à s'inscrire sur la liste d'attente pour connaître les prochaines dates
@@ -93,8 +96,9 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*podcast · `Video-mFySAh0g-MI-synthese.md`*
+*podcast / vidéoscopie · `Video-mFySAh0g-MI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 

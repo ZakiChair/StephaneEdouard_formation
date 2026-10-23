@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 1
 idees_forces: 8
 citations: 0
 doublon_titre: oui
@@ -87,7 +88,9 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 ### Synthèse : Tu me manques — tu-me-manques — `Tu-me-manques-synthese`
 
-*podcast · `Tu-me-manques-synthese.md`*
+*podcast / vidéoscopie · `Tu-me-manques-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le « tu me manques » comme signal faible : Un message de ce type n'est jamais anodin. Il survient généralement quand la personne qui l'envoie n'a pas fait le deuil de la relation précédente et doute de son choix actuel.
 - Le ressentiment comme mécanisme central : Ce n'est pas de l'amour ou de la nostalgie pur, mais une forme de rancœur accumulée qui resurgit avec le temps. Quand on quitte une relation sans avoir pleinement résolu les tensions, le ressentiment s'installe.
@@ -98,7 +101,9 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 ### Synthèse 47jhynafWCc — `Video-47jhynafWCc-synthese`
 
-*podcast · `Video-47jhynafWCc-synthese.md`*
+*podcast / vidéoscopie · `Video-47jhynafWCc-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 - 5 ans après MeToo, la société demeure "très sexiste" selon le rapport
@@ -116,6 +121,46 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 *« Video-47jhynafWCc-synthese.md » · origine : lien-declare*
 
 > 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Portée disparue (après 3 semaines)
+
+*`web-articles__seduction-fondamentaux__4414_rendre-une-femme-amoureuse.html.txt` · 1559 mots · archive de l'auteur*
+
+Salut Stéphane,
+Je suis l’évolution de ton site depuis maintenant près de deux ans. je suis sénégalais et je suis peut-être pas le premier à te dire que tu te fais des adeptes à l’étranger (moi le premier). Dire que ce site a complètement bouleversé  mon univers serait peu dire. J’ai 26 ans et étudiant en commerce. jusque là, les petits conseils ramassés ici et là sur le site m’ont largement suffis (et Dieu sait que ça m’a servi ). A vrai dire, trop même! je me permets de t’écrire aujourd’hui parce que personnellement je me pose beaucoup de questions auxquelles je ne trouve aucune réponse !
+j’ai rencontré une fille dans notre business-school il y a près de 3 semaines, et dire qu’elle a de la classe serait peu dire…
+On s’est rencontré dans le hall du bâtiment ou étais entouré (je pèse mes mots) de quelques amis ainsi que de quelques amis à elle, quand elle m’a demandé une cigarette. Automatiquement je lui ai répondu que non parce que je n’encourageais pas les nouveaux fumeurs. Sur le coup, je l’ai dit sans arrière pensée, et c’est seulement après analyse que j’ai su que j’avais bien fait, vu la vitesse à laquelle elle a littéralement infiltré mon monde! De fil en aiguille elle a multiplié les signes d’intérêt (proximité, caresses, textos) ! Et c’est comme ça que je l’ai invité à prendre un café a la pause et tout a marché comme sur des roulettes. Jour suivant deuxième rendez-vous sur le banc de l’école ou on est resté 2 heures collés à parler de tout et de rien. Elle est devenue dans la semaine ma supporter n°1 pour nos petits matchs de foot entre potes, et on a passé la nuit ensemble la semaine suivante. Pendant quelques jours j’ai cru pouvoir pour la première fois vivre le grand Amour. Et résultat des courses, elle m’a largué !
+Je suis resté digne même dans la défaite, sans montrer de signe de perte de contrôle ! Mais là, je ne tiens plus, même si j’arrive encore à garder la tête haute. motif invoqué, elle disait qu’elle ne se voit pas dans une relation amoureuse, c’était il y a deux jours. là, je suis au pied du mur, parce que franchement j’ai pas envie que ça s’arrête.
+But the problem is
+, je sais pas si je dois continuer à faire l’indifférent comme je sais t
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

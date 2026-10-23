@@ -13,6 +13,7 @@ programme: 13
 sections_annonce: 7
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 2
 idees_forces: 9
 citations: 0
 doublon_titre: oui
@@ -84,12 +85,15 @@ Leur existence n’étant plus en cause, la vraie question (qui vaut triple) dev
 
 ### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
 
-*podcast · `L'intelligence-relationnelle-1-synthese.md`*
+*podcast / vidéoscopie · `L'intelligence-relationnelle-1-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – JOfi_gBD9OI — `Video-JOfi_gBD9OI-synthese`
 
-*podcast · `Video-JOfi_gBD9OI-synthese.md`*
+*podcast / vidéoscopie · `Video-JOfi_gBD9OI-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'intelligence = capacité de synthèse : À l'inverse du « flow » de pensées incontrôlables, qui serait plutôt signe d'un QI limité. L'intelligence structurée l'emporte sur le débit anarchique.
 - Déconstruction du mythe HPI : Le haut potentiel ne se Diagnostique pas par le simple fait d'avoir « la tête qui explosionne » — symptôme commun à de nombreuses configurations psychologiques.
@@ -98,7 +102,9 @@ Leur existence n’étant plus en cause, la vraie question (qui vaut triple) dev
 
 ### Synthèse – JS6GuJawMEs — `Video-JS6GuJawMEs-synthese`
 
-*podcast · `Video-JS6GuJawMEs-synthese.md`*
+*podcast / vidéoscopie · `Video-JS6GuJawMEs-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Anatomie d'un scam : Une femme est contactée par quelqu'un se faisant passer pour Brad Pitt, menant à une relation fictive ayant entraîné des versements de plusieurs centaines de milliers d'euros.
 - Critique de l'analyse médiatique : Les commentateurs ont soutenu la victime sanskritique et morale. Stéphane y voit une forme deendocrination : la femme s'est réellement attachée émotionnellement.
@@ -119,6 +125,109 @@ Leur existence n’étant plus en cause, la vraie question (qui vaut triple) dev
 *« Video-JS6GuJawMEs-synthese.md » · origine : lien-declare*
 
 > Anatomie d'un scam : Une femme est contactée par quelqu'un se faisant passer pour Brad Pitt, menant à une relation fictive ayant entraîné des versements de plusieurs centaines de milliers d'euros.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Séminaire 12 mai : &laquo;&nbsp;Manipulation, I&nbsp;&raquo; : qui vous ment (et comment)
+
+*`web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html.txt` · 1361 mots · archive de l'auteur*
+
+Séminaire 12 mai : « Manipulation, I » :
+qui vous ment (et comment)
+Séminaire 12 mai : « Manipulation, I » :
+qui vous ment (et comment)
+Traduction :
+Les gens sont de tels menteurs.
+Regardez cette courte vidéo :
+Ca vous dit quelque chose ? Normalement, oui ; cette série, diffusée sur la Fox jusqu’à janvier dernier, a atterri en Français sur m6 et donné lieu à une multitude de livres sur l’art de détecter les mensonges cachés dans les clignements de paupière et les mouvements de lèvres. Je les ai lus, certains sont pertinents, beaucoup ne sont que des redites destinées à permettre à l’auteur de dire partout (waooou, j’ai été publié), mais cela m’a tout de même donné l’occasion de tirer une conclusion.
+Problématique
+A la base du développement personnel, il y a la volonté d’investir sur soi
+Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
+Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…)
+discernement
+Définition : (du latin discernere, « séparer, distinguer ») : opération de l’esprit par laquelle on analyse et distingue les notions, les objets de pensée. Le discernement situe les choses les unes par rapport aux autres, élimine la confusion,
+sépare le vrai du faux
+Ce séminaire,
+premier épisode d’une série consacré à la manipulation et aux moyens de la déjouer
+, aurait pu s’intituler « séminaire sur le discernement ». Trop elliptique, on aurait pu croire à une blague. Et puis ça ne faisait pas état de la place importante qui sera faite aux applications pratiques. Qui vous ment (et comment), voilà les thèmes de ce séminaire
+Qui vous ment (et comment)
+Une (au moins) personne de votre entourage proche, très proche, vous ment. Ces personnes peuvent se cacher parmi vos amis (les amis d’enfance ne sont pas épargnés, ni vos proches, et encore moins vos parents).
+Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longeant ce grand monument parisien qui borde l’hôtel pour rejoindre votre voiture, votre bus, votre métro ou votre train, vous soyez en mesure d’affirmer avec certitude l’identité de cette personne. Et aurez en bonus des pistes pour identifier la meilleure maniè
+
+### Commandez le séminaire Manipulation II : obtenez ce que vous voulez
+
+*`web-actualite__16617_manipulation-ii-obtenez-ce-que-vous-voulez.html?preview=1.txt` · 1211 mots · archive de l'auteur*
+
+Référence :
+manipulation 2
+Déroulement :
+26 avril 2014
+Enregistré :
+oui
+Prérequis :
+Objectifs :
+utiliser les techniques de manipulation et les failles psychologiques dans le but d’obtenir ce que l’on désire
+Durée totale :
+journée
+Tarif :
+à partir de 75euros dans les commandes groupées et (nouveau) en fonction de la date de réservation
+Séminaires complémentaires recommandés :
+manipulation 1 (sachez qui vous ment), devenez un tueur en négociation
+Ecoutez des extraits
+Manipulation2 - extrait 1
+[ 6:08 ]
+Manipulation2 - extrait 2
+[ 5:03 ]
+Manipulation2 - extrait 3
+[ 5:32 ]
+Manipulation = sujet complexe…
+… raison de plus d’être clair dès le début
+A proprement parler, et en dépit de ce qu’en diront toujours quelques aigri(e)s, la séduction n’est pas la manipulation. Il est tout à fait possible (et même souhaitable) de rencontrer, de plaire à quelqu’un et de le/la revoir avec, pour toute technique de persuasion, ses propres qualités ! (à l’unique condition de savoir en faire étalage avec discernement, sans les masquer sous une épaisse couche de timidité). C’est comme ça, c’est un fait. Et c’est tant mieux.
+Mais ce qui est aussi un fait – et pas des moindres -, c’est que la relation humaine (dans son essence) contient de la manipulation, c’est à dire des moyens (pas toujours conscients ni cohérents) mais fonctionnels d’infléchir la position d’autrui en sa faveur. Ca aussi, c’est un fait !
+Par « fonctionnel », j’entends que -
+1- ça existe et -
+2- ça fonctionne
+Et donc -
+3- vous devez les connaître, p
+arce que sinon -
+4- vous êtes de facto handicapé.
+Voulez-vous être handicapé socialement ?
+S vous ne comprenez rien à la manipulation, si vous n’y voyez que du feu, si vous ne savez présenter vos faits et vos opinions et vos actions de manière intelligente (intelligence sociale et émotionnelle avant tout) pour maximiser vos chances, vous êtes de facto handicapé socialement. C’est ce que vous voulez ? Si vous répondez « oui » à cette question, pas la peine de passer à la suite ;)
+Après la première « brique » du mur manipulation (
+détectez les mensonges et devenez celui à qui on ne la fait pas
+), démarrons les choses sérieuses avec, ce
+samedi 26 avril, manipulation II : obtenez
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+- Détection du mensonge
+- Techniques de manipulation
+- Protection émotionnelle
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

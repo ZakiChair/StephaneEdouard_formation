@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 5
 documents_materiau: 4
+pages_developpement: 1
 idees_forces: 9
 citations: 0
 doublon_titre: oui
@@ -137,12 +138,15 @@ C’est surprendre et charmer une quasi inconnue en lui dévoilant son _secret 
 
 ### Synthèse arqs3r2aoa8 — `Elle-accepte-TOUS-ses-rencards-#tinder-regardez-la-se-transformer-en-temps-réel-synthese`
 
-*podcast · `Elle-accepte-TOUS-ses-rencards-#tinder-regardez-la-se-transformer-en-temps-réel-synthese.md`*
+*podcast / vidéoscopie · `Elle-accepte-TOUS-ses-rencards-#tinder-regardez-la-se-transformer-en-temps-réel-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse — Garde alternée et coup de boule : qui ment dans ce tribunal ? (Vidéoscopie) — `Garde-alternée-et-coup-de-boule-qui-ment-dans-ce-tribunal-synthese`
 
-*podcast · `Garde-alternée-et-coup-de-boule-qui-ment-dans-ce-tribunal-synthese.md`*
+*podcast / vidéoscopie · `Garde-alternée-et-coup-de-boule-qui-ment-dans-ce-tribunal-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Elle ne se souvient pas si l'hématome était à gauche ou à droite
 - L'enfant dans les bras pendant l'altercation — pourquoi ne pas avoir protégé l'enfant ?
@@ -151,7 +155,9 @@ C’est surprendre et charmer une quasi inconnue en lui dévoilant son _secret 
 
 ### J'ai rencontré les fameux 0,001% — Synthèse — `J'ai-rencontré-les-fameux-0,001%-synthese`
 
-*podcast · `J'ai-rencontré-les-fameux-0,001%-synthese.md`*
+*podcast / vidéoscopie · `J'ai-rencontré-les-fameux-0,001%-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'anecdote : Soirée avec des hommes à +0,001% —4 femmes chacun, "babes" (précurseurs des Instagrammeuses).
 - Le retentissement : Cette soirée a durablement façonné sa vision du monde et continue de l'influencer.
@@ -161,8 +167,9 @@ C’est surprendre et charmer une quasi inconnue en lui dévoilant son _secret 
 
 ### Le secret derrière ces millions de femmes seules est si bête que c'en est gênant — `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese`
 
-*podcast · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
+*podcast / vidéoscopie · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -177,6 +184,119 @@ C’est surprendre et charmer une quasi inconnue en lui dévoilant son _secret 
 *« J'ai-rencontré-les-fameux-0,001%-synthese.md » · origine : lien-declare*
 
 > L'anecdote : Soirée avec des hommes à +0,001% —4 femmes chacun, "babes" (précurseurs des Instagrammeuses).
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire secret agenda
+
+*`web-actualite__16365_secret-agenda.html?preview=1.txt` · 1077 mots · archive de l'auteur*
+
+Décodez le secret agenda des femmes
+Commandez le séminaire
+Commandez le séminaire
+Référence :
+(en français : plan de vie secret)
+Déroulement :
+29 mars 2014
+Enregistré :
+oui
+Prérequis :
+Objectifs :
+décoder les projets non exprimés de toute femme afin de vous donner le
+choix
+vis à vis de l’avenir de cette relation
+Durée totale :
+journée
+Tarif :
+150€ la demi-journée puis dégressif avec le nombre de demi-journées commandés
+Séminaires complémentaires recommandés :
+relations longues ii : typologie de femmes,
+relations longues iii : 100 jours
+Ecoutez des extraits
+Secret agenda - extrait 1
+[ 4:37 ]
+Secret agenda - extrait 2
+[ 5:14 ]
+D’après mes statistiques internes, la problématique la plus souvent abordée sur le forum ces derniers mois… le
+(plan de vie). Hasard ? Bien sûr que non.
+Rappel :
+Ca n’est pas contre vous, mais une femme est physiologiquement concue pour « graver dans le marbre » une hiérarchie de priorités , même si elle ne s’en rend pas compte. Et si elle s’en rend compte, elle ne vous le dira pas. Il n’y a pas (forcément) méchanceté ou manipulation, juste de la psychologie. »
+Exemples de ces décisions/priorités
+Combien d’enfants elle aura,
+A quel âge,
+Avec qui (typologie d’homme),
+Où elle vivra (ville/pays, appartement/maison),
+Comment elle subsistera (salariat, entrepreunariat, femme au foyer, escorting, héritages, etc.)
+Si vous ignorez les réponses à toutes ces questions, c’est comme si vous boxiez les yeux fermés… Vous n’allez pas aller loin.
+Pourquoi un séminaire sur le
+Problématique 1 : du pain & des jeux
+Comme l’ont montré d’autres observateurs avisés avant moi, la société n’a jamais été aussi frivole… en apparence, et en apparence seulement, car dans l’âpre réalité des rencontres (qu’elles soient diurnes, nocturnes, ou sur Internet), les femmes utilisent le déséquilibre démographique en leur faveur (trop d’hommes, trop disponibles tout le temps) pour faire des choix basés uniquement sur leur
+plan de vie
+Problématique 2 : des jeux ? Quels jeux ?
+Le
+de la femme, c’est plus qu’une volonté, qu’un souhait ou qu’un désir. Elle va vraiment
+tout
+faire pour que cela se produise. Sauf accident, ou rencontre avec un homme susceptible de l’infléchir.
+Problémati
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+D’après mes statistiques internes, la problématique la plus souvent abordée sur le forum ces derniers mois… le secret agenda (plan de vie, ou encore feuille de route). Hasard ? Bien sûr que non. Rappel : Ca n’est pas contre vous, mais une femme est physiologiquement concue pour « graver dans le marbre » une hiérarchie de priorités , même si… 
+
+Read More
+
+---
+
+### Points clés
+
+1. D’après mes statistiques internes, la problématique la plus souvent abordée sur le forum ces derniers mois… le secret agenda (plan de vie, ou encore feuille de route)
+2. Rappel : Ca n’est pas contre vous, mais une femme est physiologiquement concue pour « graver dans le marbre » une hiérarchie de priorités , même si elle ne s’en rend pas compte
+3. Et si elle s’en rend compte, elle ne vous le dira pas
+4. Il n’y a pas (forcément) méchanceté ou manipulation, juste de la psychologie
+5. »
+Exemples de ces décisions/priorités
+
+Combien d’enfants elle aura,
+A quel âge,
+Avec qui (typologie d’homme),
+Où elle vivra (ville/pays, appartement/maison),
+Comment elle subsistera (salariat, entreprenariat, femme au foyer, escorting, héritages, etc
+6. )
+
+Si vous ignorez les réponses à toutes ces questions, c’est comme si vous boxiez les yeux fermés… Vous n’allez pas aller loin
+7. Aveugles et sourds, manquerait plus qu'ils mordent
+POURQUOI CE SÉMINAIRE
+Problématique 1 : du pain & des jeux
+Comme l’ont montré d’autres observateurs avisés avant moi, la société n’a jamais été aussi frivole… en apparence, et en apparence seulement, car dans l’âpre réalité des rencontres (qu’elles soient diurnes, nocturnes, ou sur Internet), les femmes utilisent le déséquilibre démographique en l
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

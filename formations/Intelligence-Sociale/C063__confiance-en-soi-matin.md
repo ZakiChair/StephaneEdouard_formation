@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 15
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 1
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -145,28 +146,33 @@ Nous nous livrerons donc ensemble à des **techniques avancées de visualisatio
 
 ### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Cultive ta confiance en toi — `Cultive-ta-confiance-en-toi-synthese`
 
-*podcast · `Cultive-ta-confiance-en-toi-synthese.md`*
+*podcast / vidéoscopie · `Cultive-ta-confiance-en-toi-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
 
-*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+*podcast / vidéoscopie · `Faites-toujours-confiance-aux-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Gaslighting : cette drôle manière d'abréger les femmes — `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese`
 
-*podcast · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
+*podcast / vidéoscopie · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : "Influenceurs" à l'Élysée — Ww4-NKUrOjw — `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese`
 
-*podcast · `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
+*podcast / vidéoscopie · `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
 
+**Son verdict**
 
 > "Tant que vous ne savez pas décrire correctement un problème, ce que vous croyez être une solution en fait sera tiré au hasard."
 
@@ -177,6 +183,56 @@ Nous nous livrerons donc ensemble à des **techniques avancées de visualisatio
 *« Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md » · origine : corpus*
 
 > 3. **Consulter un tiers de confiance** : Un ami qui connaît la situation peut aider à maintenir la perspective. Attention : il faut quelqu'un de vraiment confiance, pas quelqu'un qui va prendre parti.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Confiance en soi et niveau d&#8217;énergie
+
+*`web-articles__1538_confiance-en-soi-2.html.txt` · 936 mots · archive de l'auteur*
+
+La confiance en soi
+Séduction, relooking homme - Le site de référence
+Confiance en soi et niveau d’énergie
+Pour tous les hommes, apprentis Don Juan ou Casanova expérimentés, le niveau d’énergie, comme la
+confiance en soi
+est un élément crucial du jeu de séduction. Tout bon séducteur vous le dira : sans énergie, point de salut, et de conquête encore moins. La principale réaction du novice après la découverte de cet état de fait semble souvent être la logique même, et conduit à une question : comment contrôler son niveau d’énergie ?
+Question toute naturelle, motivée par l’envie de pouvoir libérer son énergie à volonté, et de pouvoir passer d’un état léthargique profond à celui d’un étalon en rut en appuyant sur un bouton magique. Mais, comme souvent, raisonner ainsi revient à aborder le problème par le mauvais sens.
+Réussir un
+: la croix et la barrière ?
+Avant d’apprendre à courir, apprend à marcher. Avant de trouver une solution, précise le problème.
+Tout le monde est passé par là : les premiers rendez-vous sont toujours une épreuve pour le débutant. On commence à y penser plusieurs jours à l’avance, et on se contente de déglutir avec difficulté. Puis, la boule dans le ventre ne part plus si rapidement, et on se met à vouloir calculer tous ses actes en fonction du
+: si je me lave les cheveux aujourd’hui, je pourrai me les laver le matin même. Et si je me rasais la veille, j’arriverais avec une petite barbe naissante, pour faire négligé ? Et mes habits ? Est-ce que je dois boire un café le matin ? Quelle provision de sujets de conversation au cas où je n’aurais rien à dire ?
+Si bien que le rendez-vous qui devrait être une perspective agréable devient un véritable parcours du combattant. Inutile de faire un dessin ; qui le prépare de cette façon a toutes les chances d’y arborer un niveau d’énergie très faible et d’y figurer aussi glorieusement qu’une limace, fût-elle entrainée pour les Jeux Olympiques.
+Croiser le fer avec ses appréhensions
+C’est humain, mais pas plus efficace pour autant : le novice (ou le moins débutant aux tentatives encore infructueuses) aborde la difficulté par le mauvais bout. En voulant lutter contre son manque d’expérience ou sa maîtrise enc
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

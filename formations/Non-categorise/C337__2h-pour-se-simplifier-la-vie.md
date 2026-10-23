@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 0
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -85,6 +86,16 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 - Tous les séminaires que vous avez commandés depuis la naissance de Jésus Christ sont disponibles dans votre espace mon compte
 - Une facture est disponible sur simple demande par email
 - Recevez tous mes séminaires, toute l’année en devenant VIP
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

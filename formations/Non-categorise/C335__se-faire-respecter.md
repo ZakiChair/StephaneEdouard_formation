@@ -13,6 +13,7 @@ programme: 5
 sections_annonce: 4
 points_annonce: 4
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -75,12 +76,15 @@ Il est possible (et même bénéfique) de dire _non_ à tout le monde, de temps 
 
 ### Faire appartement à part — La nouvelle lubie des couples bobos — `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese`
 
-*podcast · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
+*podcast / vidéoscopie · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – Vidéoscopie nLD30feel6k — `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese`
 
-*podcast · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+*podcast / vidéoscopie · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
 - La respiration : Dark Vador hors caméra - le souffle nerveux trahit la vrai nature
@@ -89,8 +93,9 @@ Il est possible (et même bénéfique) de dire _non_ à tout le monde, de temps 
 
 ### Vaincre la peur — `Vaincre-la-peur-synthese`
 
-*podcast · `Vaincre-la-peur-synthese.md`*
+*podcast / vidéoscopie · `Vaincre-la-peur-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -99,6 +104,16 @@ Il est possible (et même bénéfique) de dire _non_ à tout le monde, de temps 
 *« France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md » · origine : lien-declare*
 
 > Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

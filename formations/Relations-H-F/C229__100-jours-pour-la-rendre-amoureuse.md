@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 11
 documents_materiau: 4
+pages_developpement: 6
 idees_forces: 16
 citations: 3
 doublon_titre: oui
@@ -130,7 +131,9 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 
 ### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+*podcast / vidéoscopie · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
 - Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
@@ -142,17 +145,21 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 
 ### Esther Villard - La manipulation dans les relations hommes-femmes — `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese`
 
-*podcast · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
+*podcast / vidéoscopie · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
 
-*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+*podcast / vidéoscopie · `Faites-toujours-confiance-aux-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
 
-*podcast · `Video-tiDHbY0rQKQ-synthese.md`*
+*podcast / vidéoscopie · `Video-tiDHbY0rQKQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
 - La logique prostitutionnelle : Louer son intimité (corps, vie de couple, secrets familiaux) détruit structurellement son intégrité psychique : addictions, dépression, pensées suicidaires, isolement. Miss Amérique 2019 s'est défenestrée trois jours avant le tournage.
@@ -176,6 +183,190 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 *« Video-tiDHbY0rQKQ-synthese.md » · origine : lien-declare*
 
 > L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Challenge : 100 jours pour la rendre amoureuse
+
+*`web-actualite__14522_challenge-amoureuse-en-100-jours.html?preview=1.txt` · 1650 mots · archive de l'auteur*
+
+Rendre une femme amoureuse
+Challenge : 100 jours pour la rendre amoureuse
+Challenge : 100 jours pour la rendre amoureuse
+Référence :
+les 100 premiers jours
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+relation longues 1
+Objectifs :
+dérouler un plan de jeu idéal les 100 premiers jours de relation, échapper aux pièges courants et atteindre un pic de niveau d’intérêt
+Durée totale :
+5h43mn
+Taille du fichier :
+321 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Relations longues I
+Relations longues II
+Ce séminaire a pour but de vous donner « l’état de l’art » de tout ce que j’ai appris, compris, conceptualisé et appliqué
+(et pris dans la gueule parfois)
+sur la manière de
+faire monter le
+niveau d’intérêt
+d’une femme dans la stratosphère dans les 3 premiers mois (soit +/- 100 jours)
+Si cette page venait à être lue par des filles, je nierais toute responsabilité dans son écriture, et prétendrais immédiatement que mon compte a été piraté par un sale macho métis et salace ;)
+Avant de passer au séminaire d’octobre, encore une fois
+totalement inédit
+(nos séminaires ne contiennent
+jamais
+2 fois le même contenu, que les choses soient claires…), commençons logiquement par les témoignages sur celui de septembre, afin de rassurer les éternels indécis qui se diraient encore « je lis le contenu gratuit du site, donc je sais tout, donc pourquoi devoir payer quoi que ce soit » (ils se trompent) :
+Témoignages su la journée charisme
+[ 2:51 ]
+Quand vous « improvisez » vos débuts de relation, ils se passe quoi ?
+J’ai fait des centaines de
+, à l’issue desquels je peux affirmer une chose avec certitude :
+La plupart des problèmes (souvent irrattrapables et insurmontables) dans lesquels vous vous mettez viennent du fait que vous n’avez pas su « cadrer » les choses dans les 3 premiers mois
+Si j’étais un webmarketeur (ou un voleur, ce qui revient à peu près au même), je vous vendrais un pilule magique pour résoudre ce problème instantanément, ou bien je vous vendrais un ebook de 47 pages du style « casé en 1 semaine »…
+Mais aujourd’hui, se ca
+
+### Hiver 2012 : faites-vous vacciner contre l&#8217;obsession amoureuse
+
+*`web-actualite__8751_obsession-amoureuse-vaccin.html.txt` · 1409 mots · archive de l'auteur*
+
+Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
+Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
+Vous me connaissez – la plupart d’entre vous tout du moins – : j’aime bien glisser une petite plaisanterie ou un jeu de mots dans l’introduction des séminaires ou des articles importants. Il en ira un peu différemment aujourd’hui, le sujet est trop important pour plaisanter, ne serait-ce qu’un instant. Le thème du prochain séminaire, ceux qui ont vu la
+dernière vidéo
+le savaient en avant-première, c’est
+l’obsession amoureuse
+(aussi appelée one-itis dans des temps pas si éloignés).
+Et si on ne rigole pas avec l’obsession amoureuse, c’est qu’elle peut, à l’instar d’une maladie grave, mettre des pans entiers de votre existence dans le caniveau pour l’éternité. Et c’est long, l’éternité.
+Les symptômes de l’obsession amoureuse
+C’est elle qui est partie
+Vous avez eu un mal de chien à vous y faire et à rompre les ponts. C’est d’ailleurs un euphémisme, il y a eu autant de ruptures que de réconciliations provisoires et de nouveaux (faux) départs
+La personne habite une partie de votre esprit comme on squatte un appartement : sans vous demander la permission
+Vous occultez ou minimisez les raisons objectives qui vous ont séparé / ce qui vous éloigne d’elle
+(suite) … et lorsque vos amis vous les rappellent – ces raisons -, vous rationalisez. I.e vous lui trouvez une raison logique pour avoir agi ainsi, la dédouanant toujours un peu au passage
+Vous vous êtes surpris (à plusieurs reprises) à établir des comparaisons entre vos relations suivantes et la personne en question. Comparaisons qui tournaient systématiquement à l’avantage de… Je vous laisse deviner qui
+Vous préféreriez prendre un bain d’acide plutôt que de la voir avec un autre que vous. A fortiori heureuse.
+Vous ne comprenez toujours pas vraiment pourquoi c’est fini
+Etc. etc.
+Liste non exhaustive
+Je vous l’avais dit, moi non plus je n’ai pas envie de rire avec ça.
+Les conséquences de l’obsession amoureuse
+Vous désirez revoir la personne autant que vous redoutez de la croiser
+Vous avez l’impression d’être toujours plus fatigué que vous ne le devriez ; le souvenir de cet échec a ôté une partie de
+
+### Suis-moi je te&#8230; l&#8217;article sur l&#8217;obsession amoureuse, partie I
+
+*`web-articles__1097_fuis-moi-je-te-suis-suis-moi-je-te-fuis.html.txt` · 1321 mots · archive de l'auteur*
+
+Fuis-moi je te suis, suis-moi je te fuis, l'article sur l'obsession amoureuse
+L’équipe
+Suis-moi je te… l’article sur l’obsession amoureuse, partie I
+Loin de chercher à collectionner les conquêtes, savoir séduire est le but essentiel de toute personne s’engageant dans une démarche d’apprentissage, ou de ré-apprentissage
+, de la séduction
+. Pour ce faire il convient de prendre conscience d’un travers dans lequel on peut facilement tomber : celui de l’
+idéalisation
+de cette fille. Les américains appellent ce phénomène le «
+one-itis
+» (« one » pour l’unique, celle-là et pas une autre, « itis » étant la terminaison de nombreux noms de maladies en anglais).
+Fuis moi je te suis, suis moi je te fuis
+… mais où cela mène-t-il ? Comment naît ce phénomène ? Pourquoi est-ce un piège ?
+L’effet papillon : la naissance de l’obsession amoureuse
+« Le battement d'ailes d'un papillon au Brésil peut-il provoquer une tornade au Texas ? »
+Lorenz
+Tout commence toujours par un rien. Et des riens, le monde en est plein : une démarche un peu chaloupée qui émeut, une chevelure délicatement agencée qui attendrit, un regard furtif qui interroge… Ou bien encore quelque chose de plus imperceptible, mais qu’on croit pourtant ressentir : une attirance irrationnelle, un élan passionné… Dans la séduction encore plus qu’ailleurs, ce sont les riens qui nous guident, mais qu’arrive-t-il si on se laisse porter par eux, sans entreprendre quoi que ce soit ? Arrive-t-on à ses fins ? Là s’arrête la romance, car les riens bien souvent ne mènent… à rien. Rien de concret s’entend, car l’imagination se fait fort de compenser ce qu’on n’ose et/ou ne sait faire et la romance se poursuit alors à l’intérieur d’un esprit où, jours après jours, mois après mois, elle s’éloigne de la réalité, l’y rendant par là même aveugle, et à laquelle toute confrontation directe devient un déchirement sincère et profond.
+Mais comment en arrive-t-on là ? A la base il faut un terreau propice, qu’une part de chacun d’entre nous possède et qui s’exprime avec plus ou moins de force : une tendance à tout vouloir comprendre avant de se lancer, une sacralisation un peu trop importante des femmes qui réfrène l’action, une peur assez floue
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette formation explore l'art de construire une relation amoureuse durable selon les frameworks de Stéphane Édouard. Construire une relation n'est pas une question de " techniques de séduction " mais de compréhension profonde des dynamiques hommes-femmes, d'intelligence relationnelle, et de discernement. Les 100 jours ne sont pas une formule magique — ils sont un cadre pour structurer l'approche et mesurer les progrès. L'objectif : construire une relation authentique plutôt que de chercher à " piéger " quelqu'un.
+
+---
+
+### Points clés
+
+- Construire une relation demande du temps, de la constance, et de la lucidité
+- L'intelligence relationnelle est la compétence centrale — comprendre comment les gens fonctionnent vraiment
+- Les comportements révèlent la vérité — les paroles sont toujours un tissu entre vérité et mensonge
+- La logique masculine (H pur) et la logique féminine (F) sont irréductibles — comprendre les deux est essentiel
+- L'homme doit prouver sa valeur, pas sa simple disponibilité
+- La femme cherche l'hypergamie — vers le haut dans la hiérarchie
+- La disponibilité au sens de "vacances" (avoir une vie propre) est le véritable attracteur
+- 75% des comportements visent l'intérêt économique — comprendre cela aide à naviguer les relations
+
+---
+
+### Concepts enseignés
+
+### L'intelligence relationnelle comme fondation
+L'intelligence relationnelle repose sur la compréhension de trois mécanismes fondamentaux :
+
+1. **La preuve sociale** : Les gens imitent ce que les autres font et pensent. Amplifié par les réseaux sociaux où les "likes" deviennent des validations. Ce mécanisme rend les gens facilement manipulables.
+
+2. **L'intérêt comme moteur** : 75% des comportements visent l'intérêt économique (survival, statut, ressources), 15-20% l'émotionnel/sexy, 5% le moral/symbolique. Cette répartition explique pourquoi les gens font ce qu'ils font — bien plus souvent que "par amour" ou "par principe".
+
+3. **Le charme comme manipulation** : Les gens charismatiques exploitent ces mécanismes pour obtenir ce qu'ils veulent. Le charme est un outil — son usage révèle les intentions.
+
+L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux.
+
+### La logique masculine et féminine
+L'homme структурирует (met en ordre, hiérarchise, prouve). La femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément avant de pouvoir les faire fonctionner ensemble.
+
+**Logique masculine (H pur)** : Projets, objectifs, résolution de problèmes, création de valeur. L'homme pense en termes de "et ensuite ?" Il évalue le potentiel, pas seulement l'actuel. Il cherche un partner qui ajoute à sa vie, pas qui en dépend.
+
+**Logique féminine (F)** : Connexions, émotions, présent, ressentis. La femme pense en termes de relation, pas de projet. Elle évalue le sentiment, pas le potentiel. Elle cherche une présence, pas une addition.
+
+### La pression sélective
+Les femmes disposent des propositions masculines et en évincent 80-90%. La sélection fonctionne à l'inverse de ce que disent les discours officiels (qui prétendent que ce sont les hommes qui choisissent). En réalité, les hommes proposent, les femmes trient.
+
+L'hypergamie féminine : Les femmes recherchent une hypergamie économique et physique — vers le haut dans la hiérarchie. Les hommes acceptent plus facilement des partenaires hypogames (vers le bas). Cette asymétrie structure les dynamiques relationnelles.
+
+### Le modèle Xanax (chaîne causale émotionnelle)
+```
+Multiples → Angoisses → Névrose → Anxiété
+```
+
+Comprendre cette chaîne permet de ne pas prendre les surfaces des comportements et de chercher les causes réelles. Les problèmes "simples" en apparence peuvent révéler des anxieties profondes.
+
+### La disponi
+
+### Exercices / Pratiques
+
+- **Développer son discernement** : Observer les comportements plutôt que les discours — c'est la base du discernement. Les actes révèlent la vérité.
+- **Identifier les motivations** : Utiliser la répartition 75/20/5 pour analyser les comportements. Dans 75% des cas, l'autre poursuit son intérêt — et c'est normal, pas "égoïste".
+- **Comprendre les deux logiques** : Avant de chercher à "construire une relation", comprendre comment les hommes et les femmes think differently. La relation ne fonctionne que si les deux logiques sont respectées.
+- **Évaluer sa propre valeur** : Où êtes-vous sur l'échelle Beauté + Intelligence + Disponibilité ? Que pouvez-vous améliorer ?
+- **Repérer les micro-signaux** : Les hésitations, les promesses non tenues, les retournements — autant de signaux faibles qui trahissent le mensonge ou la manipulation.
+- **Se préparer au "deuxième marché"** : Si vous sortez d'une longue relation, comprenez que le marché a changé. Les dynamiques modernes (Tinder, applications) sont différentes.
+
+---
+
+### Citations de Stéphane
+
+> "L'intelligence relationnelle, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux."
+
+> "L'intelligence, ça n'est ni le conformisme ni l'anticonformisme. C'est savoir juger à chaque instant dans chaque situation de ce qui est bon et de ce qui ne l'est pas."
+
+> "75% des comportements s'expliquent par l'intérêt économique, 15-20% par l'émotionnel/sexy, et 5% par le moral/symbolique."
+
+---
 
 ## Citations de l'auteur
 

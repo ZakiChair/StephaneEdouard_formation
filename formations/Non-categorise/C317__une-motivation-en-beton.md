@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 1
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -154,8 +155,19 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 
 ### La logique masculine face à l'absence de motivation — `La-logique-masculine-face-à-l'absence-de-motivation-synthese`
 
-*podcast · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
+*podcast / vidéoscopie · `La-logique-masculine-face-à-l'absence-de-motivation-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

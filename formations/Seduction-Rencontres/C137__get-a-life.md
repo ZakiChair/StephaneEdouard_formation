@@ -13,6 +13,7 @@ programme: 17
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 18
 citations: 0
 doublon_titre: oui
@@ -58,7 +59,9 @@ Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pa
 
 ### Synthèse TO_MMQ-vRS8 : Drag-queens VS maternelle — `Drag-queens-VS-maternelle-la-vérité-sortira-t-elle-de-la-bouche-de-ces-enfants-synthese`
 
-*podcast · `Drag-queens-VS-maternelle-la-vérité-sortira-t-elle-de-la-bouche-de-ces-enfants-synthese.md`*
+*podcast / vidéoscopie · `Drag-queens-VS-maternelle-la-vérité-sortira-t-elle-de-la-bouche-de-ces-enfants-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Impact de l'idéologie gender sur les enfants : L'auteur questionne l'introduction de drag queens auprès d'enfants et la clarification de genre auprès des maternelles.
 - Théorie des barbares appliquée aux drag queens : Les loisirs de l'élite qui descendent vers le peuple deviennent grotesques.
@@ -68,7 +71,9 @@ Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pa
 
 ### SYNTHESE - 1qsJG_wJPmY — `Smart-people-are-relational-jerks-synthese`
 
-*podcast · `Smart-people-are-relational-jerks-synthese.md`*
+*podcast / vidéoscopie · `Smart-people-are-relational-jerks-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'effet de mode du diagnostic HP : confondre symptômes et causes
 - Les psychologues sont des "boutiquiers" qui ont intérêt à vous garder
@@ -79,17 +84,21 @@ Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pa
 - "L'infirmière" qui pense pouvoir guérir les addictions par sa présence
 - Rien ne peut aider ceux qui ne veulent pas être aidés
 
+**Son verdict**
+
 > "La vraie question n'est pas 'suis-je HP?' mais 'est-ce que j'accepte la réalité telle qu'elle est?' — sinon tu es juste un orgueilleux qui refuse de voir."
 
 ### Synthèse : The Circus of "A-Gendered" Children on TV — `The-Circus-of-A-Gendered-Children-on-TV-synthese`
 
-*podcast · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
+*podcast / vidéoscopie · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – V5LTAoyeBGc — `The-Hell-of-Mental-Load-synthese`
 
-*podcast · `The-Hell-of-Mental-Load-synthese.md`*
+*podcast / vidéoscopie · `The-Hell-of-Mental-Load-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -104,6 +113,97 @@ Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pa
 *« Smart-people-are-relational-jerks-synthese.md » · origine : lien-declare*
 
 > L'effet de mode du diagnostic HP : confondre symptômes et causes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+A la manière de nos séminaires best-seller Être sexué 1 et Être sexué 2, dont le premier vous montre tout l’horizon des possibles et vous pousse à tous les dépasser, et dont le second décline les concepts du premier mais dans les contraintes du réel, Get a life est le meilleur moyen de : casser l’emprise que les… 
+
+Read More
+
+---
+
+### Points clés
+
+1. A la manière de nos séminaires best-seller Être sexué 1 et Être sexué 2, dont le premier vous montre tout l’horizon des possibles et vous pousse à tous les dépasser, et dont le second décline les concepts du premier mais dans les contraintes du réel, Get a life est le meilleur moyen de :
+
+
+
+casser l’emprise que les habitudes ont pris sur vous
+sortir de votre zone de confort
+vous faire un cercle so
+2. » pour tous ceux qui éprouvent la sensation de s’être arrêtés, rouillés, bornés dans leur vie, et qui veulent la remettre en marche
+3. UN RAPPEL POUR COMMENCER :
+Le recul de (près de) 20 ans a montré que la qualité et la vérité des analyses de Stéphane est toujours vérifiée
+Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pas justifié, développé, argumenté avec logique et intelligence, et c’est évidemment ce que nous ferons avec le sérieux et la qualité d’analyse habituelle, c'est à dire toute le contraire de
+4. &nbsp;
+
+
+
+
+
+
+
+
+
+
+Voir cette publication sur Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+Une publication partagée par Bas les masques 🎭 (@galansire)
+
+
+
+CONCRÈTEMENT
+
+Pensez à vos dernières semaines / mois /
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

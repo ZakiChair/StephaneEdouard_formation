@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 7
 citations: 0
 doublon_titre: oui
@@ -48,29 +49,36 @@ doublon_titre: oui
 
 ### Synthèse : L'Autodidacte - Moravia (lectures buissonnières) — `Cette-histoire-est-l'une-de-mes-préférées,-vas-tu-deviner-la-fin-synthese`
 
-*podcast · `Cette-histoire-est-l'une-de-mes-préférées,-vas-tu-deviner-la-fin-synthese.md`*
+*podcast / vidéoscopie · `Cette-histoire-est-l'une-de-mes-préférées,-vas-tu-deviner-la-fin-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Montrer son intérêt à un homme (2/2) — `Montrer-son-intérêt-à-un-homme,-pt.22-synthese`
 
-*podcast · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
+*podcast / vidéoscopie · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse 47jhynafWCc — `Video-47jhynafWCc-synthese`
 
-*podcast · `Video-47jhynafWCc-synthese.md`*
+*podcast / vidéoscopie · `Video-47jhynafWCc-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 - 5 ans après MeToo, la société demeure "très sexiste" selon le rapport
 
 ### Synthèse – VWOdU4c3R2o — `Video-VWOdU4c3R2o-synthese`
 
-*podcast · `Video-VWOdU4c3R2o-synthese.md`*
+*podcast / vidéoscopie · `Video-VWOdU4c3R2o-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video p1WU4JiuIzQ — p1WU4JiuIzQ — `Video-p1WU4JiuIzQ-synthese`
 
-*podcast · `Video-p1WU4JiuIzQ-synthese.md`*
+*podcast / vidéoscopie · `Video-p1WU4JiuIzQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
 - Le ressentiment comme mécanisme universel : Ce n'est pas une question de genre, mais une réaction humaine face à un sentiment d'insuffisance dans le présent.
@@ -91,6 +99,93 @@ doublon_titre: oui
 *« Video-p1WU4JiuIzQ-synthese.md » · origine : lien-declare*
 
 > Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Vous le savez probablement si vous êtes (au moins) un peu au courant de mes activités, j’avais été choisi par M6 pour faire partie d’un groupe d’experts dans le cadre d’une grande expérience de sciences-humaines mêlant psychologie et sociologie. Au total ce sont près de 1000 participants qui sont passés entre nos mains; après les premières inévitables éliminations, ce… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Vous le savez probablement si vous êtes (au moins) un peu au courant de mes activités, j’avais été choisi par M6 pour faire partie d’un groupe d’experts dans le cadre d’une grande expérience de sciences-humaines mêlant psychologie et sociologie
+2. Au total ce sont près de 1000 participants qui sont passés entre nos mains; après les premières inévitables éliminations, ce sont une centaine d’hommes et de femmes à qui j’ai pu faire passer les tests et questionnaires de mon choix (et je ne me suis pas privé
+3. ), sans compter les entretiens où je les ai floodé(e)s de questions sur leurs ex, les raisons de leurs séparations, leur critères de choix, la façon dont elles se percevaient, etc
+4. Certains d’entre vous voient déjà où je veux en venir… mais pour les autres :
+J’ai acquis une vision probablement inégalée des attentes de la femme de 20 à 40 ans d'aujourd’hui
+5. Vision que je souhaite vous « passer » sous la forme d’une journée spéciale en 2 parties
+6. PARTIE 1 : DÉCODER LES ATTENTES DES FEMMES (EN GÉNÉRAL)
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+Voir cette publication sur Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+Une publication partagée par L'Art et Cochon (@lart_et_cochon)
+
+
+
+Au croisement de la théorie et de l’expérience, cette journée vous donnera la vision la plus claire et la plus exhaustive disponible à ce jour sur les mystérieuses attentes féminines en termes 
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 8
 idees_forces: 26
 citations: 0
 doublon_titre: oui
@@ -32,7 +33,9 @@ confiance: 0.5
 
 ### SYNTHESE - 4rNQ8ps9RW0 — `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese`
 
-*podcast · `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md`*
+*podcast / vidéoscopie · `Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'empathie gauchiste est inversement proportionnelle à la proximité : elle se manifeste pour les inconnueque pour les proches.
 - La visite d'un atelier d'architecte déchu par la crise européenne (2008, euro, manque de compétitivité) ne suscite aucune réaction — mais les migrants sí.
@@ -43,16 +46,21 @@ confiance: 0.5
 - École des Hommes (intelligence relationnelle, empathie select)
 - Intelligence Sociale (analyse du gauchisme, biais d'empathie inversée)
 
+**Son verdict**
+
 > "L'incapacité à ressentir de l'empathie pour une famille devant ses yeux tout en en ayant à l'infini pour des gens lointains = maladie mentale."
 
 ### La chanteuse Pomme : potentiel magnifique ou esprit ZADiste ? — `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese`
 
-*podcast · `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
+*podcast / vidéoscopie · `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video p1WU4JiuIzQ — p1WU4JiuIzQ — `Video-p1WU4JiuIzQ-synthese`
 
-*podcast · `Video-p1WU4JiuIzQ-synthese.md`*
+*podcast / vidéoscopie · `Video-p1WU4JiuIzQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
 - Le ressentiment comme mécanisme universel : Ce n'est pas une question de genre, mais une réaction humaine face à un sentiment d'insuffisance dans le présent.
@@ -62,7 +70,9 @@ confiance: 0.5
 
 ### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
 
-*podcast · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+*podcast / vidéoscopie · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
 - L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
@@ -72,6 +82,8 @@ confiance: 0.5
 - L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
 - *Lien avec formations** :
 - École des Hommes (rapport au corps, dynamiques Hommes/Femmes)
+
+**Son verdict**
 
 > "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
 
@@ -94,6 +106,143 @@ confiance: 0.5
 *« Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md » · origine : lien-declare*
 
 > Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Seuls ? 3 conseils gratuits pour améliorer votre réseau, par Léo
+
+*`web-articles__seduction-debutants__12448_boostez-votre-reseau.html.txt` · 364 mots · archive de l'auteur*
+
+Debutants
+Seuls ? 3 conseils gratuits pour améliorer votre réseau, par Léo
+Ayant découvert au moment de l’installation que mon tout nouvel appareil photo numérique Canon G1X a toutes les qualités sauf celle d’avoir une entrée micro externe, nous avons dû revenir à l’ancienne caméra. Pour constater que l’entrée micro ne fonctionnait pas non plus. Bref, une après-midi de galère technique qui m’a fait regretter la simplicité du podcast audio.
+Bref, ne faites pas attention à la piètre qualité technique : écoutez les conseils de Léo pour booster votre réseau et souvenez-vous de la phrase de Jules Renard :
+« Un être seul est en mauvaise compagnie »
+Ps : vous pouvez aussi profiter des blancs pour admirer l’ampli-tuner avec lequel Loïc, notre dernier stagiaire en date (et pas le pire !) va repartir en cadeau ;)
+Vous préférez écouter seulement le son ? Vous avez bien raison, cliquez ici :
+L’audio des 2 vidéos >>
+Et vous, croyez-vous à la puissance du réseau ? Non, pas le réseau franc-maçon, le réseau en général. Dites-le en commentaire ci-dessous
+Sam
+28 mars 2013 à 0:17
+Puissance du réseau oui ! Depuis que je suis sorti de la fac, trouver un boulot est plutôt pas commode tout seul comme ça sans un peu de réseau, et les choses que j’ai pu trouver jusqu’à maintenant c’est justement grâce à un peu de réseau.
+Safari
+29 mars 2013 à 14:06
+Merci pour cette vidéo! je me suis reconnu dans pas mal de situations.
+C’est une bonne entrée en matière, et j’aime la façon dont les thèmes sont introduits avant d’être approfondis.
+Greg
+29 mars 2013 à 20:49
+Merci pour la vidéo ! Du tout bon ! Vivement la suite…
+Alfred
+30 mars 2013 à 8:39
+Le pullover sur la chemise, mais pas n’importe quelle chemise et pas n’importe quel pullover. Très élégant. Et la montre. Et la monture. Et le travail de barbier. Stephane est de plus en plus fort dans son style.
+créer son réseau
+croyances limitantes
+networking
+
+### 30 mars, intelligence sociale mod. II : gérer la solitude et sortir seul
+
+*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html.txt` · 1439 mots · archive de l'auteur*
+
+« And this loneliness won’t leave me alone »
+Otis Redding, S
+ittin’ on the dock of the bay
+Mon site a 7 ans, mais jamais n’a t-il eu l’âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu’il suffit de « just do it ».
+Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d’hommes, bien sûr, car pour les femmes c’est une toute autre sociologie) qu’il est
+impossible
+de pousser à faire des rencontres.
+Pourquoi certains n’y arrivent pas…
+… et n’y arriveront peut-être jamais
+Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
+Ils auront acquis la
+capacité
+à faire des rencontres, mais la plupart du temps ces rencontres n’auront pas lieu.
+La nuance est de taille et il est important de bien la comprendre sinon vous n’aurez rien compris
+: acquérir la capacité à faire des rencontres, ça n’entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
+Quel est alors l’élément manquant ? Car chercher le point commun (« pattern », diraient les anglo-saxons) à tous ces garçons c’est trouver la clé du problème.
+Et la clé du problème des rencontres se trouve à 90% du temps dans votre (in)capacité à sortir seul, autrement dit à gérer la solitude.
+La ville, c’est la solitude peuplée
+En théorie (je dis bien en théorie), chacun évolue au milieu d’un réseau de gens qui tous lui veulent du bien, l’un garantissant ses affaires, l’autre ses amours, untel aidant pour ceci et l’autre pour cela mais tous ayant la fiabilité d’une montre suisse et le désintéressement d’un héros de roman.
+C’est vrai, mais uniquement
+partiellement
+Car entre des moments (certes agréables) de la sorte, s’insèrent tout un tas d’autres – correspondant à des étapes-clés de la vie : déménagement, expatriation, ascension sociale, changement de cercle d’amis, etc. – qui se passent dans une partielle ou t
+
+### Commandez le séminaire &laquo;&nbsp;intelligence sociale mod. II : gérer la solitude et sortir seul&nbsp;&raquo;
+
+*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html?preview=1.txt` · 1676 mots · archive de l'auteur*
+
+Comment sortir seul ? Comment gérer la solitude ?
+Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
+Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
+Video:preview séminaire sortir seul pour rencontrer des femmes
+Référence :
+Intelligence sociale module 2
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+mettre en place les bonnes pratiques et développer l'état d'esprit permettant de faire des rencontres seul
+Durée totale :
+3h09mn
+Taille du fichier :
+182 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Intelligence sociale module 1
+Etre un leader
+Ecoutez des extraits gratuits
+Sortir seul - extrait 1
+[ 2:21 ]
+Sortir seul - extrait 2
+[ 1:44 ]
+Jamais ce site n'a eu l'âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu'il suffit de "just do it".
+Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d'hommes, bien sûr, car pour les femmes c'est une toute autre sociologie) qu'il est
+impossible
+de pousser à faire des rencontres.
+Pourquoi certains n'y arrivent pas…
+… et n'y arriveront peut-être jamais
+"And this loneliness won't leave me alone"
+Otis Redding, S
+ittin' on the dock of the bay
+Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
+Ils auront acquis la
+capacité
+à faire des rencontres, mais la plupart du temps ces rencontres n'auront pas lieu.
+La nuance est de taille et il est important de bien la comprendre sinon vous n'aurez rien compris
+: acquérir la capacité à faire des rencontres, ça n'entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
+Quel est alors l'élément manquant ? Car chercher le point com
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

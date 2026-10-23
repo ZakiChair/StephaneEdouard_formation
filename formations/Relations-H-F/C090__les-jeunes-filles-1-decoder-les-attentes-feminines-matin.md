@@ -13,6 +13,7 @@ programme: 2
 sections_annonce: 9
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 7
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -165,12 +166,15 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 
 ### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
 
-*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+*podcast / vidéoscopie · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Les “jeunes” avec #Hidalgo2022 ! 🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳 — tLRSQbAi6q4 — `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese`
 
-*podcast · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+*podcast / vidéoscopie · `Les-“jeunes”-avec-#Hidalgo2022-!-🏳️‍🌈🇪🇺🇩🇿🇲🇦🇹🇳-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'effet de communication : Hidalgo aurait changé de position sur le rassemblement de la gauche entre le matin et le soir de la même journée, suggérant une stratégie improvisée
 - La question du timing : L'analyse ironique des trois mois de campagne déjà écoulés sans percée notable
@@ -182,12 +186,15 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 
 ### Montrer son intérêt à un homme (2/2) — `Montrer-son-intérêt-à-un-homme,-pt.22-synthese`
 
-*podcast · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
+*podcast / vidéoscopie · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video p1WU4JiuIzQ — p1WU4JiuIzQ — `Video-p1WU4JiuIzQ-synthese`
 
-*podcast · `Video-p1WU4JiuIzQ-synthese.md`*
+*podcast / vidéoscopie · `Video-p1WU4JiuIzQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
 - Le ressentiment comme mécanisme universel : Ce n'est pas une question de genre, mais une réaction humaine face à un sentiment d'insuffisance dans le présent.
@@ -208,6 +215,122 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 *« Video-p1WU4JiuIzQ-synthese.md » · origine : lien-declare*
 
 > Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### A l&#8217;ombre des jeunes filles en fleur
+
+*`web-articles__211_a-lombre-des-jeunes-filles-en-fleur-2.html.txt` · 264 mots · archive de l'auteur*
+
+A l’ombre des jeunes filles en fleur
+Conseil séduction - Relooking homme
+A l’ombre des jeunes filles en fleur
+Savoir qu'on n'a plus rien à espérer n'empêche pas de continuer à attendre
+A l'ombre des jeunes filles en fleur,
+Marcel Proust
+Depuis quelques temps je vivais une retraite paisible à l’ombre des rayonnages de bibliothèques quand – la chair est faible – le bruit et la fureur commencèrent à me manquer. Le samedi qui suivit cette constatation, j’allai chercher le killer-costume qui dormait au pressing comme la cape de Bruce Wayne et fit le plein de mp3 de Cowboy Bebop dans mon baladeur. Quelques minutes plus tard, je me saoulais aux odeurs d’alcool dans les rayons parfums des grands magasins.
+A la manière des chambres d’hôtel dont la blanchisserie ne masque jamais le mélange âcre des odeurs (trop) humaines qui s’y sont succédées, les rayons parfumerie, derrière la bergamote et la vanille de synthèse, recèlent toujours la puanteur du troupeau. Sous-vêtements approximatifs pour les messieurs et toilettes intimes bâclées pour les dames, l’air chargé de sudation et des postillons de l’énervement, la nature humaine ne se digère que lorsqu’elle est consommée avec parcimonie et je filai par l’escalier de secours vers les étages supérieurs.
+Models in the mirror are uglier than they appear
+Relooking gratuit
+Charisme, aura : devenez un alpha (par Zoé, lectrice de Spi...
+Jeu : école de séduction, partie V et fin
+Le démon du bien
+
+### La discussion du dimanche soir : où partir en vacances pour rencontrer des filles ?
+
+*`web-actualite__13858_ou-aller-vacances-rencontres.html.txt` · 567 mots · archive de l'auteur*
+
+Bon, il ne faut pas se cacher derrière son petit doigt, beaucoup d’hommes célibataires choisissent leur lieu de vacances en fonction d’un paramètre devant tous les autres : les opportunités d’y
+rencontrer des femmes
+D’où, en ce dimanche soir ensoleillé et doux, la question de notre désormais célèbre
+discussion du dimanche
+: où ces opportunités de faire des rencontres sont-elles le plus nombreuses ?
+Articles liés
+La discussion du dimanche soir : le système bloque t-il les rencontres ?
+La discussion du dimanche soir : ce que les femmes regardent
+La discussion du dimanche soir : Meetup est-il le nouveau Meetic ?
+La discussion du dimanche soir : vivre du sincère avec une femme qui vit de son corps ?
+La discussion du dimanche soir : que feriez-vous sans contraintes financières ?
+Safari
+30 juin 2013 à 23:31
+Pour les jeunes adultes, n’importe quelle auberge de jeunesse du monde située dans une capitale ou grosse ville branchée doit suffire. Même tout seul on peut y faire des merveilles.
+Pour les autres, je dirais que les endroits relativement haut de gamme avec Spa, massages, etc. sont des bonnes options. Pas mal de femmes aiment s’y reposer et s’occuper d’elles. Seules je ne sais pas, mais entre amies, oui.
+Mais bon, je suppose qu’il est implicite dans la question qu’on ne doit pas choisir ses vacances uniquement en fonction de ce paramètre…
+Hayabusa
+1 juillet 2013 à 16:00
+Je lis « rencontrer des femmes » et j’entends « baiser le plus possible », dans ce cas le retour sur investissement (en argent mais surtout en temps précieux de congés) est clairement négatif.
+Si on a faim on peut passer une semaine dans des maisons closes d’Amsterdam, se vider l’esprit et les couilles puis partir serein vers un lieu de vacances qui a un sens pour nous.
+Michael
+2 juillet 2013 à 16:23
+Tout dépend de ce que l’on cherche. A priori les femmes qui t’intéressent sont dans les endroits qui t’intéressent. Ça marche dans la vie de tous les jours et aussi pour les vacances.
+Nicolas
+3 juillet 2013 à 18:13
+Salut Spike,
+J’ai envie de dire peu importe car les femmes sont partout (les coquines !)
+Il m’est arrivé (à 16 ans, ca remonte à loin) de partir dans le lubéron, le perche ou n’importe quel e
+
+### [Updaté] Décodez les citations philos des filles sur Instagram! | Spike S&eacute;duction
+
+*`web-articles__20914_traduction-citations-facebook-instagram.html.txt` · 799 mots · archive de l'auteur*
+
+– Dernière m.a.j: 7 septembre 015 –
+Si vous avez une vie sociale, alors vous avez installé Facebook et/ou instagram sur vos petites tablettes, téléphones ou, pour les plus anciens, ordinateurs.
+Et si vous avez des amies filles, alors vous voyez, à intervalles réguliers, apparaître ce genre de message, en fonte bigarrée, sans source identifiée (auteur), et publiée sans autre forme d’explication, comme s’ils se suffisaient à eux-mêmes.
+Jusqu’à présent, vous n’aviez pas la moindre idée de ce qu’ils pouvaient signifier. Ce sera désormais chose faite avec notre
+traducteur de wishfulthinking féminin
+Comprendre les messages philosophiques des filles sur Facegram et Instabook
+1 – #gratitude
+2 – #jepositive
+3 – #commejesuis
+4 – #ambition
+5 – #devouement
+6 – #happy
+7 – #glandercamarchepas
+8 – #jesuiscommejesuis
+1. #gratitude etc.
+Âge probable au moment de la publication: 30-50
+Statut: en couple / récemment séparée
+Je réalise soudain que ma existence s’appuie quand même beaucoup sur les autres et ce qu’ils me procurent depuis des années (affection, attention, vacances, amitiés plus ou moins qualifiées, dons et services variés). Dans l’impossibilité pratique de leur renvoyer l’ascenseur individuellement, et afin de solder cette
+dette morale
+, je colle une étiquette sur mon mur où le mot
+GRATITUDE
+figure en bonne place, et en lettres capitales. Ca fait du bien, de ne pas être ingrat.
+2. #jepositive etc.
+Âge probable au moment de la publication: >40
+Statut: célibataire
+J’ai « tant souffert » dans la vie (Cf. idéologie de la souffrance) que désormais, je m’octroie le droit de ne plus lire/voir/entendre que des histoires anecdotiques, sociétales, légères et sans conséquences, basées généralement sur la beauté, l’amitié et les sentiments amoureux, à l’exclusion de tout message ou idée me forçant à voir le monde dans sa complexité duale.
+Cf
+Girls just want to have fun
+3 – #commejesuis
+Âge probable au moment de la publication: 20-30
+Statut: relations multiples
+J’ai parfaitement conscience d’être une femme-enfant instable, immature, illogique et de ne pas toujours me comprendre moi-même. Ca ne doit pas être facile à vivre pour les autres. Surtout pour les hommes qui ont partagé ma 
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

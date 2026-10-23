@@ -13,6 +13,7 @@ programme: 13
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 2
 idees_forces: 18
 citations: 2
 doublon_titre: oui
@@ -71,7 +72,9 @@ Ce séminaire n’est **pas** un cours d’orthographe, pas plus que de gramma
 
 ### SYNTHESE - 1gpHfNf76g0 — `Baby-metisse-et-tweets-fétichisant-synthese`
 
-*podcast · `Baby-metisse-et-tweets-fétichisant-synthese.md`*
+*podcast / vidéoscopie · `Baby-metisse-et-tweets-fétichisant-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le colorisme valorise les enfants métisses qui ressemblent aux blancs
 - Le mélange des termes (mulâtre, béquet, métis) révèle une confusion culturelle
@@ -82,16 +85,21 @@ Ce séminaire n’est **pas** un cours d’orthographe, pas plus que de gramma
 - Critiques de la stratégie de comunication de France Télévisions avec Brut
 - *Lien avec formations** :
 
+**Son verdict**
+
 > "Le problème n'est pas le mélange des races mais le mélange des genres de discours — et personne ne semble prêt à assumer cette DISCUSSION."
 
 ### Synthèse : Vidéoscopie courte - Alessandra Sublet et la sororité de parole — `Video-2bkLG8D_VJs-synthese`
 
-*podcast · `Video-2bkLG8D_VJs-synthese.md`*
+*podcast / vidéoscopie · `Video-2bkLG8D_VJs-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video y4PKeEdGQ6w — y4PKeEdGQ6w — `Video-y4PKeEdGQ6w-synthese`
 
-*podcast · `Video-y4PKeEdGQ6w-synthese.md`*
+*podcast / vidéoscopie · `Video-y4PKeEdGQ6w-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
 - Échec demographic: l'âge moyen du spectateur est passé de 58 à 64 ans, soit une progression de 6 ans vers le contrade
@@ -113,6 +121,88 @@ Ce séminaire n’est **pas** un cours d’orthographe, pas plus que de gramma
 *« Video-y4PKeEdGQ6w-synthese.md » · origine : lien-declare*
 
 > Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### 12 mars, découvrez toutes les techniques de séduction à l&#8217;écrit (inédit !)
+
+*`web-actualite__5448_techniques-seduction-ecrit.html.txt` · 1328 mots · archive de l'auteur*
+
+12 mars, découvrez toutes les techniques de séduct (...)
+12 mars, découvrez toutes les techniques de séduction à l’écrit (inédit !)
+La dernière journée de séminaire a donné lieu une journée passionnante dans une salle comble (plus une seule chaise de libre) à des témoignages dithyrambiques (
+consultables sur le forum
+) et ce sera sans doute encore le cas le 12 mars prochain avec un thème (toujours) inédit : toutes les techniques pour convaincre et
+séduire à l’écrit
+Problématique
+Je sais que vous n’y avez jamais pensé. Je sais bien. Mais réfléchissez avec moi : sur une journée de, disons, 12h, combien passez-vous de temps à séduire de vive voix ? 3 minutes votre voisine de bus (et encore, pas tous les jours, vous voyez ce que je veux dire…), 10 minutes votre collègue Clémentine à la cantine (idem) et 15 (je suis généreux) le soir dans le pub du coin. Au final, moins de 30 minutes dans une journée ordinaire. Et encore.
+En comparaison, combien de temps passez-vous à séduire (au sens large, c’est à dire
+convaincre
+) à l’écrit ?
+Par jour, c’est en moyenne :
+1h
+sur Facebook
+(moyenne nationale). Et n’essayez pas de me dire que c’est pour autre chose qu’impressionner les files de votre réseau… (et accessoirement en rencontrer d’autres)
+encore 1h ou presque pour ceux d’entre vous qui utilisent les sites de rencontre (temps notamment passé en « tchat », où vos capacités de
+séduire à l’écrit
+déterminent à elles seules la décision de la jeune fille d’accepter – ou pas – un rendez-vous)
+plusieurs heures par email à convaincre vos
+collègues de bureau
+du bien-fondé de vos décisions. Vous connaissez la fameuse dialectique du savoir- faire
+vs
+le faire-savoir ? Et comment fait-on savoir à notre époque à votre avis ? Au travers des multiples écrits qui jalonnent votre journée, et qui peuvent être une purge… ou un plaisir
+plusieurs nuits (certes plus rarement) à rédiger les exposés, mémoires, projets et autres rapports dont dépendront vos évaluations, qu’elles soient scolaires ou professionnelles
+sans parler des mails à la fille qui occupe vos pensées nuit et jour, des textos (plusieurs dizaines par jour) où la contrainte de place (nombre de mots limités) vient s’ajouter à la contr
+
+### 12 mars, découvrez toutes les techniques de séduction à l&rsquo;écrit
+
+*`web-actualite__5448_techniques-seduction-ecrit.html?preview=1.txt` · 1130 mots · archive de l'auteur*
+
+Toutes les techniques de séduction à l'écrit
+12 mars, découvrez toutes les techniques de séduction à l’écrit
+12 mars, découvrez toutes les techniques de séduction à l’écrit
+Video:preview séminaire séduire à l'écrit
+Référence :
+techniques de séduction à l'écrit
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+maîtriser l'utilisation des techniques orales et de visualisation pour séduire et convaincre son interlocuteur à l'écrit
+Durée totale :
+2h56mn
+Taille du fichier :
+170 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant II
+Devenez intéressant I
+La dernière journée de séminaire a donné lieu une journée passionnante dans une salle comble (plus une seule chaise de libre) à des témoignages dithyrambiques (
+consultables sur le forum
+) et ce sera sans doute encore le cas le 12 mars prochain avec un thème (toujours) inédit : toutes les techniques pour convaincre et
+séduire à l'écrit
+Problématique
+Je sais que vous n'y avez jamais pensé. Je sais bien. Mais réfléchissez avec moi : sur une journée de, disons, 12h, combien passez-vous de temps à séduire de vive voix ? 3 minutes votre voisine de bus (et encore, pas tous les jours, vous voyez ce que je veux dire…), 10 minutes votre collègue Clémentine à la cantine (idem) et 15 (je suis généreux) le soir dans le pub du coin. Au final, moins de 30 minutes dans une journée ordinaire. Et encore.
+En comparaison, combien de temps passez-vous à séduire (au sens large, c'est à dire
+convaincre
+) à l'écrit ?
+Par jour, c'est en moyenne :
+1h
+sur Facebook
+(moyenne nationale). Et n'essayez pas de me dire que c'est pour autre chose qu'impressionner les files de votre réseau… (et accessoirement en rencontrer d'autres)
+encore 1h ou presque pour ceux d'entre vous qui utilisent les sites de rencontre (temps notamment passé en "tchat", où vos capacités de
+séduire à l'écrit
+déterminent à elles seules la décision de la jeune fille d'accepter - ou pas - un rendez-vous)
+plusieurs heures par email à convaincre vos
+collègues de bureau
+du bien-fondé de vos décisions. Vous con
 
 ## Citations de l'auteur
 

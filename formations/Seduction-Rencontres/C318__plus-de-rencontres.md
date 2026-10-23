@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 2
 points_annonce: 4
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 2
 citations: 0
 doublon_titre: oui
@@ -76,20 +77,24 @@ Des astuces tirées de la pratique, c’est l’objet de ce deuxième séminaire
 
 ### Synthèse : Calin-o-thérapie — _62qQTwB-1s — `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese`
 
-*podcast · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
+*podcast / vidéoscopie · `Calin-o-thérapie-le-stage-où-les-perdants-de-la-modernité-se-réconfortent-entre-eux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse 47jhynafWCc — `Video-47jhynafWCc-synthese`
 
-*podcast · `Video-47jhynafWCc-synthese.md`*
+*podcast / vidéoscopie · `Video-47jhynafWCc-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 - 5 ans après MeToo, la société demeure "très sexiste" selon le rapport
 
 ### Synthèse : IA et conseils conjugaux — YviGf37I_JI — `Video-YviGf37I_JI-synthese`
 
-*podcast · `Video-YviGf37I_JI-synthese.md`*
+*podcast / vidéoscopie · `Video-YviGf37I_JI-synthese.md`*
 
+**Son verdict**
 
 > "Ce qui sort ? Un truc de konk"
 
@@ -100,6 +105,22 @@ Des astuces tirées de la pratique, c’est l’objet de ce deuxième séminaire
 *« Video-47jhynafWCc-synthese.md » · origine : lien-declare*
 
 > 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+### Le marché des rencontres
+- Première étape : libéralisation (droit de cuissage aboli).
+- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
+
+### Analyse des participants
+- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
+
+### Twk5FXQKdeM-synthese
+# Synthèse Twk5FXQKdeM : Sérotonine, Houellebecq et barbares
 
 ---
 

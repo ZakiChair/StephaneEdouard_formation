@@ -13,6 +13,7 @@ programme: 13
 sections_annonce: 7
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 1
 idees_forces: 9
 citations: 0
 doublon_titre: oui
@@ -84,12 +85,15 @@ Leur existence n’étant plus en cause, la vraie question (qui vaut triple) dev
 
 ### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
 
-*podcast · `L'intelligence-relationnelle-1-synthese.md`*
+*podcast / vidéoscopie · `L'intelligence-relationnelle-1-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – JOfi_gBD9OI — `Video-JOfi_gBD9OI-synthese`
 
-*podcast · `Video-JOfi_gBD9OI-synthese.md`*
+*podcast / vidéoscopie · `Video-JOfi_gBD9OI-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'intelligence = capacité de synthèse : À l'inverse du « flow » de pensées incontrôlables, qui serait plutôt signe d'un QI limité. L'intelligence structurée l'emporte sur le débit anarchique.
 - Déconstruction du mythe HPI : Le haut potentiel ne se Diagnostique pas par le simple fait d'avoir « la tête qui explosionne » — symptôme commun à de nombreuses configurations psychologiques.
@@ -98,7 +102,9 @@ Leur existence n’étant plus en cause, la vraie question (qui vaut triple) dev
 
 ### Synthèse – JS6GuJawMEs — `Video-JS6GuJawMEs-synthese`
 
-*podcast · `Video-JS6GuJawMEs-synthese.md`*
+*podcast / vidéoscopie · `Video-JS6GuJawMEs-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Anatomie d'un scam : Une femme est contactée par quelqu'un se faisant passer pour Brad Pitt, menant à une relation fictive ayant entraîné des versements de plusieurs centaines de milliers d'euros.
 - Critique de l'analyse médiatique : Les commentateurs ont soutenu la victime sanskritique et morale. Stéphane y voit une forme deendocrination : la femme s'est réellement attachée émotionnellement.
@@ -119,6 +125,117 @@ Leur existence n’étant plus en cause, la vraie question (qui vaut triple) dev
 *« Video-JS6GuJawMEs-synthese.md » · origine : lien-declare*
 
 > Anatomie d'un scam : Une femme est contactée par quelqu'un se faisant passer pour Brad Pitt, menant à une relation fictive ayant entraîné des versements de plusieurs centaines de milliers d'euros.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire Manipulation II : obtenez ce que vous voulez
+
+*`web-actualite__16617_manipulation-ii-obtenez-ce-que-vous-voulez.html?preview=1.txt` · 1211 mots · archive de l'auteur*
+
+Référence :
+manipulation 2
+Déroulement :
+26 avril 2014
+Enregistré :
+oui
+Prérequis :
+Objectifs :
+utiliser les techniques de manipulation et les failles psychologiques dans le but d’obtenir ce que l’on désire
+Durée totale :
+journée
+Tarif :
+à partir de 75euros dans les commandes groupées et (nouveau) en fonction de la date de réservation
+Séminaires complémentaires recommandés :
+manipulation 1 (sachez qui vous ment), devenez un tueur en négociation
+Ecoutez des extraits
+Manipulation2 - extrait 1
+[ 6:08 ]
+Manipulation2 - extrait 2
+[ 5:03 ]
+Manipulation2 - extrait 3
+[ 5:32 ]
+Manipulation = sujet complexe…
+… raison de plus d’être clair dès le début
+A proprement parler, et en dépit de ce qu’en diront toujours quelques aigri(e)s, la séduction n’est pas la manipulation. Il est tout à fait possible (et même souhaitable) de rencontrer, de plaire à quelqu’un et de le/la revoir avec, pour toute technique de persuasion, ses propres qualités ! (à l’unique condition de savoir en faire étalage avec discernement, sans les masquer sous une épaisse couche de timidité). C’est comme ça, c’est un fait. Et c’est tant mieux.
+Mais ce qui est aussi un fait – et pas des moindres -, c’est que la relation humaine (dans son essence) contient de la manipulation, c’est à dire des moyens (pas toujours conscients ni cohérents) mais fonctionnels d’infléchir la position d’autrui en sa faveur. Ca aussi, c’est un fait !
+Par « fonctionnel », j’entends que -
+1- ça existe et -
+2- ça fonctionne
+Et donc -
+3- vous devez les connaître, p
+arce que sinon -
+4- vous êtes de facto handicapé.
+Voulez-vous être handicapé socialement ?
+S vous ne comprenez rien à la manipulation, si vous n’y voyez que du feu, si vous ne savez présenter vos faits et vos opinions et vos actions de manière intelligente (intelligence sociale et émotionnelle avant tout) pour maximiser vos chances, vous êtes de facto handicapé socialement. C’est ce que vous voulez ? Si vous répondez « oui » à cette question, pas la peine de passer à la suite ;)
+Après la première « brique » du mur manipulation (
+détectez les mensonges et devenez celui à qui on ne la fait pas
+), démarrons les choses sérieuses avec, ce
+samedi 26 avril, manipulation II : obtenez
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Soyons clair d'emblée S vous ne comprenez rien à la manipulation, si vous « n’y voyez que du feu », si vous ne savez pas présenter vos faits et vos opinions et vos actions de manière convaincante (intelligence sociale et émotionnelle avant tout) pour maximiser vos chances … alors vous êtes de facto handicapé socialement. C’est ce… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Soyons clair d'emblée
+
+S vous ne comprenez rien à la manipulation,
+si vous « n’y voyez que du feu »,
+si vous ne savez pas présenter vos faits et vos opinions et vos actions de manière convaincante (intelligence sociale et émotionnelle avant tout) pour maximiser vos chances
+
+… alors vous êtes de facto handicapé socialement
+2. Si vous répondez « oui » à cette question, pas la peine de passer à la suite
+3. Après la première brique du mur manipulation (détectez les mensonges et devenez celui à qui on ne la fait pas), passons aux choses sérieuses
+4. INTERLUDE
+Remarque aux lectrices qui auraient subitement envie de me lyncher
+et qui assimileraient un peu trop vite la manipulation à un « crime contre l’humanité »
+
+Je peux démontrer en 3 minutes, par une argumentation sérieuse et irréfutable, que les femmes manipulent bien plus que les hommes,
+100 % du contenu de ce séminaire est légal, il a été relu à la loupe par un juriste,
+et le maquillage d
+5. LA PROBLÉMATIQUE, CLARIFIÉE
+Les êtres disposant d’un libre arbitre absolu, détachés de toute contingence extérieure, vous en connaissez combien
+6. Leur existence n’étant plus en cause, la vraie question (qui vaut triple) devient donc :
+Qui les connaît, qui les enseigne, et à qui
+
+
+---
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+- Détection du mensonge
+- Techniques de manipulation
+- Protection émotionnelle
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

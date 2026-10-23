@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 5
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -54,12 +55,15 @@ Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longe
 
 ### Synthèse – WYig06HnKxU — `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese`
 
-*podcast · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
+*podcast / vidéoscopie · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse — Vidéo OLTCxNN7xmA — `Jack-Lang-CRUCIFIÉ-par-S.Mabrouk-sur-Eur1-je-compte-les-points-synthese`
 
-*podcast · `Jack-Lang-CRUCIFIÉ-par-S.Mabrouk-sur-Eur1-je-compte-les-points-synthese.md`*
+*podcast / vidéoscopie · `Jack-Lang-CRUCIFIÉ-par-S.Mabrouk-sur-Eur1-je-compte-les-points-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Mensonge 1 : qualification des attouchements sur enfants comme "un accomplissement" — terme délibérément pervers.
 - Évasive : Jack Langnie connaît pas ces milieux, n'a rien entendu — alors qu'il était connected à l'intelligentsia parisienne depuis 40 ans.
@@ -69,17 +73,21 @@ Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longe
 
 ### L'intelligence relationnelle (2ème partie) — `L'intelligence-relationnelle-2-synthese`
 
-*podcast · `L'intelligence-relationnelle-2-synthese.md`*
+*podcast / vidéoscopie · `L'intelligence-relationnelle-2-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – Vmxvq15Alh0 — `Video-Vmxvq15Alh0-synthese`
 
-*podcast · `Video-Vmxvq15Alh0-synthese.md`*
+*podcast / vidéoscopie · `Video-Vmxvq15Alh0-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video tT1o01TRJZM — tT1o01TRJZM — `Video-tT1o01TRJZM-synthese`
 
-*podcast · `Video-tT1o01TRJZM-synthese.md`*
+*podcast / vidéoscopie · `Video-tT1o01TRJZM-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La règle de non-répétition : Édouard refuse de remettre sur le devant de la scène les mêmes personnages moqués (Swan Périssé, Camille et Justine, etc.) par analogie avec ceux qui « retournent chez leur ex ». Pour lui, taper fort mais une seule fois suffit.
 - Le rappel du contexte expérimental : Il précise sa position — « aujourd'hui en Occident » — en soulignant qu'il ne nie aucunement les difficultés des femmes ailleurs (Pakistan) ou à d'autres époques.
@@ -102,6 +110,172 @@ Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longe
 *« Video-tT1o01TRJZM-synthese.md » · origine : lien-declare*
 
 > La règle de non-répétition : Édouard refuse de remettre sur le devant de la scène les mêmes personnages moqués (Swan Périssé, Camille et Justine, etc.) par analogie avec ceux qui « retournent chez leur ex ». Pour lui, taper fort mais une seule fois suffit.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Séminaire 12 mai : &laquo;&nbsp;Manipulation, I&nbsp;&raquo; : qui vous ment (et comment)
+
+*`web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html.txt` · 1361 mots · archive de l'auteur*
+
+Séminaire 12 mai : « Manipulation, I » :
+qui vous ment (et comment)
+Séminaire 12 mai : « Manipulation, I » :
+qui vous ment (et comment)
+Traduction :
+Les gens sont de tels menteurs.
+Regardez cette courte vidéo :
+Ca vous dit quelque chose ? Normalement, oui ; cette série, diffusée sur la Fox jusqu’à janvier dernier, a atterri en Français sur m6 et donné lieu à une multitude de livres sur l’art de détecter les mensonges cachés dans les clignements de paupière et les mouvements de lèvres. Je les ai lus, certains sont pertinents, beaucoup ne sont que des redites destinées à permettre à l’auteur de dire partout (waooou, j’ai été publié), mais cela m’a tout de même donné l’occasion de tirer une conclusion.
+Problématique
+A la base du développement personnel, il y a la volonté d’investir sur soi
+Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
+Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…)
+discernement
+Définition : (du latin discernere, « séparer, distinguer ») : opération de l’esprit par laquelle on analyse et distingue les notions, les objets de pensée. Le discernement situe les choses les unes par rapport aux autres, élimine la confusion,
+sépare le vrai du faux
+Ce séminaire,
+premier épisode d’une série consacré à la manipulation et aux moyens de la déjouer
+, aurait pu s’intituler « séminaire sur le discernement ». Trop elliptique, on aurait pu croire à une blague. Et puis ça ne faisait pas état de la place importante qui sera faite aux applications pratiques. Qui vous ment (et comment), voilà les thèmes de ce séminaire
+Qui vous ment (et comment)
+Une (au moins) personne de votre entourage proche, très proche, vous ment. Ces personnes peuvent se cacher parmi vos amis (les amis d’enfance ne sont pas épargnés, ni vos proches, et encore moins vos parents).
+Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longeant ce grand monument parisien qui borde l’hôtel pour rejoindre votre voiture, votre bus, votre métro ou votre train, vous soyez en mesure d’affirmer avec certitude l’identité de cette personne. Et aurez en bonus des pistes pour identifier la meilleure maniè
+
+### Application du séminaire Manipulation I : qui vous ment ?
+
+*`web-actualite__12553_qui-vous-ment-exemple.html.txt` · 1420 mots · archive de l'auteur*
+
+Application du séminaire
+Manipulation I
+: qui vous ment ?
+Application du séminaire
+Manipulation I
+: qui vous ment ?
+Il y a quelques mois j’ai donné le premier séminaire de la nouvelle thématique « manipulation », avec pour motto qu’il était plus que primordial de
+savoir qui vous mentait (et comment)
+Hier, il s’est passé ce que vous savez : un ministre du gouvernement a avoué qu’il avait tenté de prendre tout le monde pour des citrons. L’objet de ce site n’est pas de parler politique mais quand même je ne peux résister à la tentation d’une application pratique : qu’est-ce qui, dans cette vidéo où il s’affirmait blanc comme neige, laissait déjà voir que c’était un menteur ?
+Encore une fois, inutile de déposer des commentaires à tendance politique gauche vs droite ou droite vs gauche, ils seront systématiquement effacés.
+Ce sont les sciences humaines qui nous intéressent
+Ceux qui ont suivi le séminaire seront effarés de voir à quel point j’avais raison (désolé de dire la vérité même si ça me fait passer pour un type aux chevilles enflées la preuve est là).
+Et pour ceux qui voudraient acquérir ce genre de « superpouvoir » et arrêter de se faire prendre pour un con, c’est dans ce fameux séminaire :
+Qui vous ment
+(et comment ?)
+Crédit photo : sudouest.fr
+12
+Adrien
+3 avril 2013 à 12:20
+Voici selon moi le moment où le fond de teint du mensonge commence à couler. Aphatie lui parle d’une conversation qu’il aurait eue avec un agent d’affaires sur son compte en Suisse. Il ne la niera pas fermement. Il restera dans le vague, le général « c’est une plaisanterie », « à aucun moment je n’ai eu à rencontrer des gens comme cela ». Afin d’éviter de répondre précisément oui ou non, il discute des détails de vocabulaire. De plus on note l’apparition des clignements de paupières plus appuyés et fréquents à ce moment de l’entrevue, ses traits du visage se crispent.
+« Tout ce qui n’est pas nié, partez du principe que ça a toutes les chances d’être vraies. » Spike
+Mais la justice définira précisément ce qu’il en est…
+P.-S. : D’autres indices de mensonge cités dans le séminaire y sont également présents.
+Kais
+3 avril 2013 à 12:27
+A 43 secondes, il regarde en haut à gauche, hemisphere dro
+
+
+- Il propose des justifications pour un point mineur (son appartement) des accusations pour détourner l’attention de l’essentiel (son compte en Suisse)
+- Il se dit accusé injustement comme beaucoup d’autre et est donc en position de victime
+- Il répond vaguement (sur son déplacement en Suisse), beaucoup trop de « peut-être » et « il se peut ».
+- Il attaque ses accusateurs sur le plan personnel (l’inspecteur du fisc)
+- Il rejette la possibilité même que cela soit vrai en qualifiant l’affaire de plaisanterie
+- il sourit alors que le reste du visage exprime autre chose (dissymétrie). Tres visible a 00:14, mais il le refait pendant toute l’interview.
+- il regarde plusieurs fois vers ce qui doit être la sortie: 00:46, 07:24
+- il est statique tout le long de l ‘entretien. Devant de telles accusations, il pourrait s’agiter dans tous les sens
+- il répète souvent la même chose, quand a sa maison par exemple, en utilisant les mêmes mots / expressions
+- il est hésitant des que les questions portent précisément sur son compte.
+
+### Résultats du jeu &laquo;&nbsp;manipulation : qui vous ment&nbsp;&raquo;
+
+*`web-actualite__12744_qui-vous-ment-resultats-du-jeu.html.txt` · 559 mots · archive de l'auteur*
+
+Résultats du jeu « manipulation : qui vous ment »
+Résultats du jeu « manipulation : qui vous ment »
+Il y a quelques jours à l’occasion de
+l’affaire Cahuzac
+je vous donnais l’occasion de mettre en pratique les enseignements du séminaire
+manipulation mod. 1 : qui vous ment
+. Ce séminaire, qui aura bientôt une suite (
+« Manipulation mod.2 : faites une offre qu’on ne pourra refuser »
+), a pour objet d’apprendre à « lire le vrai » dans les paroles des gens, ce qui est une condition première avant d’essayer de leur proposer quoi que ce soit : tour (tenter de) manipuler, encore faut-il ne pas se laisser manipuler soi-même sinon vous n’avez pas bougé du point de départ. Bref, les résultats du jeu :
+Comment détecter les mensonges de Cahuzac
+Pour faire simple et bref, 3 points principaux permettaient – sinon d’assurer à 100% qu’il mentait – du moins d’avoir une forte et sérieuse suspicion :
+L’antinomie expression-action
+: ses mimiques de visage – à commencer par son sourire, qu’il arbore fréquemment dans l’interview tout en étant gêné de le faire – ne sont pas cohérentes avec son discours. En clair, il dit non pendant que son corps lui dit oui
+La
+distanciation
+: les actes reprochés (coup de téléphone, etc) et les personnes incriminées sont évoquées avec distance et une once de mépris.
+La
+réaction systématique
+: un être sincère peut rarement reproduire plusieurs fois d’affilée la même réaction d’étonnement. Regardez celle de Cahuzac : il enchaîne et c’est toujours exactement le même.
+Il y avait d’autres signes mais je n’ai noté là que les 3 principaux.
+En revanche, j’ai la très nette impression (arguments à l’appui) que la partie émergée de l’iceberg n’a pas encore vu le jour et que ses aveux (dont je n’arrive d’ailleurs pas à trouver la vidéo, si quelqu’un peut m’aider en commentaire merci) ne sont que très partiels.
+Et vous ?
+Pour ne plus vous faire berner :
+apprenez à détecter les mensonges >>
+Sam
+15 avril 2013 à 10:46
+Il a avoué aux juges et sur un texte écrit sur son blog mais pas devant une caméra, y’a pas de vidéo de ses aveux.
+Thee
+15 avril 2013 à 11:13
+Il y avait aussi la répétition d’une même phrase mot pour mot, et l’évitement de la négation directe.
+BldTlSwtTrs
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+A la base du développement personnel, il y a la volonté d'investir sur soi Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser) Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…) discernement Définition : (du latin discernere, « séparer,… 
+
+Read More
+
+---
+
+### Points clés
+
+1. A la base du développement personnel, il y a la volonté d'investir sur soi
+Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
+Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…) discernement
+
+Définition : (du latin discernere, « séparer, distinguer ») : opération de l'esprit par laquelle on analyse et distingue
+2. Le discernement situe les choses les unes par rapport aux autres, élimine la confusion, sépare le vrai du faux
+3. Ce séminaire, premier épisode d'une série consacré à la manipulation et aux moyens de la déjouer, aurait pu s'intituler « séminaire sur le discernement »
+4. Et puis ça ne faisait pas état de la place importante qui sera faite aux applications pratiques
+5. Qui vous ment (et comment), voilà les thèmes de ce séminaire
+QUI VOUS MENT (ET COMMENT)
+Une (au moins) personne de votre entourage proche, très proche, vous ment
+6. Ces personnes peuvent se cacher parmi vos amis (les amis d'enfance ne sont pas épargnés, ni vos proches, et encore moins vos parents)
+7. Je m'engage personnellement à ce qu'à l'issue de ce séminaire, en longeant ce grand monument parisien qui borde l'hôtel pour rejoindre votre voiture, votre bus, votre métro ou votre train, vous soyez en mesure d'affirmer avec certitude l'identité de cette personne
+8. Et aurez en bonus des pistes pour identifier la meilleure manière de réagir
+
+
+---
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+- Détection du mensonge
+- Techniques de manipulation
+- Protection émotionnelle
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

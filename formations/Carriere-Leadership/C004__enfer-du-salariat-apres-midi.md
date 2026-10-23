@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 3
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -112,12 +113,15 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 
 ### Ces podcasts "féministes" engageaient des femmes... pour ne pas les payer 👌 — `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese`
 
-*podcast · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
+*podcast / vidéoscopie · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-*podcast · `Video-u8r9BLSx7UU-synthese.md`*
+*podcast / vidéoscopie · `Video-u8r9BLSx7UU-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 - Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.

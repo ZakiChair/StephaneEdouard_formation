@@ -13,6 +13,7 @@ programme: 16
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: non
@@ -57,28 +58,57 @@ confiance: 0.67
 
 ### Gaslighting : cette drôle manière d'abréger les femmes — `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese`
 
-*podcast · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
+*podcast / vidéoscopie · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La santé mentale — `La-santé-mentale-synthese`
 
-*podcast · `La-santé-mentale-synthese.md`*
+*podcast / vidéoscopie · `La-santé-mentale-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+*podcast / vidéoscopie · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Podcast - Retour de Stéphane Edouard — `Video-m54h8ZXqHO0-synthese`
 
-*podcast · `Video-m54h8ZXqHO0-synthese.md`*
+*podcast / vidéoscopie · `Video-m54h8ZXqHO0-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*podcast · `Video-mFySAh0g-MI-synthese.md`*
+*podcast / vidéoscopie · `Video-mFySAh0g-MI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

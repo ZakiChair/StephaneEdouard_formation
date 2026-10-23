@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 4
+pages_developpement: 5
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -63,12 +64,15 @@ confiance: 0.67
 
 ### Synthèse – VZDYK4RHd38 — `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese`
 
-*podcast · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
+*podcast / vidéoscopie · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Cette chanteuse faisait l'unanimité chez les wokes, mais ça c'était avant — Synthèse — `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese`
 
-*podcast · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+*podcast / vidéoscopie · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Parcours : De Mélissa Peterson à Lizzo, en embrassant les codes du wokisme pour réussir dans l'industrie musicale.
 - Grammy2023 pour "Il était temps, bordel", singles variés (La Vérité Blesse, Jus, Huile de Coco) tous dans le top 100 US.
@@ -78,7 +82,9 @@ confiance: 0.67
 
 ### Synthèse : Il s’est stérilisé. A priori, ça n’était pas urgent — orzckQYNQ0c — `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese`
 
-*podcast · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+*podcast / vidéoscopie · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 - Inversion de la charge contraceptive : Historiquement, les femmes assument la quasi-totalité de la responsabilité contraceptive (pilule, stérilet), avec des effets secondaires souvent sous-estimés, tandis que les hommes se contentent du préservatif.
@@ -89,8 +95,9 @@ confiance: 0.67
 
 ### L'entraide entre femmes : un déficit historique — `L'entraide-entre-femmes-un-déficit-historique-synthese`
 
-*podcast · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
+*podcast / vidéoscopie · `L'entraide-entre-femmes-un-déficit-historique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -105,6 +112,79 @@ confiance: 0.67
 *« Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md » · origine : lien-declare*
 
 > Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Comment être bien entouré, par Diane
+
+*`web-articles__7308_comment-etre-bien-entoure.html.txt` · 2980 mots · archive de l'auteur*
+
+« Ce ne sont pas nos ennemis qui nous usent, mais nos amis. Ce ne sont pas les grandes tragédies qui nous usent, mais les petits ennuis, les pertes de temps, la biophagie sociale »
+Montherlant
+Notre entourage, c’est-à-dire ceux avec qui nous avons quotidiennement des interactions, possède une influence énorme sur notre perception du monde, nos occupations et notre équilibre psychologique. Avant même de se demander « où aller » et « que faire », beaucoup devraient ainsi s’interroger sur leurs fréquentations et faire le tri. Je vais peut-être me faire agonir d’injures pour mon intolérance mais je crois profondément que tous les gens n’ont pas la même valeur et que s’encercler de boulets et de personnes toxiques est le meilleur moyen de plonger dans la médiocrité et/ou la dépression. Vous voulez changer de vie ? Commencez par changer d’amis. Autrement dit,
+être bien entouré
+Comment être bien entouré : les profils à éviter
+Il y a, selon moi, trois profils à bannir absolument et, je vous préviens, je ne vais pas être tendre.
+Eviter les parasites (mon « préféré »)
+Le parasite, n’est pas là pour construire une belle relation sincère avec vous mais bien pour se servir. Difficilement détectable car accompagnant chacun de ses abus par de grands sourires, il ne se limite pas au taxeur professionnel: le parasite squatte souvent votre vie d’une manière beaucoup plus subtile et globale. C’est cette personne qui arrive toujours en retard et s’incruste à toutes vos soirées sans jamais vous inviter aux siennes, c’est la jolie fille qui vous appelle pour s’occuper le dimanche soir puis ne vous donne plus de nouvelles pendant 2 mois ou encore cet  « ami » à qui vous avez trouvé un emploi et dont vous attendez toujours les remerciements, c’est ,en somme, tous ceux qui prennent votre temps et votre énergie quotidiennement mais qui ne s’inquiètent jamais de votre bien-être.
+Soyons clair : ces gens-là vous considèrent comme étant « à disposition » et peuvent faire de véritables crises si vous tentez de mettre un frein à leurs exigences. Le fond du problème, c’est souvent qu’ils n’ont aucun respect pour vous (à tort ou à raison d’ailleurs) et n’imaginent même pas que vous pourriez reve
+
+### Comment être bien entouré, par Diane
+
+*`web-articles__seduction-fondamentaux__7308_comment-etre-bien-entoure.html.txt` · 2175 mots · archive de l'auteur*
+
+« Ce ne sont pas nos ennemis qui nous usent, mais nos amis. Ce ne sont pas les grandes tragédies qui nous usent, mais les petits ennuis, les pertes de temps, la biophagie sociale »
+Montherlant
+Notre entourage, c’est-à-dire ceux avec qui nous avons quotidiennement des interactions, possède une influence énorme sur notre perception du monde, nos occupations et notre équilibre psychologique. Avant même de se demander « où aller » et « que faire », beaucoup devraient ainsi s’interroger sur leurs fréquentations et faire le tri. Je vais peut-être me faire agonir d’injures pour mon intolérance mais je crois profondément que tous les gens n’ont pas la même valeur et que s’encercler de boulets et de personnes toxiques est le meilleur moyen de plonger dans la médiocrité et/ou la dépression. Vous voulez changer de vie ? Commencez par changer d’amis. Autrement dit,
+être bien entouré
+Comment être bien entouré : les profils à éviter
+Il y a, selon moi, trois profils à bannir absolument et, je vous préviens, je ne vais pas être tendre.
+Eviter les parasites (mon « préféré »)
+Le parasite, n’est pas là pour construire une belle relation sincère avec vous mais bien pour se servir. Difficilement détectable car accompagnant chacun de ses abus par de grands sourires, il ne se limite pas au taxeur professionnel: le parasite squatte souvent votre vie d’une manière beaucoup plus subtile et globale. C’est cette personne qui arrive toujours en retard et s’incruste à toutes vos soirées sans jamais vous inviter aux siennes, c’est la jolie fille qui vous appelle pour s’occuper le dimanche soir puis ne vous donne plus de nouvelles pendant 2 mois ou encore cet  « ami » à qui vous avez trouvé un emploi et dont vous attendez toujours les remerciements, c’est ,en somme, tous ceux qui prennent votre temps et votre énergie quotidiennement mais qui ne s’inquiètent jamais de votre bien-être.
+Soyons clair : ces gens-là vous considèrent comme étant « à disposition » et peuvent faire de véritables crises si vous tentez de mettre un frein à leurs exigences. Le fond du problème, c’est souvent qu’ils n’ont aucun respect pour vous (à tort ou à raison d’ailleurs) et n’imaginent même pas que vous pourriez reve
+
+### Réussir un premier rendez-vous, par Blusher (1ère partie)
+
+*`web-articles__124_first-date-par-blusher-1ere-partie.html.txt` · 686 mots · archive de l'auteur*
+
+La vie est belle: vous avez demande le numéro d’une jolie fille qui s’est empressée de vous le donner. Suivant les conseils avisés de votre coach en seduction préféré,... vous avez attendu une petite semaine avant de la rappeler. Tout a fonctionné comme prévu, vous la revoyez dans trois jours pour aller prendre un verre. [...]
+Réussir un premier rendez-vous, par Blusher (1ère partie) » Séduction, relooking homme - comment séduire, plaire, par Spike
+Le coach en séduction n°1 en France, relooking homme
+Réussir un premier rendez-vous, par Blusher (1ère partie)
+La vie est belle: vous avez demande le numéro d’une jolie fille qui s’est empressée de vous le donner. Suivant les conseils avisés de votre coach en seduction préféré,...
+vous avez attendu une petite semaine avant de la rappeler. Tout a fonctionné comme prévu, vous la revoyez dans trois jours pour aller prendre un verre. Bravo ! Beaucoup d’autres en sont encore a regretter de ne pas avoir trouve le courage de l’aborder.
+A ce stade, elle est interessee, il va desormais s’agir de la seduire. C’est un peu comme ces bandes-annonces tonitruantes de fims d’action dont le montage epileptique vous cloue a votre siege de cinema. Vous mourrez d’impatience d’aller voir le film qui peut en fait s’averer chiant comme la pluie. Dites vous bien que dans les jours qui precedent un premier rendez-vous, vous ne valez pas beaucoup plus qu’une bande-annonce.
+Cette fille est interessee, sinon elle n’aurait pas accepte votre invitation, mais si deux jours apres votre date elle vous dit qu’elle n’est pas prete, qu’elle sort d’une relation, qu’elle est debordee au boulot ou qu’elle prefere que vous restiez amis, vous ne pourrez vous en prendre qu’a vous-meme. Elles trouveront mille facons de vous le dire mais la verite c’est qu’elle vous a trouve ennuyeux et ne veut plus entendre parler de vous.
+La bonne nouvelle, c’est que mes conseils devraient vous eviter ce genre de mesaventures.
+PREAMBULE : OU ET QUAND ?
+Avant toute chose, revenons en pas en arriere pour repondre a deux questions primordiales : Ou et Quand ?
+Si vous avez suivi les recommandations de Spike, vous aurez eu l’intelligence de fixer le rendez-vous dans un endroit int
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

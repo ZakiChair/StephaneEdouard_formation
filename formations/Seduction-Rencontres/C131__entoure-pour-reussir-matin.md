@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 3
+pages_developpement: 2
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -63,12 +64,15 @@ confiance: 0.67
 
 ### Synthèse – VZDYK4RHd38 — `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese`
 
-*podcast · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
+*podcast / vidéoscopie · `30-mn-gratuites-du-séminaire-savoir-s'entourer-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Cette chanteuse faisait l'unanimité chez les wokes, mais ça c'était avant — Synthèse — `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese`
 
-*podcast · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+*podcast / vidéoscopie · `Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Parcours : De Mélissa Peterson à Lizzo, en embrassant les codes du wokisme pour réussir dans l'industrie musicale.
 - Grammy2023 pour "Il était temps, bordel", singles variés (La Vérité Blesse, Jus, Huile de Coco) tous dans le top 100 US.
@@ -78,7 +82,9 @@ confiance: 0.67
 
 ### Synthèse : Il s’est stérilisé. A priori, ça n’était pas urgent — orzckQYNQ0c — `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese`
 
-*podcast · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+*podcast / vidéoscopie · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 - Inversion de la charge contraceptive : Historiquement, les femmes assument la quasi-totalité de la responsabilité contraceptive (pilule, stérilet), avec des effets secondaires souvent sous-estimés, tandis que les hommes se contentent du préservatif.
@@ -100,6 +106,60 @@ confiance: 0.67
 *« Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md » · origine : lien-declare*
 
 > Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Comment être bien entouré, par Diane
+
+*`web-articles__7308_comment-etre-bien-entoure.html.txt` · 2980 mots · archive de l'auteur*
+
+« Ce ne sont pas nos ennemis qui nous usent, mais nos amis. Ce ne sont pas les grandes tragédies qui nous usent, mais les petits ennuis, les pertes de temps, la biophagie sociale »
+Montherlant
+Notre entourage, c’est-à-dire ceux avec qui nous avons quotidiennement des interactions, possède une influence énorme sur notre perception du monde, nos occupations et notre équilibre psychologique. Avant même de se demander « où aller » et « que faire », beaucoup devraient ainsi s’interroger sur leurs fréquentations et faire le tri. Je vais peut-être me faire agonir d’injures pour mon intolérance mais je crois profondément que tous les gens n’ont pas la même valeur et que s’encercler de boulets et de personnes toxiques est le meilleur moyen de plonger dans la médiocrité et/ou la dépression. Vous voulez changer de vie ? Commencez par changer d’amis. Autrement dit,
+être bien entouré
+Comment être bien entouré : les profils à éviter
+Il y a, selon moi, trois profils à bannir absolument et, je vous préviens, je ne vais pas être tendre.
+Eviter les parasites (mon « préféré »)
+Le parasite, n’est pas là pour construire une belle relation sincère avec vous mais bien pour se servir. Difficilement détectable car accompagnant chacun de ses abus par de grands sourires, il ne se limite pas au taxeur professionnel: le parasite squatte souvent votre vie d’une manière beaucoup plus subtile et globale. C’est cette personne qui arrive toujours en retard et s’incruste à toutes vos soirées sans jamais vous inviter aux siennes, c’est la jolie fille qui vous appelle pour s’occuper le dimanche soir puis ne vous donne plus de nouvelles pendant 2 mois ou encore cet  « ami » à qui vous avez trouvé un emploi et dont vous attendez toujours les remerciements, c’est ,en somme, tous ceux qui prennent votre temps et votre énergie quotidiennement mais qui ne s’inquiètent jamais de votre bien-être.
+Soyons clair : ces gens-là vous considèrent comme étant « à disposition » et peuvent faire de véritables crises si vous tentez de mettre un frein à leurs exigences. Le fond du problème, c’est souvent qu’ils n’ont aucun respect pour vous (à tort ou à raison d’ailleurs) et n’imaginent même pas que vous pourriez reve
+
+### Comment réussir dans la vie quand on n&#8217;a pas fait Polytechnique, par Simon
+
+*`web-articles__7339_comment-reussir-dans-la-vie.html.txt` · 2576 mots · archive de l'auteur*
+
+Comment réussir dans la vie quand on n’a pas fait Polytechnique, par Simon
+Comment réussir dans la vie quand on n’a pas fait Polytechnique, par Simon
+Je prends aujourd’hui mon ordinateur, alors que je suis en vacances sur la Côte d’Azur, où je vais encore vivre pendant minimum un an, et peut-être même pour le restant de mes jours : une fois habitué, on ne peut plus se passer du soleil. Une vue magnifique s’offre à mes yeux par-delà le balcon où je suis installé.
+Cela fait maintenant un peu plus d’un an que j’ai fait un atelier
+avec Stéphane. C’était juste avant mon entrée en école d’ingénieurs, ce qui avait même intrigué Stéphane puisqu’il m’avait demandé si je ne pensais pas qu’à 20 ans, c’était un peu tôt pour faire un atelier de ce type, ce à quoi je lui avais répondu que non, car le recul était, et reste toujours, ma plus grande arme. Et puisqu’on parle de recul, un an, c’est plutôt bien pour faire un retour sur mon ressenti. Je viens de trouver un stage, dont le sujet sera une excellente « carte de visite » sur mon CV, au sein d’une entreprise internationale. Pour cela, j’ai à la fois appliqué le savoir qui m’a été dispensé par Stéphane, et, avec un peu plus de parcimonie, celui que l’on m’a fournit dans mon école. Et puisqu’une très grande partie des membres sur ce site proviennent, se destinent, ou sont encore (c’est mon cas) en école d’ingénieurs, je ne résiste pas à l’idée de vous faire partager l’une de mes réflexions à ce propos.
+Ingénieurs : école généraliste vs école spécialisée
+Il est particulièrement vrai que, dans leur grande majorité, les écoles d’ingénieurs généralistes sont plus prestigieuses que les écoles spécialisées. Nationalement (voire mondialement) connues, elles permettent parfois d’obtenir des prestations supérieures lors du premier emploi, il ne servirait à rien de le nier. Toutefois, et les statistiques vont dans ce sens, les élèves des écoles spécialisées qui mènent bien leur carrière, car la passivité vous placera droit sur la case « médiocrité », obtiennent avec le temps de meilleurs résultats. Alors, effectivement, je vous vois déjà venir en me disant que les Polytechniciens, les Centraliens de Paris, où les élèves des Mines de 
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 13
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 2
+pages_developpement: 5
 idees_forces: 6
 citations: 0
 doublon_titre: non
@@ -68,7 +69,9 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 ### Synthèse : Il s’est stérilisé. A priori, ça n’était pas urgent — orzckQYNQ0c — `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese`
 
-*podcast · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+*podcast / vidéoscopie · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 - Inversion de la charge contraceptive : Historiquement, les femmes assument la quasi-totalité de la responsabilité contraceptive (pilule, stérilet), avec des effets secondaires souvent sous-estimés, tandis que les hommes se contentent du préservatif.
@@ -79,8 +82,9 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 ### Synthèse – dxztnF6LyAg — `Video-dxztnF6LyAg-synthese`
 
-*podcast · `Video-dxztnF6LyAg-synthese.md`*
+*podcast / vidéoscopie · `Video-dxztnF6LyAg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -89,6 +93,116 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 *« Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md » · origine : lien-declare*
 
 > Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Faut-il dire la vérité aux enfants (sur les relations hommes-femmes) ?
+
+*`web-articles__seduction-avance__11471_declaration-amour-enfant.html.txt` · 2778 mots · archive de l'auteur*
+
+Bonjour Stéphane,
+Je partage mes nuits avec une jeune femme qui travaille avec des enfants plus ou moins en difficulté. Aujourd’hui celle-ci a reçu en séance un garçon de 9 ans qui lui a
+avoué son amour
+pour une de ses petites camarades d’école.
+« C’est la plus belle fille que j’ai jamais vue. De ma vie. »
+dit-il, mais il n’a pour l’instant pas vraiment fait de démarche pour aller la voir, est tétanisé, et en souffre depuis longtemps (à son échelle). Il est assez mal dans sa peau et manque de confiance en lui, notamment en raison de son surpoids. Connaissant mon intérêt pour les disciplines de la « séduction » – à défaut d’un autre terme – ma compagne s’en est ouvert à moi pour avoir mon avis.
+D’autre part, je suis papa de deux enfants (plus petits) et j’avoue que cette question me taraude. Le cas du patient de 9 ans en surpoids incapable de parler à une fillette me semble assez clair en ce sens que je pressens comment cet enfant va fabriquer des complexes et devenir un futur client probable de la psychologie et des conseils en bois de tous genres… Cependant, le cas de mes propres enfants me pousse à la réflexion.
+Je suis assez âgé et donc normalement assez expérimenté pour comprendre toutes les choses contre-intuitives dont nous débattons à longueur de
+forum
+, mais je me demande comment transmettre ce savoir sans cynisme à mes enfants. Pour être encore plus précis, je vois comment l’éducation sociale est en train de faire son oeuvre en transformant un garçon qui a naturellement des bons réflexes quant à la gente féminine alors même qu’il n’a pas atteint l’âge de la différence visible des sexes.
+Apprendre à « dire bonjour à la dame » et tous les registres de la politesse cassera certainement ses comportements innés, et je ne vois pas comment mon éducation pourrait lui éviter de passer obligatoirement par cette naïveté vis à vis des rapports homme/femme. Il n’est pas impossible qu’à l’instar de la sexualité « technique », la « séduction » soit quelque chose d’inabordable avec ses enfants. En substance, comment suggères-tu que l’éducation d’un père « éclairé » puisse enrayer la perpétuation des croyances limitantes.
+Basile
+Bonjour Basile,
+Excellente question que l
+
+### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+
+*`web-actualite__5347_seminaire-developpement-personnel-2.html.txt` · 1111 mots · archive de l'auteur*
+
+Tout ce que vos parents auraient dû vous apprendre  (...)
+Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+Rien. Non, rien de rien. Ce séminaire n’a rien de commun avec les séminaires Spikeséduction habituels, dont vous avez été plusieurs milliers à travers les années à reconnaître la qualité et la pertinence en matière de relations hommes-femmes, de séduction, mais aussi de cette relation à vous-même qu’il est convenu d’appeler développement personnel  (voir
+témoignages
+).
+Problématique
+Vous le savez (surtout si vous avez lu
+You can always get what you want
+), le bagage parental et scolaire détermine grandement votre trajectoire, que ce soit sociale, professionnelle ou affective. C’est un fait. En clair, c’est de la combinaison « maman-papa-école » que naissent beaucoup de croyances limitantes, de peurs de l’inconnu, de rationalisations, bref, de bornes que vous mettez à votre destin.
+Des millions de gens n’ont jamais pris la peine d’y réfléchir, ne serait-ce que pendant les quelques instants que vous mettez à lire cet article. Certains (et je l’espère, beaucoup parmi vous) en ont déjà un début de conscience. Mais si je peux me permettre, avoir
+conscience
+des choses, c’est bien joli, mais, prise seule, la conscience ne vous avancera pas bien loin.
+Un moustachu célèbre disait il n’y a pas si longtemps qu’il fallait « philosopher à coups de marteau ». Pour devenir quelqu’un et ne pas subir sa vie, c’est au marteau…piqueur (!) qu’il faut passer son éducation, et dynamiter toutes les croyances limitantes que l’on nous a tatouées partout sur le corps depuis la naissance, en termes
+de vie sociale (vous apprendrez pendant cette journée à casser votre cercle et à rentrer dans celui des gens intéressants
+de vie professionnelle (vous apprendrez pendant cette journée que ce qui paye est souvent ce qui est interdit… mais quoi ?!?
+et bien sûr… de vie amoureuse (vous découvrirez en quoi les gens font le contraire de ce qu’ils disent/conseillent, et comment l’utiliser à votre avantage)
+Programme de la journée
+(Liste non exhaustive. Comme d’habitude, vous recevrez plus que ce que vous étiez venus chercher)
+Matinée  (10h-13h)
+A – Apprendre à se conn
+
+### Commandez le séminaire &laquo;&nbsp;ce que vos parents auraient dû vous apprendre&nbsp;&raquo;
+
+*`web-actualite__5347_seminaire-developpement-personnel-2.html?preview=1.txt` · 846 mots · archive de l'auteur*
+
+Séduction : débarrassez-vous de vos croyances limitantes
+Commandez le séminaire « ce que vos parents auraient dû vous apprendre »
+Commandez le séminaire « ce que vos parents auraient dû vous apprendre »
+Video:preview séminaire ce que vos parents...
+Référence :
+croyances limitantes
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+identifier et casser les croyances limitantes inculquées au cours de votre éducation afin de franchir de nouveaux paliers de progression
+Durée totale :
+2h15mn X 2
+Taille du fichier :
+65 Mo X 2
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Faites-vous respecter
+Qui vous ment
+Rien. Non, rien de rien. Ce séminaire n’a rien de commun avec les séminaires Spikeséduction habituels, dont vous avez été plusieurs milliers à travers les années à reconnaître la qualité et la pertinence en matière de relations hommes-femmes, de séduction, mais aussi de cette relation à vous-même qu'il est convenu d'appeler développement personnel.
+Problématique
+Vous le savez (surtout si vous avez lu
+You can always get what you want
+), le bagage parental et scolaire détermine grandement votre trajectoire, que ce soit sociale, professionnelle ou affective. C'est un fait. En clair, c'est de la combinaison "maman-papa-école" que naissent beaucoup de croyances limitantes, de peurs de l'inconnu, de rationalisations, bref, de bornes que vous mettez à votre destin.
+Des millions de gens n'ont jamais pris la peine d'y réfléchir, ne serait-ce que pendant les quelques instants que vous mettez à lire cet article. Certains (et je l'espère, beaucoup parmi vous) en ont déjà un début de conscience. Mais si je peux me permettre, avoir
+conscience
+des choses, c'est bien joli, mais, prise seule, la conscience ne vous avancera pas bien loin.
+Un moustachu célèbre disait il n'y a pas si longtemps qu'il fallait "philosopher à coups de marteau". Pour devenir quelqu'un et ne pas subir sa vie, c'est au marteau…piqueur (!) qu'il faut passer son éducation, et dynamiter toutes les croyances limitantes que l'on nous a tatouées partout sur le
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

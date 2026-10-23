@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 10
 points_annonce: 10
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -171,7 +172,9 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### Synthèse : Le Brésil, ce nouvel eldorado de la girl-next-door occidentale — wM7cRsZKhHg — `Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese`
 
-*podcast · `Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese.md`*
+*podcast / vidéoscopie · `Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'aveu involontaire : L'une des intervenantes admet que 90 % des conversations dans sa « maison de femmes » tournent autour du sexe, ironiquement l'inverse du cliché misogyne habituel qu'elle aurait elle-même qualifié d'« abject » si un homme l'avait formulé.
 - La vulgarité sans poésie : Édouard distingue entre la vulgarité assumée et articulée (son ancien format) et celle-ci, brute et sans nuance intellectuelle, où l'on se vante de multiplier les partenaires comme d'un exploitsans autocritique.
@@ -182,7 +185,9 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-*podcast · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
+*podcast / vidéoscopie · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
 - Mécanique d'annulation : un mot de travers = label "problématique" = exclusion = destruction professionnelle. 30 minutes suffisent à détruire une réputation.
@@ -203,6 +208,16 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 *« Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md » · origine : lien-declare*
 
 > Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

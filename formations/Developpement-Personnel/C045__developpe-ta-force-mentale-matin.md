@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 6
 points_annonce: 10
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 18
 citations: 0
 doublon_titre: oui
@@ -129,7 +130,9 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 
 ### SYNTHESE - 1EJbWzJtHS8 — `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese`
 
-*podcast · `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md`*
+*podcast / vidéoscopie · `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
 - Première erreur : croire que les sentiments sont partagés automatiquement
@@ -140,21 +143,27 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 - Critique de la victimisation : "tu n'es pas la cicatrice que t'a laissée ton ex"
 - *Lien avec formations** :
 
+**Son verdict**
+
 > "On ne peut pas décrire correctement un problème si on n'a pas les bons mots — et ce garçon n'a pas encore les bons mots pour comprendre sa rupture."
 
 ### Développe ta force mentale et prépare-toi aux combats de la vie — `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese`
 
-*podcast · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
+*podcast / vidéoscopie · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La santé mentale — `La-santé-mentale-synthese`
 
-*podcast · `La-santé-mentale-synthese.md`*
+*podcast / vidéoscopie · `La-santé-mentale-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - nKyCAJfP46s — `Oser-le-féminisme-Le-Feminist-Camp-synthese`
 
-*podcast · `Oser-le-féminisme-Le-Feminist-Camp-synthese.md`*
+*podcast / vidéoscopie · `Oser-le-féminisme-Le-Feminist-Camp-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le Feminist Camp : "bulle d'oxygène" mais activités de niveau "coloriage" (âge cognitif maternelle à primaire)
 - Dimension militaire/religieuse : chant liturgique, psalmodie, communion — "Sainte Trinité" du féminisme, LGBTisme et cosmopolitisme
@@ -176,6 +185,30 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 *« Oser-le-féminisme-Le-Feminist-Camp-synthese.md » · origine : lien-declare*
 
 > Le Feminist Camp : "bulle d'oxygène" mais activités de niveau "coloriage" (âge cognitif maternelle à primaire)
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

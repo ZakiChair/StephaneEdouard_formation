@@ -13,6 +13,7 @@ programme: 7
 sections_annonce: 8
 points_annonce: 4
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 42
 citations: 0
 doublon_titre: oui
@@ -121,7 +122,9 @@ _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Danie
 
 ### SYNTHESE - 1EJbWzJtHS8 — `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese`
 
-*podcast · `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md`*
+*podcast / vidéoscopie · `Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
 - Première erreur : croire que les sentiments sont partagés automatiquement
@@ -132,11 +135,15 @@ _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Danie
 - Critique de la victimisation : "tu n'es pas la cicatrice que t'a laissée ton ex"
 - *Lien avec formations** :
 
+**Son verdict**
+
 > "On ne peut pas décrire correctement un problème si on n'a pas les bons mots — et ce garçon n'a pas encore les bons mots pour comprendre sa rupture."
 
 ### Je t'aime toujours, mais c'est mieux comme ça — Synthèse — `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese`
 
-*podcast · `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md`*
+*podcast / vidéoscopie · `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Décryptage : "Je t'aime toujours, mais c'est mieux comme ça" = rupture définitive, pas une pause.
 - Signaux forts : Réssentiment accumulé sur la durée, départ reflechi, pas impulsif.
@@ -147,7 +154,9 @@ _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Danie
 
 ### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-*podcast · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+*podcast / vidéoscopie · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La strip-tease comme "travail émotionnel" les hommes
 - Différence entre féminisme de droite (procédures judiciaires) et féminisme de gauche (spiritualité, cycle naturel, sorcellerie)
@@ -158,11 +167,15 @@ _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Danie
 - *Lien avec formations** :
 - Force Mentale
 
+**Son verdict**
+
 > "Quand tu es trop blanc pour les blacks et trop noir pour les whites, tu finis par tomber dans la catégorie trans — c'est le chaos identitaire."
 
 ### SYNTHESE - 1qsJG_wJPmY — `Smart-people-are-relational-jerks-synthese`
 
-*podcast · `Smart-people-are-relational-jerks-synthese.md`*
+*podcast / vidéoscopie · `Smart-people-are-relational-jerks-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'effet de mode du diagnostic HP : confondre symptômes et causes
 - Les psychologues sont des "boutiquiers" qui ont intérêt à vous garder
@@ -172,6 +185,8 @@ _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Danie
 - L'orgueil de ne pas vouloir se dédire = le vrai problème de Sophie
 - "L'infirmière" qui pense pouvoir guérir les addictions par sa présence
 - Rien ne peut aider ceux qui ne veulent pas être aidés
+
+**Son verdict**
 
 > "La vraie question n'est pas 'suis-je HP?' mais 'est-ce que j'accepte la réalité telle qu'elle est?' — sinon tu es juste un orgueilleux qui refuse de voir."
 
@@ -194,6 +209,19 @@ _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Danie
 *« La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md » · origine : lien-declare*
 
 > La strip-tease comme "travail émotionnel" les hommes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- **Le titre provocateur** : "Arracher" contenu une violence symbolique que les critiques ont mal interprétée
+- **Le concept de disponibilité** : Vacances au sens de "vaquer à ses occupations" - celui qui a du temps et de l'intelligence est convoité
+- **L'étude de cas** : Nicolas, 32 ans de Lyon, appelle pou
+
+### UuPHULBeYsI-synthese
+# Synthèse UuPHULBeYsI : Cuckold etescorte
 
 ---
 

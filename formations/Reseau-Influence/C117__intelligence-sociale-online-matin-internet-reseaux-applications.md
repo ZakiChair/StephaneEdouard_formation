@@ -13,6 +13,7 @@ programme: 5
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 3
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -76,13 +77,15 @@ Si je suis aussi certain que ce séminaire va répondre à vos préoccupations, 
 
 ### Confiné, il rédige une ode à la beauté féminine — La cancel culture en action — `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese`
 
-*podcast · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
+*podcast / vidéoscopie · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Tinder — Les Femmes ne Matchent PAS que le TOP 1% — `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese`
 
-*podcast · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
+*podcast / vidéoscopie · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -91,6 +94,151 @@ Si je suis aussi certain que ce séminaire va répondre à vos préoccupations, 
 *« Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md » · origine : corpus*
 
 > [Le couple « à l'ancienne », c'est du passé. Encaissez les ruptures LIKE A BOSS](./formations/Carriere Leadership/couple-rupture-difficile.md) [Développe ta force mentale (après-midi)](./formations/Developpement Personnel/gestion-crise-apres-midi.md) [Développe ta force mentale (matin)](./formations/Developpement Personnel/gestion-crise-matin.md) [# Sources et références croisées](./formations/Intelligence Sociale/intelligence-emotionnelle.md) [Signes d'intérêt (après-midi)](./formations/Sedirection Rencontres/signes-interet-apres-midi.md) [Le couple « à l&rsquo;ancienne », c&rsquo;est du passé. Encaissez les ruptures L](./formations/couple-rupture-difficile.md) [Couples et ruptures difficiles](./formations/couples-ruptures-difficiles.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/cultivez-votre-intelligence-emotionnelle.md) [Développe ta force mentale (matin)](./formations/developpe-ta-force-mentale.md) [Cultivez votre INTELLIGENCE ÉMOTIONNELLE](./formations/intelligence-emotionnelle.md)
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Force et bonheur (programme online sport et alimentation)
+
+*`web-articles__10982_coaching-online-sport-alimentation.html.txt` · 244 mots · archive de l'auteur*
+
+Coaching online sport et alimentation
+Mise à jour quotidienne - Mercredi 27 juin
+Mangez mieux et devenez fort !
+Atelier 3h
+Street-session
+Atelier 10h
+Nouveau départ
+Nouveau départ
+Alimentation et séduction : Stéphane sur Direct8
+Coaching online : dégagez l’énergie d’un boxeur grâce à l’alimentation
+Models in the mirror are uglier than they appear
+Améliorer sa voix : interview avec un expert
+Luchini parle de séduction
+Pas encore de réactions sur cet article, soyez le premier à laisser un commentaire.
+1ère visite sur Spike Séduction
+Aborder une fille
+Courrier des lecteurs
+Forum relooking
+Forum séduction
+La séduction dans la presse
+Manipulation
+Personal shopper
+Relooking Paris
+Relookings avant-après
+Timidité
+Force et bonheur (programme online sport et alimentation)
+Force et bonheur (programme online sport et alimentation)
+Et pour les impatients qui veulent accéder au programme tout de suite :
+spikeseduction.com/naturacoach
+Testé, recommandé. En toute intégrité.
+devenir un homme
+naturacoach
+sport
+Le respect
+Le gagner, le conserver
+Relations longues I
+Eviter l'obsession amoureuse
+Etre sexué
+Assumez votre masculinité
+Intelligence sociale
+Etre bien partout
+Livre
+L’homme idéal
+50 leçons pour séduire la femme qui vous plaît
+Ebook
+Entretiens
+You can always get what you want
+Tous les produits »
+Agenda
+14/07 - sex friends
+12/07 - relooking
+11/07 - relooking
+05/07 - relooking
+03/07 - relooking
+Toutes les dates »
+avril 2007
+
+### 25 sept 2010 : développez votre intelligence sociale
+
+*`web-actualite__4843_intelligence-sociale.html.txt` · 1245 mots · archive de l'auteur*
+
+Le 4 septembre dernier, démarrait la sixième saison des séminaires SpikeSéduction (autant que
+How I met your mother
+). Et pas de n’importe laquelle des manières : avec un record d’affluence, des nouveautés (dont l’opportunité de commander l’enregistrement audio du séminaire pour ceux qui ne peuvent pas se déplacer), et toujours sans aucune hausse de tarif. Vous l’avez manqué ? Lisez les témoignages
+sur le forum
+. Le 25 septembre prochain (oui, c’est dans moins de deux semaines), je donnerai un séminaire à nouveau 100% inédit, et le thème est peut-être le plus important de ces dernières années. Vous en entendez parler presque quotidiennement, il s’agit, wait for it, de
+l’intelligence sociale
+De l’histoire (juste un peu)
+Vous ne devinerez jamais d’où provient l’expression
+compétence sociale
+. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
+Plus d’histoires
+Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon millio
+
+### Commandez le séminaire &laquo;&nbsp;intelligence sociale&nbsp;&raquo;
+
+*`web-actualite__4843_intelligence-sociale.html?preview=1.txt` · 910 mots · archive de l'auteur*
+
+Sans l'intelligence sociale, vous ne serez jamais intelligent qu'à moitié
+Commandez le séminaire
+« intelligence sociale »
+Commandez le séminaire
+« intelligence sociale »
+Video:preview séminaire intelligence sociale
+Référence :
+intelligence sociale
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+comprendre et mettre à profit les règles tacites de la vie en société pour mieux s'adapter au réel
+Durée totale :
+2h11mn
+Taille du fichier :
+63 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant I
+Devenez intéressant II
+De l’histoire (juste un peu)
+Vous ne devinerez jamais d’où provient l’expression
+compétence sociale
+. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
+Plus d’histoires
+Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon million d’a
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

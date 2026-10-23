@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -32,17 +33,21 @@ confiance: 0
 
 ### Ces podcasts "féministes" engageaient des femmes... pour ne pas les payer 👌 — `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese`
 
-*podcast · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
+*podcast / vidéoscopie · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La résilience — `La-résilience-synthese`
 
-*podcast · `La-résilience-synthese.md`*
+*podcast / vidéoscopie · `La-résilience-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video py5soTfXpxQ — py5soTfXpxQ — `Video-py5soTfXpxQ-synthese`
 
-*podcast · `Video-py5soTfXpxQ-synthese.md`*
+*podcast / vidéoscopie · `Video-py5soTfXpxQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le discours adolescence des adultes — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
 - La redéfinition du capitalisme et du modèle libéral — Édouard exige des journalistes qu'ils définissent les concepts qu'ils mobilisent : un monde libéral repose sur la libre circulation des hommes, la non-entrave à l'accumulation des capitaux, et l'encouragement à Exhiber et purger ses passions par l'acte d'achat. Or, la France redistribute trop pour être qualifiée d'ultra-libérale.
@@ -51,7 +56,9 @@ confiance: 0
 
 ### Synthèse : Video xE2KYvy312I — xE2KYvy312I — `Video-xE2KYvy312I-synthese`
 
-*podcast · `Video-xE2KYvy312I-synthese.md`*
+*podcast / vidéoscopie · `Video-xE2KYvy312I-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Carrière fulgurante mais fragile : Lizzo est devenue en quelques années la vendeuse de disques noires la plus successful depuis Rihanna en 2012, avec notamment le tube « La Vérité Blesse » (5 disques de platine) et un Grammy en 2023
 - Contradiction corps/culpabilité : Sa communication autour d'une cure de jus détox en 2013, malgré ses messages pro-body positivity, illustre l'emprisonnement dans son image corporelle — perdre du poids signifierait perdre sa « carte de victimisation » et son marché
@@ -73,6 +80,30 @@ confiance: 0
 *« Video-xE2KYvy312I-synthese.md » · origine : lien-declare*
 
 > Carrière fulgurante mais fragile : Lizzo est devenue en quelques années la vendeuse de disques noires la plus successful depuis Rihanna en 2012, avec notamment le tube « La Vérité Blesse » (5 disques de platine) et un Grammy en 2023
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

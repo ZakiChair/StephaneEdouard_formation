@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 12
 points_annonce: 0
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 21
 citations: 0
 doublon_titre: oui
@@ -136,7 +137,9 @@ En commandant un produit chez moi, vous rémunérez le travail d’un passionné
 
 ### SYNTHESE - F7a7VWOlznU — `Analyse-Lily-Phillips-+-Podcast-avec-invitado-synthese`
 
-*podcast · `Analyse-Lily-Phillips-+-Podcast-avec-invitado-synthese.md`*
+*podcast / vidéoscopie · `Analyse-Lily-Phillips-+-Podcast-avec-invitado-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Lily Phillips : "je couche avec 100 mecs/jour, définit la streumette" — self-objects
 - Le féminisme moderne : "ce qu'on veut, ce qu'on sent" ≠ réflexion sur conséquences
@@ -147,11 +150,15 @@ En commandant un produit chez moi, vous rémunérez le travail d’un passionné
 - La chance se provoque, l'envie se fabrc
 - La pente naturelle n'a pas besoin d'avocat
 
+**Son verdict**
+
 > "La capacité de dissociation féminine est fascinante — on se demande à qui on a affaire"
 
 ### Synthèse : Video py5soTfXpxQ — py5soTfXpxQ — `Video-py5soTfXpxQ-synthese`
 
-*podcast · `Video-py5soTfXpxQ-synthese.md`*
+*podcast / vidéoscopie · `Video-py5soTfXpxQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le discours adolescence des adultes — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
 - La redéfinition du capitalisme et du modèle libéral — Édouard exige des journalistes qu'ils définissent les concepts qu'ils mobilisent : un monde libéral repose sur la libre circulation des hommes, la non-entrave à l'accumulation des capitaux, et l'encouragement à Exhiber et purger ses passions par l'acte d'achat. Or, la France redistribute trop pour être qualifiée d'ultra-libérale.
@@ -171,6 +178,56 @@ En commandant un produit chez moi, vous rémunérez le travail d’un passionné
 *« Video-py5soTfXpxQ-synthese.md » · origine : lien-declare*
 
 > Le discours adolescence des adultes — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+« La chance, c’est la préparation qui rencontre l’opportunité » – Sénèque Avec un peu de chance, vous avez un peu de culture web, alors vous avez déjà vu passer cette vidéo amateur du prof d’HEC qui formule un dernier conseil à ses «chers» étudiants : ayez de la chance !  Je ne connais pas… 
+
+Read More
+
+---
+
+### Points clés
+
+1. « La chance, c’est la préparation qui rencontre l’opportunité » – Sénèque
+Avec un peu de chance, vous avez un peu de culture web, alors vous avez déjà vu passer cette vidéo amateur du prof d’HEC qui formule un dernier conseil à ses «chers» étudiants : ayez de la chance
+2. Je ne connais pas ce type, et les probabilités, que je me retrouve sur les bancs d’HEC, est assez faible
+3. Ce qui ne m’empêche pas d’être 100 %, complètement, absolument, parfaitement, d’accord avec lui
+4. Destiné à une ennuyeuse et solitaire carrière d’ingénieur mécanique en région parisienne, j’ai accédé à Sciences-Po et aux sciences humaines par hasard
+5. Comme je raconte dans mon premier livre, on est venu sonner à ma porte tôt un matin car il restait une place dans la Peugeot 104 d’un ami pour faire un saut au salon de l’Etudiant
+6. Un dossier, 3 lettres de recommandation, 4 entretiens et 5 mois plus tard, je démarrais ma deuxième vie
+7. Entretiens qui, eux non plus, ne sont pas allés sans une chance énormissime
+8. Alors que mon passage devant -feu – le fondateur du laboratoire de sociologie des organisations Michel Crozier était plus que calamiteux (je ne me rappelais même plus le titre de son dernier ouvrage), deux avions sont tombés sur des tours, provocant à la fois un vent de panique et de cohésion nationale
+9. L’entretien était fini, j’étais pris, et nous étions tous amis
+10. Je leur dois un peu ma carrière, à ces deux jumelles-là
+La même chose
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 7
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 0
 citations: 2
 doublon_titre: oui
@@ -114,18 +115,21 @@ Comprendre / analyser les gens est sans doute le défi le plus intéressant qui 
 
 ### Cultive ta confiance en toi — `Cultive-ta-confiance-en-toi-synthese`
 
-*podcast · `Cultive-ta-confiance-en-toi-synthese.md`*
+*podcast / vidéoscopie · `Cultive-ta-confiance-en-toi-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Vaincre la peur — `Vaincre-la-peur-synthese`
 
-*podcast · `Vaincre-la-peur-synthese.md`*
+*podcast / vidéoscopie · `Vaincre-la-peur-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Marlène Schiappa et les romans érotiques — `Video-mLULElak73E-synthese`
 
-*podcast · `Video-mLULElak73E-synthese.md`*
+*podcast / vidéoscopie · `Video-mLULElak73E-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -140,6 +144,64 @@ Comprendre / analyser les gens est sans doute le défi le plus intéressant qui 
 *« 55pK6U9bxjs-transcript.md » · origine : corpus*
 
 > 125. petit concept qui était pourtant parfait qui était femme mère femme enfant elle est devenue mère trop tôt vous l'avez entendu dire dans des centaines de mes de mes études de cas et résultat l'a fini avec le type qui a reconstitué l'étape qui manquait c'est à dire l'étape femme qu'est ce qu'elle dit de berkane makhlouf avec lui je me suis découverte femme et oui c'est pas grave vous n'êtes pas faire les étapes dans l'ordre par contre faut comprendre que c'est comme le dévoiement quand vous prenez
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette formation approfondit les mécanismes de lecture des autres en s'appuyant sur l'intelligence relationnelle. Analyser les gens n'est pas une question de "deviner" mais de discerner — capacité à juger par soi-même en observant les comportements réels plutôt que les discours. Les concepts de logique masculine (H) et féminine (F), de preuve sociale et d'intérêt comme moteur sont les outils centraux de cette compétence.
+
+---
+
+### Points clés
+
+- Le discernement est la capacité à juger par soi-même — ni conformisme ni anticonformisme
+- Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — toujours un tissu complexe entre les deux
+- La preuve sociale est le mécanisme par lequel les gens imitent les autres — amplifié par les réseaux sociaux
+- L'intérêt est le moteur principal (75%) — 15-20% émotionnel/sexy, 5% moral/symbolique
+- Analyser les gens demande de former son œil par la pratique (vidéoscopie)
+
+---
+
+### Concepts enseignés
+
+### L'Intelligence sociale
+
+Capacité à voir clair dans les événements sociaux, à comprendre les motivations réelles des acteurs derrière leurs discours. C'est l'opposé de la naïveté relationnelle. L'intelligence sociale permet de comprendre pourquoi les gens font ce qu'ils font — souvent pour des raisons d'intérêt (75%) plutôt que "par amour" ou "par principe".
+
+### Le modèle XANAX (chaîne causale émotionnelle)
+
+Multiples → Angoisses → Névrose → Anxiété. Cette hiérarchie explique comment des problèmes "simples" en apparence révèlent des anxieties profondes. Appliqué à l'analyse des gens : les comportements extrêmes cachent souvent des chaînes causales émotionnelles que vous pouvez retracer.
+
+### La preuve sociale
+
+Tendance à imiter les comportements des autres, amplifiée exponentiellement par les réseaux sociaux. Mécanisme exploité par toute forme de manipulation — marketing, politique, séduction. Repérer la preuve sociale permet de comprendre pourquoi quelqu'un adopte tel comportement — pas par conviction mais par imitation.
+
+### Homme struktureur vs Femme différenciatrice
+
+L'homme структурирует (met en ordre, hiérarchise, cherche la preuve) — la femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément pour analyser correctement les comportements de chaque genre.
+
+---
+
+### Exercices / Pratiques
+
+- **Pratique de la vidéoscopie** : Analysez des vidéos sans à priori — regardez ce qui est montré pas ce que vous croyez savoir. Formez votre œil aux micro-signaux
+- **Le journal des observations** : Après chaque interaction sociale importante, notez ce que vous avez observé (comportements) vs ce que vous avez interprété (intentions). Entraînez-vous à voir la différence
+- **Déconstruire les Micro-signaux** : Repérez les hésitations, les retournements, les promesses non tenues — ces "fausses notes" qui trahissent le mensonge ou la manipulation
+- **Utiliser la répartition 75/20/5** : Face à un comportement inexplicable, demandez-vous toujours : quel est l'intérêt économique, émotionnel ou symbolique derrière ?
+- **Analyser les traits de caractère** : Identifiez les patterns récurrents chez une personne — les gens sont plus prévisibles qu'ils ne le croient
+
+---
+
+### Citations de Stéphane
+
+> "L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux."
+
+> "L'intelligence, ça n'est ni le conformisme ni l'anticonformisme. C'est savoir juger à chaque instant dans chaque situation de ce qui est bon et de ce qui ne l'est pas."
+
+---
 
 ## Citations de l'auteur
 

@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 2
 points_annonce: 4
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 14
 citations: 0
 doublon_titre: oui
@@ -72,7 +73,9 @@ Des astuces tirées de la pratique, c’est l’objet de ce deuxième séminaire
 
 ### SYNTHESE - 1gpHfNf76g0 — `Baby-metisse-et-tweets-fétichisant-synthese`
 
-*podcast · `Baby-metisse-et-tweets-fétichisant-synthese.md`*
+*podcast / vidéoscopie · `Baby-metisse-et-tweets-fétichisant-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le colorisme valorise les enfants métisses qui ressemblent aux blancs
 - Le mélange des termes (mulâtre, béquet, métis) révèle une confusion culturelle
@@ -83,21 +86,27 @@ Des astuces tirées de la pratique, c’est l’objet de ce deuxième séminaire
 - Critiques de la stratégie de comunication de France Télévisions avec Brut
 - *Lien avec formations** :
 
+**Son verdict**
+
 > "Le problème n'est pas le mélange des races mais le mélange des genres de discours — et personne ne semble prêt à assumer cette DISCUSSION."
 
 ### Synthèse - L'un de ces deux protagonistes me provoque un réel malaise 🤢, mais lequel — `L'un-de-ces-deux-protagonistes-me-provoque-un-réel-malaise-🤢,-mais-lequel-synthese`
 
-*podcast · `L'un-de-ces-deux-protagonistes-me-provoque-un-réel-malaise-🤢,-mais-lequel-synthese.md`*
+*podcast / vidéoscopie · `L'un-de-ces-deux-protagonistes-me-provoque-un-réel-malaise-🤢,-mais-lequel-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Le secret derrière ces millions de femmes seules est si bête que c'en est gênant — `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese`
 
-*podcast · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
+*podcast / vidéoscopie · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse 47jhynafWCc — `Video-47jhynafWCc-synthese`
 
-*podcast · `Video-47jhynafWCc-synthese.md`*
+*podcast / vidéoscopie · `Video-47jhynafWCc-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 - 5 ans après MeToo, la société demeure "très sexiste" selon le rapport
@@ -115,6 +124,54 @@ Des astuces tirées de la pratique, c’est l’objet de ce deuxième séminaire
 *« Video-47jhynafWCc-synthese.md » · origine : lien-declare*
 
 > 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette journée s'adresse à tous ceux dont l'objectif est simple : ils ne cherchent ni l'âme sœur ni la future mère de leur portée (si tant est qu'elle existe), ils veulent simplement rencontrer des femmes, ils veulent plus de femmes dans leur vie. Pour être plus libres, plus épanouis, moins stressés, et globalement plus heureux. Et… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Cette journée s'adresse à tous ceux dont l'objectif est simple : ils ne cherchent ni l'âme sœur ni la future mère de leur portée (si tant est qu'elle existe), ils veulent simplement rencontrer des femmes, ils veulent plus de femmes dans leur vie
+2. Pour être plus libres, plus épanouis, moins stressés, et globalement plus heureux
+3. Disons, maintenant 😉
+Je vous ai déjà livré les derniers secrets d'une enquête réalisée en exclusivité avec la tv française sur les nouvelles attentes féminines
+4. C'était le premier volet du cycle « les jeunes filles »*
+5. Tout savoir pour rencontrer des femmes
+Selon les femmes (qu'en dépit de leur double langage permanent, je continue d'écouter, Dieu sait pourquoi), les rencontrer serait on ne peut plus simple
+6. Il suffirait pour cela de s'inscrire sur Tinder, de déposer deux trois jolies photos bien souriantes ainsi qu'un message exprimant du fond du coeur le souhait d'une relation sérieuse, et là les propositions se bousculeraient au portillon comme les fans de Star Wars à chaque sortie d'un nouvel opus
+7. Mais il ne faut pas leur en vouloir, car pour elles cela se passe vraiment comme ça
+8. e qui ne dispose pas du combo-massue : notoriété / pouvoir / argent), l'éventail de stratégies pour rencontrer des femmes là, tout de suite, maintenant, se résume finalement à peau
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

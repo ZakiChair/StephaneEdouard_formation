@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 5
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -81,7 +82,9 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### Synthèse : Licenciée par l'Empire du Bien : j'invite cette journaliste à rejoindre la mal-pensance — oMDcmgMICwQ — `Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese`
 
-*podcast · `Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md`*
+*podcast / vidéoscopie · `Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Florence Mendez a publié un communiqué Instagram détaillant une agression verbale subie en mars 2022 lors de l'enregistrement de *La Bande Originale*, nécessitant l'intervention des pompiers de Radio France
 - Elle décrit une crise de panique déclenchée par le comportement de la cheffe d'équipe de Nagui, suivi d'une mise à l'écart systématique dans les couloirs
@@ -97,6 +100,16 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 *« Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md » · origine : lien-declare*
 
 > Florence Mendez a publié un communiqué Instagram détaillant une agression verbale subie en mars 2022 lors de l'enregistrement de *La Bande Originale*, nécessitant l'intervention des pompiers de Radio France
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ## Concepts
 

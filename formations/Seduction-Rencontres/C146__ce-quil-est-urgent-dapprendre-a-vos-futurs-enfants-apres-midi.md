@@ -13,6 +13,7 @@ programme: 13
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 3
+pages_developpement: 3
 idees_forces: 6
 citations: 0
 doublon_titre: non
@@ -68,7 +69,9 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 ### Synthèse : Il s’est stérilisé. A priori, ça n’était pas urgent — orzckQYNQ0c — `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese`
 
-*podcast · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+*podcast / vidéoscopie · `Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 - Inversion de la charge contraceptive : Historiquement, les femmes assument la quasi-totalité de la responsabilité contraceptive (pilule, stérilet), avec des effets secondaires souvent sous-estimés, tandis que les hommes se contentent du préservatif.
@@ -79,13 +82,15 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 ### Synthèse – V5LTAoyeBGc — `The-Hell-of-Mental-Load-synthese`
 
-*podcast · `The-Hell-of-Mental-Load-synthese.md`*
+*podcast / vidéoscopie · `The-Hell-of-Mental-Load-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – dxztnF6LyAg — `Video-dxztnF6LyAg-synthese`
 
-*podcast · `Video-dxztnF6LyAg-synthese.md`*
+*podcast / vidéoscopie · `Video-dxztnF6LyAg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -94,6 +99,99 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 *« Il-s’est-stérilisé.-A-priori,-ça-n’était-pas-urgent-synthese.md » · origine : lien-declare*
 
 > Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Faut-il dire la vérité aux enfants (sur les relations hommes-femmes) ?
+
+*`web-articles__seduction-avance__11471_declaration-amour-enfant.html.txt` · 2778 mots · archive de l'auteur*
+
+Bonjour Stéphane,
+Je partage mes nuits avec une jeune femme qui travaille avec des enfants plus ou moins en difficulté. Aujourd’hui celle-ci a reçu en séance un garçon de 9 ans qui lui a
+avoué son amour
+pour une de ses petites camarades d’école.
+« C’est la plus belle fille que j’ai jamais vue. De ma vie. »
+dit-il, mais il n’a pour l’instant pas vraiment fait de démarche pour aller la voir, est tétanisé, et en souffre depuis longtemps (à son échelle). Il est assez mal dans sa peau et manque de confiance en lui, notamment en raison de son surpoids. Connaissant mon intérêt pour les disciplines de la « séduction » – à défaut d’un autre terme – ma compagne s’en est ouvert à moi pour avoir mon avis.
+D’autre part, je suis papa de deux enfants (plus petits) et j’avoue que cette question me taraude. Le cas du patient de 9 ans en surpoids incapable de parler à une fillette me semble assez clair en ce sens que je pressens comment cet enfant va fabriquer des complexes et devenir un futur client probable de la psychologie et des conseils en bois de tous genres… Cependant, le cas de mes propres enfants me pousse à la réflexion.
+Je suis assez âgé et donc normalement assez expérimenté pour comprendre toutes les choses contre-intuitives dont nous débattons à longueur de
+forum
+, mais je me demande comment transmettre ce savoir sans cynisme à mes enfants. Pour être encore plus précis, je vois comment l’éducation sociale est en train de faire son oeuvre en transformant un garçon qui a naturellement des bons réflexes quant à la gente féminine alors même qu’il n’a pas atteint l’âge de la différence visible des sexes.
+Apprendre à « dire bonjour à la dame » et tous les registres de la politesse cassera certainement ses comportements innés, et je ne vois pas comment mon éducation pourrait lui éviter de passer obligatoirement par cette naïveté vis à vis des rapports homme/femme. Il n’est pas impossible qu’à l’instar de la sexualité « technique », la « séduction » soit quelque chose d’inabordable avec ses enfants. En substance, comment suggères-tu que l’éducation d’un père « éclairé » puisse enrayer la perpétuation des croyances limitantes.
+Basile
+Bonjour Basile,
+Excellente question que l
+
+### 10 bonnes raisons (et 3 mauvaises) de préférer les femmes après 40 ans | Spike Séduction
+
+*`web-articles__20371_femmes-40-ans.html.txt` · 1587 mots · archive de l'auteur*
+
+Comprendre les femmes n’empêche pas de comprendre les hommes. Surtout qu’ils sont globalement plus simples, plus prévisibles, plus logiques. Et tout aussi prédéterminés génétiquement. A quoi? A aimer les femmes plus jeunes qu’eux, plus fertiles, et accessoirement très apprêtées. Bonjour Jean-Luc, si tu nous écoutes
+du fond de ton cachot
+De mon côté, les choses sont allées un peu différemment, sur ça et sur le reste. D’abord, je déteste les déterminismes, qu’ils soient sociaux, économiques, historiques, et même génétiques. Libre arbitre, discernement, goût personnel, qui m’aime me suive, etc.: ça a déjà plus de gueule.
+Ensuite, j’ai toujours plu aux femmes plus âgées. Les plus jeunes (qui deviennent chaque jour plus nombreuses, c’est la loi des nombres et du temps qui passe) me trouvent exigeant, moralisateur, râleur, et psycho-rigide. Une attirance qui, heureusement pour moi, n’est pas unilatérale. J’ai toujours trouvé que les femmes de 40 ans poutraient. Et maintenant, je vais expliquer pourquoi.
+Cette introduction, faite de phrases très courtes et hachée menue de ponctuation, est très étrange non ? Je veux dire, je n’écris pas comme ça, d’habitude, si ? Ainsi soit-il. Faisons le tour des raisons de
+préférer la femme dans sa quarantaine
+En commençant par dézinguer quelques lieux communs sans fondement (pléonasme)
+3 FAUSSES bonnes raisons de préférer les femmes de 40 ans
+Fausse
+bonne raison, 1. Elles seraient plus portées sur « la chose »
+Faux. L’envie de s(e faire) allonger est un paramètre entièrement personnel, qui varie plus selon les caractères que selon les âges de la vie. Sinon les maisons de retraite seraient remplies de nymphomanes, ce qui aux dernières nouvelles n’est pas exactement le cas. Même si.
+Fausse
+bonne raison, 2. Elles seraient toutes des « bons coups »
+De plus, ayant grandi dans des années 70 patriarcales et encore peu enclines à la féminisation de notre xxième siècle (et la réduction de la liberté au plaisir individuel, théorisée en son temps par qui-on-sait), les chances que leur maman se soit penchée sur leur clitoris pour leur en expliquer le mode d’emploi sont assez maigres, ignorant probablement elles-même son existence et ses fonction
+
+### Pourquoi faire un relooking, après tout ?
+
+*`web-ateliers-workshops-cours__992_relooking-2.html.txt` · 482 mots · archive de l'auteur*
+
+Pourquoi faire un relooking ?
+Pourquoi faire un relooking, après tout ?
+C'est vrai, après tout, pourquoi faire un relooking ? Pourquoi se casser la nouille à payer un relookeur, attendre, apprendre, écouter, alors qu'il suffit de faire comme tout dans la vie : apprendre sur le tas, moyennement, et finir moyen, imparfait et même pas dégrossi, comme tout le monde. Ah bon, ah bon. Les autres, les plus exigeants d'entre vous, peuvent lire cet article
+1) Le relooking vous apprend à chosir une taille, et surtout une coupe
+Ci-dessous un avant/après comme vous en voyez beaucoup sur Spike Séduction. Même personne,  même jour, même gabarit donc, et pourtant …
+2) Le relooking vous apprend à choisir des (une) couleur(s), et ça peut vous surprendre
+Regardez ces deux photos "avant" et cherchez-en les points communs :
+Comparez-les à cet après : Chemise noire, chaussures noires, jean noir. Banal ? Non, dégradé du mat au brillant : chemise mate > jean qui reflète la lumière > bottines luisantes. Quel ensemble est le plus masculin, le plus fin, et le plus attirant, à votre avis ?
+3) Le relooking vous apprend à discerner les belles matières, et une belle matière, c'est attirant
+Les deux vestes ci-contre sont en cuir. Vous avez envie de toucher laquelle, spontanément ? Un beau cuir n'est pas épais comme la peau d'un vieux buffle buriné par le soleil et résistant comme le panier de commissions de votre grand-mère. Matière, couleur, reflets, texture ...
+A suivre : style et absence de style, détails, conclusion, bref un aperçu synthétique et imagé de ce qui fait un relooking de qualité. Envie de discuter relooking ? Ca tombe bien, vous êtes au bon endroit, vous avez pour cela le meilleur forum de France
+à deux pas
+Aether, pour Spike Séduction
+Pourquoi faire un relooking, partie 2 ?
+Elections : votez pour votre relooking homme préféré
+"Tout ce que Spike m'a proposé avait de la classe" (témoignage sur le relooking)
+Nouveau : le relooking en solo
+Genève : à l'intérieur d'un atelier séduction Classic, partie I
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face="">
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

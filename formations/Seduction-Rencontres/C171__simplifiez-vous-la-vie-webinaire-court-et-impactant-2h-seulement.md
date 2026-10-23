@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 31
 citations: 0
 doublon_titre: oui
@@ -96,7 +97,9 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 
 ### SYNTHESE - -arsbMg7ZHM — `Court-extrait-–-préférences-YouTube-synthese`
 
-*podcast · `Court-extrait-–-préférences-YouTube-synthese.md`*
+*podcast / vidéoscopie · `Court-extrait-–-préférences-YouTube-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La musculation sans comportement humain n'intéresse pas.
 - L'anthropologie sociale comme centre d'intérêt principal.
@@ -107,16 +110,21 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 - Intelligence Sociale
 - Communication et Langage
 
+**Son verdict**
+
 > "Je ne crains pas les fautes d'orthographe, je crains l'insécurité économique et le vandalisme."
 
 ### Synthèse – WYig06HnKxU — `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese`
 
-*podcast · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
+*podcast / vidéoscopie · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - FnmOmeQkYWo — `Qu'est-ce-donc-cette-diablerie-synthese`
 
-*podcast · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+*podcast / vidéoscopie · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le film : 3 couples (hétéro, bi, intergénérationnel) = "liberté sexuelle" de façade
 - Les truismesde ("on est pas que des bonnes épouses", "le plaisir féminin")
@@ -127,21 +135,28 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 - Les arguments datent de 50 ans (Mai 68)
 - Le contexte de Mai 68 = besoin de repeupler après la guerre + inflation 2 chiffres
 
+**Son verdict**
+
 > "Tant que vous n'êtes pas capables de correctement décrire le problème, vous ne savez pas le résoudre"
 
 ### Synthèse – ebpWGsLSpCE — `Video-ebpWGsLSpCE-synthese`
 
-*podcast · `Video-ebpWGsLSpCE-synthese.md`*
+*podcast / vidéoscopie · `Video-ebpWGsLSpCE-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Féminisme, antiracisme, islamisme — branches d'un même mal — `Video-ioOtOqb-9m0-synthese`
 
-*podcast · `Video-ioOtOqb-9m0-synthese.md`*
+*podcast / vidéoscopie · `Video-ioOtOqb-9m0-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Trois branches d'un même mal : féminisme, antiracisme, islamisme — d'un même tronc.
 - Le socialisme mental : partie de l'idée que le monde est une maison — plus de rapport de force, cohabitation comme une famille.
 - Problème de l'unique père commun : dans cette logique, il devrait y avoir un seul "père" pour tous — mais les imité font que ça clash.
 - Brunet Emmanuel : notion attribuée à Emmanuel Brunet, qui a FORMULÉ cette triade.
+
+**Son verdict**
 
 > Il y a un beau-père, un père et un beau beau-père — la difficulté d'avoir un seul pour tous.
 
@@ -166,6 +181,30 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 *« Video-ioOtOqb-9m0-synthese.md » · origine : lien-declare*
 
 > Trois branches d'un même mal : féminisme, antiracisme, islamisme — d'un même tronc.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

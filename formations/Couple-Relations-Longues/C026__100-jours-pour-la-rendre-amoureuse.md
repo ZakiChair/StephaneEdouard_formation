@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 11
 documents_materiau: 9
+pages_developpement: 6
 idees_forces: 28
 citations: 0
 doublon_titre: oui
@@ -130,7 +131,9 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 
 ### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+*podcast / vidéoscopie · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
 - Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
@@ -142,27 +145,33 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 
 ### Ces podcasts "féministes" engageaient des femmes... pour ne pas les payer 👌 — `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese`
 
-*podcast · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
+*podcast / vidéoscopie · `Ces-podcasts-féministes-engageaient-des-femmes...-pour-ne-pas-les-payer-👌-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Esther Villard - La manipulation dans les relations hommes-femmes — `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese`
 
-*podcast · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
+*podcast / vidéoscopie · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
 
-*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+*podcast / vidéoscopie · `Faites-toujours-confiance-aux-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
 
-*podcast · `Video-tiDHbY0rQKQ-synthese.md`*
+*podcast / vidéoscopie · `Video-tiDHbY0rQKQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
 - La logique prostitutionnelle : Louer son intimité (corps, vie de couple, secrets familiaux) détruit structurellement son intégrité psychique : addictions, dépression, pensées suicidaires, isolement. Miss Amérique 2019 s'est défenestrée trois jours avant le tournage.
@@ -175,7 +184,9 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 
 ### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-*podcast · `Video-u8r9BLSx7UU-synthese.md`*
+*podcast / vidéoscopie · `Video-u8r9BLSx7UU-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 - Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.
@@ -186,7 +197,9 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 
 ### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*podcast · `Video-vvh8wAYHRBw-synthese.md`*
+*podcast / vidéoscopie · `Video-vvh8wAYHRBw-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 - La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
@@ -197,8 +210,9 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 
 ### Synthèse : Vous réclamiez des filles inspirantes : vous allez adorer cette 🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔 — xDO5PtHKu3o — `Vous-réclamiez-des-filles-inspirantes-vous-allez-adorer-cette-🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔-synthese`
 
-*podcast · `Vous-réclamiez-des-filles-inspirantes-vous-allez-adorer-cette-🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔-synthese.md`*
+*podcast / vidéoscopie · `Vous-réclamiez-des-filles-inspirantes-vous-allez-adorer-cette-🅥🅘🅓🅔́🅞🅢🅒🅞🅟🅘🅔-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -219,6 +233,112 @@ Vous devez sortir des 100 premiers jours de relation avec un niveau d’intérê
 *« Video-u8r9BLSx7UU-synthese.md » · origine : lien-declare*
 
 > L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Challenge : 100 jours pour la rendre amoureuse
+
+*`web-actualite__14522_challenge-amoureuse-en-100-jours.html?preview=1.txt` · 1650 mots · archive de l'auteur*
+
+Rendre une femme amoureuse
+Challenge : 100 jours pour la rendre amoureuse
+Challenge : 100 jours pour la rendre amoureuse
+Référence :
+les 100 premiers jours
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+relation longues 1
+Objectifs :
+dérouler un plan de jeu idéal les 100 premiers jours de relation, échapper aux pièges courants et atteindre un pic de niveau d’intérêt
+Durée totale :
+5h43mn
+Taille du fichier :
+321 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Relations longues I
+Relations longues II
+Ce séminaire a pour but de vous donner « l’état de l’art » de tout ce que j’ai appris, compris, conceptualisé et appliqué
+(et pris dans la gueule parfois)
+sur la manière de
+faire monter le
+niveau d’intérêt
+d’une femme dans la stratosphère dans les 3 premiers mois (soit +/- 100 jours)
+Si cette page venait à être lue par des filles, je nierais toute responsabilité dans son écriture, et prétendrais immédiatement que mon compte a été piraté par un sale macho métis et salace ;)
+Avant de passer au séminaire d’octobre, encore une fois
+totalement inédit
+(nos séminaires ne contiennent
+jamais
+2 fois le même contenu, que les choses soient claires…), commençons logiquement par les témoignages sur celui de septembre, afin de rassurer les éternels indécis qui se diraient encore « je lis le contenu gratuit du site, donc je sais tout, donc pourquoi devoir payer quoi que ce soit » (ils se trompent) :
+Témoignages su la journée charisme
+[ 2:51 ]
+Quand vous « improvisez » vos débuts de relation, ils se passe quoi ?
+J’ai fait des centaines de
+, à l’issue desquels je peux affirmer une chose avec certitude :
+La plupart des problèmes (souvent irrattrapables et insurmontables) dans lesquels vous vous mettez viennent du fait que vous n’avez pas su « cadrer » les choses dans les 3 premiers mois
+Si j’étais un webmarketeur (ou un voleur, ce qui revient à peu près au même), je vous vendrais un pilule magique pour résoudre ce problème instantanément, ou bien je vous vendrais un ebook de 47 pages du style « casé en 1 semaine »…
+Mais aujourd’hui, se ca
+
+### Hiver 2012 : faites-vous vacciner contre l&#8217;obsession amoureuse
+
+*`web-actualite__8751_obsession-amoureuse-vaccin.html.txt` · 1409 mots · archive de l'auteur*
+
+Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
+Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
+Vous me connaissez – la plupart d’entre vous tout du moins – : j’aime bien glisser une petite plaisanterie ou un jeu de mots dans l’introduction des séminaires ou des articles importants. Il en ira un peu différemment aujourd’hui, le sujet est trop important pour plaisanter, ne serait-ce qu’un instant. Le thème du prochain séminaire, ceux qui ont vu la
+dernière vidéo
+le savaient en avant-première, c’est
+l’obsession amoureuse
+(aussi appelée one-itis dans des temps pas si éloignés).
+Et si on ne rigole pas avec l’obsession amoureuse, c’est qu’elle peut, à l’instar d’une maladie grave, mettre des pans entiers de votre existence dans le caniveau pour l’éternité. Et c’est long, l’éternité.
+Les symptômes de l’obsession amoureuse
+C’est elle qui est partie
+Vous avez eu un mal de chien à vous y faire et à rompre les ponts. C’est d’ailleurs un euphémisme, il y a eu autant de ruptures que de réconciliations provisoires et de nouveaux (faux) départs
+La personne habite une partie de votre esprit comme on squatte un appartement : sans vous demander la permission
+Vous occultez ou minimisez les raisons objectives qui vous ont séparé / ce qui vous éloigne d’elle
+(suite) … et lorsque vos amis vous les rappellent – ces raisons -, vous rationalisez. I.e vous lui trouvez une raison logique pour avoir agi ainsi, la dédouanant toujours un peu au passage
+Vous vous êtes surpris (à plusieurs reprises) à établir des comparaisons entre vos relations suivantes et la personne en question. Comparaisons qui tournaient systématiquement à l’avantage de… Je vous laisse deviner qui
+Vous préféreriez prendre un bain d’acide plutôt que de la voir avec un autre que vous. A fortiori heureuse.
+Vous ne comprenez toujours pas vraiment pourquoi c’est fini
+Etc. etc.
+Liste non exhaustive
+Je vous l’avais dit, moi non plus je n’ai pas envie de rire avec ça.
+Les conséquences de l’obsession amoureuse
+Vous désirez revoir la personne autant que vous redoutez de la croiser
+Vous avez l’impression d’être toujours plus fatigué que vous ne le devriez ; le souvenir de cet échec a ôté une partie de
+
+### Suis-moi je te&#8230; l&#8217;article sur l&#8217;obsession amoureuse, partie I
+
+*`web-articles__1097_fuis-moi-je-te-suis-suis-moi-je-te-fuis.html.txt` · 1321 mots · archive de l'auteur*
+
+Fuis-moi je te suis, suis-moi je te fuis, l'article sur l'obsession amoureuse
+L’équipe
+Suis-moi je te… l’article sur l’obsession amoureuse, partie I
+Loin de chercher à collectionner les conquêtes, savoir séduire est le but essentiel de toute personne s’engageant dans une démarche d’apprentissage, ou de ré-apprentissage
+, de la séduction
+. Pour ce faire il convient de prendre conscience d’un travers dans lequel on peut facilement tomber : celui de l’
+idéalisation
+de cette fille. Les américains appellent ce phénomène le «
+one-itis
+» (« one » pour l’unique, celle-là et pas une autre, « itis » étant la terminaison de nombreux noms de maladies en anglais).
+Fuis moi je te suis, suis moi je te fuis
+… mais où cela mène-t-il ? Comment naît ce phénomène ? Pourquoi est-ce un piège ?
+L’effet papillon : la naissance de l’obsession amoureuse
+« Le battement d'ailes d'un papillon au Brésil peut-il provoquer une tornade au Texas ? »
+Lorenz
+Tout commence toujours par un rien. Et des riens, le monde en est plein : une démarche un peu chaloupée qui émeut, une chevelure délicatement agencée qui attendrit, un regard furtif qui interroge… Ou bien encore quelque chose de plus imperceptible, mais qu’on croit pourtant ressentir : une attirance irrationnelle, un élan passionné… Dans la séduction encore plus qu’ailleurs, ce sont les riens qui nous guident, mais qu’arrive-t-il si on se laisse porter par eux, sans entreprendre quoi que ce soit ? Arrive-t-on à ses fins ? Là s’arrête la romance, car les riens bien souvent ne mènent… à rien. Rien de concret s’entend, car l’imagination se fait fort de compenser ce qu’on n’ose et/ou ne sait faire et la romance se poursuit alors à l’intérieur d’un esprit où, jours après jours, mois après mois, elle s’éloigne de la réalité, l’y rendant par là même aveugle, et à laquelle toute confrontation directe devient un déchirement sincère et profond.
+Mais comment en arrive-t-on là ? A la base il faut un terreau propice, qu’une part de chacun d’entre nous possède et qui s’exprime avec plus ou moins de force : une tendance à tout vouloir comprendre avant de se lancer, une sacralisation un peu trop importante des femmes qui réfrène l’action, une peur assez floue
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
 
 ## Verbatim de l'auteur (fiche de formation)
 

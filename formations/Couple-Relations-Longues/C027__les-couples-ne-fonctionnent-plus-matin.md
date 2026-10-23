@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -32,7 +33,9 @@ confiance: 1.0
 
 ### Synthèse – Vidéoscopie DS2SQWBDEm0 — `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese`
 
-*podcast · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+*podcast / vidéoscopie · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
 - L'évolution : Avant 40-50 ans -> maintenant 25 ans à cause des couples précoces
@@ -41,13 +44,15 @@ confiance: 1.0
 
 ### Faire appartement à part — La nouvelle lubie des couples bobos — `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese`
 
-*podcast · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
+*podcast / vidéoscopie · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le Cosby Show — 7 leçons de vie — `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese`
 
-*podcast · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
+*podcast / vidéoscopie · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
 
+**Son verdict**
 
 > Ce qui était à mes parents n'a jamais été à moi — je suis parti de zéro matériellement et psychologiquement, et ce qui est à moi aujourd'hui, je ne le dois qu'à moi.
 
@@ -55,13 +60,15 @@ confiance: 1.0
 
 ### Synthèse aXPHzXCzgCo — `Video-aXPHzXCzgCo-synthese`
 
-*podcast · `Video-aXPHzXCzgCo-synthese.md`*
+*podcast / vidéoscopie · `Video-aXPHzXCzgCo-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video xDk6c-sODgg — xDk6c-sODgg — `Video-xDk6c-sODgg-synthese`
 
-*podcast · `Video-xDk6c-sODgg-synthese.md`*
+*podcast / vidéoscopie · `Video-xDk6c-sODgg-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -70,6 +77,30 @@ confiance: 1.0
 *« Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md » · origine : lien-declare*
 
 > Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

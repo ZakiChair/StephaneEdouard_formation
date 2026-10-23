@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 2
 points_annonce: 4
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -72,13 +73,25 @@ Des astuces tirées de la pratique, c’est l’objet de ce deuxième séminaire
 
 ### Synthèse - L'un de ces deux protagonistes me provoque un réel malaise 🤢, mais lequel — `L'un-de-ces-deux-protagonistes-me-provoque-un-réel-malaise-🤢,-mais-lequel-synthese`
 
-*podcast · `L'un-de-ces-deux-protagonistes-me-provoque-un-réel-malaise-🤢,-mais-lequel-synthese.md`*
+*podcast / vidéoscopie · `L'un-de-ces-deux-protagonistes-me-provoque-un-réel-malaise-🤢,-mais-lequel-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Le secret derrière ces millions de femmes seules est si bête que c'en est gênant — `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese`
 
-*podcast · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
+*podcast / vidéoscopie · `Le-secret-derrière-ces-millions-de-femmes-seules-est-si-bête-que-c'en-est-gênant-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

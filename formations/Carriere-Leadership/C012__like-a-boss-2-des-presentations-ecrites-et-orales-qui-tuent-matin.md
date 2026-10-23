@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 10
 points_annonce: 10
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 28
 citations: 0
 doublon_titre: oui
@@ -175,7 +176,9 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0 — `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese`
 
-*podcast · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+*podcast / vidéoscopie · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
 - Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
@@ -187,12 +190,15 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse — Vidéo OO904JaBWys — `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese`
 
-*podcast · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
+*podcast / vidéoscopie · `Les-PROGRESSISTES-seront-les-COCUS-du-monde-qu'ils-auront-EUX-MÊMES-érigé-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
 - Mécanique d'annulation : un mot de travers = label "problématique" = exclusion = destruction professionnelle. 30 minutes suffisent à détruire une réputation.
@@ -202,7 +208,9 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
 
-*podcast · `Video-HstnkVr4op4-synthese.md`*
+*podcast / vidéoscopie · `Video-HstnkVr4op4-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 - L'émission aborde le sexisme dans la télé-réalité
@@ -212,7 +220,9 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 ### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
 
-*podcast · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+*podcast / vidéoscopie · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
 - L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
@@ -222,6 +232,8 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 - L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
 - *Lien avec formations** :
 - École des Hommes (rapport au corps, dynamiques Hommes/Femmes)
+
+**Son verdict**
 
 > "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
 
@@ -244,6 +256,30 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 *« Video-HstnkVr4op4-synthese.md » · origine : lien-declare*
 
 > Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

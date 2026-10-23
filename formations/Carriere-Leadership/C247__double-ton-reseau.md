@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 8
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -93,7 +94,9 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 
 ### Synthèse : Elle voue une haine aux hommes, mais n'assume pas & supprime. Pas de bol je réuploade — wRo8FGZHphM — `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese`
 
-*podcast · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+*podcast / vidéoscopie · `Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
 - L'absence historique de la misandrie comme pensée structurée : contrairement à la misogynie documentée chez les plus grands penseurs, aucune figure intellectuelle majeure n'a produit de corpus misandre significatif — les citations sont absentes, les auteurs inexistants.
@@ -104,18 +107,21 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 
 ### Emily in Paris : L'Instagrammer est le Futur de l'Homme — `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese`
 
-*podcast · `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese.md`*
+*podcast / vidéoscopie · `Emily-in-Paris-The-Instagrammer-is-the-Future-of-Man-According-to-#Netflix-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La chanteuse Pomme : potentiel magnifique ou esprit ZADiste ? — `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese`
 
-*podcast · `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
+*podcast / vidéoscopie · `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Konbini et le combat d'arrière-garde des femmes — `Video-2886bTU-5Yk-synthese`
 
-*podcast · `Video-2886bTU-5Yk-synthese.md`*
+*podcast / vidéoscopie · `Video-2886bTU-5Yk-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -124,6 +130,36 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 *« Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md » · origine : lien-declare*
 
 > Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Rocaïa Diallo, née et ayant grandi à Paris, décrit le choc de taper "Parisienne" dans un moteur de recherche : des dizaines de femmes aux silhouettes et profils quasi identiques s'affichent, sans qu'elle puisse se reconnaître. L'orateur rebondit en comparant ce que Google renvoie pour les origines gambienne et sénégalaise : la Sénégalaise est représentée comme "noire et voluptueuse", tandis que la Parisienne n'a pas le droit d'être "blanche et mince" — elle doit se "métisser de force". L'autre sens (une blanche adoptant des code
+
+### hpCi0E_CjeI-synthese
+# Synthèse : RIM'K — Analyse d'un clip rap à 150 millions de vues
+
+**Source** : https://www.youtube.com/watch?v=hpCi0E_CjeI
+
+### Points clés
+
+- **Inventaire des marqueurs discriminatoires** : survette integral, lunettes cheap, casquette, Nike (pas des Airmax), chicha, téléphone — "6 marker en 19 seco
+
+### tT1o01TRJZM-synthese
+# Synthèse : Video tT1o01TRJZM — tT1o01TRJZM
+
+<think>The user wants me to generate a synthesis of this podcast transcript in French. Let me analyze the content and create a structured synthesis following the guidelines.
+
+The podcast is from Édouard (Tonton Stéphane on YouTube), discussing the topic of how being a woman in the West provides certain advantages. Let me structure this properly.
+
+The video is titled and discusses:
+1. His two main rules: not targeting physical appearance, and not repeating topics multiple times
+2. He previously made a video/article on Feb 22, 2016 about why it's harder to be a man than a woman in the West today (20
+
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -74,7 +75,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -85,6 +88,8 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ## Ses développements sur le sujet
@@ -94,6 +99,22 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 *« La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md » · origine : lien-declare*
 
 > "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+### Le marché des rencontres
+- Première étape : libéralisation (droit de cuissage aboli).
+- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
+
+### Analyse des participants
+- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
+
+### ABaGrL_kdu8-synthese
+# Synthèse – Vidéoscopie ABaGrL_kdu8
 
 ---
 

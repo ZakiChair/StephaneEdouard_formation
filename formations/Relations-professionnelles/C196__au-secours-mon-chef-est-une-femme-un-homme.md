@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 5
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 17
 citations: 2
 doublon_titre: oui
@@ -81,12 +82,15 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### Elle voulait le confort, elle a eu l'ennui — Étude de cas — `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese`
 
-*podcast · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Je t'aime toujours, mais c'est mieux comme ça — Synthèse — `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese`
 
-*podcast · `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md`*
+*podcast / vidéoscopie · `Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Décryptage : "Je t'aime toujours, mais c'est mieux comme ça" = rupture définitive, pas une pause.
 - Signaux forts : Réssentiment accumulé sur la durée, départ reflechi, pas impulsif.
@@ -97,7 +101,9 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-*podcast · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+*podcast / vidéoscopie · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La strip-tease comme "travail émotionnel" les hommes
 - Différence entre féminisme de droite (procédures judiciaires) et féminisme de gauche (spiritualité, cycle naturel, sorcellerie)
@@ -107,6 +113,8 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 - Le rite de passage moderne = la rupture amoureuse (abandon)
 - *Lien avec formations** :
 - Force Mentale
+
+**Son verdict**
 
 > "Quand tu es trop blanc pour les blacks et trop noir pour les whites, tu finis par tomber dans la catégorie trans — c'est le chaos identitaire."
 
@@ -123,6 +131,70 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 *« La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md » · origine : lien-declare*
 
 > La strip-tease comme "travail émotionnel" les hommes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Les dynamiques au travail reproduisent les dynamiques H/F sublimées ou exacerbées. Comprendre la logique féminine au travail (différenciation, réseaux, émotion) face à la logique masculine (structuration, mission, résultats) permet de naviguer les relations professionnelles avec discernement. L'enjeu n'est pas de "gagner" mais de comprendre les moteurs de chaque partie pour mieux collaborer.
+
+---
+
+### Points clés
+
+- Les femmes et les hommes ne fonctionnent pas de la même manière au travail — comprendre les deux logiques est essentiel
+- La logique masculine structure, la logique féminine différencie
+- L'intérêt (75/20/5) est le moteur principal même au travail
+- La preuve sociale est amplifiée au travail — les dynamiques de groupe sont déterminantes
+- Le discernement permet de voir clair dans les jeux de pouvoir
+
+---
+
+### Concepts enseignés
+
+### Logique masculine vs Logique féminine au travail
+
+**Logique masculine (H)** : Structurante — l'homme crée des cadres, des règles, des hiérarchies. Il pense en termes de résultats, de mission, deštatégie. Au travail, il valorise la clarté des objectifs et la reconnaissance par les résultats.
+
+**Logique féminine (F)** : Différenciatrice — la femme trie, évalue, lit entre les lignes. Elle pense en termes de relations, de réseaux, de nuances. Au travail, elle valorise le consensus, la qualité des relations et la capacité à naviguer les subtilités.
+
+### L'intérêt comme moteur (75/20/5)
+
+75% des comportements au travail visent l'intérêt économique (survival, statut, ressources), 15-20% l'émotionnel/sexy, 5% le moral/symbolique. Cette répartition doit guider votre analyse : votre chef a des intérêts, votre collègue a des intérêts — comprendre ces intérêts permet de prédire et influencer les comportements.
+
+### La preuve sociale professionnelle
+
+Les gens imitent les comportements des autres — au travail, cela se manifeste par :
+- La culture d'entreprise (on fait comme les autres)
+- Les dynamiques de groupe (alliance, ostracisme)
+- La pression à la conformité (ne pas se démarquer)
+- Le management par l'exemple (ou par l'anti-exemple)
+
+### Gestion des conflits H/F au travail
+
+Les conflits entre hommes et femmes au travail sont souvent des malentendus liés aux différences de logique. L'homme peut interpréter une demande de consensus comme de l'indécision ; la femme peut interpréter une directive claire comme du autoritarisme.
+
+---
+
+### Exercices / Pratiques
+
+- **Identifier la logique de votre chef** : Observez comment votre chef prend ses décisions (structuration vs différenciation) et adaptez votre communication
+- **Analyser les réseaux** : Cartographiez les relations dans votre équipe — qui sont les nœuds d'influence ?
+- **Le test de l'intérêt** : Face à une décision incompréhensible, demandez-vous toujours : quel est l'intérêt économique, émotionnel ou symbolique de cette décision ?
+- **Pratiquer la vidéoscopie professionnelle** : Analysez des réunions en observant ce qui est dit vs ce qui se passe vraiment
+- **Développer son influence** : Comprenez que l'influence repose sur la compréhension des intérêts de l'autre — pas sur la manipulation
+
+---
+
+### Citations de Stéphane
+
+> "L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux."
+
+> "L'intelligence, ça n'est ni le conformisme ni l'anticonformisme. C'est savoir juger à chaque instant dans chaque situation de ce qui est bon et de ce qui ne l'est pas."
+
+---
 
 ## Citations de l'auteur
 

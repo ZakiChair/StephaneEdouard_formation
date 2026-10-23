@@ -13,6 +13,7 @@ programme: 18
 sections_annonce: 2
 points_annonce: 6
 documents_materiau: 4
+pages_developpement: 1
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -99,13 +100,15 @@ Je dois vraiment vous le dire ? Bon, allez :
 
 ### Synthèse - Je sirote mon café du matin devant la dissolution terminale du peuple français — `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese`
 
-*podcast · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
+*podcast / vidéoscopie · `Je-sirote-mon-café-du-matin-devant-la-dissolution-terminale-du-peuple-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le Cosby Show — 7 leçons de vie — `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese`
 
-*podcast · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
+*podcast / vidéoscopie · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
 
+**Son verdict**
 
 > Ce qui était à mes parents n'a jamais été à moi — je suis parti de zéro matériellement et psychologiquement, et ce qui est à moi aujourd'hui, je ne le dois qu'à moi.
 
@@ -113,7 +116,9 @@ Je dois vraiment vous le dire ? Bon, allez :
 
 ### Synthèse : Video HstnkVr4op4 — `Video-HstnkVr4op4-synthese`
 
-*podcast · `Video-HstnkVr4op4-synthese.md`*
+*podcast / vidéoscopie · `Video-HstnkVr4op4-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 - L'émission aborde le sexisme dans la télé-réalité
@@ -123,7 +128,9 @@ Je dois vraiment vous le dire ? Bon, allez :
 
 ### Synthèse : Video vvh8wAYHRBw — vvh8wAYHRBw — `Video-vvh8wAYHRBw-synthese`
 
-*podcast · `Video-vvh8wAYHRBw-synthese.md`*
+*podcast / vidéoscopie · `Video-vvh8wAYHRBw-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
 - La phase textuelle comme faux indicateur : Le volume et la fréquence des échanges par messages (jusqu'à 4h du matin) ne constituent pas un signe fiable de l'intérêt réel d'une femme.
@@ -145,6 +152,79 @@ Je dois vraiment vous le dire ? Bon, allez :
 *« Video-vvh8wAYHRBw-synthese.md » · origine : lien-declare*
 
 > L'importance du cadre professionnel : La relation s'est construite progressivement via l'activité de professeur d'Alphonse, avec d'abord le fils, puis la mère.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Au bonheur des dames
+
+*`web-articles__886_au-bonheur-des-dames.html.txt` · 321 mots · archive de l'auteur*
+
+Conseil séduction - Relooking homme
+Au bonheur des dames
+Vous êtes vous déjà retrouvé, à 4 heures du matin, en bras de chemises, dans le froid, à la porte (close) d'un hôtel, alors que des bras chauds et accueillants vous attendent 5 étages plus haut, et le tout
+rue des mauvais garçons
+? Ca ne s'invente pas, et ça fera partie des histoires que je raconterai à mes petits enfants. Lisez comment tout a commencé,
+sur le forum
+Cette fille dans le métro...(suite) : repérer ses signes d...
+Shopping vêtements : l’affaire Ebay du jour (M.a.J 11 mai...
+La femme et le pantin
+Confessions d'un dragueur, d'Alain Soral, en intégralité
+La femme et le pantin
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face=""> <i> <li> <ol> <strike> <strong> <sub> <sup> <ul>
+Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+Forum séduction et relooking
+Forum séduction et relooking
+Pour ceux qui aiment les forums séduction actifs et à taille humaine :
+Best-of des articles look >>
+Best-of des articles séduction >>
+Prochains évènements
+Séminaire body-langage >>
+Atelier dream job >>
+Séminaire bootcamp >>
+Conseil séduction au téléphone
+Besoin d'un conseil séduction ou relation longue, sans attendre ?
+Appelez Spike >>
+Ecoutez le témoignage d'un participant au relooking
+Giuliano Fujiwara, la boutique qui se fout de votre gueule
+Veuillez nous excuser
+Nouveau : le relooking en solo
+On en apprend beaucoup dans ce livre, comment...
+Bonojur à tous,
+Peut-être ai-je mal lu mai...
+votre site promet mais  malheureusement je ne...
+Séduction à lire ou à relire
+Draguer sur MSN, les 7 commandements, partie II (par The Ker...
+Hitch, expert en séduction ?
+Séduction : du timide au tombeur (from AFC to PUA)
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

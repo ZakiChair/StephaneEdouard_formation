@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 0
+pages_developpement: 1
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -25,6 +26,74 @@ confiance: 1.0
 # Comprendre les gens, 2 (matin)
 
 **C225** · Divers · 3398 mots
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Voyage dans le monde de la psycho-sociologie : comprendre les gens | Spike Séduction
+
+*`web-actualite__19022_comprendre-les-gens.html.txt` · 951 mots · archive de l'auteur*
+
+Référence :
+comprendre les gens
+Difficulté (sur 5) :
+***
+Enregistré :
+oui
+Prérequis :
+–
+Objectifs :
+rattraper en une journée ce que votre scolarité aurait dû vous apprendre sur la psychologie et la sociologie
+Durée totale :
+journée
+Tarif :
+à partir de 75euros dans les commandes groupées
+Séminaire(s) complémentaire(s) recommandé(s) :
+logique des femmes
+Un petit théâtre de 50 places remplace l’habituelle « salle de séminaire »
+« L’humanité est ainsi, il ne s’agit pas de la
+changer
+, mais de la
+connaître
+. » – Flaubert
+2ème séminaire de l’année 2015 : 1ère immersion dans le monde passionnant de la psycho-sociologie !
+Axiome 1
+Vous avez appris des milliers de choses à l’école, au collège, au lycée, à la faculté, en « grande école », en école d’art, ou ailleurs.
+Sur ces milliers, voire ces dizaines de milliers, combien concernaient
+la compréhension de l’être humain ?
+Réponse : une poignée. Peut-être même pas. Zéro ?
+Axiome 2
+La plupart des gens s’estiment « au dessus de ça ». Ils estiment
+ne pas avoir besoin d’apprendre
+les mécanismes qui les régissent :
+Parce que, justement, ils refusent l’idée d’être régis par un autre mécanisme qu’eux-mêmes (c’est idiot : la liberté absolue est à la fois une utopie et un désespoir si jamais elle venait à se réaliser)
+Parce qu’en sciences humaines, contrairement à la chirurgie, la mécanique ou l’informatique, ils pensent tout savoir sans rien avoir étudié (« je connais les femmes, j’en suis une » / « je connais les hommes, j’en suis un ». Ben voyons)
+Parce qu’ils estiment ces études et ces recherches superflues, pensant que tout le monde
+a priori
+, raisonne avec le même matériel
+logique
+idéo-logique
+qu’eux-mêmes. D’où les fameux grands maux de la société : – a – l’ « incompréhension », – b – les « malentendus » et – c – le « manque de communication » »
+Mais si vous lisez SpikeSed, alors vous êtes plus intelligents que la moyenne (ce n’est pas de l’auto flagornerie, c’est un fait, confirmé année après année). Et les gens intelligents savent qu’ils n’ont pas la « science infuse ». De plus, comme vous êtes venus parce que vous vous intéressez à la séduction, vous avez
+une soif plus globale de comprendre
+les mécanismes inconscients qui
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+### Le marché des rencontres
+- Première étape : libéralisation (droit de cuissage aboli).
+- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
+
+### Analyse des participants
+- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
+
+### ABaGrL_kdu8-synthese
+# Synthèse – Vidéoscopie ABaGrL_kdu8
 
 ---
 

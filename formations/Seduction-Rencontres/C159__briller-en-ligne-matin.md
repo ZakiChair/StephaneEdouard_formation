@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 0
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -80,6 +81,30 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 - Tous les séminaires que vous avez commandés depuis la naissance de Jésus Christ sont disponibles dans votre espace mon compte
 - Une facture est disponible sur simple demande par email
 - Recevez tous mes séminaires, toute l’année en devenant VIP
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

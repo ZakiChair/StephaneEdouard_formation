@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 17
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 4
 citations: 2
 doublon_titre: oui
@@ -221,7 +222,9 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 
 ### Synthèse – Vidéoscopie nLD30feel6k — `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese`
 
-*podcast · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+*podcast / vidéoscopie · `France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
 - La respiration : Dark Vador hors caméra - le souffle nerveux trahit la vrai nature
@@ -230,8 +233,9 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 
 ### Vaincre la peur — `Vaincre-la-peur-synthese`
 
-*podcast · `Vaincre-la-peur-synthese.md`*
+*podcast / vidéoscopie · `Vaincre-la-peur-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -240,6 +244,67 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 *« France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md » · origine : lien-declare*
 
 > Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+La peur comme mécanisme de protection qui peut devenir блокирующим, et les stratégies pour l'intégrer plutôt que la fuir. L'homme doit apprendre à avancer malgré la peur, pas à l'éliminer. La peur de la honte ou de la douleur sont souvent plus paralysantes que la peur elle-même — c'est l'anticipation qui cause la souffrance. Le courage, c'est d'agir malgré la peur ; la témérité, c'est ignorer la peur (irresponsabilité).
+
+---
+
+### Points clés
+
+- La peur signale quelque chose — l'analyser plutôt que la fuir. Toute peur contient une information utile
+- Le courage, c'est d'agir malgré la peur ; la témérité, c'est ignorer la peur (irresponsabilité)
+- La peur de la peur (phobie de la peur elle-même) est un cercle vicieux de l'évitement qui amplifie l'anxiété
+- La peur sociale vs peur réelle : la peur du regard des autres est souvent plus paralysante que les vrais dangers
+- L'homme doit apprendre à canaliser sa peur pour l'action — c'est un travail spécifiquement masculin
+- La vraie peur est à respecter (signal de danger réel). La fausse peur (provoquée par l'imagination, les réseaux sociaux, l'anxiété) est à work on
+
+---
+
+### Concepts enseignés
+
+### La peur comme signal
+
+La peur signale quelque chose — l'analyser plutôt que la fuir. Toute peur contient une information utile. Identifier si la peur est basée sur un danger réel ou une interprétation — questionner l'interprétation. Le modèle : Signal d'alerte (réel ou imaginé) → Réaction fight/flight/freeze (physiologique) → Interprétation cognitive (ce qui détermine l'intensité) → Comportement (fuite, combat, ou freezing).
+
+### Courage vs témérité
+
+Le courage, c'est d'agir malgré la peur ; la témérité, c'est ignorer la peur (irresponsabilité). Le courage demande de la wisdom — distinguer le courage de la témérité. Le courage inclut la wisdom de évaluer les vrais risques.
+
+### La peur de la peur (anticipation)
+
+La peur de la honte ou de la douleur sont souvent plus paralysantes que la peur elle-même — c'est l'anticipation qui cause la souffrance. L'anxiété est une peur sans objet, plus difficile à gérer. C'est souvent la peur de la peur (anticipation) qui cause la souffrance, pas l'événement lui-même.
+
+### Gestion de l'angoisse
+
+Techniques pour réduire l'angoisse sans la medication — respiration, exposition, restructuration cognitive. Respirer pour réguler le système nerveux (et non pour "guérir" la peur) — la respiration active le parasympathique. Exposer progressivement à ce qui fait peur (thérapie d'exposition) — la peur diminue avec l'exposition répétée.
+
+---
+
+### Exercices / Pratiques
+
+- Identifier si la peur est basée sur un danger réel ou une interprétation — questionner l'interprétation
+- Exposer progressivement à ce qui fait peur (thérapie d'exposition)
+- Respirer pour réguler le système nerveux
+- Accepter que la peur fasse partie de la vie — elle ne disparaît pas, elle se gère
+- Agir malgré la peur pour build de nouvelles preuves — chaque action malgré la peur renforce le courage
+- Distinguer le courage de la témérité
+- Ne pas confondre peur et anxiété
+
+---
+
+### Citations de Stéphane
+
+> "Il faut être capable d'agir malgré la peur. Le courage, ce n'est pas l'absence de peur — c'est d'avancer quand même."
+
+> "La peur de la honte est souvent plus bloquante que le danger réel — les hommes préfère risquer leur vie que leur réputation."
+
+---
 
 ## Citations de l'auteur
 

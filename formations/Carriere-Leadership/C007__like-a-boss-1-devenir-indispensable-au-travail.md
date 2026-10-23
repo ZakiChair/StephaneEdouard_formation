@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 15
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -143,22 +144,28 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast / vidéoscopie · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
 
-*podcast · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
+*podcast / vidéoscopie · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
 
-*podcast · `Video-hVchQj-xiOo-synthese.md`*
+*podcast / vidéoscopie · `Video-hVchQj-xiOo-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
 - Parallèle historique : le centre Pompidou (années 70) avait lui aussisymbolisé une époque de transition, mais dans un contexte de modernité industrielle encore vivante.
 - Désindustrialisation française : la vidéo des Gilets Jaunes en Belgique (usine désaffectée convertie en centre d'art) illustre ce même phénomène de perte identitaire territoriale.
 - Archéologie du contenu : référence à d'anciennes vidéos de la chaîne qui documentaient déjà ces transformations, consultables dans les archives.
+
+**Son verdict**
 
 > L'industrie, c'est ce qui empêche un pays de couler, d'avoir une balance du déficit extérieur monstrueuse et de devenir un musée à touristes.
 
@@ -166,7 +173,9 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
 
-*podcast · `Video-yCgVt4zZejg-synthese.md`*
+*podcast / vidéoscopie · `Video-yCgVt4zZejg-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
 - L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
@@ -188,6 +197,59 @@ Le bouche à oreille à géométrie variable
 *« Video-yCgVt4zZejg-synthese.md » · origine : lien-declare*
 
 > L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+L’ÉCONOMIE MONDIALE VA « SECOUER »… DONC LA NÔTRE AUSSI Dans un contexte aussi tendu, les entreprises ne vont pas se priver de tendre les flux, éliminer le gras… et bien entendu débaucher. Et vous, au milieu de ça, vous n’aurez pas 50 options, ni même 30, ni même 10. Vous n’en aurez que 2, des options: J’ai mis… 
+
+Read More
+
+---
+
+### Points clés
+
+1. L’ÉCONOMIE MONDIALE VA « SECOUER »… DONC LA NÔTRE AUSSI
+Croissance mondiale ⏼France 📉Inégalités 📈Climat 🥵
+Dans un contexte aussi tendu, les entreprises ne vont pas se priver de tendre les flux, éliminer le gras… et bien entendu débaucher
+2. Et vous, au milieu de ça, vous n’aurez pas 50 options, ni même 30, ni même 10
+3. Vous n’en aurez que 2, des options:
+
+J’ai mis un petit check vert au stylo sous celle qui me paraissait être la meilleure pour vous, mais après, vous êtes libre de choisir l’autre…
+Bref, si je vous l’apprends je m’en excuse par avance, mais il est désormais à peu près certain que la « crise » (i
+4. e la croissance nulle ou quasi nulle) soit notre paysage culturel jusqu’à la retraite, pour tout un tas de raisons politiques, financières, mais aussi énergétiques et climatiques (écouter les brillantes conférences de Jean-Marc Jeancovici à ce sujet), ce qui en sociologie évolutionniste s’appelle un contexte de forte pression sélective
+5. En clair : les meilleurs vont s’adapter et survivre, les autres vont crever à plus ou moins petit feu
+6. C’est triste à foutre les larmes aux yeux, mais c’est ainsi
+7. Et c’est pas ma faute, moi aussi je ne peux que m’adapter et transmettre ce que j’ai compris (« le moment est venu de dire ce que… »)
+POUR LES NOUVEAUX : QUI EST STÉPHANE EDOUARD
+J’oublie parfois (souvent) que des nouveaux découvrent le site tous les jours, et que ma réputation n’est pas encore inter-planétaire, donc pour les nouveaux :
+Ingénieur en mécanique (je sais construire
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

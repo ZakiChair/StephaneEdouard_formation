@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 6
 citations: 3
 doublon_titre: non
@@ -28,7 +29,9 @@ doublon_titre: non
 
 ### Synthèse : J'ai oublié comment draguer ; heureusement ces trois là sont là pour me le rappeler — nYpXsnJh8Uc — `J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese`
 
-*podcast · `J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese.md`*
+*podcast / vidéoscopie · `J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le paradoxe de l'inaccessibilite feminime : De nombreuses femmes sort en groupe compact, n'echangent regard ni parole avec personne, puis rentrent en se plaignant de n'avoir ete abordees par personne — sans prendre conscience de l'effort necessaire pour fendre un groupe et se presenter.
 - La liberte de langage feminine sur la sechuction : Lorsque ces observations sont formulees par une femme Millennale presentee de façon esthetique, elles sont adoubees par la doxa ; formulees par un homme, elles valent mise a l'index pour misogynie.
@@ -44,6 +47,85 @@ doublon_titre: non
 *« J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese.md » · origine : lien-declare*
 
 > Le paradoxe de l'inaccessibilite feminime : De nombreuses femmes sort en groupe compact, n'echangent regard ni parole avec personne, puis rentrent en se plaignant de n'avoir ete abordees par personne — sans prendre conscience de l'effort necessaire pour fendre un groupe et se presenter.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette formation explore l'art de draguer sur les applications de rencontres selon les frameworks de Stéphane Édouard. Les applications comme Tinder ont transformé la logistique des rencontres — mais les dynamiques fondamentales restent les mêmes. Comprendre comment les femmes sélectionnent vraiment (pas seulement physiquement) permet de convertir plus de matchs en rendez-vous.
+
+---
+
+### Points clés
+
+- Le capital intellectuel (écriture) est souvent plus important que le capital physique pour convertir
+- Les femmes sélectionnent à 10-15%, les hommes à 98% — mais la conversion dépend de l'écrit
+- Le "top 1%" est un mythe — les femmes cherchent autre chose que le simple physique
+- Le virtuel a supprimé la peur du refus in vivo — l'homme valide 97% des profils mais ensuite se prend 97% de râteaux
+- Les stratégies de drague directe en message ne fonctionnent pas
+
+---
+
+### Concepts enseignés
+
+### La cinétique des applications de rencontres
+1. L'homme valide 98% des profils → 97% de râteaux virtuels
+2. Parmi les 3% de matchs, ~50% lancent une conversation
+3. Parmi les conversations, ~10% donnent lieu à un rendez-vous
+4. Parmi les rendez-vous, ~0,5% donne une relation
+
+Cette cinétique révèle que le succès ne dépend pas du nombre de matchs mais de la capacité à convertir.
+
+### Le mythe du TOP 1% déconstruit
+On croyait que les femmes ne matchaient que le top 1% des hommes. RÉVÉLATION : les femmes sélectionnent bien moins que les hommes, mais PAS pour les raisons qu'on croit. La sélection féminine EST massive, mais elle ne se fait pas sur le seul critère physique.
+
+### Le capital écrit comme facteur determinant
+Quand Baptiste (1/2 pour 1000 matches) convertit mieux à l'écrit que les "beaux" physiquement, cela révèle que :
+- L'attraction initiale est physique
+- Mais la conversion dépend du CAPITAL SYMPATHIE à l'ÉCRIT
+- L'ART DE LA COMMUNICATION digitale est plus important que le simple physique
+
+### Les stratégies qui ne marchent pas
+- **"Salut, ça va ?"** : ZERO intérêt, ZERO différenciation
+- **Les messages lourds** : "Tu es magnifique" — trop direct, pas de substance
+- **Les messages copy-paste** : les femmes reconnaissent immédiatement les messages génériques
+- **Les essayages trop longs** : pas le temps de lire des romans
+
+### Le charme discret du texto parfait
+Le texto parfait repose sur :
+- **L'humour** : un bon mot d'esprit montre l'intelligence et crée une connexion
+- **La concision** : une ou deux phrases max
+- **Le discernement** : montrer que vous avez lu son profil
+- **Le décalage** : ne pas être désespéré, montrer que vous avez d'autres options
+- **La légèreté** : pas de sujets trop sérieux (politique, religion) trop vite
+
+### La logistique de l'approche
+L'erreur fatale des femmes : rester GROUPÉES entre elles au centre d'une table. Aucun homme ne peut s'approcher sans risque social majeur. Ce n'est pas un problème d'attirance — c'est un problème logistique pur.
+
+---
+
+### Exercices / Pratiques
+
+- **Créer un profil qui donne matière à conversation** : une phrase intrigante, un détail inhabituel
+- **Travailler son capital écrit** : relire vos messages avant d'envoyer — concis ? Drôles ? Intéressants ?
+- **Éviter les erreurs classiques** : pas de "salut ça va", pas de "tu es magnifique", pas de copy-paste
+- **Utiliser le décalage** : ne pas répondre immédiatement, montrer que vous n'êtes pas désespéré
+- **Proposer le rendez-vous au bon moment** : après 3-4 échanges, pas après 10 messages interminables
+- **Analyser vos conversations** :Prenez une conversation qui a marché et une qui n'a pas marché. Qu'est-ce qui différenciait ?
+
+---
+
+### Citations de Stéphane
+
+> "Le virtuel a supprimé la peur du refus in vivo. L'homme valide 97% des profils mais ensuite il se prend 97% de râteaux. Voilà la réalité du pourquoi de la société féminine à la base."
+
+> "Capital physique attire, mais c'est le capital intellectuel qui CONVERTIT. L'art de la communication digitale est plus important que le simple physique."
+
+> "Les 'beaux' qui ne savent pas écrire perdent leur avantage dès le premier message. L'homme qui écrit bien bat l'homme beau qui écrit mal."
+
+---
 
 ## Citations de l'auteur
 

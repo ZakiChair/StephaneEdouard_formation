@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 2
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 12
 citations: 0
 doublon_titre: non
@@ -118,7 +119,9 @@ Vous y apprendrez notamment :
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -129,12 +132,15 @@ Vous y apprendrez notamment :
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+*podcast / vidéoscopie · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -143,6 +149,16 @@ Vous y apprendrez notamment :
 *« La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md » · origine : lien-declare*
 
 > "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 15
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 0
 citations: 3
 doublon_titre: oui
@@ -141,23 +142,27 @@ Nous nous livrerons donc ensemble à des **techniques avancées de visualisatio
 
 ### Comment se construire une esthétique — `Comment-se-construire-une-esthétique-synthese`
 
-*podcast · `Comment-se-construire-une-esthétique-synthese.md`*
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Faites toujours confiance aux femmes — `Faites-toujours-confiance-aux-femmes-synthese`
 
-*podcast · `Faites-toujours-confiance-aux-femmes-synthese.md`*
+*podcast / vidéoscopie · `Faites-toujours-confiance-aux-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Gaslighting : cette drôle manière d'abréger les femmes — `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese`
 
-*podcast · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
+*podcast / vidéoscopie · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : "Influenceurs" à l'Élysée — Ww4-NKUrOjw — `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese`
 
-*podcast · `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
+*podcast / vidéoscopie · `Influenceurs-à-l'Élysée-excellente-idée-🥇.-D'ailleurs,-c'est-la-mienne-synthese.md`*
 
+**Son verdict**
 
 > "Tant que vous ne savez pas décrire correctement un problème, ce que vous croyez être une solution en fait sera tiré au hasard."
 
@@ -168,6 +173,73 @@ Nous nous livrerons donc ensemble à des **techniques avancées de visualisatio
 *« Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md » · origine : corpus*
 
 > 3. **Consulter un tiers de confiance** : Un ami qui connaît la situation peut aider à maintenir la perspective. Attention : il faut quelqu'un de vraiment confiance, pas quelqu'un qui va prendre parti.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+La confiance en soi est le foundation de l'action selon Stéphane Édouard. Cette formation distingue la confiance authentique de l'arrogance compensatrice, et explore les mécanismes de construction de l'estime de soi. La confiance se construit par des actes réussis, pas par des declarations — on ne peut pas déclarer sa confiance, on la démontre. Les mécanismes diffèrent selon le genre : l'homme a besoin de preuves tangibles, la femme de reconnaissance relationnelle.
+
+---
+
+### Points clés
+
+- La confiance permet d'agir ; l'arrogance est une compensation d'un manque profond — le premier crée, le second masque
+- La confiance se construit par des actes réussis (proof by action), pas par des declarations
+- Plus on prend de risque, plus on développe sa confiance — le confort est l'ennemi de la confiance
+- Ce n'est pas parce que tu es charismatique que tu as confiance en toi — le charisme peut être une façade
+- Les mécanismes de construction de la confiance diffèrent selon le genre
+- La confiance se perd plus vite qu'elle ne se construit — un seul échec majeur peut effacer des années de construction
+
+---
+
+### Concepts enseignés
+
+### Confiance en soi vs arrogance
+
+La confiance permet d'agir ; l'arrogance est une compensation d'un manque profond — le premier crée, le second masque. Les gens qui n'ont pas confiance essaient de la compenser par : l'arrogance (surcompensation — "je suis trop bien pour essayer"), la validation extérieure (demande constante d'approbation), l'évitement (ne pas essayer pour ne pas échouer), ou le simp (s'épuiser à faire plaisir pour obtenir une reconnaissance).
+
+### Preuve par l'action
+
+La confiance se construit par des actes réussis, pas par des declarations — on ne peut pas declarer sa confiance, on la démontre. Le mécanisme d'amplification : Action → Résultats → Confiance renforcée → Nouvelles actions. Chaque preuve concrète de sa capacité renforce la confiance.
+
+### Risque et confiance
+
+Plus on prend de risque, plus on développe sa confiance — le comfort est l'ennemi de la confiance. L'homme qui reste dans sa zone de confort ne développe pas sa confiance. La confiance implique d'être prêt à échouer.
+
+### Confiance masculine vs féminine
+
+Les mécanismes de construction de la confiance diffèrent selon le genre — l'homme a besoin de preuves tangibles, la femme de reconnaissance relationnelle. L'homme valide sa confiance par l'action et les résultats concrets ; la femme par le regard et la reconnaissance des autres.
+
+### Estime de soi vs confiance en soi
+
+L'estime de soi est globale (je suis quelqu'un de bien), la confiance en soi est spécifique à un domaine (je sais faire ça). On peut avoir une bonne estime de soi sans confiance en soi dans un domaine précis, et vice versa.
+
+---
+
+### Exercices / Pratiques
+
+- Prendre des risques calculés pour créer des preuves de sa propre capacité
+- Analyser ses échecs pour en extraire des leçons (et non pour se dévaloriser)
+- Réduire la dépendance à la validation extérieure — développer son propre référentiel
+- Développer des compétences concrètes qui servent de foundation à la confiance
+- Eviter le simp — la recherche de validation transforme l'homme en sous-homme
+- Créer un journal de preuves : lister ses réussites passées pour renforcer la confiance
+- Questionner les interprétations négatives après un échec
+
+---
+
+### Citations de Stéphane
+
+> "Ce n'est pas parce que tu es jolie que tu as confiance en toi. Creusez un petit peu — les filles jolis sont nombreuses à ne pas avoir confiance en elles."
+
+> "On ne peut pas déclarer sa confiance, on la démontre."
+
+> "Le confort est l'ennemi de la confiance."
+
+---
 
 ## Citations de l'auteur
 

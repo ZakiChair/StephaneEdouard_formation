@@ -13,6 +13,7 @@ programme: 18
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 1
+pages_developpement: 4
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -108,8 +109,102 @@ Niaiseries du reste parfaitement égoïstes, or l’égoïsme est l’une des ra
 
 ### Synthèse – KmtLfLqyFXo — `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese`
 
-*podcast · `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese.md`*
+*podcast / vidéoscopie · `#Zemmour2022,-ep.1-the-case-of-the-stolen-kiss-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### &laquo;&nbsp;Moins fort, mon copain dort&nbsp;&raquo; : courrier d&#8217;un lecteur asexué
+
+*`web-articles__10252_devenir-sexue-courrier-lecteurs.html.txt` · 867 mots · archive de l'auteur*
+
+« Moins fort, mon copain dort » : courrier d’un lecteur asexué
+« Moins fort, mon copain dort » : courrier d’un lecteur asexué
+Bonjour Stéphane,
+Voilà, j’ai suffisamment lu ton site (depuis 2 ans maintenant) pour comprendre les notions importantes qui reviennent dans la séduction, et surtout ce qu’il ne faut absolument pas faire. Sauf que voilà, je l’ai sûrement connu trop tard, et maintenant je demande ton aide pour me sortir d’une situation d’
+obsession amoureuse
+(en tout cas je la perçois comme ça) et il me faut un regard extérieur, que mes amis ne peuvent me donner.
+Je connais cette fille depuis pratiquement 6 ans, soit depuis que nous sommes en classe de 4ème, aujourd’hui nous avons été envoyés dans la même Faculté de Médecine à Paris VI et nous avons toujours été dans la même classe. Alors autant dire qu’on risque ne pas de se perdre de vue avant un bout de temps ! Je la vois tous les jours, nous sommes dans le même groupe d’amis.
+En 4ème et 3ème, je ne la voyais que comme une fille banale, sans plus (je n’étais pas très intéressé par une relation avec elle à ce moment là). Puis en seconde, nous avons commencé à devenir complices, on rigolait beaucoup, dans la vie et sur messagerie instantanée. J’éprouvais quelques sentiments probablement dus à la complicité qui donne l’impression d’amour, mais comme il n’y a pas de connexion, ce n’est que du vent, comme j’ai pu le lire sur ton site. Tu me corriges si j’ai mal compris. Ça a continué, mais petit à petit on se croisait de moins en moins, pour être le vide en Terminale. Arrivé à la fac, on rentrait ensemble et nous parlions de tout et de rien, on rigolait.
+TD(irective)
+Il y a 4 ou 5 mois, lors d’un TD (en petit comité), nous étions l’un à côté de l’autre, et elle me chauffait vraiment, c’était assez gênant pour moi car notre groupe d’amis était autour de nous, et je ne suis pas rentré dans son jeu tout simplement car je faisais déjà une petit fixation sur elle en 2nde et j’en étais à peine remis, aussi parce que ce qui se disait était important… C’est le tournant, j’ai depuis commencé à ne penser qu’à elle, puis ça s’est calmé, mais à chaque fois qu’elle m’adresse la parole, je me fais des films en rentrant ch
+
+### Relooking : avant après
+
+*`web-ateliers-workshops-cours__1079_relooking-avant-apres.html.txt` · 580 mots · archive de l'auteur*
+
+L’équipe
+Relooking : avant après
+En repassant à la visionneuse toutes nos photos de relooking avant après depuis 3 ans, nous avons eu envie de vous faire partager une réflexion : à tout bien y réfléchir, il y a un style SpikeSéduction (le contraire eût été étonnant) mais, au sein de ce style, plusieurs déclinaisons, comme l'illustrent ces 3 photos récentes d'avant-après
+Avant après casual (journée)
+Objectif : upgrader une tenue basique en y ajoutant de la classe et de l'originalité, mais (contrainte) tout aussi confortable et "non prise de tête", comme disent les jeunes. Enfin je crois.
+Avant relooking : confortable mais invisible
+Après relooking : à votre avis ?
+Avant après eye-catcher (soirée)
+Objectif : profiter du jeune âge d'Axel (17 ans) pour oser des pièces fortes et lui concocter un relooking qui attire l'attention (une journée sans regards et sans sourire est une journée bien triste), sans tomber dans le vulgaire
+Avant relooking : look jeune mais banal et, surtout, matières trop cheap, surtout la veste
+Après relooking et veste en cuir vernis : à votre avis ?
+Avant après advanced
+Objectif : profiter de sa taille et de l'absence de contraintes pour concocter un relooking advanced, avec une silhouette qui aurait sa place sans rougir sur un podium de défilé
+Avant relooking : campeur
+Après relooking : à votre avis ?
+Et vous, quel serait votre style d'avant-après ?
+Parmi tous nos
+relooking avant-après
+, nous sommes curieux de découvrir ceux que vous préférez. N'hésitez pas à nous en faire part dans la case commentaires ci-dessous. Attention toutes les photos avant après ne figurent pas sur cette page, pour suivre l'actualité de nos relookings au jour le jour, c'est le topic
+témoignages relookings 2008
+qu'il faut suivre.
+Ps : nous prétendons réaliser les meilleurs relookings homme depuis 3 ans, à Paris, Londres, Milan, Genève et New-York. Pour consulter nos dates et tarifs, direction l'
+agenda des relookings
+. Une question au sujet votre réservation ? Appelez nous au 0892.69.90.88 tous les jours de 11h à 13h et de 15h à 18h (0,34€ la min depuis un poste fixe)
+Elections : votez pour votre relooking homme préféré
+"Je ne m’attendais vraiment pas à un relooking au
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### Relooking : avant après
+
+*`web-ateliers-workshops-cours__1079_relooking-avant-apresrelooking-avant-apres.html.txt` · 417 mots · archive de l'auteur*
+
+En repassant à la visionneuse toutes nos photos de relooking avant après depuis 3 ans, nous avons eu envie de vous faire partager une réflexion : à tout bien y réfléchir, il y a un style SpikeSéduction (le contraire eût été étonnant) mais, au sein de ce style, plusieurs déclinaisons, comme l'illustrent ces 3 photos récentes d'avant-après
+Avant après casual (journée)
+Objectif : upgrader une tenue basique en y ajoutant de la classe et de l'originalité, mais (contrainte) tout aussi confortable et "non prise de tête", comme disent les jeunes. Enfin je crois.
+Avant relooking : confortable mais invisible
+Après relooking : à votre avis ?
+Avant après eye-catcher (soirée)
+Objectif : profiter du jeune âge d'Axel (17 ans) pour oser des pièces fortes et lui concocter un relooking qui attire l'attention (une journée sans regards et sans sourire est une journée bien triste), sans tomber dans le vulgaire
+Avant relooking : look jeune mais banal et, surtout, matières trop cheap, surtout la veste
+Après relooking et veste en cuir vernis : à votre avis ?
+Avant après advanced
+Objectif : profiter de sa taille et de l'absence de contraintes pour concocter un relooking advanced, avec une silhouette qui aurait sa place sans rougir sur un podium de défilé
+Avant relooking : campeur
+Après relooking : à votre avis ?
+Et vous, quel serait votre style d'avant-après ?
+Parmi tous nos
+relooking avant-après
+, nous sommes curieux de découvrir ceux que vous préférez. N'hésitez pas à nous en faire part dans la case commentaires ci-dessous. Attention toutes les photos avant après ne figurent pas sur cette page, pour suivre l'actualité de nos relookings au jour le jour, c'est le topic
+témoignages relookings 2008
+qu'il faut suivre.
+Ps : nous prétendons réaliser les meilleurs relookings homme depuis 3 ans, à Paris, Londres, Milan, Genève et New-York. Pour consulter nos dates et tarifs, direction l'
+agenda des relookings
+. Une question au sujet votre réservation ? Appelez nous au 0892.69.90.88 tous les jours de 11h à 13h et de 15h à 18h (0,34€ la min depuis un poste fixe)
+Relooking : les derniers avant / après
+Elections : votez pour votre relooking homme préféré
+Message d'un relooké à ceux qui hésitent en
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

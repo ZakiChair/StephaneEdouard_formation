@@ -13,6 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 1
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -58,7 +59,9 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 
 ### Synthèse — Garde alternée et coup de boule : qui ment dans ce tribunal ? (Vidéoscopie) — `Garde-alternée-et-coup-de-boule-qui-ment-dans-ce-tribunal-synthese`
 
-*podcast · `Garde-alternée-et-coup-de-boule-qui-ment-dans-ce-tribunal-synthese.md`*
+*podcast / vidéoscopie · `Garde-alternée-et-coup-de-boule-qui-ment-dans-ce-tribunal-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Elle ne se souvient pas si l'hématome était à gauche ou à droite
 - L'enfant dans les bras pendant l'altercation — pourquoi ne pas avoir protégé l'enfant ?
@@ -67,13 +70,15 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 
 ### Le verbe "arracher" et la disponibilité féminine — `Le-verbe-arracher-et-la-disponibilité-féminine-synthese`
 
-*podcast · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
+*podcast / vidéoscopie · `Le-verbe-arracher-et-la-disponibilité-féminine-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Analyse Vidéoscopique - Weshden, France Télévisions, et Divers — `Video-kjMBBW4fruY-synthese`
 
-*podcast · `Video-kjMBBW4fruY-synthese.md`*
+*podcast / vidéoscopie · `Video-kjMBBW4fruY-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -82,6 +87,93 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 *« Garde-alternée-et-coup-de-boule-qui-ment-dans-ce-tribunal-synthese.md » · origine : lien-declare*
 
 > Elle ne se souvient pas si l'hématome était à gauche ou à droite
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### 12 mars, découvrez toutes les techniques de séduction à l&rsquo;écrit
+
+*`web-actualite__5448_techniques-seduction-ecrit.html?preview=1.txt` · 1130 mots · archive de l'auteur*
+
+Toutes les techniques de séduction à l'écrit
+12 mars, découvrez toutes les techniques de séduction à l’écrit
+12 mars, découvrez toutes les techniques de séduction à l’écrit
+Video:preview séminaire séduire à l'écrit
+Référence :
+techniques de séduction à l'écrit
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+maîtriser l'utilisation des techniques orales et de visualisation pour séduire et convaincre son interlocuteur à l'écrit
+Durée totale :
+2h56mn
+Taille du fichier :
+170 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant II
+Devenez intéressant I
+La dernière journée de séminaire a donné lieu une journée passionnante dans une salle comble (plus une seule chaise de libre) à des témoignages dithyrambiques (
+consultables sur le forum
+) et ce sera sans doute encore le cas le 12 mars prochain avec un thème (toujours) inédit : toutes les techniques pour convaincre et
+séduire à l'écrit
+Problématique
+Je sais que vous n'y avez jamais pensé. Je sais bien. Mais réfléchissez avec moi : sur une journée de, disons, 12h, combien passez-vous de temps à séduire de vive voix ? 3 minutes votre voisine de bus (et encore, pas tous les jours, vous voyez ce que je veux dire…), 10 minutes votre collègue Clémentine à la cantine (idem) et 15 (je suis généreux) le soir dans le pub du coin. Au final, moins de 30 minutes dans une journée ordinaire. Et encore.
+En comparaison, combien de temps passez-vous à séduire (au sens large, c'est à dire
+convaincre
+) à l'écrit ?
+Par jour, c'est en moyenne :
+1h
+sur Facebook
+(moyenne nationale). Et n'essayez pas de me dire que c'est pour autre chose qu'impressionner les files de votre réseau… (et accessoirement en rencontrer d'autres)
+encore 1h ou presque pour ceux d'entre vous qui utilisent les sites de rencontre (temps notamment passé en "tchat", où vos capacités de
+séduire à l'écrit
+déterminent à elles seules la décision de la jeune fille d'accepter - ou pas - un rendez-vous)
+plusieurs heures par email à convaincre vos
+collègues de bureau
+du bien-fondé de vos décisions. Vous con
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Stéphane Édouard analyse un couple composé d'un rappeur (Seth Gueko / Salvadori) et d'une mannequin métissée, dans le format "vidéos scopiques".
+
+### Points clés :
+
+1. **Le couple** : Un rappeur avec passif judiciaire et "gestuelle de racaille" et une mannequin africaine probablement métissée, se présentant comme "Monsieur et Madame".
+
+2. **Analyse comportementale** : La femme montre des signes de "fascination morbide" pour la dissection et les corps - "la branche à fond". Son sourire est décrit 
+
+### 9NePuN28dD0-synthese
+# Synthèse — Analyse du discours de Macron du 12 juillet 2021 (Vidéoscopie)
+
+**Video ID**: 9NePuN28dD0
+**URL**: https://www.youtube.com/watch?v=9NePuN28dD0
+
+---
+
+### Points clés
+
+1. **Méthode : Vidéoscopie** : Analyse不计份 du fond, mais de la forme — posture, gestes, musique du langage, cohérence des notes.
+
+2. **Analyse chromatique** : 4 bleus sur image (costume, drapeau, cravate, écrans) — "ça fait un petit peu beaucoup".
+
+3. **Avertissement commercial** : Tirage au sort d'une platine vinyle Bluetooth pour les VIP du mois d'aout.
+
+4. **Формальный анализ语调** :
+   - "Pour notre unité nous devons aller vers la vaccination" — ton А polymeric, mart
+
+---
 
 ---
 

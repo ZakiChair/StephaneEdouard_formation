@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 31
 citations: 0
 doublon_titre: oui
@@ -92,7 +93,9 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 
 ### SYNTHESE - -arsbMg7ZHM — `Court-extrait-–-préférences-YouTube-synthese`
 
-*podcast · `Court-extrait-–-préférences-YouTube-synthese.md`*
+*podcast / vidéoscopie · `Court-extrait-–-préférences-YouTube-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La musculation sans comportement humain n'intéresse pas.
 - L'anthropologie sociale comme centre d'intérêt principal.
@@ -103,16 +106,21 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 - Intelligence Sociale
 - Communication et Langage
 
+**Son verdict**
+
 > "Je ne crains pas les fautes d'orthographe, je crains l'insécurité économique et le vandalisme."
 
 ### Synthèse – WYig06HnKxU — `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese`
 
-*podcast · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
+*podcast / vidéoscopie · `Dupond-Moretti-ministre-avait-il-menti-sur-LCI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - FnmOmeQkYWo — `Qu'est-ce-donc-cette-diablerie-synthese`
 
-*podcast · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+*podcast / vidéoscopie · `Qu'est-ce-donc-cette-diablerie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le film : 3 couples (hétéro, bi, intergénérationnel) = "liberté sexuelle" de façade
 - Les truismesde ("on est pas que des bonnes épouses", "le plaisir féminin")
@@ -123,21 +131,28 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 - Les arguments datent de 50 ans (Mai 68)
 - Le contexte de Mai 68 = besoin de repeupler après la guerre + inflation 2 chiffres
 
+**Son verdict**
+
 > "Tant que vous n'êtes pas capables de correctement décrire le problème, vous ne savez pas le résoudre"
 
 ### Synthèse – ebpWGsLSpCE — `Video-ebpWGsLSpCE-synthese`
 
-*podcast · `Video-ebpWGsLSpCE-synthese.md`*
+*podcast / vidéoscopie · `Video-ebpWGsLSpCE-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Féminisme, antiracisme, islamisme — branches d'un même mal — `Video-ioOtOqb-9m0-synthese`
 
-*podcast · `Video-ioOtOqb-9m0-synthese.md`*
+*podcast / vidéoscopie · `Video-ioOtOqb-9m0-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Trois branches d'un même mal : féminisme, antiracisme, islamisme — d'un même tronc.
 - Le socialisme mental : partie de l'idée que le monde est une maison — plus de rapport de force, cohabitation comme une famille.
 - Problème de l'unique père commun : dans cette logique, il devrait y avoir un seul "père" pour tous — mais les imité font que ça clash.
 - Brunet Emmanuel : notion attribuée à Emmanuel Brunet, qui a FORMULÉ cette triade.
+
+**Son verdict**
 
 > Il y a un beau-père, un père et un beau beau-père — la difficulté d'avoir un seul pour tous.
 
@@ -162,6 +177,93 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 *« Video-ioOtOqb-9m0-synthese.md » · origine : lien-declare*
 
 > Trois branches d'un même mal : féminisme, antiracisme, islamisme — d'un même tronc.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Ce webinaire de 2 heures propose une approche radicale de la simplification de vie. Stéphane Édouard part du principe que la plupart des gens accumulent de la complexité dans tous les domaines de leur vie — relations, travail, possessions, émotions — et que cette complexité est une source majeure de stress et d'insatisfaction. La simplification n'est pas un concept de développement personnel tiède — c'est une philosophie de vie qui demande de prendre des décisions difficiles sur ce qui compte vraiment et d'éliminer tout le reste sans culpabilité.
+
+---
+
+### Points clés
+
+- La simplification est un muscle — plus vous le entraînez, plus il devient facile
+- La plupart des gens accumulent de la complexité parce qu'ils ont peur de dire non
+- La simplification dans un domaine (physique, relationnel, mental) facilite la simplification dans les autres
+- Dire « non » à quelque chose, c'est dire « oui » à autre chose — toujours
+- La simplification n'est pas la privation — c'est la curation intentionnelle de ce qui compte
+- Les gens qui ont simplifié leur vie ne manquent de rien — ils ont juste éliminé le superflu
+
+---
+
+### Concepts enseignés
+
+### Pourquoi la simplification est difficile
+La complication est un mécanisme de défense contre l'incertitude. Quand vous acceptez tout, vous évitez le conflit. Quand vous dites oui à tout, vous n'avez pas à faire face au jugement. La complication vous donne l'illusion d'être occupé, donc important. Mais cette illusion a un coût : votre temps, votre énergie, votre clarté mentale.
+
+Les excuses pour ne pas simplifier :
+- « Je n'ai pas le choix » — Faux. Vous avez toujours le choix. Vous préférez juste éviter l'inconfort du choix.
+- « Plus tard, quand j'aurai le temps » — Le temps ne viendra pas. Vous devez le créer.
+- « Je vais regretter si je simplifie » — Vous regretterez plus d'avoir vécu une vie compliquée par défaut.
+
+### Les 4 domaines de simplification
+Stéphane identifie 4 domaines où la simplification a le plus grand impact :
+
+**1. Simplification physique (environnements, possessions)**
+- Un espace encombré = un esprit encombré
+- La possession n'apporte pas le bonheur — l'expérience apporte le bonheur
+- Chaque objet que vous gardez sans l'utiliser vous coûte en énergie mentale (organisation, stockage, sentiment de dette)
+- La simplification physique est le point d'entrée le plus visible — commencez par là
+
+**2. Simplification relationnelle**
+- Les relations ne doivent pas toutes être maintenues
+- Certaines relations vous coûtent plus qu'elles ne vous apportent — elles sont un drain, pas un apport
+- La simplification relationnelle ne signifie pas abandonner — ça signifie choisir consciemment qui mérite votre temps
+- Entourez-vous de gens qui vous élèvent, pas de gens qui vous diminuent
+
+**3. Simplification mentale (croyances, pensées)**
+- La plupart des croyances que vous avez héritées de votre enfance ne vous servent plus
+- Les pensées négatives répétitives sont une forme de complication mentale — elles peuvent être simplifiées
+- Le discernement est la simplification mentale : savoir ce qui est vrai, important, pertinent
+- Les pensées ne sont pas des faits — vous pouvez les observer sans les croire
+
+**4. Simplification temporelle**
+- La vraie richesse est le temps, pas l'argent
+- Remplir son calendrier de « oui » est une forme de sclérose
+- Chaque engagement doit être évalué par rapport à son coût en temps et en énergie
+- Le vide créé par la simplification n'est pas un vide pathologique — c'est un espace pour l'essentiel
+
+### Le cadre de décision « Oui, Non, ou Hell Yeah »
+Stéphane propose un cadre simple pour évaluer les engagements :
+
+- **Hell Yeah** : C'est un yes enthousiaste. Vous êtes excité à l'idée. Faites-le.
+- **Oui** : Ça semble correct.
+
+### Exercices / Pratiques
+
+- **Le défi des 30 jours** : Pendant 30 jours, n'acceptez aucun nouvel engagement. Évaluez uniquement les « Hell Yeah ». Observez ce qui se passe dans votre niveau de stress et votre clarté mentale.
+- **Le tri de vos possessions** : Prenez une pièce de votre maison. Triez tout en 3 catégories : Garder (utilisé régulièrement), Donner (utile mais pas pour vous), Jeter. Si vous n'avez pas utilisé quelque chose en 1 an, vous ne le manquerez pas.
+- **L'audit relationnel** : Listez vos 20 relations les plus fréquentes. Pour chacune, évaluez : cette relation me coûte ou m'apporte ? Entoure-toi de ceux qui t'élèvent.
+- **Le "non" quotidienne** : Chaque jour, trouvez une chose à refuser. Pas par laziness — par intention. Dire non à une chose vous donne l'énergie de dire oui à une autre.
+- **La méditation du vide** : Passez 10 minutes par jour avec un agenda vide. Pas de filling. Observez l'inconfort. À travers cet incomodité, vous trouverez de la clarté sur ce qui compte vraiment.
+- **L'évaluation mensuelle** : Une fois par mois, regardez votre calendrier du mois passé. Combien de temps était sur « mode automatique » vs intentionnel ?
+
+---
+
+### Citations de Stéphane
+
+> « La simplification n'est pas la privation. C'est la curation intentionnelle de ce qui compte — et l'élimination sans culpabilité de tout le reste. »
+
+> « Chaque fois que vous dites "oui" à quelque chose qui n'est pas un "Hell Yeah", vous volez du temps et de l'énergie à quelque chose qui aurait pu être un "Hell Yeah". »
+
+> « La plupart des gens accumulent de la complexité parce qu'ils ont peur de choisir. La simplification exige du courage — le courage de préférer l'essentiel à l'agréable. »
+
+> « Le vide créé par la simplification n'est pas un vide pathologique. C'est un espace pour l'essentiel. »
+
+---
 
 ## Concepts
 

@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 5
 points_annonce: 7
 documents_materiau: 5
+pages_developpement: 10
 idees_forces: 30
 citations: 0
 doublon_titre: oui
@@ -131,7 +132,9 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 
 ### SYNTHESE - FvsFRnLWMA0 — `Anecdote-personnelle-soirée-déterminante-synthese`
 
-*podcast · `Anecdote-personnelle-soirée-déterminante-synthese.md`*
+*podcast / vidéoscopie · `Anecdote-personnelle-soirée-déterminante-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Première gifle de réalisme : les hommes ont une meuf, pas le contraire
 - Les "meufs" et "babes" d'aujourd'hui = Instagrammeuses
@@ -142,11 +145,15 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 - Préoccupation pour la situation sanitaire et le retour de "la bête immonde" (inflation)
 - *Lien avec formations** :
 
+**Son verdict**
+
 > Une gifle et un retentissement — moment formatif de la vision du monde
 
 ### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-*podcast · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+*podcast / vidéoscopie · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La strip-tease comme "travail émotionnel" les hommes
 - Différence entre féminisme de droite (procédures judiciaires) et féminisme de gauche (spiritualité, cycle naturel, sorcellerie)
@@ -157,21 +164,27 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 - *Lien avec formations** :
 - Force Mentale
 
+**Son verdict**
+
 > "Quand tu es trop blanc pour les blacks et trop noir pour les whites, tu finis par tomber dans la catégorie trans — c'est le chaos identitaire."
 
 ### Synthèse : Pour surmonter une rupture, n'imite pas cette youtubeuse — `Pour-surmonter-une-rupture,-n'imite-pas-cette-youtubeuse-synthese`
 
-*podcast · `Pour-surmonter-une-rupture,-n'imite-pas-cette-youtubeuse-synthese.md`*
+*podcast / vidéoscopie · `Pour-surmonter-une-rupture,-n'imite-pas-cette-youtubeuse-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : The Circus of "A-Gendered" Children on TV — `The-Circus-of-A-Gendered-Children-on-TV-synthese`
 
-*podcast · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
+*podcast / vidéoscopie · `The-Circus-of-A-Gendered-Children-on-TV-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : WHERE IS NATHALIE'S PLACE?? — Analyse d'un éco-village — `WHERE-IS-NATHALIE'S-PLACE-synthese`
 
-*podcast · `WHERE-IS-NATHALIE'S-PLACE-synthese.md`*
+*podcast / vidéoscopie · `WHERE-IS-NATHALIE'S-PLACE-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les CROCS : signe de cohérence — mais les CROCS en plastique c'est tout sauf écologique.
 - 20% de dislikes : indique une irritabilité du public — problème avec le message ou le personnage.
@@ -179,6 +192,8 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 - Conflict resolution par l'écologie intérieure : utilisation d'outils comme la CNV, la "transmutation", le "dialogue avec son intuition" — beaucoup de acronyms et zéro concrete.
 - L'absence de concrètes : quand elle parle de "transformation" ou de "libération dans le corps", impossible de savoir ce que ça signifie concrètement.
 - Le moment révélateur : "hier j'ai compris que mon psy كان pas neutre" + "on n'est plus alignés" = elle est en train de dire "je vais te quitter" tout en restant dans le cadre de la "pensée unique".
+
+**Son verdict**
 
 > Tant que vous n'êtes pas capables de décrire correctement un problème, votre solution sera tirée au hasard.
 
@@ -203,6 +218,105 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 *« WHERE-IS-NATHALIE'S-PLACE-synthese.md » · origine : lien-declare*
 
 > Les CROCS : signe de cohérence — mais les CROCS en plastique c'est tout sauf écologique.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Prochain séminaire séduction et développement personnel
+
+*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
+
+Séduction, relooking homme - Le site de référence
+Prochain séminaire séduction et développement personnel
+Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
+(Bibi)
+(Bibi à nouveau)
+(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
+Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
+“changez de vie”
+et poursuivie par le séminaire
+“devenez intéressant”
+du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
+Prochain séminaire séduction : le pitch
+Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
+amoureuses
+, mais également
+professionnelles
+, et
+amicales
+Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
+comment
+, exactement ? Ah…
+Des nouvelles bientôt, dans
+l’agenda
+Témoignages sur le séminaire changez de vie du 19 juillet
+Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
+Développement personnel : quel but ?
+Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
+séminaire séduction
+Un commentaire
+Où et quand nous inscrivons-nous?
+
+### Les dandys sont toujours seuls (ou les limites du développement personnel)
+
+*`web-articles__10710_developpement-%E2%80%A6imites-dangers.html.txt` · 1964 mots · archive de l'auteur*
+
+Interrogés sur la femme parfaite dans les années 90, près d’un américain sur deux désignait Pamela Anderson et c’est tout de même difficile à concevoir sur le corps de quelqu’un dont pas une pièce n’est d’origine. Et encore plus difficile aujourd’hui quand on cherche à se souvenir à quoi elle ressemblait.
+D’abord parce qu’à force d’opérations (ou de coups de son boyfriend Tommy Lee) elle a changé de visage depuis cette époque. Et aussi parce qu’arrivée à 4x ans sans jamais dormir la nuit, elle est fripée comme ma vieille table à repasser. Prenons donc un exemple plus récent de la « perfection » telle qu’elle décide de s’incarner sur quelqu’un :
+Valeria Lukyanova.
+Enfant du pays aux paupières baissées, cette jeune russe a deux fois moins d’années au compteur que Pamela (soit 2x) et au moins 2 fois plus d’opérations sur le billard. Son objectif est prodigieusement atteint : elle ressemble à Barbie. Pardon, correctif : elle
+est
+Barbie. Les filles les plus minces que je connaisse (soit mes deux dernières copines) font du 34 en taille, mais Barbie doit faire du 25, ce qui n’est physiologiquement possible qu’en se faisant retirer des côtes. Les filles les plus belles que je connaisse (soit mes ex, plus
+Valentina Cervi
+Julianne Moore
+) ont un visage d’artiste à contempler des heures durant, mais Barbie n’a que faire de la nature qui un jour a calculé que pour sourire il fallait que nos pommettes puissent se plier un peu. Un pli pouvant être assimilé par un objectif de photographe à une ride, il a fallu faire un choix, dont la conséquence est qu’aujourd’hui même mon autoradio est plus expressif lorsqu’il me dit « hello ».
+Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 2000 ont des poupées russes, et si l’un d’entre vous trouve « parfaite » une de ces saucisses, qu’il interrompe immédiatement la lecture de ce site et tape « verse le jus » dans la barre d’adresse de son navigateur, où il rejoindra plein d’amis qui pensent comme lui. Vous êtes toujours là ? Tant mieux, je vais donc pouvoir vous expliquer sans plus attendre le rapport avec l’article du jour, la
+recherche de perfection
+Perfection es-tu là ?
+Je dînais tout seul l’autre soir avec
+
+### Les dandys sont toujours seuls (ou les limites du développement personnel)
+
+*`web-articles__seduction-avance__10710_developpement-personnel-limites-dangers.html.txt` · 1964 mots · archive de l'auteur*
+
+Interrogés sur la femme parfaite dans les années 90, près d’un américain sur deux désignait Pamela Anderson et c’est tout de même difficile à concevoir sur le corps de quelqu’un dont pas une pièce n’est d’origine. Et encore plus difficile aujourd’hui quand on cherche à se souvenir à quoi elle ressemblait.
+D’abord parce qu’à force d’opérations (ou de coups de son boyfriend Tommy Lee) elle a changé de visage depuis cette époque. Et aussi parce qu’arrivée à 4x ans sans jamais dormir la nuit, elle est fripée comme ma vieille table à repasser. Prenons donc un exemple plus récent de la « perfection » telle qu’elle décide de s’incarner sur quelqu’un :
+Valeria Lukyanova.
+Enfant du pays aux paupières baissées, cette jeune russe a deux fois moins d’années au compteur que Pamela (soit 2x) et au moins 2 fois plus d’opérations sur le billard. Son objectif est prodigieusement atteint : elle ressemble à Barbie. Pardon, correctif : elle
+est
+Barbie. Les filles les plus minces que je connaisse (soit mes deux dernières copines) font du 34 en taille, mais Barbie doit faire du 25, ce qui n’est physiologiquement possible qu’en se faisant retirer des côtes. Les filles les plus belles que je connaisse (soit mes ex, plus
+Valentina Cervi
+Julianne Moore
+) ont un visage d’artiste à contempler des heures durant, mais Barbie n’a que faire de la nature qui un jour a calculé que pour sourire il fallait que nos pommettes puissent se plier un peu. Un pli pouvant être assimilé par un objectif de photographe à une ride, il a fallu faire un choix, dont la conséquence est qu’aujourd’hui même mon autoradio est plus expressif lorsqu’il me dit « hello ».
+Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 2000 ont des poupées russes, et si l’un d’entre vous trouve « parfaite » une de ces saucisses, qu’il interrompe immédiatement la lecture de ce site et tape « verse le jus » dans la barre d’adresse de son navigateur, où il rejoindra plein d’amis qui pensent comme lui. Vous êtes toujours là ? Tant mieux, je vais donc pouvoir vous expliquer sans plus attendre le rapport avec l’article du jour, la
+recherche de perfection
+Perfection es-tu là ?
+Je dînais tout seul l’autre soir avec
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 6
 points_annonce: 10
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 22
 citations: 0
 doublon_titre: oui
@@ -125,12 +126,15 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 
 ### Synthèse : Konbini et le combat d'arrière-garde des femmes — `Video-2886bTU-5Yk-synthese`
 
-*podcast · `Video-2886bTU-5Yk-synthese.md`*
+*podcast / vidéoscopie · `Video-2886bTU-5Yk-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Vous n'êtes pas prêts à rejoindre ce camp de masculinité — y9swYuM4_Jw — `Vous-n'êtes-pas-prêts-à-rejoindre-ce-camp-de-masculinité-synthese`
 
-*podcast · `Vous-n'êtes-pas-prêts-à-rejoindre-ce-camp-de-masculinité-synthese.md`*
+*podcast / vidéoscopie · `Vous-n'êtes-pas-prêts-à-rejoindre-ce-camp-de-masculinité-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La symbolique du tipi comme miroir inversé : Là où les Castors Juniors utilisaient le tipi comme jeu d'enfant, ces adultes en âge de procréer cherchent dans ce même espace un réconfort qu'ils n'arrivent plus à trouver ailleurs — révélant une régression vers la horde primitive.
 - L'orthopraxie comme nouvelle religiosité : L'interdiction de viande et d'alcool dans ces cercles n'est pas anodine. C'est le propre des religions que de proposer des interdits alimentaires. Ces stages sont des substituts isés de la transcendance, une spiritualité sans église.
@@ -141,7 +145,9 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 
 ### SYNTHESE - Eu9WHLDaFgE — `Yseult-=-césar-2021-de-la-pleurniche-synthese`
 
-*podcast · `Yseult-=-césar-2021-de-la-pleurniche-synthese.md`*
+*podcast / vidéoscopie · `Yseult-=-césar-2021-de-la-pleurniche-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les parents de Jordana : père cadre supérieur automobile + mère infirmière = 12-15K€/mois, Mercedes, sacs Chanel
 - Rebutation de l'empathie collective pour des groupes (l'empathie est individuelle)
@@ -151,6 +157,8 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 - Suggestion sarcastique : qu'elle aille se plaindre au président camerounais à l'hôtel Intercontinental de Genève
 - La underbite narrative : victimisation comme stratégie
 - La confusión mentale entre combat féministe, indigéniste, et wokisme
+
+**Son verdict**
 
 > "Elle s'empare de plus de combats qu'elle ne peut porter — elle n'a ni le talent de Lucchini ni la finesse de Berre"
 
@@ -167,6 +175,16 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 *« Yseult-=-césar-2021-de-la-pleurniche-synthese.md » · origine : lien-declare*
 
 > Les parents de Jordana : père cadre supérieur automobile + mère infirmière = 12-15K€/mois, Mercedes, sacs Chanel
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

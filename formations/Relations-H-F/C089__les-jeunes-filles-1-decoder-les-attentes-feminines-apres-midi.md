@@ -13,6 +13,7 @@ programme: 2
 sections_annonce: 9
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 5
 idees_forces: 16
 citations: 0
 doublon_titre: oui
@@ -165,17 +166,21 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 
 ### Confiné, il rédige une ode à la beauté féminine — La cancel culture en action — `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese`
 
-*podcast · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
+*podcast / vidéoscopie · `Confiné,-il-rédige-une-ode-à-la-beauté-féminine-➡️-devinez-qui-l'agresse-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Montrer son intérêt à un homme (2/2) — `Montrer-son-intérêt-à-un-homme,-pt.22-synthese`
 
-*podcast · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
+*podcast / vidéoscopie · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video p1WU4JiuIzQ — p1WU4JiuIzQ — `Video-p1WU4JiuIzQ-synthese`
 
-*podcast · `Video-p1WU4JiuIzQ-synthese.md`*
+*podcast / vidéoscopie · `Video-p1WU4JiuIzQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
 - Le ressentiment comme mécanisme universel : Ce n'est pas une question de genre, mais une réaction humaine face à un sentiment d'insuffisance dans le présent.
@@ -185,7 +190,9 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 
 ### SYNTHESE - 4kLJff41LQA — `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese`
 
-*podcast · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+*podcast / vidéoscopie · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
 - L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
@@ -195,6 +202,8 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 - L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
 - *Lien avec formations** :
 - École des Hommes (rapport au corps, dynamiques Hommes/Femmes)
+
+**Son verdict**
 
 > "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
 
@@ -211,6 +220,105 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 *« Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md » · origine : lien-declare*
 
 > Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### A l&#8217;ombre des jeunes filles en fleur
+
+*`web-articles__211_a-lombre-des-jeunes-filles-en-fleur-2.html.txt` · 264 mots · archive de l'auteur*
+
+A l’ombre des jeunes filles en fleur
+Conseil séduction - Relooking homme
+A l’ombre des jeunes filles en fleur
+Savoir qu'on n'a plus rien à espérer n'empêche pas de continuer à attendre
+A l'ombre des jeunes filles en fleur,
+Marcel Proust
+Depuis quelques temps je vivais une retraite paisible à l’ombre des rayonnages de bibliothèques quand – la chair est faible – le bruit et la fureur commencèrent à me manquer. Le samedi qui suivit cette constatation, j’allai chercher le killer-costume qui dormait au pressing comme la cape de Bruce Wayne et fit le plein de mp3 de Cowboy Bebop dans mon baladeur. Quelques minutes plus tard, je me saoulais aux odeurs d’alcool dans les rayons parfums des grands magasins.
+A la manière des chambres d’hôtel dont la blanchisserie ne masque jamais le mélange âcre des odeurs (trop) humaines qui s’y sont succédées, les rayons parfumerie, derrière la bergamote et la vanille de synthèse, recèlent toujours la puanteur du troupeau. Sous-vêtements approximatifs pour les messieurs et toilettes intimes bâclées pour les dames, l’air chargé de sudation et des postillons de l’énervement, la nature humaine ne se digère que lorsqu’elle est consommée avec parcimonie et je filai par l’escalier de secours vers les étages supérieurs.
+Models in the mirror are uglier than they appear
+Relooking gratuit
+Charisme, aura : devenez un alpha (par Zoé, lectrice de Spi...
+Jeu : école de séduction, partie V et fin
+Le démon du bien
+
+### 10 bonnes raisons (et 3 mauvaises) de préférer les femmes après 40 ans | Spike Séduction
+
+*`web-articles__20371_femmes-40-ans.html.txt` · 1587 mots · archive de l'auteur*
+
+Comprendre les femmes n’empêche pas de comprendre les hommes. Surtout qu’ils sont globalement plus simples, plus prévisibles, plus logiques. Et tout aussi prédéterminés génétiquement. A quoi? A aimer les femmes plus jeunes qu’eux, plus fertiles, et accessoirement très apprêtées. Bonjour Jean-Luc, si tu nous écoutes
+du fond de ton cachot
+De mon côté, les choses sont allées un peu différemment, sur ça et sur le reste. D’abord, je déteste les déterminismes, qu’ils soient sociaux, économiques, historiques, et même génétiques. Libre arbitre, discernement, goût personnel, qui m’aime me suive, etc.: ça a déjà plus de gueule.
+Ensuite, j’ai toujours plu aux femmes plus âgées. Les plus jeunes (qui deviennent chaque jour plus nombreuses, c’est la loi des nombres et du temps qui passe) me trouvent exigeant, moralisateur, râleur, et psycho-rigide. Une attirance qui, heureusement pour moi, n’est pas unilatérale. J’ai toujours trouvé que les femmes de 40 ans poutraient. Et maintenant, je vais expliquer pourquoi.
+Cette introduction, faite de phrases très courtes et hachée menue de ponctuation, est très étrange non ? Je veux dire, je n’écris pas comme ça, d’habitude, si ? Ainsi soit-il. Faisons le tour des raisons de
+préférer la femme dans sa quarantaine
+En commençant par dézinguer quelques lieux communs sans fondement (pléonasme)
+3 FAUSSES bonnes raisons de préférer les femmes de 40 ans
+Fausse
+bonne raison, 1. Elles seraient plus portées sur « la chose »
+Faux. L’envie de s(e faire) allonger est un paramètre entièrement personnel, qui varie plus selon les caractères que selon les âges de la vie. Sinon les maisons de retraite seraient remplies de nymphomanes, ce qui aux dernières nouvelles n’est pas exactement le cas. Même si.
+Fausse
+bonne raison, 2. Elles seraient toutes des « bons coups »
+De plus, ayant grandi dans des années 70 patriarcales et encore peu enclines à la féminisation de notre xxième siècle (et la réduction de la liberté au plaisir individuel, théorisée en son temps par qui-on-sait), les chances que leur maman se soit penchée sur leur clitoris pour leur en expliquer le mode d’emploi sont assez maigres, ignorant probablement elles-même son existence et ses fonction
+
+### Relooking : avant après
+
+*`web-ateliers-workshops-cours__1079_relooking-avant-apres.html.txt` · 580 mots · archive de l'auteur*
+
+L’équipe
+Relooking : avant après
+En repassant à la visionneuse toutes nos photos de relooking avant après depuis 3 ans, nous avons eu envie de vous faire partager une réflexion : à tout bien y réfléchir, il y a un style SpikeSéduction (le contraire eût été étonnant) mais, au sein de ce style, plusieurs déclinaisons, comme l'illustrent ces 3 photos récentes d'avant-après
+Avant après casual (journée)
+Objectif : upgrader une tenue basique en y ajoutant de la classe et de l'originalité, mais (contrainte) tout aussi confortable et "non prise de tête", comme disent les jeunes. Enfin je crois.
+Avant relooking : confortable mais invisible
+Après relooking : à votre avis ?
+Avant après eye-catcher (soirée)
+Objectif : profiter du jeune âge d'Axel (17 ans) pour oser des pièces fortes et lui concocter un relooking qui attire l'attention (une journée sans regards et sans sourire est une journée bien triste), sans tomber dans le vulgaire
+Avant relooking : look jeune mais banal et, surtout, matières trop cheap, surtout la veste
+Après relooking et veste en cuir vernis : à votre avis ?
+Avant après advanced
+Objectif : profiter de sa taille et de l'absence de contraintes pour concocter un relooking advanced, avec une silhouette qui aurait sa place sans rougir sur un podium de défilé
+Avant relooking : campeur
+Après relooking : à votre avis ?
+Et vous, quel serait votre style d'avant-après ?
+Parmi tous nos
+relooking avant-après
+, nous sommes curieux de découvrir ceux que vous préférez. N'hésitez pas à nous en faire part dans la case commentaires ci-dessous. Attention toutes les photos avant après ne figurent pas sur cette page, pour suivre l'actualité de nos relookings au jour le jour, c'est le topic
+témoignages relookings 2008
+qu'il faut suivre.
+Ps : nous prétendons réaliser les meilleurs relookings homme depuis 3 ans, à Paris, Londres, Milan, Genève et New-York. Pour consulter nos dates et tarifs, direction l'
+agenda des relookings
+. Une question au sujet votre réservation ? Appelez nous au 0892.69.90.88 tous les jours de 11h à 13h et de 15h à 18h (0,34€ la min depuis un poste fixe)
+Elections : votez pour votre relooking homme préféré
+"Je ne m’attendais vraiment pas à un relooking au
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

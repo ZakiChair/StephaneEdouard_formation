@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -74,7 +75,9 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### SYNTHESE - 1fJc04l_4lU — `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese`
 
-*podcast · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+*podcast / vidéoscopie · `La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La strip-tease comme "travail émotionnel" les hommes
 - Différence entre féminisme de droite (procédures judiciaires) et féminisme de gauche (spiritualité, cycle naturel, sorcellerie)
@@ -85,12 +88,15 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 - *Lien avec formations** :
 - Force Mentale
 
+**Son verdict**
+
 > "Quand tu es trop blanc pour les blacks et trop noir pour les whites, tu finis par tomber dans la catégorie trans — c'est le chaos identitaire."
 
 ### Synthèse : Le Cosby Show — 7 leçons de vie — `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese`
 
-*podcast · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
+*podcast / vidéoscopie · `Provoc'-Bill-Cosby,-ce-père-modèle-😅-synthese.md`*
 
+**Son verdict**
 
 > Ce qui était à mes parents n'a jamais été à moi — je suis parti de zéro matériellement et psychologiquement, et ce qui est à moi aujourd'hui, je ne le dois qu'à moi.
 
@@ -98,13 +104,15 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 
 ### Synthèse : Divorce et mid-girl — _HLOLxJlxHI — `Video-_HLOLxJlxHI-synthese`
 
-*podcast · `Video-_HLOLxJlxHI-synthese.md`*
+*podcast / vidéoscopie · `Video-_HLOLxJlxHI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*podcast · `Video-mFySAh0g-MI-synthese.md`*
+*podcast / vidéoscopie · `Video-mFySAh0g-MI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -113,6 +121,30 @@ Mon mémoire de DEA ? J’avais 6 mois pour l’écrire, je l’ai fait en… 4 
 *« La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md » · origine : lien-declare*
 
 > La strip-tease comme "travail émotionnel" les hommes
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

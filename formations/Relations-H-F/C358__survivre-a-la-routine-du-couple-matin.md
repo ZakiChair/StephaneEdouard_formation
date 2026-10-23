@@ -13,6 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 12
 documents_materiau: 0
+pages_developpement: 1
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -145,6 +146,42 @@ Nous allons découvrir ensemble un certain nombre de scénarii d’activités à
 - vous retrouverez le plaisir de faire des rencontres, ne serait-ce que pour avoir l’occasion de vivre ces scénarii
 - vos partenaires vous reparleront encore de ces rendez-vous 10 ans après (véridique, ça m’est arrivé la semaine dernière)
 - vous donnerez l’impression d’avoir 5 fois plus d’expérience avec les femmes que vous n’en avez réellement
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Si une femme est piégée dans son couple, c&#039;est pour CETTE raison
+
+*`web-articles__seduction-fondamentaux__22952_piegees-couple-vraies-raisons-lesquelles-femmes-malheureuses-restent-couple.html.txt` · 2330 mots · archive de l'auteur*
+
+Si les chiffres des divorces n’augmentent plus guère depuis une dizaine d’années (environ 130.000 par an, statistiques Insee), il faudrait pas pour autant se réjouir, en tous cas selon
+Jean-Claude Kaufmann
+, pour qui les femmes seraient de plus en plus malheureuses,
+piégées dans leur couple,
+par une mystérieuse force invisible les privant de leur libre arbitre et les empêchant de mettre fin à la torture de partager la vie (et le lit?) de celui qu’elles n’aiment plus. La même force invisible qui a empêché Jacqueline Sauvage de déposer plainte pour mauvais traitement avant de tirer à la carabine sur le dos de son mari? Nous allons (peut-être) le savoir dans son livre.
+Rappel
+Si la barbe ne fait pas le philosophe, la moustache fait-elle le sociologue? Penchons-nous sur le cas
+Jean-Claude Kaufmann
+, le seul sociologue qui réalise le tour de force d’être lu, commenté et discuté par une majorité de femmes (profil milieu de vie, clientèle femme actuelle et Jean-Jacques Salomé. Ma mère, quoi).
+Jean-Claude Kaufmann, le sociologue qui parle à l’oreille des femmes
+L’analyse de JC Kaufmann sur le piège du couple, et les raisons poussant Madame à rester sous le même toit que Monsieur
+déjà, il présuppose qu’elles veulent sincèrement, réellement, sans arrières pensées,
+partir
+, mais n’y parviennent pas. Ce qui amène immédiatement vers la première question logique: pourquoi? Dans la mesure où les femmes disposent – en occident tout du moins – de tous leurs droits fondamentaux à l’égal des hommes, par quel tour de force leur a-ton subtilisé le
+libre arbitre
+d’être maîtresse de leur destinée, et à qui profite le crime?
+Le couple serait une stratégie de renforcement mutuel de
+l’estime de soi
+et de la
+confiance en soi
+Le couple est une mécanique fragile déréglée/cassée par la routine (waouh, niveau concept, ça décoiffe)
+Si les femmes ne partent pas, c’est aussi, parfois, pour des raisons
+matérielles et de confort
+. Ne pas perdre la maison si patiemment décorée…
+… mais cette explication étant trop simple, il faut y substituer un beau wishful thinking à même de propulser l’ouvrage en tête
+des ventes sur Amazon
+(le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
 
 ---
 

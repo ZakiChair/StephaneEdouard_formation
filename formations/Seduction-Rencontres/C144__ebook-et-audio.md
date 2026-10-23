@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 1
+pages_developpement: 0
 idees_forces: 0
 citations: 0
 doublon_titre: non
@@ -32,8 +33,33 @@ confiance: 0
 
 ### Synthèse : Je décompte les affabulations d'Oussama Ammar — `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese`
 
-*podcast · `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese.md`*
+*podcast / vidéoscopie · `Je-décompte-les-affabulations-d'Oussama-Ammar...-et-là-surprise-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 0
 idees_forces: 18
 citations: 3
 doublon_titre: non
@@ -28,12 +29,15 @@ doublon_titre: non
 
 ### Synthèse – WS4q9-Eb-ts — `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese`
 
-*podcast · `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese.md`*
+*podcast / vidéoscopie · `Sans-conteste-LE-couple-progressiste-le-+-inattendu-de-2023-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse – RFsDr2AVCmI — `Video-RFsDr2AVCmI-synthese`
 
-*podcast · `Video-RFsDr2AVCmI-synthese.md`*
+*podcast / vidéoscopie · `Video-RFsDr2AVCmI-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Stephane revient sur sa dernière date de tournée : 22 novembre 2022 à Paris
 - Il invite le public à s'inscrire sur la liste d'attente pour connaître les prochaines dates
@@ -41,7 +45,9 @@ doublon_titre: non
 
 ### Synthèse : Video r9xXxVtAxHE — r9xXxVtAxHE — `Video-r9xXxVtAxHE-synthese`
 
-*podcast · `Video-r9xXxVtAxHE-synthese.md`*
+*podcast / vidéoscopie · `Video-r9xXxVtAxHE-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - La résignation comme pente naturelle : il évoque la citation de Balzac — *« La résignation est un suicide quotidien »* — pour expliquer que la tentation du déclin et du « c'était mieux avant » est une trajectoire spontanée contre laquelle il faut lutter, surtout quand on a une sensibilité conservateur.
 - Le exercice de la bouteille des bonnes nouvelles : pour contrer cette pente, il raconte avoir acheter une carafe en verre en 2022 où il déposait des post-it de bonnes nouvelles afin de maintenir un équilibre psychologique et continuer à espérer.
@@ -52,7 +58,9 @@ doublon_titre: non
 
 ### Synthèse : Video tiDHbY0rQKQ — tiDHbY0rQKQ — `Video-tiDHbY0rQKQ-synthese`
 
-*podcast · `Video-tiDHbY0rQKQ-synthese.md`*
+*podcast / vidéoscopie · `Video-tiDHbY0rQKQ-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
 - La logique prostitutionnelle : Louer son intimité (corps, vie de couple, secrets familiaux) détruit structurellement son intégrité psychique : addictions, dépression, pensées suicidaires, isolement. Miss Amérique 2019 s'est défenestrée trois jours avant le tournage.
@@ -65,8 +73,9 @@ doublon_titre: non
 
 ### Synthèse : We must save the children #Pélissard — YdMW_1OIRnc — `We-must-save-the-children-#Pélissard-synthese`
 
-*podcast · `We-must-save-the-children-#Pélissard-synthese.md`*
+*podcast / vidéoscopie · `We-must-save-the-children-#Pélissard-synthese.md`*
 
+**Son verdict**
 
 > "Tant que vous ne savez pas décrire correctement un problème, ce que vous croyez être une solution en fait ça sera tiré au hasard."
 
@@ -89,6 +98,68 @@ doublon_titre: non
 *« Video-tiDHbY0rQKQ-synthese.md » · origine : lien-declare*
 
 > L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+L'art de s'habiller est un skill essentiel qui communique notre identité bien avant qu'on ouvre la bouche. Cette formation décrypte les mécanismes de l'esthétique personnelle : comment construire une garde-robe cohérente, investir intelligemment, et développer son propre style plutôt que de suivre aveuglément les tendances. L'objectif n'est pas de devenir une fashion victim mais de maîtriser les codes pour mieux les transcender quand on le souhaite.
+
+---
+
+### Points clés
+
+- Investir dans peu de pièces de qualité plutôt que dans beaucoup de pièces jetables
+- Identifier ses caractéristiques physiques et les sublimer plutôt que les cacher
+- La cohérence entre la tenue et l'identité personnelle est plus importante que la marque
+- Les tendances sont des pièges — le vrai style est personnel et atemporel
+- L'adaptation au contexte est essentielle : pas la même tenue pour le travail et pour le loisirs
+- La classe ne s'achète pas — elle se construit par le discernement
+
+---
+
+### Concepts enseignés
+
+### L'esthétique comme expression de l'identité
+
+La manière dont on s'habille reflète qui on est — mais aussi ce qu'on veut montrer aux autres. Il y a une différence fondamentale entre suivre les codes et créer son propre langage vestimentaire. L'homme qui s'habille avec classe a compris que ses vêtements doivent l'accompagner, pas le définir. Il choisit des pièces qui mettent en valeur sa morphologie et sa personnalité, pas des marques qui cherchent à compenser un manque de confiance.
+
+### Le principe d'investissement intelligent
+
+Un homme bien habillé a besoin de moins de pièces qu'il ne le croit. L'investissement intelligent consiste à acheter peu mais correctement : une bonne veste, des pantalons bien coupes, des chemise blanches de qualité, des souliers en cuir bien entretenus. Ces pièces polyvalentes permettent de créer множество de tenues avec un minimum d'articles. La qualité prime sur la quantité — un blazer bien coupé durera dix ans là où un blazer bon marché aura l'air défoncé après deux saisons.
+
+### La connaissance de soi morphologique
+
+Chaque homme a une morphologie qui lui est propre — et des vêtements qui la mettent en valeur ou pas. L'objectif n'est pas de copier ce qui fonctionne pour les autres mais de comprendre ce qui fonctionne pour soi. Certains hommes sont mieux habillés en manches courtes, d'autres en manches longues. Certains bénéfices des couleurs chaudes, d'autres des couleurs froides. Cette connaissance de soi s'acquiert par l'expérimentation et le feedback honnête.
+
+### L'adaptation au contexte
+
+Un homme de classe sait adapter sa tenue au contexte. Il ne s'habille pas de la même manière pour un rendez-vous professionnel, une soirée entre amis ou un événement formel. Cette capacité d'adaptation est un marqueur d'intelligence sociale — elle montre qu'on comprend les codes de chaque situation et qu'on sait les respecter.
+
+---
+
+### Exercices / Pratiques
+
+- Faire le tri dans sa garde-robe : garder les pièces qui vont vraiment et se séparer de celles qui ne sont jamais portées
+- Investir dans 3-5 pièces de base de qualité qui servent de fondation à plusieurs tenues
+- Identifier les couleurs qui mettent en valeur votre teint en demandant du feedback à des proches de confiance
+- Observer les hommes bien habillés de votre entourage et analyser ce qui fonctionne dans leur style
+- Apprendre les basics de l'entretien des vêtements : faire cirer ses souliers, repasser correctement, stocker adequatement
+- Développer son sens de l'observation en regardant des vidéos ou magazines de mode masculine de qualité
+
+---
+
+### Citations de Stéphane
+
+> "La vraie élégance n'est pas de porter des marques expensive — c'est de porter des vêtements qui vous correspondent."
+
+> "Un homme bien habillé a besoin de moins de pièces qu'il ne le croit."
+
+> "Les tendances sont des pièges pour ceux qui n'ont pas de style personnel."
+
+---
 
 ## Citations de l'auteur
 

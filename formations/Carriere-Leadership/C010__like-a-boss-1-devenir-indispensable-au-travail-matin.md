@@ -13,6 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 15
 documents_materiau: 4
+pages_developpement: 2
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -147,22 +148,28 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : J'achète la formation d'une influenceuse pour "séduire sur les réseaux" — `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese`
 
-*podcast · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
+*podcast / vidéoscopie · `J'achète-la-formation-d'une-influenceuse-pour-séduire-sur-les-réseaux-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Ne soyez plus les esclaves des femmes — `Ne-soyez-plus-les-esclaves-des-femmes-synthese`
 
-*podcast · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
+*podcast / vidéoscopie · `Ne-soyez-plus-les-esclaves-des-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Stage de citoyenneté en ancienne usine à chapeau — `Video-hVchQj-xiOo-synthese`
 
-*podcast · `Video-hVchQj-xiOo-synthese.md`*
+*podcast / vidéoscopie · `Video-hVchQj-xiOo-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'usine comme symbole : l'usine est l'incarnation physique de l'industrie et de la production — sa reconversion marque la fin de lacapacités de production locale.
 - Parallèle historique : le centre Pompidou (années 70) avait lui aussisymbolisé une époque de transition, mais dans un contexte de modernité industrielle encore vivante.
 - Désindustrialisation française : la vidéo des Gilets Jaunes en Belgique (usine désaffectée convertie en centre d'art) illustre ce même phénomène de perte identitaire territoriale.
 - Archéologie du contenu : référence à d'anciennes vidéos de la chaîne qui documentaient déjà ces transformations, consultables dans les archives.
+
+**Son verdict**
 
 > L'industrie, c'est ce qui empêche un pays de couler, d'avoir une balance du déficit extérieur monstrueuse et de devenir un musée à touristes.
 
@@ -170,7 +177,9 @@ Le bouche à oreille à géométrie variable
 
 ### Synthèse : Video yCgVt4zZejg — yCgVt4zZejg — `Video-yCgVt4zZejg-synthese`
 
-*podcast · `Video-yCgVt4zZejg-synthese.md`*
+*podcast / vidéoscopie · `Video-yCgVt4zZejg-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
 - L'erreur de la séduction par le corps : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
@@ -192,6 +201,83 @@ Le bouche à oreille à géométrie variable
 *« Video-yCgVt4zZejg-synthese.md » · origine : lien-declare*
 
 > L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Techniques de séduction / Devenir un PUA / Vous êtes perdu ?
+
+*`web-articles__1017_techniques-de-seduction.html.txt` · 380 mots · archive de l'auteur*
+
+Techniques de séduction : vous êtes perdu ?
+L’équipe
+Techniques de séduction / Devenir un PUA / Vous êtes perdu ?
+Autant, avec le minimum de discernement, il n'est pas sorcier de deviner la voie à suivre parmi celles qui s'offrent à nous - en séduction comme ailleurs -, autant ceux qui ne l'ont pas encore acquis (le discernement) se fourvoient dans des voies de
+développement personnel
+où l'inutile côtoie souvent le ridicule
+. Hé oui, quand le miroir du matin nous renvoie l'image de Clark Kent, on ne trouve pas illogique de croire que le but à atteindre s'appelle Superman (remplacez par Tyler Durden, Marlon Brando, ou qui vous voulez). Mais comme toutes les idées trop évidentes, c'est faux ; dans la vie réelle (celle des factures et des afterworks puants où des demi-moches en mi-bas se prennent pour des princesses), Superman se ferait royalement foutre de sa gueule, avec son moule-burnes et sa cape. Certains ont essayé avec une cane et d'autres accessoires, même punition. Si, au fond de vous-même, vous souhaitez ardemment continuer de vous fourvoyer sur les voies d'une espèce de PUA qui n'existe que dans votre imaginaire, ne lisez surtout pas
+ce qui suit : les deux axes de la progression
+, par Matt. (Honnêtement, où ailleurs trouvez-vous des articles de cette qualité ?)
+Leçon : comment choisir sa technique de séduction ?
+Juggler (Wayne Elise)
+SpikeSéduction dans E=M6
+The Game, par Neil Strauss
+Les pavés de l'enfer (séduire dans une soirée d'amis)
+Pas encore de commentaire.
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face=""> <i> <li> <ol> <strike> <strong> <sub> <sup> <ul>
+Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+Médias : Spike choisi par France 2 parmi
+et par M6 pour
+66 minutes
+aux cotés de Mystery
+Lifestyle : cadeau
+La séduction pour les nuls : jeudi
+Inner-game et life-style : changez de vie
+A ceux qui ne l'auraient pas perçu : le titr...
+Apparemment oui.
+Mon Dieu, mais c'est possible d'être aussi i...
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### Courrier des lecteurs : devenir un homme, oui mais lequel - suite et fin
+
+*`web-articles__3735_devenir-un-homme-3.html.txt` · 1942 mots · archive de l'auteur*
+
+Courrier des lecteurs : devenir un homme, oui mais l (...)
+Courrier des lecteurs : devenir un homme, oui mais lequel - suite et fin
+Voila plus d’un an et demi que j’ai envoyé
+ce courrier
+à Stéphane, essayant de trouver la réponse aux questions suivantes : Qu’est ce qu’un homme, et comment en devenir un. Stéphane à alors fait la meilleure chose qu’il pouvait faire à l’époque. Rien.
+Dans cet article, je vais vous expliquer quelles sont, pour moi, les caractéristiques qui définissent un homme. Commencez par noter deux choses. Le premier est que par « homme »,ici, je ne fais pas de différence entre l’homme et la femme, je ne parle pas plus de l’un que de l’autre. La seconde chose est que vous n’apprendrez absolument rien en lisant cet article.
+La seule chose que la médecine ne peut pas encore remplacer.
+Le cerveau est un outil formidable ou dévastateur suivant la façon dont vous l’utilisez. Vous naissez, de vos parents, qui vous transmettent leur code génétique, plus ou moins défectueux, et pour l’instant on ne peut rien y changer. Vous grandissez dans un environnement, dans un contexte, avec des personnes qui conditionnent celui que vous êtes pendant très longtemps. Jusqu’à  ce que vous soyez assez mature (aucun rapport avec la majorité ou le passage à l’âge adulte), vous subissez votre vie.
+Puis il arrive (ou malheureusement il n’arrive pas), qu’une petite partie de votre être s’éveille. La pensée fait alors son apparition. Pas la pensée inutile qui vous fait ressasser le passé ou hypothétiser l’avenir en vain, ni même la pensée résolvant l’équation de la baignoire qui fuit, mais la pensée consciente, la seule chose qui différencie l’homme de l’animal. C’est la petite lumière amenant à cet état qui n’a rien d’inné ni d’absolue, la liberté. Le « je » conscient peut alors faire le choix de tel ou tel vie ; le « je » conscient peut aussi faire le choix de se suicider. Matrix, sous sa bonne dose d’effets spéciaux est surtout une allégorie sur l’éveil, ce moment, où dans un état alors encore inconscient, le choix est offert de pouvoir continuer à faire le choix, ou alors de vous rendormir tranquillement dans le monde que l’on a construit à votre place. Si vous lisez ce
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

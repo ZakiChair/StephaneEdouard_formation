@@ -13,6 +13,7 @@ programme: 14
 sections_annonce: 7
 points_annonce: 13
 documents_materiau: 5
+pages_developpement: 1
 idees_forces: 27
 citations: 0
 doublon_titre: non
@@ -162,12 +163,15 @@ _\\*\\* je n’ai par contre aucune prétention divinatoire ou pertinence sur le
 
 ### L'intelligence relationnelle (1ère partie) — `L'intelligence-relationnelle-1-synthese`
 
-*podcast · `L'intelligence-relationnelle-1-synthese.md`*
+*podcast / vidéoscopie · `L'intelligence-relationnelle-1-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -178,16 +182,21 @@ _\\*\\* je n’ai par contre aucune prétention divinatoire ou pertinence sur le
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ### La santé mentale — `La-santé-mentale-synthese`
 
-*podcast · `La-santé-mentale-synthese.md`*
+*podcast / vidéoscopie · `La-santé-mentale-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - 0FlUCFoxtfE — `Le-couple-le-plus-agaçant-de-l'année-synthese`
 
-*podcast · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+*podcast / vidéoscopie · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les gens qui disent ne pas être stéréotypés sont souvent les plus stéréotypés.
 - Le pseudo-arcdeuxième tour : "je ne discrimine personne" → "donc tout le monde peut me plaire" = faille logique.
@@ -198,11 +207,15 @@ _\\*\\* je n’ai par contre aucune prétention divinatoire ou pertinence sur le
 - Logique et Argumentation
 - Intelligence Sociale
 
+**Son verdict**
+
 > "On ne peut pas tout avoir : refuser les stéréotypes et vivre en consumériste. Le vrai courage c'est d'assumer ce qu'on est."
 
 ### Synthèse – JOfi_gBD9OI — `Video-JOfi_gBD9OI-synthese`
 
-*podcast · `Video-JOfi_gBD9OI-synthese.md`*
+*podcast / vidéoscopie · `Video-JOfi_gBD9OI-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'intelligence = capacité de synthèse : À l'inverse du « flow » de pensées incontrôlables, qui serait plutôt signe d'un QI limité. L'intelligence structurée l'emporte sur le débit anarchique.
 - Déconstruction du mythe HPI : Le haut potentiel ne se Diagnostique pas par le simple fait d'avoir « la tête qui explosionne » — symptôme commun à de nombreuses configurations psychologiques.
@@ -228,6 +241,55 @@ _\\*\\* je n’ai par contre aucune prétention divinatoire ou pertinence sur le
 *« Video-JOfi_gBD9OI-synthese.md » · origine : lien-declare*
 
 > L'intelligence = capacité de synthèse : À l'inverse du « flow » de pensées incontrôlables, qui serait plutôt signe d'un QI limité. L'intelligence structurée l'emporte sur le débit anarchique.
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### 10 bonnes raisons (et 3 mauvaises) de préférer les femmes après 40 ans | Spike Séduction
+
+*`web-articles__20371_femmes-40-ans.html.txt` · 1587 mots · archive de l'auteur*
+
+Comprendre les femmes n’empêche pas de comprendre les hommes. Surtout qu’ils sont globalement plus simples, plus prévisibles, plus logiques. Et tout aussi prédéterminés génétiquement. A quoi? A aimer les femmes plus jeunes qu’eux, plus fertiles, et accessoirement très apprêtées. Bonjour Jean-Luc, si tu nous écoutes
+du fond de ton cachot
+De mon côté, les choses sont allées un peu différemment, sur ça et sur le reste. D’abord, je déteste les déterminismes, qu’ils soient sociaux, économiques, historiques, et même génétiques. Libre arbitre, discernement, goût personnel, qui m’aime me suive, etc.: ça a déjà plus de gueule.
+Ensuite, j’ai toujours plu aux femmes plus âgées. Les plus jeunes (qui deviennent chaque jour plus nombreuses, c’est la loi des nombres et du temps qui passe) me trouvent exigeant, moralisateur, râleur, et psycho-rigide. Une attirance qui, heureusement pour moi, n’est pas unilatérale. J’ai toujours trouvé que les femmes de 40 ans poutraient. Et maintenant, je vais expliquer pourquoi.
+Cette introduction, faite de phrases très courtes et hachée menue de ponctuation, est très étrange non ? Je veux dire, je n’écris pas comme ça, d’habitude, si ? Ainsi soit-il. Faisons le tour des raisons de
+préférer la femme dans sa quarantaine
+En commençant par dézinguer quelques lieux communs sans fondement (pléonasme)
+3 FAUSSES bonnes raisons de préférer les femmes de 40 ans
+Fausse
+bonne raison, 1. Elles seraient plus portées sur « la chose »
+Faux. L’envie de s(e faire) allonger est un paramètre entièrement personnel, qui varie plus selon les caractères que selon les âges de la vie. Sinon les maisons de retraite seraient remplies de nymphomanes, ce qui aux dernières nouvelles n’est pas exactement le cas. Même si.
+Fausse
+bonne raison, 2. Elles seraient toutes des « bons coups »
+De plus, ayant grandi dans des années 70 patriarcales et encore peu enclines à la féminisation de notre xxième siècle (et la réduction de la liberté au plaisir individuel, théorisée en son temps par qui-on-sait), les chances que leur maman se soit penchée sur leur clitoris pour leur en expliquer le mode d’emploi sont assez maigres, ignorant probablement elles-même son existence et ses fonction
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

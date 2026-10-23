@@ -13,6 +13,7 @@ programme: 16
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
+pages_developpement: 1
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -57,28 +58,88 @@ confiance: 1.0
 
 ### Gaslighting : cette drôle manière d'abréger les femmes — `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese`
 
-*podcast · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
+*podcast / vidéoscopie · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### La santé mentale — `La-santé-mentale-synthese`
 
-*podcast · `La-santé-mentale-synthese.md`*
+*podcast / vidéoscopie · `La-santé-mentale-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+*podcast / vidéoscopie · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Podcast - Retour de Stéphane Edouard — `Video-m54h8ZXqHO0-synthese`
 
-*podcast · `Video-m54h8ZXqHO0-synthese.md`*
+*podcast / vidéoscopie · `Video-m54h8ZXqHO0-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Interview Lily Phillips (Adult Entertainment) — `Video-mFySAh0g-MI-synthese`
 
-*podcast · `Video-mFySAh0g-MI-synthese.md`*
+*podcast / vidéoscopie · `Video-mFySAh0g-MI-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Pourquoi faire un relooking, après tout ?
+
+*`web-ateliers-workshops-cours__992_relooking-2.html.txt` · 482 mots · archive de l'auteur*
+
+Pourquoi faire un relooking ?
+Pourquoi faire un relooking, après tout ?
+C'est vrai, après tout, pourquoi faire un relooking ? Pourquoi se casser la nouille à payer un relookeur, attendre, apprendre, écouter, alors qu'il suffit de faire comme tout dans la vie : apprendre sur le tas, moyennement, et finir moyen, imparfait et même pas dégrossi, comme tout le monde. Ah bon, ah bon. Les autres, les plus exigeants d'entre vous, peuvent lire cet article
+1) Le relooking vous apprend à chosir une taille, et surtout une coupe
+Ci-dessous un avant/après comme vous en voyez beaucoup sur Spike Séduction. Même personne,  même jour, même gabarit donc, et pourtant …
+2) Le relooking vous apprend à choisir des (une) couleur(s), et ça peut vous surprendre
+Regardez ces deux photos "avant" et cherchez-en les points communs :
+Comparez-les à cet après : Chemise noire, chaussures noires, jean noir. Banal ? Non, dégradé du mat au brillant : chemise mate > jean qui reflète la lumière > bottines luisantes. Quel ensemble est le plus masculin, le plus fin, et le plus attirant, à votre avis ?
+3) Le relooking vous apprend à discerner les belles matières, et une belle matière, c'est attirant
+Les deux vestes ci-contre sont en cuir. Vous avez envie de toucher laquelle, spontanément ? Un beau cuir n'est pas épais comme la peau d'un vieux buffle buriné par le soleil et résistant comme le panier de commissions de votre grand-mère. Matière, couleur, reflets, texture ...
+A suivre : style et absence de style, détails, conclusion, bref un aperçu synthétique et imagé de ce qui fait un relooking de qualité. Envie de discuter relooking ? Ca tombe bien, vous êtes au bon endroit, vous avez pour cela le meilleur forum de France
+à deux pas
+Aether, pour Spike Séduction
+Pourquoi faire un relooking, partie 2 ?
+Elections : votez pour votre relooking homme préféré
+"Tout ce que Spike m'a proposé avait de la classe" (témoignage sur le relooking)
+Nouveau : le relooking en solo
+Genève : à l'intérieur d'un atelier séduction Classic, partie I
+Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <div align=""> <em> <font color="" size="" face="">
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ---
 

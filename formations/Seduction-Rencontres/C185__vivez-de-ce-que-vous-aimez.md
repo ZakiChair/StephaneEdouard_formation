@@ -13,6 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
+pages_developpement: 0
 idees_forces: 23
 citations: 0
 doublon_titre: non
@@ -28,7 +29,9 @@ doublon_titre: non
 
 ### SYNTHESE - 0cFt08NeRio — `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese`
 
-*podcast · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+*podcast / vidéoscopie · `La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
 - "Wish full thinking" : confondre ce qu'on veut croire avec ce qui est.
@@ -39,16 +42,21 @@ doublon_titre: non
 - *Lien avec formations** :
 - Logique et Argumentation
 
+**Son verdict**
+
 > "François Bégaudeau documente le réel sans y vivre. Il a besoin d'un CDD dans le monde réel avant de revenir nous expliquer la société."
 
 ### La chanteuse Pomme : potentiel magnifique ou esprit ZADiste ? — `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese`
 
-*podcast · `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
+*podcast / vidéoscopie · `La-chanteuse-Pomme-a-le-potentiel-pour-devenir-magnifique...-ou-Zadiste-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### SYNTHESE - 0FlUCFoxtfE — `Le-couple-le-plus-agaçant-de-l'année-synthese`
 
-*podcast · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+*podcast / vidéoscopie · `Le-couple-le-plus-agaçant-de-l'année-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Les gens qui disent ne pas être stéréotypés sont souvent les plus stéréotypés.
 - Le pseudo-arcdeuxième tour : "je ne discrimine personne" → "donc tout le monde peut me plaire" = faille logique.
@@ -59,12 +67,15 @@ doublon_titre: non
 - Logique et Argumentation
 - Intelligence Sociale
 
+**Son verdict**
+
 > "On ne peut pas tout avoir : refuser les stéréotypes et vivre en consumériste. Le vrai courage c'est d'assumer ce qu'on est."
 
 ### Synthèse : Le phénomène des profs TikTokeuses — `Le-phénomène-des-profs-tiktokeuses-synthese`
 
-*podcast · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
+*podcast / vidéoscopie · `Le-phénomène-des-profs-tiktokeuses-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -79,6 +90,52 @@ doublon_titre: non
 *« Le-couple-le-plus-agaçant-de-l'année-synthese.md » · origine : lien-declare*
 
 > Les gens qui disent ne pas être stéréotypés sont souvent les plus stéréotypés.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Le réveil sonne. Comme hier, comme demain. Dans moins d’une heure, vous devrez sortir de chez vous, direction le bureau. Pendant 8 heures (ou plus), vous allez vous consacrer à une activité que vous n’aimez pas – appelée “votre travail” -, pour le compte de quelqu’un que vous n’aimez pas – appelé “votre patron” -,… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Dans moins d’une heure, vous devrez sortir de chez vous, direction le bureau
+2. Pendant 8 heures (ou plus), vous allez vous consacrer à une activité que vous n’aimez pas – appelée “votre travail” -, pour le compte de quelqu’un que vous n’aimez pas – appelé “votre patron” -, contraint pour y parvenir de collaborer avec des gens que vous n’aimez pas – appelés vos “collègues de bureau” -
+3. Enfin, c’est ce que vous pensiez, avant que le dernier tiers des impôts ne vienne siphonner votre compte en banque de tout ce que vous aviez réussi à mettre de côté au cours des derniers mois
+4. Mais vous lisez peut-être ces lignes depuis votre bureau, sur la chaise à deux positions allouée par votre patron – celui que vous n’aimez pas -, et achetée hors taxes chez Bruneau ou Office Dépot
+5. Auquel cas, avez-vous déjà songé que, pendant que vous vous rendrez à reculons à votre troisième réunion de la journée, des milliers de gens, dans votre ville, se rendent au café, au musée, au taekwondo, au bord de l’eau, ou flânent tout simplement sur les boulevards en suivant les jambes des filles
+6. Sans compter ceux qui visionnent la dernière saison de leur série préférée, de chez eux, en 5
+7. Oui, en ce moment même, oui, en pleine semaine, et oui, en pleine journée
+8. Ce le serait, oui, s’il ne s’agissait que de rentiers e
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

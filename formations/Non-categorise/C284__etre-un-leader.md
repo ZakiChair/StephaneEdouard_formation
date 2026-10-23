@@ -13,6 +13,7 @@ programme: 6
 sections_annonce: 5
 points_annonce: 0
 documents_materiau: 1
+pages_developpement: 3
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -92,8 +93,129 @@ Toute ressemblance avec une situation existante…
 
 ### Synthèse – Lmha1rrlmag — `L'affaire-Elisabeth-Holmes-Theranos-est-une-parodie-du-XXIème-siècle-synthese`
 
-*podcast · `L'affaire-Elisabeth-Holmes-Theranos-est-une-parodie-du-XXIème-siècle-synthese.md`*
+*podcast / vidéoscopie · `L'affaire-Elisabeth-Holmes-Theranos-est-une-parodie-du-XXIème-siècle-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a écrit sur son propre séminaire
+
+*Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
+
+### Commandez le séminaire : être un leader
+
+*`web-actualite__11397_comment-devenir-un-leader.html?preview=1.txt` · 1131 mots · archive de l'auteur*
+
+Comment influencer les autres et devenir un leader ?
+Commandez le séminaire : être un leader
+Commandez le séminaire : être un leader
+Video:preview séminaire devenir un leader
+Référence :
+leadership (être un leader)
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+comprendre et savoir utiliser les techniques des leaders pour les appliquer à sa propre existence et devenir plus influent et plus attirant
+Durée totale :
+3h43mn
+Taille du fichier :
+214 Mo
+Tarif :
+150€ seul ou bien dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Manipulation I
+Respect
+Extraits
+Leadership - extrait 1
+[ 2:43 ]
+Leadership - extrait 2
+[ 2:03 ]
+Le mythe du séducteur solitaire... un mythe
+Commençons par une confession. Comme vous j'ai longtemps fantasmé sur une image d'un séducteur à la fois solitaire comme le Diable, droit comme la justice et sexué comme un animal, qui surgirait dans la vie d'une femme là à l'instant même où elle s'y attend le moins (comme, par exemple,
+dans le train
+) pour y décharger un torrent insensé de joie, d'énergie et de plaisir.
+Aussi agréable que soient les pensées associées à ce noble dessin, je le regarde aujourd'hui avec tendresse et surtout auto-dérision. Entre un cowboy solitaire au parfum de cuir, d'aventure et d'ortie sauvage mais qui serait sorti de nulle part et son cousin éloigné, d'apparence beaucoup plus anodine, mais qui a su s'imposer comme leader (fut-ce leader d'opinion), une femme fera vite son choix. Et prendra le second. Et si vous en doutiez encore, regardez
+The social network
+à la scène où le jeune Mark Z., geek et puceau, se fait déboutonner le pantalon dans les toilettes du lycée par une jolie américano-asiatique 2 jours seulement après être passé au journal du lycée pour avoir créé un petit site communautaire, qui s'appellera plus tard Facebook.
+Conclusion : le mythe du séducteur solitaire tombé du ciel et auréolé d'un impénétrable mystère ne fait bander que les hommes. Les femmes, qui préfèreront toujours la lumière à l'ombre voudront d'abord d'
+un leader
+, ou de quelqu'un qui démontre les
+capacités à deveni
+
+### Commandez le séminaire : être un leader
+
+*`web-articles__11397_comment-devenir-un-leader.html.txt` · 1352 mots · archive de l'auteur*
+
+Référence :
+leadership (être un leader)
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+comprendre et savoir utiliser les techniques des leaders pour les appliquer à sa propre existence et devenir plus influent et plus attirant
+Durée totale :
+3h43mn
+Taille du fichier :
+214 Mo
+Tarif :
+150€ seul ou bien dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Manipulation I
+Respect
+Extraits
+Leadership - extrait 1
+[ 2:43 ]
+Leadership - extrait 2
+[ 2:03 ]
+Le mythe du séducteur solitaire… un mythe
+Commençons par une confession. Comme vous j’ai longtemps fantasmé sur une image d’un séducteur à la fois solitaire comme le Diable, droit comme la justice et sexué comme un animal, qui surgirait dans la vie d’une femme là à l’instant même où elle s’y attend le moins (comme, par exemple,
+dans le train
+) pour y décharger un torrent insensé de joie, d’énergie et de plaisir.
+Aussi agréable que soient les pensées associées à ce noble dessin, je le regarde aujourd’hui avec tendresse et surtout auto-dérision. Entre un cowboy solitaire au parfum de cuir, d’aventure et d’ortie sauvage mais qui serait sorti de nulle part et son cousin éloigné, d’apparence beaucoup plus anodine, mais qui a su s’imposer comme leader (fut-ce leader d’opinion), une femme fera vite son choix. Et prendra le second. Et si vous en doutiez encore, regardez
+The social network
+à la scène où le jeune Mark Z., geek et puceau, se fait déboutonner le pantalon dans les toilettes du lycée par une jolie américano-asiatique 2 jours seulement après être passé au journal du lycée pour avoir créé un petit site communautaire, qui s’appellera plus tard Facebook.
+Conclusion : le mythe du séducteur solitaire tombé du ciel et auréolé d’un impénétrable mystère ne fait bander que les hommes. Les femmes, qui préfèreront toujours la lumière à l’ombre voudront d’abord d’
+un leader
+, ou de quelqu’un qui démontre les
+capacités à devenir un leader
+Leader
+ou
+suiveur
+: choisissez
+« Le fleuve coule, et la rumeur semble emporter tous les poissons dans le même courant. Mais deux espèces nagent côte à côte, et l’on 
+
+### Petit, nerveux mais leader naturel ? La séduction de Nicolas Sarkozy | Spike Séduction
+
+*`web-articles__seduction-avance__19933_sarkozy-seduction.html.txt` · 978 mots · archive de l'auteur*
+
+« Ça a été immédiat. Je ne m’attendais pas à quelqu’un de si drôle, de si vivant. Son physique, son charme et son intelligence m’ont séduite. Il a cinq ou six cerveaux, remarquablement irrigués. Je le remarque encore tous les jours. Vous lui parlez de quelque chose : il est en train de lire un dossier. Vous vous dites, le pauvre il est épuisé, il est tard : il entend tout, tout en intégrant le dossier qu’il lit. Je n’ai pas connu de crétins auparavant, ce n’est pas mon genre, mais lui, ça va très, très vite. Et puis, il a une incroyable mémoire. » – Carla Bruni-Sarkozy
+Affaire Karachi, affaire Bettencourt, affaire Tapie, affaire Kazakhstan, affaire Bygmalion, sondages de l’Elysée, amende des comptes de campagne, financement libyen, écoutes et trafic d’influence : ce ne sont rien moins que 10 affaires dans lesquelles l’ancien président est –
+a minima
+– entendu, voire suspect, et pourtant.
+Alors que les deux-tiers des Français ne souhaitent pas que Nicolas Sarkozy se présente à l’élection présidentielle et six sur dix jugent que les sus-dites affaires empêcheront purement et simplement le parti des dénommés « républicains » (plus connu sous le nom d’UMP) de présenter un quelconque candidat sous leur étiquette, l’ancien président reste la première personnalité politique avec laquelle les français rêvent de… dîner (sondage Odoxa Le Parisien/Aujourd’hui et i-TELE).
+« Les femmes sont très attirées par le pouvoir (NDLR : ah, bon ?). J’ai vu des femmes lui donner leur numéros de téléphone même quand j’étais à côté de lui. (…) Certaines, il les saute et puis il ne se rappelle même plus leur prénom » – Cécila Sarkozy
+Dragué par les français qui voudraient l’avoir à leur table, et les françaises sur leur état civil, il l’est aussi par les écoles, banques et organisations diverses à Monaco, en Corée du Sud, à New York ou à Montréal (liste non exhaustive), auprès desquelles il touche des cachets à six chiffres pour intervenir lors de conférences chronométrées sur l’économie, la finance et les enjeux du mondialisme.
+Si son successeur se voit attribuer le charisme d’un flan pour enfants (
+dixit
+Les guignols de l’info), d’un beignet (Laurent Gerra) ou d’un fromage à pâte molle 
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- _À compléter après analyse du contenu_
+
+---
 
 ---
 

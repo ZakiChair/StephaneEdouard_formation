@@ -13,6 +13,7 @@ programme: 8
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
+pages_developpement: 0
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -41,7 +42,9 @@ doublon_titre: oui
 
 ### Synthèse : La "techno-gréviste" est la révélation de ce début d’année 2023 — o21lanW3u3E — `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese`
 
-*podcast · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
+*podcast / vidéoscopie · `La-techno-gréviste-est-la-révélation-de-ce-début-d’année-2023-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Absence de argumentation solide : Danser ne remplace pas un projet politique cohérent sur les retraites et le climat
 - Contradiction retraite-climat : La techno-gréviste affirme un lien entre retraite et climat, mais ignore que la retraite actuelle repose sur les énergies fossiles (engrais, productivité, transports)
@@ -52,12 +55,15 @@ doublon_titre: oui
 
 ### Synthèse – cWXgXeCFvtM — `Video-cWXgXeCFvtM-synthese`
 
-*podcast · `Video-cWXgXeCFvtM-synthese.md`*
+*podcast / vidéoscopie · `Video-cWXgXeCFvtM-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ### Synthèse : Video u8r9BLSx7UU — u8r9BLSx7UU — `Video-u8r9BLSx7UU-synthese`
 
-*podcast · `Video-u8r9BLSx7UU-synthese.md`*
+*podcast / vidéoscopie · `Video-u8r9BLSx7UU-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 - Mademoiselle, webzine fondé en 2005, pesait initialement autant que le *Huffington Post* mais a été racheté par le groupe Humaneo (bras du Crédit Mutuel) pour cibler une audience jeune (18-25 ans), avec un contenu oscillant entre harcelologie de rue, tendance Polanski et philosophies « woke » de comptoir.
@@ -79,6 +85,85 @@ doublon_titre: oui
 *« Video-u8r9BLSx7UU-synthese.md » · origine : lien-declare*
 
 > L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Contrairement à la mode sur la blogosphère française (quelle que soit la thématique) consistant à montrer toujours plus de preuves personnelles d’une vie passionnante, je ne crâne jamais (ce que je pourrais très facilement faire, pourtant) ni en révélant combien je gagne, ce qui a toujours révélé un manque d’éducation mais semble pourtant devenir la… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Contrairement à la mode sur la blogosphère française (quelle que soit la thématique) consistant à montrer toujours plus de preuves personnelles d’une vie passionnante, je ne crâne jamais (ce que je pourrais très facilement faire, pourtant)
+
+ni en révélant combien je gagne, ce qui a toujours révélé un manque d’éducation mais semble pourtant devenir la nouvelle norme des « profession-blogueur » sur 
+2. Une fois n’étant pas coutume, je vais tout de même me la péter un peu, mais cette fois-ci j’ai le droit, et ce pour 3 raisons principales :
+
+parce que c’est vrai
+parce que, contrairement aux exemples ci-dessus, ce n’est pas vulgaire (et n’en déplaise à certains, il existe encore des gens pour qui c’est important, de ne pas être vulgaire)
+parce que vous allez pouvoir me « piquer » ces techniques
+
+V
+3. Voir cette publication sur Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Une publication partagée par MONEY • VALUE • DISCIPLINE (@genzclub
+4. hustler)
+
+
+ 
+Les secrets des gens productifs
+Oui, je s
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

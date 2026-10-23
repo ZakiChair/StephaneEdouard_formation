@@ -13,6 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 2
+pages_developpement: 0
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -92,7 +93,9 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 
 ### Synthèse – Vidéoscopie DS2SQWBDEm0 — `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese`
 
-*podcast · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+*podcast / vidéoscopie · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+
+**Ses idées fortes sur ce sujet**
 
 - Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
 - L'évolution : Avant 40-50 ans -> maintenant 25 ans à cause des couples précoces
@@ -101,8 +104,9 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 
 ### Synthèse aBhIcSeNRxY — `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese`
 
-*podcast · `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese.md`*
+*podcast / vidéoscopie · `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese.md`*
 
+*Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
 ## Ses développements sur le sujet
 
@@ -111,6 +115,61 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 *« Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md » · origine : lien-declare*
 
 > Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+As-tu (au moins) 10 emails en retard, non lus ou en attente quelque part ? Y'a t-il (au moins) 2 choses que tu repousses depuis plus de 15j ? Depuis plus de 3 mois ? As-tu du mal à dire non ? T'es-tu déjà retrouvé confronté à l'obligation de refuser des propositions qui étaient autant… 
+
+Read More
+
+---
+
+### Points clés
+
+1. As-tu (au moins) 10 emails en retard, non lus ou en attente quelque part
+2. Y'a t-il (au moins) 2 choses que tu repousses depuis plus de 15j
+3. T'es-tu déjà retrouvé confronté à l'obligation de refuser des propositions qui étaient autant d'opportunités (personnelles ou professionnelles) parce que tu n'étais pas en capacité de les honorer sur le moment
+4. Pas le temps, pas les moyens, ou contraint de demeurer quelque part
+Éprouves-tu des difficultés à percevoir ce que les gens veulent de toi
+5. As-tu déjà eu l'impression que leurs comportements échappait à toute logique, était complètement imprévisible
+6. As-tu déjà éprouvé un sentiment de jalousie devant quelqu'un dont la vie était si organisée que tout semblait simple, limpide et relaxant
+7. As-tu déjà recherché une solution magique qui viendrait tout régler dans un domaine précis
+8. Si tu as répondu oui dans au moins 50 % des cas, alors j'ai plusieurs mauvaises nouvelles (désolé) :
+
+tu as un problème d'organisation
+il va falloir l'admettre (posture tragique plutôt qu'utopiste, l'utopie consistant à croire qu'un tiers va tout régler pour toi)
+tu ne dois pas faire plus de choses
+9. Mais attention : faire simple, c'est très compliqué pour la plupart des gens
+
+Une élégance supérieure nous déconcerte ~ Paul Valéry
+Ma conviction : faire l'impo
+
+
+---
+
+### Concepts enseignés
+
+- À identifier dans le contenu complet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 
