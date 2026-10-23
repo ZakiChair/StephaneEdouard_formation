@@ -151,6 +151,32 @@ La trousse de toilette idéale pour l'été
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
 
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- **L'amour comme moteur de transformation** : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+- **L'erreur de la séduction par le corps** : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
+
+_[extrait tronqué]_
+
+### Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese
+# Synthèse : Le Brésil, ce nouvel eldorado de la girl-next-door occidentale — wM7cRsZKhHg
+
+
+
+# Tu me manques
+
+---
+
+#### Thème central
+
+Ce segment traite de la difficulté à décoder les signaux émotionnels d'une ex-partenaire qui, après avoir choisi de retourner avec son ancien compagnon, recontacte soudainement son ancien partenaire par un simple « tu me manques ». L'analyse révèle que ce type de message est loin d'être anodin et traduit un mécanisme psychologique profond lié au ressentiment et à la nostalgie.
+
+---
+
 ---
 
 ## Reconstitution

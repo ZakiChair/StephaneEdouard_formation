@@ -255,6 +255,56 @@ Ci-dessous, entrez votre prénom, votre email, cliquez sur le bouton jaune, aj
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
+### Le 14 mars, devenez (vraiment) séduisant
+
+*`web-articles__1941_seminaire-developpement-personnel-devenez-seduisant.html.txt` · 1409 mots · archive de l'auteur*
+
+Le 21 décembre dernier, notre séminaire
+dynamiques sociales
+vous a déplacé si nombreux que nous n’avons pas trouvé, dans Paris, de salle suffisamment grande pour l’organiser en une seule fois, aussi avez-vous pu choisir entre deux sessions la même après-midi. Le tout avec, comme d’habitude,
+100% de témoignages positifs
+. Merci de votre fidélité, et félicitations pour avoir pris le tournant du développement personnel amorcé il y a déjà 6 mois avec le premier séminaire du genre en France :
+changez de vie
+. Si vous appliquez nos conseils, les premiers résultats se sont déjà manifestés. Bonne nouvelle : ce n’est qu’un début, 90% du potentiel est devant vous. Rendez-vous le 14 mars prochain, pour la suite du meilleur investissement de votre vie : celui que vous faites sur vous. Et si vous n’avez pas pu venir la dernière fois, prenez le train en marche, il n’est jamais trop tard pour s’améliorer.
+Etes-vous de ceux qui plaisent sans le vouloir ?
+Si vous êtes lecteur régulier du site et du forum vous déjà probablement acheté ce film, mais je souhaite que vous la regardiez une nouvelle fois, à la fois pour le plaisir, mais surtout en essayant de répondre honnêtement à une question : quand allez-vous finalement cesser de croire aux “techniques de séduction” ?
+Nous sommes d’accord, ce n’est “qu’un” film, et les dialogues sont écrits, comme le scénario. Mais transposez une seconde cette situation dans la vie : est-il en train de tester l’intégralité de sa boite à outils de séduction comme Mario Bros passe en revue un lot de clefs à molette, ou bien est-il en train de plaire
+à son insu
+, en agissant selon sa
+personnalité
+“Voyant - guérisseur - marabout”
+Parce que c’est mon métier et que je dois rester informé, je suis abonné à la plupart des newsletters de sites de séduction américains (d’ailleurs, si vous ne l’êtes toujours pas à la nôtre,
+c’est le moment
+). Et franchement, c’est bien souvent à se demander s’il ne s’agit pas d’un gag : entre les soi-disant produits qui s’écoulent tellement vite que vous recevez 10 emails de relance pour en commander et les séminaires dont les places s’arrachent tellement qu’il en reste encore 3 jours avant, une promesse sans cesse renouvelé
+
+
+- Comment briser la glace avec celles qui vous plaisent (de la façon la plus naturelle qui soit)
+- Comment contourner la gêne inhérente à l’inconnu (le sentiment très français d’être bizarre en parlant simplement à son voisin)
+- Que penser des résistances (et comment les interpréter avec finesse et discernement)
+- Comment gérer les échecs (les échecs étant plus ou moins communs à tout le monde, la différence se fait sur les leçons que certains savent en tirer)
+- Comment trouver le juste équilibre entre le bavard insupportable et l’autiste (dont la vie intérieure est peut-être passionnante, mais qui pour l’instant n’a jamais passionné personne, loin de là)
+- Comment amener la personne à avoir
+- Si vous avez déjà souscrit à notre offre fidélité “3 séminaires au prix de 2″ et qu’il vous reste des séminaires sur votre “crédit”, envoyez-nous un simple mail à reservations@spikeseduction.com pour confirmer votre présence, merci
+
+### 10 bonnes raisons (et 3 mauvaises) de préférer les femmes après 40 ans | Spike Séduction
+
+*`web-articles__20371_femmes-40-ans.html.txt` · 1587 mots · archive de l'auteur*
+
+Comprendre les femmes n’empêche pas de comprendre les hommes. Surtout qu’ils sont globalement plus simples, plus prévisibles, plus logiques. Et tout aussi prédéterminés génétiquement. A quoi? A aimer les femmes plus jeunes qu’eux, plus fertiles, et accessoirement très apprêtées. Bonjour Jean-Luc, si tu nous écoutes
+du fond de ton cachot
+De mon côté, les choses sont allées un peu différemment, sur ça et sur le reste. D’abord, je déteste les déterminismes, qu’ils soient sociaux, économiques, historiques, et même génétiques. Libre arbitre, discernement, goût personnel, qui m’aime me suive, etc.: ça a déjà plus de gueule.
+Ensuite, j’ai toujours plu aux femmes plus âgées. Les plus jeunes (qui deviennent chaque jour plus nombreuses, c’est la loi des nombres et du temps qui passe) me trouvent exigeant, moralisateur, râleur, et psycho-rigide. Une attirance qui, heureusement pour moi, n’est pas unilatérale. J’ai toujours trouvé que les femmes de 40 ans poutraient. Et maintenant, je vais expliquer pourquoi.
+Cette introduction, faite de phrases très courtes et hachée menue de ponctuation, est très étrange non ? Je veux dire, je n’écris pas comme ça, d’habitude, si ? Ainsi soit-il. Faisons le tour des raisons de
+préférer la femme dans sa quarantaine
+En commençant par dézinguer quelques lieux communs sans fondement (pléonasme)
+3 FAUSSES bonnes raisons de préférer les femmes de 40 ans
+Fausse
+bonne raison, 1. Elles seraient plus portées sur « la chose »
+Faux. L’envie de s(e faire) allonger est un paramètre entièrement personnel, qui varie plus selon les caractères que selon les âges de la vie. Sinon les maisons de retraite seraient remplies de nymphomanes, ce qui aux dernières nouvelles n’est pas exactement le cas. Même si.
+Fausse
+bonne raison, 2. Elles seraient toutes des « bons coups »
+De plus, ayant grandi dans des années 70 patriarcales et encore peu enclines à la féminisation de notre xxième siècle (et la réduction de la liberté au plaisir individuel, théorisée en son temps par qui-on-sait), les chances que leur maman se soit penchée sur leur clitoris pour leur en expliquer le mode d’emploi sont assez maigres, ignorant probablement elles-même son existence et ses fonction
+
 ### Si une femme est piégée dans son couple, c&#039;est pour CETTE raison
 
 *`web-articles__seduction-fondamentaux__22952_piegees-couple-vraies-raisons-lesquelles-femmes-malheureuses-restent-couple.html.txt` · 2330 mots · archive de l'auteur*
@@ -286,67 +336,6 @@ matérielles et de confort
 … mais cette explication étant trop simple, il faut y substituer un beau wishful thinking à même de propulser l’ouvrage en tête
 des ventes sur Amazon
 (le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
-
-### Collectionner des techniques de séduction ou bien adopter un mode de vie séduisant ?
-
-*`web-articles__1246_techniques-de-seduction-developpement-personnel.html.txt` · 2033 mots · archive de l'auteur*
-
-Avant d'envisager les
-techniques de séduction
-pour
-elles
-mêmes, travailler en profondeur, sur
-soi
-même. Cet article synthétise de nombreuses lectures des
-articles séduction
-et du
-forum
-pour vous proposer quelques pistes sur les changements à faire, et dans quels domaines
-Votre image de vous-même
-D'abord, votre physique. À moins d'une réelle anomalie (vous ressemblez à Boso le clown), le physique n'est pas un problème à long terme. Il n'en est un que sur l'instant, lors de l'
-approche
-, mais peut être aisément compensé par le sourire, de l'assurance, et un bon
-, facteurs assez rares chez les gens et encore plus lorsqu'ils sont réunis.
-Une fois passé le test d'attraction physique, tout repart à zéro, à moins que la fille ne vous envisage que comme un
-coup d'un soir
-; que vous ayez un physique d'acteur hollywoodien ou celui d'un homme plus banal, c'est seulement votre imagination, votre style et vos tripes qui feront que vous marquerez des points.
-Ensuite, votre look. Ici, il ne s'agit que d'
-apprendre un certain nombre de règles de base
-: prendre des vêtements vraiment à sa taille, avec une coupe qui vous mette en valeur (en accentuant la masculinité et en masquant les défauts morphologiques), et en privilégiant la qualité (notamment, au niveau des matières, de la conception et des finitions) plutôt que la quantité. Éviter d'être une pub ambulante, aussi, en arborant des logos de marque, et surtout, dans la mesure du possible,
-la combo qui tue
-Tout le reste n'est que l'affaire de goût personnel, et d'expérience, mais il faut savoir se remettre en question et accepter le fait que le vêtement n'est pas fait que pour la pudeur et la protection contre les intempéries. Comme en séduction, le but est de se faire plaisir et de se démarquer des autres en affichant implicitement la qualité de votre jugement, votre goût et votre indépendance.
-L'intelligence est rarement un problème chez les gens qui font la démarche de changer et veulent améliorer leur vie. Parfois, c'est même leur intelligence qui paralyse leurs aptitudes sociales. Donc, si vous pensez que vous êtes un crétin parce que vous n'arrivez pas à séduire la moindre fille, même banale, alors que vous voyez des mec
-
-### Le 14 mars, devenez (vraiment) séduisant
-
-*`web-articles__1941_seminaire-developpement-personnel-devenez-seduisant.html.txt` · 1409 mots · archive de l'auteur*
-
-Le 21 décembre dernier, notre séminaire
-dynamiques sociales
-vous a déplacé si nombreux que nous n’avons pas trouvé, dans Paris, de salle suffisamment grande pour l’organiser en une seule fois, aussi avez-vous pu choisir entre deux sessions la même après-midi. Le tout avec, comme d’habitude,
-100% de témoignages positifs
-. Merci de votre fidélité, et félicitations pour avoir pris le tournant du développement personnel amorcé il y a déjà 6 mois avec le premier séminaire du genre en France :
-changez de vie
-. Si vous appliquez nos conseils, les premiers résultats se sont déjà manifestés. Bonne nouvelle : ce n’est qu’un début, 90% du potentiel est devant vous. Rendez-vous le 14 mars prochain, pour la suite du meilleur investissement de votre vie : celui que vous faites sur vous. Et si vous n’avez pas pu venir la dernière fois, prenez le train en marche, il n’est jamais trop tard pour s’améliorer.
-Etes-vous de ceux qui plaisent sans le vouloir ?
-Si vous êtes lecteur régulier du site et du forum vous déjà probablement acheté ce film, mais je souhaite que vous la regardiez une nouvelle fois, à la fois pour le plaisir, mais surtout en essayant de répondre honnêtement à une question : quand allez-vous finalement cesser de croire aux “techniques de séduction” ?
-Nous sommes d’accord, ce n’est “qu’un” film, et les dialogues sont écrits, comme le scénario. Mais transposez une seconde cette situation dans la vie : est-il en train de tester l’intégralité de sa boite à outils de séduction comme Mario Bros passe en revue un lot de clefs à molette, ou bien est-il en train de plaire
-à son insu
-, en agissant selon sa
-personnalité
-“Voyant - guérisseur - marabout”
-Parce que c’est mon métier et que je dois rester informé, je suis abonné à la plupart des newsletters de sites de séduction américains (d’ailleurs, si vous ne l’êtes toujours pas à la nôtre,
-c’est le moment
-). Et franchement, c’est bien souvent à se demander s’il ne s’agit pas d’un gag : entre les soi-disant produits qui s’écoulent tellement vite que vous recevez 10 emails de relance pour en commander et les séminaires dont les places s’arrachent tellement qu’il en reste encore 3 jours avant, une promesse sans cesse renouvelé
-
-
-- Comment briser la glace avec celles qui vous plaisent (de la façon la plus naturelle qui soit)
-- Comment contourner la gêne inhérente à l’inconnu (le sentiment très français d’être bizarre en parlant simplement à son voisin)
-- Que penser des résistances (et comment les interpréter avec finesse et discernement)
-- Comment gérer les échecs (les échecs étant plus ou moins communs à tout le monde, la différence se fait sur les leçons que certains savent en tirer)
-- Comment trouver le juste équilibre entre le bavard insupportable et l’autiste (dont la vie intérieure est peut-être passionnante, mais qui pour l’instant n’a jamais passionné personne, loin de là)
-- Comment amener la personne à avoir
-- Si vous avez déjà souscrit à notre offre fidélité “3 séminaires au prix de 2″ et qu’il vous reste des séminaires sur votre “crédit”, envoyez-nous un simple mail à reservations@spikeseduction.com pour confirmer votre présence, merci
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -399,10 +388,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 > 
 > ---
 
-### Concepts enseignés
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
-
 ### Ce qui n'est pas couvert
 
 - le déroulé exact de cette session
@@ -410,10 +395,6 @@ Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobili
 - les exercices propres à cette session
 
 > **À citer** : `C034`, en annonçant « reconstituée depuis C034 ». Jamais `C032` — la trace serait fausse.
-
-## Concepts
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
 
 ---
 

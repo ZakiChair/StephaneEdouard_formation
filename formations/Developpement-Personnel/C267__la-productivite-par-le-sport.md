@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 9
 citations: 3
 doublon_titre: non
@@ -70,13 +70,33 @@ doublon_titre: non
 
 > Stephane revient sur sa dernière date de tournée : 22 novembre 2022 à Paris
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
 
 ### Résumé
 
-Le sport n'est pas une perte de temps productive — c'est un investissement dans votre capacité à produire. Stéphane Édouard révèle que les hommes les plus Productifs ont intégré le sport comme un outil stratégique，而非 comme un hobby. Le sport développe la force vitale (H-pur), la résilience, la gestion du stress, et la capacité à tolérer l'inconfort — toutes les qualités qui se traduisent directement en performance professionnelle et personnelle.
+Le sport n'est pas une perte de temps productive — c'est un investissement dans votre capacité à produire. Stéphane Édouard révèle que les hommes les plus Productifs ont intégré le sport comme un outil stratégique,  comme un hobby. Le sport développe la force vitale (H-pur), la résilience, la gestion du stress, et la capacité à tolérer l'inconfort — toutes les qualités qui se traduisent directement en performance professionnelle et personnelle.
 
 ---
 
@@ -101,7 +121,7 @@ Dans le framework de Stéphane, le sport n'est pas une option mais une nécessit
 
 L'homme qui se discipline dans le sport développe des habitudes qui se transferent naturellement au travail :
 - La régularité (entraînements fixes, non négociables)
-- L'acceptation de l'inconfort (les répétitions无聊 mais nécessaires)
+- L'acceptation de l'inconfort (les répétitions mais nécessaires)
 - La récupération (le repos fait partie de la progression)
 - La progression progressive (augmentation graduelle de la charge)
 

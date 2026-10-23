@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 18
 citations: 3
 doublon_titre: non
@@ -92,6 +92,26 @@ doublon_titre: non
 
 > Publicité déguisée en contenu journalistique : La vidéo de "Fraîche" repose sur des protagonistes qui promeuvent leurs propres produits sans signaler le conflit d'intérêt, ce qui devrait selon l'auteur être signalé comme publication commerciale.
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UCJ2WPRuqs0
+
+*vidéo · `UCJ2WPRuqs0-transcript.md`*
+
+### Video -9x2Ur_VCoU
+
+*vidéo · `-9x2Ur_VCoU-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video 93BsPu2-ysc
+
+*vidéo · `93BsPu2-ysc-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -121,11 +141,11 @@ Plusieurs mécanismes psychologiques expliquent esta difficulty :
 
 **La peur du rejet** : notre cerveau est câblé pour appartenir au groupe. Être rejeté était une condamnation à mort dans notre passé évolutionnaire. Cette peur est inscrite dans notre code.
 
-**La culpabilité** : on grandit avec l'idée que dire non c'est être égoïste, помоему. Cette culpabilité Learned est difficile à overcome.
+**La culpabilité** : on grandit avec l'idée que dire non c'est être égoïste, . Cette culpabilité Learned est difficile à overcome.
 
-**Le desir de être aimé** : особенно pour ceux qui ont appris que leur valeur depended de l'approbation des autres.
+**Le desir de être aimé** : pour ceux qui ont appris que leur valeur depended de l'approbation des autres.
 
-**La peur du conflict** : on préfere suffer en silence plutôt que de confront непосредственно.
+**La peur du conflict** : on préfere suffer en silence plutôt que de confront .
 
 Reconnaître ces mécanismes permet de ne pas être piégé par eux.
 

@@ -80,7 +80,7 @@ Le temps est la ressource la plus précieuse — et pourtant, la plupart des gen
 - Le temps est la seule ressource non renouvelable — chaque minute perdue ne revient jamais
 - La gestion du temps commence par la clarté des priorités, pas par les techniques
 - L'urgent dévore l'important si vous ne protégez pas votre temps pour ce qui compte
-- Les "voleurs de temps" sont souvent des évitements déguisés — on忙碌 pour ne pas affronter l'essentiel
+- Les "voleurs de temps" sont souvent des évitements déguisés — on pour ne pas affronter l'essentiel
 - Dire non est la compétence la plus importante en gestion du temps
 - L'énergie prime sur le temps — un homme énergique en 6 heures dépasse un homme épuisé en 12
 

@@ -162,32 +162,24 @@ Qui plus est, cela vous évitera peut-être la désagréable surprise d’appren
 - des vêtements versatiles, qui se combinent facilement pour ajouter/retirer une couche en fonction de la température (ex pour un étudiant : t-shirts unis avec de belles couleurs + pull gris col en V ou gilet zippé).
 - une mini-boussole de 1cm de diamètre (utile à l’étranger pour se repérer vite sans forfait data, et pratique en mégalopole quand on sort des transports en commun).
 
-### &laquo;&nbsp;Certains l&rsquo;aiment chaud&nbsp;&raquo; : devoirs de vacances pour rencontres d&rsquo;été
+### 10 bonnes raisons (et 3 mauvaises) de préférer les femmes après 40 ans | Spike Séduction
 
-*`web-articles__seduction-fondamentaux__13994_rencontrer-femmes-vacances-ete.html.txt` · 1054 mots · archive de l'auteur*
+*`web-articles__20371_femmes-40-ans.html.txt` · 1587 mots · archive de l'auteur*
 
-« Certains l’aiment chaud » : devoirs de vacances pour rencontres d’été
-« Certains l’aiment chaud » : devoirs de vacances pour rencontres d’été
-J’ignore où chacun de vous est parti en
-vacances cet été
-(d’ailleurs ça pourrait être drôle que vous le fassiez partager, en commentaire – je vais d’ailleurs donner l’exemple), mais je sais une chose : il serait parfaitement hypocrite de prétendre qu’un homme, célibataire de surcroît, ne songe pas un seul instant à
-faire des rencontres en été
-. Raison, d’ailleurs, pour laquelle j’ai monté ce petit sondage minute récemment :
-où partir cet été pour faire des rencontres ?
-Je suis parti en vacances seul à de multiples reprises, encore plus souvent accompagné, et j’ai vécu (comme tout le monde ?) ce type de rencontre. Il y a même eu une fois où c’était complètement
-organique
-. Bref, j’ai cumulé assez de recul (étrange sonorité) pour vous faire part des réflexions suivantes.
-Et puisque certains aiment les conseils sous forme d’algorithmes (ça communique mieux avec leur cerveau gauche), ainsi soit-il.
-1. Partez avec une fille
-Vous allez me trouver gonflé de commencer par ce conseil… disons… contradictoire, mais c’est pourtant le meilleur, ou du moins le plus important.
-Avoir dans l’idée de, éventuellement, faire des rencontres l’été ne sous-entend pas forcément partir avec quelqu’un qui veut, pense et respire la même chose que vous. Deux filles célibataires l’été à une terrasse ou sur la plage, ça se voit mais c’est mignon et, selon les filles, attirant. Deux hommes célibataires l’été à une terrasse ou sur la plage, ça se voit mais c’est étrangement toujours un peu repoussant.
-N’avoir personne dans son lit n’implique pas de n’avoir aucune
-copine
-fille (avec toutes les réserves sous-entendues par ma définition de l’amitié homme-femme, que je livre – si je me souviens bien – dans la série de séminaires
-langage des femmes).
-Vous serez toujours plus attirant négligé et accompagné que seul et apprêté
-2. Faites vos devoirs pendant la journée pour jouer le soir
-C’est toujours pareil. La journée, écrasés de soleil, de repos, de piscine, bref la totale, vous ne voulez rien d’autre qu’étirer les heures. Glander, quoi. Et dans la « deuxiè
+Comprendre les femmes n’empêche pas de comprendre les hommes. Surtout qu’ils sont globalement plus simples, plus prévisibles, plus logiques. Et tout aussi prédéterminés génétiquement. A quoi? A aimer les femmes plus jeunes qu’eux, plus fertiles, et accessoirement très apprêtées. Bonjour Jean-Luc, si tu nous écoutes
+du fond de ton cachot
+De mon côté, les choses sont allées un peu différemment, sur ça et sur le reste. D’abord, je déteste les déterminismes, qu’ils soient sociaux, économiques, historiques, et même génétiques. Libre arbitre, discernement, goût personnel, qui m’aime me suive, etc.: ça a déjà plus de gueule.
+Ensuite, j’ai toujours plu aux femmes plus âgées. Les plus jeunes (qui deviennent chaque jour plus nombreuses, c’est la loi des nombres et du temps qui passe) me trouvent exigeant, moralisateur, râleur, et psycho-rigide. Une attirance qui, heureusement pour moi, n’est pas unilatérale. J’ai toujours trouvé que les femmes de 40 ans poutraient. Et maintenant, je vais expliquer pourquoi.
+Cette introduction, faite de phrases très courtes et hachée menue de ponctuation, est très étrange non ? Je veux dire, je n’écris pas comme ça, d’habitude, si ? Ainsi soit-il. Faisons le tour des raisons de
+préférer la femme dans sa quarantaine
+En commençant par dézinguer quelques lieux communs sans fondement (pléonasme)
+3 FAUSSES bonnes raisons de préférer les femmes de 40 ans
+Fausse
+bonne raison, 1. Elles seraient plus portées sur « la chose »
+Faux. L’envie de s(e faire) allonger est un paramètre entièrement personnel, qui varie plus selon les caractères que selon les âges de la vie. Sinon les maisons de retraite seraient remplies de nymphomanes, ce qui aux dernières nouvelles n’est pas exactement le cas. Même si.
+Fausse
+bonne raison, 2. Elles seraient toutes des « bons coups »
+De plus, ayant grandi dans des années 70 patriarcales et encore peu enclines à la féminisation de notre xxième siècle (et la réduction de la liberté au plaisir individuel, théorisée en son temps par qui-on-sait), les chances que leur maman se soit penchée sur leur clitoris pour leur en expliquer le mode d’emploi sont assez maigres, ignorant probablement elles-même son existence et ses fonction
 
 ## Ce que la fiche dit de ce séminaire
 

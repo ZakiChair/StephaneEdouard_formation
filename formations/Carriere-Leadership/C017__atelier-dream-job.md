@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 4
+pages_developpement: 10
 idees_forces: 16
 citations: 0
 doublon_titre: non
@@ -228,6 +228,26 @@ Relooking phase 0 : soins pour la peau
 
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video GRuFqA-Zf9I
+
+*vidéo · `GRuFqA-Zf9I-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

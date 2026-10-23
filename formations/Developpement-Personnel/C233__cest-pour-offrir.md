@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -57,6 +57,26 @@ doublon_titre: oui
 *« Video-uXOONmB50JU-synthese.md » · origine : lien-declare*
 
 > Les appels ne mentent pas : Plus de 80% des appels féminins concernent un homme qui s'éloigne, alors que les appels masculins concernent une femme qui ne se donne pas — révélant un pattern inverse selon le genre.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Elle était l'entrepreneur.e féministe de l'année...la fin va vous surprendre
+
+*vidéo · `0H240TN_lTY-transcript.md`*
+
+### Video TYQzWbu039Y
+
+*vidéo · `TYQzWbu039Y-transcript.md`*
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -133,7 +153,7 @@ Dans une relation de couple, l'offrande doit être :
 
 ### Exercices / Pratiques
 
-- **Faire le bilan de ses offrandes** : Évaluez vos dernières offrandes. были-elles des dons ou des transactions ? Vous attendiez-vous à quelque chose en retour ?
+- **Faire le bilan de ses offrandes** : Évaluez vos dernières offrandes. -elles des dons ou des transactions ? Vous attendiez-vous à quelque chose en retour ?
 - **Observer les offrandes reçues** : Les offrandes de votre partenaire viennent-elles avec des attentes ? Identifiez le pattern.
 - **Définir ses limites** : Quelles offrandes acceptez-vous ? Lesquelles refusez-vous ? Établissez des limites claires.
 - **Practiquer le don sans attente** : La prochaine fois que vous donnez quelque chose, faites-le sans rien attendre en retour. Observez ce que vous ressentez.

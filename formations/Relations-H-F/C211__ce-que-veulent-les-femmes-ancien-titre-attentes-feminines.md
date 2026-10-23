@@ -13,7 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 7
 citations: 3
 doublon_titre: oui
@@ -93,6 +93,26 @@ doublon_titre: oui
 *« Video-p1WU4JiuIzQ-synthese.md » · origine : lien-declare*
 
 > Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 9cFqcKg2DHo
+
+*vidéo · `9cFqcKg2DHo-transcript.md`*
+
+### Faut-il censurer les féministes à l'instar des Trumpistes ?
+
+*vidéo · `A0tCo66fMXQ-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

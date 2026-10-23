@@ -13,7 +13,7 @@ programme: 6
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 3
+pages_developpement: 9
 idees_forces: 19
 citations: 0
 doublon_titre: oui
@@ -195,6 +195,26 @@ D’aventure en aventure
 De retour à la réalité, habitant la même ville, j’ai commencé à lui proposer des sorties en tête à tête, pour apprendre à la connaître et voir si cela pourrait marcher entre nous. Après quelques sorties, et 2,5 mois après notre première rencontre, j’ai eu l’occasion rêvée de conclure, mais le gentil garçon en moi, ou le lâche, a raté cette occasion…(elle était venue chez moi boire du vin, et me lançait des signes d’intérêts que seul un eunuque n’aurait pas vu…). Bref à ce moment là, je suis rentré directement en
 friend zone
 . Je continuais pourtant à la voir, en tête à tête souvent, je sentais une grande connexion émotionnelle et une certaine tension sexuel
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

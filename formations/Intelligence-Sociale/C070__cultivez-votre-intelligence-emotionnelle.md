@@ -13,7 +13,7 @@ programme: 7
 sections_annonce: 8
 points_annonce: 4
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 48
 citations: 0
 doublon_titre: oui
@@ -218,6 +218,75 @@ _\*un jeu de mot est susceptible de se cacher dans le patronyme de ce cher Danie
 *« La-strip-teaseuse-se-définit-comme-sorcière-et泄-optimally-synthese.md » · origine : lien-declare*
 
 > La strip-tease comme "travail émotionnel" les hommes
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### L'histoire la + abjecte de ces 10 dernières années, et pourquoi ça vous concerne
+
+*vidéo · `55pK6U9bxjs-transcript.md`*
+
+### Aidons cette ministre "surdouée" Macronniste à s'exprimer en public
+
+*vidéo · `G1B7SG_yp-M-transcript.md`*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### The Circus of "A-Gendered" Children on TV
+
+*vidéo · `5vDaihZ_iTo-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cela fait trente ans qu'on vous bassine avec l'idée que l'intelligence émotionnelle serait « el nuvo QI ». Goleman l'a écrit en 1995, les RH l'ont récupéré sans vergogne (les RH ont rarement de la vergogne), LinkedIn l'a mu en une litanie hebdomadaire, et au bout du compte, personne ou presque n'est plus fichu de dire concrètement… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Cela fait trente ans qu'on vous bassine avec l'idée que l'intelligence émotionnelle serait « el nuvo QI »
+2. Goleman l'a écrit en 1995, les RH l'ont récupéré sans vergogne (les RH ont rarement de la vergogne), LinkedIn l'a mu en une litanie hebdomadaire, et au bout du compte, personne ou presque n'est plus fichu de dire concrètement de quoi il s'agit, comment savoir si vous en avez, et surtout comment vivre avec
+3. Encore un truc de pleurnichards en quête de validation
+4. D'abord parce que c'est précisément parce que vous croyez que vous « gérez » que vos émotions pilotent vos décisions à votre insu
+5. L'homme « de base » (vous savez quelle affection je lui porte, il a même un surnom en 3 lettres) qui se présente comme « peu ou pas émotif » est TOUJOURS statistiquement celui qui finit par commettre l'impensé (et hélas, parfois l'insensé)
+6. D'expérience (je n'ai pas la « src », mais croyez-moi) : les plus grosses dépressions et les plus gros pétages de plomb sont à mettre à l'actif d'hommes étrangers à leurs émotions
+7. Non identifiées et non gérées, les émotions sont seules aux commmandes
+2
+8. Ensuite parce qu'à l'autre extrême, le marché du développement personnel a transformé l'IE en culte de la sensiblerie : « exprimer ses ressentis », « honorer son enfant intérieur » (sic), « faire (une) confiance (aveugle) à
+
+
+---
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

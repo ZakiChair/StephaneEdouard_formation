@@ -249,10 +249,6 @@ trop tôt… trop vite…
 
 ---
 
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
-
 ---
 
 *Identifiant canonique `C253` (index de 369 fiches).*

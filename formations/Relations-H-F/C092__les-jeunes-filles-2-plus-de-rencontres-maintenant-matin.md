@@ -99,6 +99,40 @@ confiance: 0
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
+### Le voyage en avion, pt. II : faire des rencontres
+
+*`web-articles__12226_aborder-inconnue-avion.html.txt` · 2647 mots · archive de l'auteur*
+
+Deuxième article de notre série
+savoir-être au masculin
+: l’aéroport est un divin terrain d’application de votre
+intelligence sociale
+. Vous êtes invité à nous faire partager vos expériences de voyage en commentaire ci-dessous.
+J’avoue que les commentaires du premier article de la série m’ont un peu « saisi », la plupart consistant à rappeler qu’il était plus pratique et confortable de voyager comme un plouc : t-shirt, sweat-shirt etc. C’est tout de même assez effrayant comme « réponse automatique » , surtout après la lecture d’un article qui tente de démontrer le contraire non ? Comme d’habitude la contradiction vient de cette bonne vieille dichotomie simpliste (complètement fausse, mais hélas vraie dans l’esprit de celui qui n’y connaît rien au vêtement) : être « classe » consisterait à porter un costume-cravate en toutes circonstances comme Oncle Barney ou récemment David Beckham.
+La classe, c’est l’alliance du pratique et du confortable
+dans une situation donnée
+Il y a des situations où il est relativement « classe » de porter un tshirt ou un hoodie (sweat-shirt en coton à capuche), mais l’avion n’en fait pas partie.
+Enfin bref.
+A l’aéroport
+Le « verrou » du check-in
+Dans la mesure du possible évitez les vols avant 8-9h du matin (vous savez, les vols les moins chers sur les comparateurs de prix), qui effacent toute possibilité de dormir correctement la nuit qui précède et vous font démarrer le voyage avec un quota fatigue dont il faudra plusieurs jours pour vous débarrasser.
+Faites-en sorte d’arriver :
+2h avant votre vol pour un vol international
+1h30 pour un vol local
+jamais moins d’1h avant, quoi qu’il vous en coûte
+Cela vous donne le temps et surtout la
+tranquillité d’esprit
+(ça n’a pas de prix) pour parer à tout imprévu. Les aéroports sont dans l’ensemble des endroits propres, agréables et bien éclairés : aucun intérêt à partir à la dernière minute pour les traverser en courant, mieux vaut arriver en avance avec un bon livre ou un peu de travail et s’attabler.
+Qui plus est, cela vous évitera peut-être la désagréable surprise d’apprendre, comme cela m’est arrivé il y a quelques années, que dans certains pays comme les Pays-bas, l’Allemagne et la Suisse, à
+
+
+- et dans ce contexte ultra sécurisant.
+- L’art de briser la glace faisant notamment partie des choses qui s’apprennent
+- emporter une serviette ultra séchante.
+- demander des échantillons de gels douche et dentifrice en magasin.
+- des vêtements versatiles, qui se combinent facilement pour ajouter/retirer une couche en fonction de la température (ex pour un étudiant : t-shirts unis avec de belles couleurs + pull gris col en V ou gilet zippé).
+- une mini-boussole de 1cm de diamètre (utile à l’étranger pour se repérer vite sans forfait data, et pratique en mégalopole quand on sort des transports en commun).
+
 ### La discussion du dimanche soir : le système bloque t-il les rencontres ?
 
 *`web-actualite__12714_la-discussion-du-dimanche-soir-sexe-empire.html.txt` · 1285 mots · archive de l'auteur*
@@ -135,40 +169,6 @@ Cf. un reportage récent sur le Japon où le phénomène est à un stade avancé
 Rose Selavy
 14 avril 2013 à 22:31
 C
-
-### Le voyage en avion, pt. II : faire des rencontres
-
-*`web-articles__12226_aborder-inconnue-avion.html.txt` · 2647 mots · archive de l'auteur*
-
-Deuxième article de notre série
-savoir-être au masculin
-: l’aéroport est un divin terrain d’application de votre
-intelligence sociale
-. Vous êtes invité à nous faire partager vos expériences de voyage en commentaire ci-dessous.
-J’avoue que les commentaires du premier article de la série m’ont un peu « saisi », la plupart consistant à rappeler qu’il était plus pratique et confortable de voyager comme un plouc : t-shirt, sweat-shirt etc. C’est tout de même assez effrayant comme « réponse automatique » , surtout après la lecture d’un article qui tente de démontrer le contraire non ? Comme d’habitude la contradiction vient de cette bonne vieille dichotomie simpliste (complètement fausse, mais hélas vraie dans l’esprit de celui qui n’y connaît rien au vêtement) : être « classe » consisterait à porter un costume-cravate en toutes circonstances comme Oncle Barney ou récemment David Beckham.
-La classe, c’est l’alliance du pratique et du confortable
-dans une situation donnée
-Il y a des situations où il est relativement « classe » de porter un tshirt ou un hoodie (sweat-shirt en coton à capuche), mais l’avion n’en fait pas partie.
-Enfin bref.
-A l’aéroport
-Le « verrou » du check-in
-Dans la mesure du possible évitez les vols avant 8-9h du matin (vous savez, les vols les moins chers sur les comparateurs de prix), qui effacent toute possibilité de dormir correctement la nuit qui précède et vous font démarrer le voyage avec un quota fatigue dont il faudra plusieurs jours pour vous débarrasser.
-Faites-en sorte d’arriver :
-2h avant votre vol pour un vol international
-1h30 pour un vol local
-jamais moins d’1h avant, quoi qu’il vous en coûte
-Cela vous donne le temps et surtout la
-tranquillité d’esprit
-(ça n’a pas de prix) pour parer à tout imprévu. Les aéroports sont dans l’ensemble des endroits propres, agréables et bien éclairés : aucun intérêt à partir à la dernière minute pour les traverser en courant, mieux vaut arriver en avance avec un bon livre ou un peu de travail et s’attabler.
-Qui plus est, cela vous évitera peut-être la désagréable surprise d’apprendre, comme cela m’est arrivé il y a quelques années, que dans certains pays comme les Pays-bas, l’Allemagne et la Suisse, à
-
-
-- et dans ce contexte ultra sécurisant.
-- L’art de briser la glace faisant notamment partie des choses qui s’apprennent
-- emporter une serviette ultra séchante.
-- demander des échantillons de gels douche et dentifrice en magasin.
-- des vêtements versatiles, qui se combinent facilement pour ajouter/retirer une couche en fonction de la température (ex pour un étudiant : t-shirts unis avec de belles couleurs + pull gris col en V ou gilet zippé).
-- une mini-boussole de 1cm de diamètre (utile à l’étranger pour se repérer vite sans forfait data, et pratique en mégalopole quand on sort des transports en commun).
 
 ### &laquo;&nbsp;Certains l&rsquo;aiment chaud&nbsp;&raquo; : devoirs de vacances pour rencontres d&rsquo;été
 

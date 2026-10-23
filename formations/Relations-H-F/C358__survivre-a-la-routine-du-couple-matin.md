@@ -183,6 +183,32 @@ matérielles et de confort
 des ventes sur Amazon
 (le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
 
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- **L'amour comme moteur de transformation** : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+- **L'erreur de la séduction par le corps** : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
+
+_[extrait tronqué]_
+
+### Video-p1WU4JiuIzQ-synthese
+# Synthèse : Video p1WU4JiuIzQ — p1WU4JiuIzQ
+
+
+
+# Le Ressentiment et la Nostalgie du Passé : Comprendre le Retour de l'Ex
+
+---
+
+#### Thème central
+
+Cette vidéo analyse la signification profonde d'un message d'une ex qui, après avoir choisi de retourner avec son ancien compagnon, recontacte son ancien partenaire par nostalgie. L'orateur décrypte ce comportement à travers le prisme du **ressentiment**, ce mécanisme psychologique qui pousse l'être humain à regretter un choix passé et à fantasmer sur ce qu'il a quitté.
+
+_[extrait tronqué]_
+
 ---
 
 ## Reconstitution

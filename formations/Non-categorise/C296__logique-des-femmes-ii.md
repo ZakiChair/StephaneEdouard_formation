@@ -231,10 +231,6 @@ en vente jusqu'au 31/05/2015 mi
 
 ---
 
-## Concepts
-
-Le Modèle Unique injecté de "Parisienne" · L'Exotisation Positive vs l'Interdiction Culturelle · Le Double Standard de la Représentation · La Métisse Forcée vs l'Autochtone Invisible
-
 ---
 
 *Identifiant canonique `C296` (index de 369 fiches).*

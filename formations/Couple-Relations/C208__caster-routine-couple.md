@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 12
 documents_materiau: 4
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 2
 citations: 0
 doublon_titre: non
@@ -218,6 +218,26 @@ matérielles et de confort
 des ventes sur Amazon
 (le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video rp3jksmt-cQ
+
+*vidéo · `rp3jksmt-cQ-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Solveig Halloin @ Balance ton post
+
+*vidéo · `CEhoPgOBx20-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -296,7 +316,7 @@ Stéphane propose plusieurs stratégies, seules ou en combinaison :
 - **L'audit de la routine** : Listez les 10 activités que vous faites le plus souvent avec votre partenaire. Identifiez lesquelles sont des routines qui tuent la passion.
 - **Le défi de la nouveauté** : Une fois par mois, faites quelque chose de nouveau ensemble — quelque chose qui n'a jamais été fait dans votre relation.
 - **La conversation sur la routine** : Asseyez-vous avec votre partenaire et parlez ouvertement de la routine. Qu'est-ce qui vous manque ? Qu'est-ce que vous aimeriez changer ? Pas d'accusation — juste de la lucidité.
-- **Le test de séparation** : Séparez-vous pendant une semaine (vacances分开, hébergement分开). Observez si le manque apparaît — et ce qu'il révèle.
+- **Le test de séparation** : Séparez-vous pendant une semaine (vacancesséparé, hébergementséparé). Observez si le manque apparaît — et ce qu'il révèle.
 - **L'exercice du "nouveau couple"** : Pendant un weekend, traitez votre partenaire comme si vous veniez de le/la rencontrer. Flirtez, surprenez, séduisez. Observez ce qui change.
 - **La décision** : Si la routine est trop profonde, posez-vous la question : est-ce que je reste par amour ou par peur ? La réponse vous dira quoi faire.
 

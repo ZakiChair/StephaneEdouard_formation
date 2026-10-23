@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 1
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 6
 citations: 3
 doublon_titre: non
@@ -47,6 +47,18 @@ doublon_titre: non
 *« Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md » · origine : lien-declare*
 
 > Florence Mendez a publié un communiqué Instagram détaillant une agression verbale subie en mars 2022 lors de l'enregistrement de *La Bande Originale*, nécessitant l'intervention des pompiers de Radio France
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UCJ2WPRuqs0
+
+*vidéo · `UCJ2WPRuqs0-transcript.md`*
+
+### Video Yx1MvdVoISo
+
+*vidéo · `Yx1MvdVoISo-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

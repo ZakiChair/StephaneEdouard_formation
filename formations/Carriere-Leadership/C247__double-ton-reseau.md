@@ -131,36 +131,6 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 
 > Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
 
-## Ce que la fiche dit de ce séminaire
-
-*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
-
-### Résumé
-
-Rocaïa Diallo, née et ayant grandi à Paris, décrit le choc de taper "Parisienne" dans un moteur de recherche : des dizaines de femmes aux silhouettes et profils quasi identiques s'affichent, sans qu'elle puisse se reconnaître. L'orateur rebondit en comparant ce que Google renvoie pour les origines gambienne et sénégalaise : la Sénégalaise est représentée comme "noire et voluptueuse", tandis que la Parisienne n'a pas le droit d'être "blanche et mince" — elle doit se "métisser de force". L'autre sens (une blanche adoptant des code
-
-### hpCi0E_CjeI-synthese
-# Synthèse : RIM'K — Analyse d'un clip rap à 150 millions de vues
-
-**Source** : https://www.youtube.com/watch?v=hpCi0E_CjeI
-
-### Points clés
-
-- **Inventaire des marqueurs discriminatoires** : survette integral, lunettes cheap, casquette, Nike (pas des Airmax), chicha, téléphone — "6 marker en 19 seco
-
-### tT1o01TRJZM-synthese
-# Synthèse : Video tT1o01TRJZM — tT1o01TRJZM
-
-<think>The user wants me to generate a synthesis of this podcast transcript in French. Let me analyze the content and create a structured synthesis following the guidelines.
-
-The podcast is from Édouard (Tonton Stéphane on YouTube), discussing the topic of how being a woman in the West provides certain advantages. Let me structure this properly.
-
-The video is titled and discusses:
-1. His two main rules: not targeting physical appearance, and not repeating topics multiple times
-2. He previously made a video/article on Feb 22, 2016 about why it's harder to be a man than a woman in the West today (20
-
----
-
 ---
 
 ## Reconstitution
@@ -194,10 +164,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C123`, en annonçant « reconstituée depuis C123 ». Jamais `C247` — la trace serait fausse.
-
-## Concepts
-
-Le Modèle Unique injecté de "Parisienne" · L'Exotisation Positive vs l'Interdiction Culturelle · Le Double Standard de la Représentation · La Métisse Forcée vs l'Autochtone Invisible
 
 ---
 

@@ -72,7 +72,7 @@ Le conflit est inévitable dans toute relation humaine. Cette formation explore 
 
 ### Points clés
 
-- Le conflit est不可避免 mais il peut être manager intelligemment
+- Le conflit estinévitable mais il peut être manager intelligemment
 - Comprendre la chaîne causale (Multiples → Angoisses → Névrose → Anxiété) permet de déminer
 - Sauvegarder la face de l'autre est essentiel pour maintenir la relation
 - La majorité des conflits naissent de malentendus plus que de véritables désaccords

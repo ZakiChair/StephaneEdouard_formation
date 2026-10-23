@@ -259,34 +259,6 @@ La plupart des problèmes (souvent irrattrapables et insurmontables) dans lesque
 Si j’étais un webmarketeur (ou un voleur, ce qui revient à peu près au même), je vous vendrais un pilule magique pour résoudre ce problème instantanément, ou bien je vous vendrais un ebook de 47 pages du style « casé en 1 semaine »…
 Mais aujourd’hui, se ca
 
-### Hiver 2012 : faites-vous vacciner contre l&#8217;obsession amoureuse
-
-*`web-actualite__8751_obsession-amoureuse-vaccin.html.txt` · 1409 mots · archive de l'auteur*
-
-Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
-Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
-Vous me connaissez – la plupart d’entre vous tout du moins – : j’aime bien glisser une petite plaisanterie ou un jeu de mots dans l’introduction des séminaires ou des articles importants. Il en ira un peu différemment aujourd’hui, le sujet est trop important pour plaisanter, ne serait-ce qu’un instant. Le thème du prochain séminaire, ceux qui ont vu la
-dernière vidéo
-le savaient en avant-première, c’est
-l’obsession amoureuse
-(aussi appelée one-itis dans des temps pas si éloignés).
-Et si on ne rigole pas avec l’obsession amoureuse, c’est qu’elle peut, à l’instar d’une maladie grave, mettre des pans entiers de votre existence dans le caniveau pour l’éternité. Et c’est long, l’éternité.
-Les symptômes de l’obsession amoureuse
-C’est elle qui est partie
-Vous avez eu un mal de chien à vous y faire et à rompre les ponts. C’est d’ailleurs un euphémisme, il y a eu autant de ruptures que de réconciliations provisoires et de nouveaux (faux) départs
-La personne habite une partie de votre esprit comme on squatte un appartement : sans vous demander la permission
-Vous occultez ou minimisez les raisons objectives qui vous ont séparé / ce qui vous éloigne d’elle
-(suite) … et lorsque vos amis vous les rappellent – ces raisons -, vous rationalisez. I.e vous lui trouvez une raison logique pour avoir agi ainsi, la dédouanant toujours un peu au passage
-Vous vous êtes surpris (à plusieurs reprises) à établir des comparaisons entre vos relations suivantes et la personne en question. Comparaisons qui tournaient systématiquement à l’avantage de… Je vous laisse deviner qui
-Vous préféreriez prendre un bain d’acide plutôt que de la voir avec un autre que vous. A fortiori heureuse.
-Vous ne comprenez toujours pas vraiment pourquoi c’est fini
-Etc. etc.
-Liste non exhaustive
-Je vous l’avais dit, moi non plus je n’ai pas envie de rire avec ça.
-Les conséquences de l’obsession amoureuse
-Vous désirez revoir la personne autant que vous redoutez de la croiser
-Vous avez l’impression d’être toujours plus fatigué que vous ne le devriez ; le souvenir de cet échec a ôté une partie de
-
 ### Suis-moi je te&#8230; l&#8217;article sur l&#8217;obsession amoureuse, partie I
 
 *`web-articles__1097_fuis-moi-je-te-suis-suis-moi-je-te-fuis.html.txt` · 1321 mots · archive de l'auteur*
@@ -308,6 +280,28 @@ L’effet papillon : la naissance de l’obsession amoureuse
 Lorenz
 Tout commence toujours par un rien. Et des riens, le monde en est plein : une démarche un peu chaloupée qui émeut, une chevelure délicatement agencée qui attendrit, un regard furtif qui interroge… Ou bien encore quelque chose de plus imperceptible, mais qu’on croit pourtant ressentir : une attirance irrationnelle, un élan passionné… Dans la séduction encore plus qu’ailleurs, ce sont les riens qui nous guident, mais qu’arrive-t-il si on se laisse porter par eux, sans entreprendre quoi que ce soit ? Arrive-t-on à ses fins ? Là s’arrête la romance, car les riens bien souvent ne mènent… à rien. Rien de concret s’entend, car l’imagination se fait fort de compenser ce qu’on n’ose et/ou ne sait faire et la romance se poursuit alors à l’intérieur d’un esprit où, jours après jours, mois après mois, elle s’éloigne de la réalité, l’y rendant par là même aveugle, et à laquelle toute confrontation directe devient un déchirement sincère et profond.
 Mais comment en arrive-t-on là ? A la base il faut un terreau propice, qu’une part de chacun d’entre nous possède et qui s’exprime avec plus ou moins de force : une tendance à tout vouloir comprendre avant de se lancer, une sacralisation un peu trop importante des femmes qui réfrène l’action, une peur assez floue
+
+
+- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### Suis-moi je te… l’article sur l’obsession amoureuse, partie II
+
+*`web-articles__1100_suis-moi-je-te-fuis-fuis-moi-je-te-suis-ii.html.txt` · 1004 mots · archive de l'auteur*
+
+Fuis-moi je te suis, suis-moi je te fuis, l'article sur l'obsession amoureuse
+L’équipe
+Suis-moi je te… l’article sur l’obsession amoureuse, partie II
+Suite de la première partie de notre article
+« Suis-moi je te fuis, fuis-moi je te suis »
+dans laquelle nous avons vu comment naissait le phénomène de l'obsession amoureuse qui va de paire avec l'idéalisation de la fille en question . Voyons maintenant comment s'entretient ce phénomène, à quoi peut-il mener, et pourquoi c'est un piège.
+Le cercle vicieux de l’obsession amoureuse
+Le temps passe, il y a peut-être des périodes où vous portez votre attention sur une autre, mais finalement, les soirs de pluie, c’est à elle que vous repensez en vous disant, comme à la veille d’une grande bataille : « c’est décidé, demain je passe à l’action ». Sauf que chez vous, ces veilles de grandes batailles sont aussi fréquentes que sans lendemain.
+C’est le piège de l’idéalisation, une fois dedans, plus on se débat, plus on s’emmêle. Il y avait deux solution : soit se montrer fort et être entreprenant dès le début, c’est à dire avoir un plan et s’y tenir (mais il faut oser et savoir faire), soit renoncer par avance et s’interdire alors tout regret en passant rapidement à autre chose (mais il faut être discipliné et résigné). Ne pas choisir, c’était se laisser aller dans une pente douce qui mène tranquillement vers l’enlisement.
+Arrivé à une telle extrémité, vous êtes perdant de tous les côtés : réticent à retourner se confronter à la réalité en cherchant à la voir, par peur de briser votre construction idéalisée, vous ne faites rien ; mais en outre, votre capacité à vous comporter normalement en sa présence est altérée à cause de la trop grande admiration que vous lui portez, ce qui supprime toute chance de voir la situation évoluer positivement du simple fait des circonstances.
+Frein à toute entreprise volontaire, handicap lors de toute rencontre hasardeuse : bienvenue dans le cercle vicieux de l’obsession amoureuse.
+Le résultat est un concert de demi-mesures, vous n’avez pas choisi entre entreprendre et renoncer, vous faites donc les deux à la fois, par vagues successives :
+« Fuis moi je te suis, suis moi je te fuis »
+. Mais vous j
 
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation

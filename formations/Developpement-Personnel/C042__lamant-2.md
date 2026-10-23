@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 2
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 5
 citations: 0
 doublon_titre: non
@@ -120,6 +120,50 @@ En 2011 déjà, j’ai posé le premier jalon de ce travail de recherche à la f
 *« Elle-voulait-le-confort,-elle-a-eu-l’ennui-synthese.md » · origine : lien-declare*
 
 > Le choix : Confort matériel immédiat vs. individuation à long terme.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Le couple le plus agaçant de l'année
+
+*vidéo · `0FlUCFoxtfE-transcript.md`*
+
+> 1. s'il y a un homme que je trouve très très beau et que je enfin ça dépend globalement si je sais qu'il est hétérosexuel ça me coupe tout envie dans le sens où je pars du principe qu'il a pas du tout envie de moi donc je suis pas du tout dans une démarche de séduction avec personne alors comme bon donc voilà donc encore une fois toujours cette même simplicité mentale cette vision intraduisibles des choses Jaubert une règle de fonctionnement général au titre que je n'en fais pas partie d'accord
+
+*Termes de la formation dans ce passage : hetero, heteros, sexuel*
+
+> 11. concerne que moi et éventuellement les gens qui entendent ma compagnie dans mon chemin dans mon combat dans ma eux répondent pour les homosexuels il s'enfon le porte-parole il synchronise porte-parole moi je me suis jamais introduisé par paroles des hétéros j'ai jamais dit les hété les hétéros ça quand tu t'introduises porte parole tu dois te défendre de cette position consistant à dire je suis mon propre auto auto référent c'est je et c'est ego anthropocentré ça ne fonctionne pas c'est pas parce
+
+*Termes de la formation dans ce passage : hetero, heteros, sexuel*
+
+> 12. que toi tu as un panel d'amis varié que dans leur immense majorité en représentation statistique les homosexuels n'ont pas une tendance à avoir des des amis femmes c'est la réalité mais aussi beaucoup je les embrassent beaucoup et merci d'être des hommes et d'être hétérosexuels et d'être à mes côtés au quotidien moi j'ai des amis hétéros donc la moyenne est vite fait mais j'ai autant d'amis que d'amis femme oui le deuxième vous aimez le rose la moyenne est vite fait c'est un petit peu comme la
+
+*Termes de la formation dans ce passage : hetero, heteros, sexuel*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+> Attends, comment il disait ça ? C'était assez formidable. Que finalement, c'était pas normal de regarder le cul des filles en yoga pants. Et là, je me suis dit... Cet homme est hétérosexuel, il est attiré par les femmes. Et là, je me suis dit de penser que c'est pas normal de regarder et que c'est presque mauvais.
+
+*Termes de la formation dans ce passage : hetero, heteros, sexuel*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+> Attends, comment il disait ça ? C'était assez formidable. Que finalement, c'était pas normal de regarder le cul des filles en yoga pants. Et là, je me suis dit... Cet homme est hétérosexuel, il est attiré par les femmes. Et là, je me suis dit de penser que c'est pas normal de regarder et que c'est presque mauvais.
+
+*Termes de la formation dans ce passage : hetero, heteros, sexuel*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+> Attends, comment il disait ça ? C'était assez formidable. Que finalement, c'était pas normal de regarder le cul des filles en yoga pants. Et là, je me suis dit... Cet homme est hétérosexuel, il est attiré par les femmes. Et là, je me suis dit de penser que c'est pas normal de regarder et que c'est presque mauvais.
+
+*Termes de la formation dans ce passage : hetero, heteros, sexuel*
 
 ## Ce que la fiche dit de ce séminaire
 

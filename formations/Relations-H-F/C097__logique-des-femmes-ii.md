@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 9
 points_annonce: 9
 documents_materiau: 4
-pages_developpement: 2
+pages_developpement: 8
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -232,6 +232,70 @@ ACCEDER A L'ARTICLE
 Nous n'envoyons jamais de spam. jamais.
 Séminaire de mai : get lucky (fabriquez votre chance)
 en vente jusqu'au 31/05/2015 mi
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+> Alors, j'ai 28 ans, je suis en couple avec un homme, on va l'appeler, j'en sais rien, on va l'appeler Ahmed. Il est marocain, il a 15 ans plus que moi, donc il a 43. donc G28, il a 43, je l'ai rencontré, j'en avais 19, je venais juste de sortir de mon bac, parce que je l'ai fait avec un moment de retard, parce que j'ai changé de section, bon bref, j'ai changé de section, et en gros lui, à cette époque-là, il en avait 34, j'en avais 19, lui il voulait faire sa vie avant les enfants, se marier, etc, c'était plutôt normal, on avait 4 ans, et moi à 19 ans, je voulais m'amuser, faire des études en normal, ce qui est normal pour le personnalisme à 19 ans, Du coup je comprenais bien que si je le quittais, il allait faire forcément sa vie.
+
+*Termes de la formation dans ce passage : ange, comprenais, mari, prenais*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video y4PKeEdGQ6w
+
+*vidéo · `y4PKeEdGQ6w-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Voilà, on y est. Logique des femmes, aussi surnommé #logiqueF, ou encore la « paire de lunettes » qui va bien pour décoder un monde auquel, avouez-le, vous n’avez jamais rien compris. Mais je ne peux pas vous blâmer. Ce n’est pas votre faute. Moi non plus je n’y comprenais rien, avant (avant +/- 25 ans, disons). Alors je me suis… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Logique des femmes, aussi surnommé #logiqueF, ou encore la « paire de lunettes » qui va bien pour décoder un monde auquel, avouez-le, vous n’avez jamais rien compris
+2. Moi non plus je n’y comprenais rien, avant (avant +/- 25 ans, disons)
+3. Alors je me suis fabriqué ma paire de lunettes tout seul, à force de lectures (romans), cours (théâtre) , réflexions personnelles, amours, haines, réajustements, bref du Do It Yourself dans le noble sens du terme, avec tous les (très) hauts et les (très) bas qui vont avec
+4. J’ai vu une fille me présenter à ses parents après 6 mois de relation, pour disparaître définitivement sans explications la semaine suivante
+5. J’ai entendu une américaine (je la prenais pour un ange) m’expliquer que nous n’avions pas d’alchimie parce que je n’avais toujours pas fait en sorte de coucher avec elle à la fin du 3ème rendez-vous, alors que je pensais lui faire l’honneur rare de ne pas me comporter comme un vulgaire queutard
+6. J’ai vu une femme insulter son ex mari à longueur de journée pour découvrir un jour, au hasard, sur la porte du frigo, qu’elle lui cuisinait encore des petits plats qu’elle apportait à son domicile
+7. Des comme ça, je pourrais en remplir intégralement cette page en moins de temps qu’il n’en faut pour se brosser les dents
+8. Et c’est sans compter ce que j’ai entendu, lu et vu de la part de mes clients…
+ALORS, VOUS COMPRENEZ
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

@@ -13,7 +13,7 @@ programme: 5
 sections_annonce: 4
 points_annonce: 4
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -104,6 +104,26 @@ Il est possible (et même bénéfique) de dire _non_ à tout le monde, de temps 
 *« France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md » · origine : lien-declare*
 
 > Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

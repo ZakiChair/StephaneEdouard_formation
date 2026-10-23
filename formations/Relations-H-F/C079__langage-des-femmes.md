@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 8
+pages_developpement: 10
 idees_forces: 34
 citations: 0
 doublon_titre: oui
@@ -237,6 +237,30 @@ Jetez un oeil aux
 photos de relooking
 Renseignez-vous sur nos
 coachs séduction et relooking
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Trump VS Biden 1-1
+
+*vidéo · `y0l8asQJ4Fo-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+> Pour pas plairer. la vidéo scopi c'est votre moment préféré de la semaine et le mien quand je découvre un nouveau média enfin nouveau comment ça tu dates j'en avais déjà entendu parler mais à ma connaissance nous ne l'avons pas encore vidéo scopée il s'agit de blast b l a st deux personnages féminins aujourd'hui vous avez été des dizaines à me l'envoyer ce passage à me demander de faire des titres provoquant à parler de poignard et de et de et de mince oserais-je oserais-je titrer comme ça alors vous entendez ces mots vous le savez le titre est sous vos yeux mais moi je ne le sais pas encore ce que je sais ce que je sais ce que je sais par contre c'est qu'on va commencer sans attendre si la parole s'est libérée avec le mouvement me too et à entraîner des changements de comportement et d'approche de la part de certains hommes il reste une catégorie qui ne se remet pas du tout en cause les connards je connais cette théorie c'est en tout cas la thèse de l'humoriste christine bérou qui estime que les souffrances psychologiques générées par ceux que l'on surnomme communément les connards sont profondes et systémiques si moi j'étais là ou là là l'allogoré du système du systémique et du problématique n'a pas mis longtemps à arriver mais enfin on y reviendra.
+
+*Termes de la formation dans ce passage : dizaine, entendez, mince*
+
+### Elle était l'entrepreneur.e féministe de l'année...la fin va vous surprendre
+
+*vidéo · `0H240TN_lTY-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

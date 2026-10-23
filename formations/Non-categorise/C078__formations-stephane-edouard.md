@@ -31,6 +31,32 @@ confiance: 0
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
+### 5 phrases à vous répéter quand vous déprimez, par Pierre et Stéphane
+
+*`web-articles__seduction-debutants__11981_5-phrases-a-vous-repeter-quand-vous-deprimez.html.txt` · 3821 mots · archive de l'auteur*
+
+Debutants
+5 phrases à vous répéter quand vous déprimez, par Pierre et Stéphane
+Ici chez SpikeSéduction nous nous battons depuis longtemps contre l’idée que séduire se résumerait à dérouler un
+enchaînement infaillible de techniques
+dans un ordre indiscutable et cette justement cette volonté d’honnêteté, de nuance et (oserais-je prononcer le mot) d’intelligence qui nous met en porte à faux avec :
+les geeks ultras qui nous reprochent de ne pas être « plus techniques » car seule une technique avec des étapes obligatoires et logiques les rassure et les motive
+et les femmes qui nous reprochent l’exact contraire, soit de tout codifier
+Entre ces deux voies murées, la voie est étroite qui débouche vers quelque chose, et c’est dans celle-ci que l’article suivant va tenter de se glisser.
+Si vous n’aviez rien compris de l’introduction, n’allez pas plus loin vous perdriez votre temps et choisissez
+un article plus accessible
+. Nous disions donc :
+Casanova sur son canapé Ikéa
+Vous n’allez pas vous transformer en séducteur et percer le mystère des plus belles femmes (à supposer qu’elles cachent un mystère quelconque, ce qui reste à démontrer quand on voit que la formation qualifiante pour y accéder se résume souvent à une grosse fortune personnelle, cf
+Fifty shades of grey
+) grâce à un « mode d’emploi », fût-il écrit outre Atlantique par des acteurs de « l’entertainment ». De plus (désolé par avance de décevoir certains), mais apprendre à l’infini des phrases et des dialogues composés de parties et de sous parties n’est d’aucune utilité dans une vie normale, à moins d’être autiste (à propos d’autisme, nous vous recommandons l’excellent livre
+Je suis à l’Est
+, de Joseph Schovanek).
+Un bémol cependant, car la réalité est toujours
+nuancée
+, tout n’est pas à jeter à la poubelle et il existe effectivement des mécanismes qui vous permettrons d’optimiser vos chances. Mais vu l’abondance d’informations disponibles sur la toile, on ne sait plus par où commencer et il se produit l’effet inverse désiré : la profusion de connaissances devient un frein aux relations sociales. Savoir comment fonctionne les choses en théorie peut s’avérer être la pire des galères dans votre vie quotidienne.
+L
+
 ### Stéphane sur RMC : ré-écoutez les chroniques online
 
 *`web-articles__9590_itw-rmc-comment-seduire.html.txt` · 1084 mots · archive de l'auteur*
@@ -70,32 +96,6 @@ jess
 27 janvier 2012 à 6:42
 à propos des compliments BLh : »vous avez oublier les seins » spike « ne me rappelez pas les soirées adolescentes du dimanche soir sur M6″ , j’ai apprécié cette petite pic !!!!
 spike j’imagine que tu as du coaché des centaines de timides en séduction , mais je trouve tes interventions dans les émissions trop littéraires et  je pense que tu pourrais donner des exemples de rencontres de toi (2 exemples) sur comment tu as initié la conversation ,et quelques conseils sur la manière de mener une conversation intéressante.Aussi la majorité des auditeurs ont une vision erronée des femmes et de la drague , un bref rappel sur les attentes 
-
-### 5 phrases à vous répéter quand vous déprimez, par Pierre et Stéphane
-
-*`web-articles__seduction-debutants__11981_5-phrases-a-vous-repeter-quand-vous-deprimez.html.txt` · 3821 mots · archive de l'auteur*
-
-Debutants
-5 phrases à vous répéter quand vous déprimez, par Pierre et Stéphane
-Ici chez SpikeSéduction nous nous battons depuis longtemps contre l’idée que séduire se résumerait à dérouler un
-enchaînement infaillible de techniques
-dans un ordre indiscutable et cette justement cette volonté d’honnêteté, de nuance et (oserais-je prononcer le mot) d’intelligence qui nous met en porte à faux avec :
-les geeks ultras qui nous reprochent de ne pas être « plus techniques » car seule une technique avec des étapes obligatoires et logiques les rassure et les motive
-et les femmes qui nous reprochent l’exact contraire, soit de tout codifier
-Entre ces deux voies murées, la voie est étroite qui débouche vers quelque chose, et c’est dans celle-ci que l’article suivant va tenter de se glisser.
-Si vous n’aviez rien compris de l’introduction, n’allez pas plus loin vous perdriez votre temps et choisissez
-un article plus accessible
-. Nous disions donc :
-Casanova sur son canapé Ikéa
-Vous n’allez pas vous transformer en séducteur et percer le mystère des plus belles femmes (à supposer qu’elles cachent un mystère quelconque, ce qui reste à démontrer quand on voit que la formation qualifiante pour y accéder se résume souvent à une grosse fortune personnelle, cf
-Fifty shades of grey
-) grâce à un « mode d’emploi », fût-il écrit outre Atlantique par des acteurs de « l’entertainment ». De plus (désolé par avance de décevoir certains), mais apprendre à l’infini des phrases et des dialogues composés de parties et de sous parties n’est d’aucune utilité dans une vie normale, à moins d’être autiste (à propos d’autisme, nous vous recommandons l’excellent livre
-Je suis à l’Est
-, de Joseph Schovanek).
-Un bémol cependant, car la réalité est toujours
-nuancée
-, tout n’est pas à jeter à la poubelle et il existe effectivement des mécanismes qui vous permettrons d’optimiser vos chances. Mais vu l’abondance d’informations disponibles sur la toile, on ne sait plus par où commencer et il se produit l’effet inverse désiré : la profusion de connaissances devient un frein aux relations sociales. Savoir comment fonctionne les choses en théorie peut s’avérer être la pire des galères dans votre vie quotidienne.
-L
 
 ---
 

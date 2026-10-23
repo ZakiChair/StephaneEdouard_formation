@@ -13,7 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 10
 citations: 0
 doublon_titre: non
@@ -96,6 +96,26 @@ Alors apprenez directement auprès de moi : en faisant sauter les intermédiaire
 *« L'embrayage-qui-crie-famine-depuis-des-mois-synthese.md » · origine : lien-declare*
 
 > La métaphore : Une voiture pas entretenue -> embrayage qui lâche
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video LfkvDekiWus
+
+*vidéo · `LfkvDekiWus-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
+
+### Video lHPm1PHmdZc
+
+*vidéo · `lHPm1PHmdZc-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

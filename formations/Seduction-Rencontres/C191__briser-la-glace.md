@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 2
+pages_developpement: 3
 idees_forces: 12
 citations: 2
 doublon_titre: oui
@@ -311,6 +311,14 @@ Archive-It Subscription
 Explore the Collections
 Learn More
 Build Collect
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Ni fille ni garçon : je regarde le "Zone interdite" spécial trans
+
+*vidéo · `zCvGNoXJMEI-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

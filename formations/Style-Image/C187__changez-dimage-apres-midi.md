@@ -209,82 +209,6 @@ La matinée est, comme d’habitude, pragmatique et de qualité. Mais **le cont
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Mythes et contre-vérités du conseil en image
-
-*`web-ateliers-workshops-cours__1102_conseil-en-image.html.txt` · 845 mots · archive de l'auteur*
-
-L’équipe
-Mythes et contre-vérités du conseil en image
-Vous vous apprêtez à souscrire un conseil en image ? Vous pouvez y perdre votre journée, plusieurs centaines d'€, et votre garde-robe. Alors avant de vous inscrire à n'importe quelle agence de conseil en image du coin de la rue, vous seriez avisé de réfléchir à ce qui suit, parce qu'en image comme en tout, les conseilleurs ne sont pas les payeurs
-L'agence (de conseil en image)
-Professionnels ou amateurs ?
-Le premier idiot venu peut aujourd'hui s'acheter de quoi
-construire un site web pour les nuls
-et techniquement mettre en ligne le lendemain un site de relooking / conseil en image avec 3 photos avant-après récupérées sur celui du voisin. L'absence de discernement des gens aidant, il se pourrait même que ce
-particulier
-ait des (quelques) clients, pour un revenu complémentaire qu'il ne déclarera bien sûr jamais. Et hop, payées, les vacances au ski de l'hiver prochain ; c'est ça, la magie du net.
-1er conseil, donc :
-vérifiez que vous avez affaire à une société ou à un professionnel déclaré (= inscrit au registre du commerce, avec un numéro de Siret et un Siren).
-Sa réputation ? (Elle est connue de qui à part de ses amis)
-Ecrire un témoignage bidon requiert à peu près autant d'imagination que d'écrire les dialogues d'un film x, aussi, et même si c'est invérifiable, nous serions prêts à parier que, sur le net, plus de 50% des témoignages, tous sites commerciaux confondus, sont faux. Il n'y a aucune raison qu'il n'en soit pas de même pour le conseil en image. Nous nous rappelons, chez SpikeSéduction, que l'un de nos témoignages (celui d'
-Aurélien
-) avait été recopié par un site de coaching dont la décence nous empêche de citer le nom
-Conseil :
-vérifiez la source des témoignages
-Son expertise et son influence
-L'expertise est la qualité du conseiller à s'adapter à votre cas, sa panoplie de photos de
-relooking avant-après
-doit donc imager autant de looks que de morphotypes
-L'influence d'un site de conseil en image se mesure à sa faculté de créer des
-tendances
-reprises ensuite par les autres.
-Exemple : les costumes Ozwald Boateng, les chemises col officier, les porte-feuilles extra-plats en aluminium, et avant les ves
-
-
-- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
-
-### Séminaire changez de vie du 19 juillet 08 : les témoignages continuent
-
-*`web-actualite__1238_temoignage-seminaire-seduction-changez-vie.html.txt` · 325 mots · archive de l'auteur*
-
-Séduction, relooking homme - Le site de référence
-Séminaire changez de vie du 19 juillet 08 : les témoignages continuent
-48h après le séminaire le plus attendu de l’année, vous êtes déjà 14 à avoir laissé
-votre témoignage
-sur le forum. A votre avis, combien sont positifs ? Lisez notamment
-celui-ci
-, adressé à ceux qui pensent
-“pas pour moi, je lis le site gratuitement tous les jours, mais jamais je n’irai payer quoi que ce soit pour participer à un événement, ça va pas non ?”
-Témoignages sur le séminaire changez de vie du 19 juillet
-Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
-Le week-end du 19-20 juillet, faites coup double
-Prochain séminaire séduction et développement personnel
-"En sortant des événements de Spike, on se sent plus intelligent" (témoignage sur le séminaire du 4 octobre)
-témoignages
-Pas encore de commentaire.
-Vous pouvez utiliser ces balises : <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
-Tous droits réservés. Reproduction / exploitation interdites sans autorisation
-Plus de 2000 élèves en 3 ans, choisi par France2 parmi
-, élu premier site de séduction par
-, et leader du marché par
-le Jdd
-Une question sur votre réservation ? 0892.699.088 tous les jours de 11h à 13h et de 15h à 18h
-un email (réponse sous 12h)
-Debutants
-Abonnez-moi par email mensuel :
-Désinscription
-4 octobre : séminaire devenez intéressant
-Avez-vous une tête de valise à roulette ?
-Va, cours, vole, et nous mens
-Arrêtez de déclarer votre amour comme vous déclarez vos i...
-Saches que tu étais mieux de tenter de l'emb...
-Ça c'est vraie ça. L'éternel problème des...
-Lazare,
-si tu es un habitué, tu sais que ...
-
-
-- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
-
 ### Commandez le séminaire &laquo;&nbsp;changez de vie&nbsp;&raquo; 2013
 
 *`web-actualite__15158_changer-de-vie-seminaire-2013.html?preview=1.txt` · 1590 mots · archive de l'auteur*
@@ -348,6 +272,50 @@ développé
 argumenté avec logique et intelligence
 , et c’est évidemment ce q
 
+### Changez d&#8217;environnement, par Alexis
+
+*`web-articles__10589_changer-environnement.html.txt` · 2673 mots · archive de l'auteur*
+
+Changez d’environnement, par Alexis
+Changez d’environnement, par Alexis
+Vous avez entre 37 et 57% de chance de devenir obèse si vous côtoyez une personne qui l’est (Etude sur 12 000 personnes entre 1971 et 2003).
+Je suis toujours surpris. Nous ne faisons pas ce que nous sommes censés faire. Lorsque les gens veulent changer, ils mettent en place des stratégies d’évitement. Et puis un jour Carl Jung frappe à leur porte et leur dit : « ce qu’on ne veut pas savoir de soi-même finit par arriver de l’extérieur comme un destin »
+Pour ceux qui ne me connaissent pas, je m’appelle Alexis, j’ai un
+blog pour les hommes
+qui veulent se développer. Et mon but est clair : vous poussez à faire ce que vous savez que vous devez faire, mais que vous ne faites pas. Que ce soit pratiquer du sport 3x/semaine, manger sainement ou devenir plus sociable.
+Pourquoi est-ce le problème n°1 ?
+Que ce soit pour créer votre entreprise, devenir séduisant, aborder une jeune inconnue. Il va falloir changer quelque chose, ça vous le saviez. Pourtant la plupart des personnes ne le font pas.
+Ce à quoi les gens n’osent pas faire face c’est simplement qu’ils n’arrivent pas à se forcer à faire ce qu’ils doivent faire
+Nous sommes des petits êtres fragiles qui pour ne pas se fatiguer succombent à la voie la plus facile. Plus vous empruntez cette voie, plus vous vous faites des choses que vous n’êtes pas censé faire, plus elles s’installent, plus elles deviennent ancrées. Nos mauvais comportements deviennent des habitudes. C’est comme bétonner un petit chemin de traverse. C’est pratiquement comme çà que la plupart des gens vivent leur vie. Ils sont dans un groupe, ils font des choses chaque jour, les mêmes jours après jours, ils pensent de la même manière, font les mêmes activités et puis ils agrandissent ce chemin et continuent de goudronner… Ils créent des autoroutes de pensées, d’habitudes, d’actions…
+Vous savez que nous dépendons de notre environnement.
+Notre environnement nous contrôle inconsciemment
+, il nous influence, il affecte nos comportements, comme un marionnettiste sournois. Il a même fait baisser notre
+testostérone
+de 20% en 15 ans. Heureusement
+vous pouvez contrôler votre environnement… cons
+
+### Changez d&#8217;environnement, par Alexis
+
+*`web-articles__seduction-avance__10589_changer-environnement.html.txt` · 2241 mots · archive de l'auteur*
+
+Changez d’environnement, par Alexis
+Changez d’environnement, par Alexis
+Vous avez entre 37 et 57% de chance de devenir obèse si vous côtoyez une personne qui l’est (Etude sur 12 000 personnes entre 1971 et 2003).
+Je suis toujours surpris. Nous ne faisons pas ce que nous sommes censés faire. Lorsque les gens veulent changer, ils mettent en place des stratégies d’évitement. Et puis un jour Carl Jung frappe à leur porte et leur dit : « ce qu’on ne veut pas savoir de soi-même finit par arriver de l’extérieur comme un destin »
+Pour ceux qui ne me connaissent pas, je m’appelle Alexis, j’ai un
+blog pour les hommes
+qui veulent se développer. Et mon but est clair : vous poussez à faire ce que vous savez que vous devez faire, mais que vous ne faites pas. Que ce soit pratiquer du sport 3x/semaine, manger sainement ou devenir plus sociable.
+Pourquoi est-ce le problème n°1 ?
+Que ce soit pour créer votre entreprise, devenir séduisant, aborder une jeune inconnue. Il va falloir changer quelque chose, ça vous le saviez. Pourtant la plupart des personnes ne le font pas.
+Ce à quoi les gens n’osent pas faire face c’est simplement qu’ils n’arrivent pas à se forcer à faire ce qu’ils doivent faire
+Nous sommes des petits êtres fragiles qui pour ne pas se fatiguer succombent à la voie la plus facile. Plus vous empruntez cette voie, plus vous vous faites des choses que vous n’êtes pas censé faire, plus elles s’installent, plus elles deviennent ancrées. Nos mauvais comportements deviennent des habitudes. C’est comme bétonner un petit chemin de traverse. C’est pratiquement comme çà que la plupart des gens vivent leur vie. Ils sont dans un groupe, ils font des choses chaque jour, les mêmes jours après jours, ils pensent de la même manière, font les mêmes activités et puis ils agrandissent ce chemin et continuent de goudronner… Ils créent des autoroutes de pensées, d’habitudes, d’actions…
+Vous savez que nous dépendons de notre environnement.
+Notre environnement nous contrôle inconsciemment
+, il nous influence, il affecte nos comportements, comme un marionnettiste sournois. Il a même fait baisser notre
+testostérone
+de 20% en 15 ans. Heureusement
+vous pouvez contrôler votre environnement… cons
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -403,10 +371,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C186`, en annonçant « reconstituée depuis C186 ». Jamais `C187` — la trace serait fausse.
-
-## Concepts
-
-Le Modèle Unique injecté de "Parisienne" · L'Exotisation Positive vs l'Interdiction Culturelle · Le Double Standard de la Représentation · La Métisse Forcée vs l'Autochtone Invisible
 
 ---
 

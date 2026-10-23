@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 13
 citations: 3
 doublon_titre: non
@@ -81,6 +81,26 @@ doublon_titre: non
 
 > 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Garde alternée et coup de boule : qui ment dans ce tribunal ?
+
+*vidéo · `9gFT-GgGOUQ-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### Video WpIASUJfffw
+
+*vidéo · `WpIASUJfffw-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -146,7 +166,7 @@ La femme qui a été trahie et veut reconstruire doit :
 
 ### Exercices / Pratiques
 
-- **Faire le diagnostic de la rupture** : Écrire sur une feuille ce qui a réellement cassé. Être honnête. Ne pas se cacher derrière les借口.
+- **Faire le diagnostic de la rupture** : Écrire sur une feuille ce qui a réellement cassé. Être honnête. Ne pas se cacher derrière lesexcuses.
 - **Évaluer la motivation** : Pourquoi veux-tu reconstruire ? Par amour, par peur de la solitude, par habitude ? La motivation détermine le résultat.
 - **Travailler sur ses capitaux** : Pendant la phase de séparation, work sur ce que tu peux contrôler (ton apparence, ta santé, ton travail, tes compétences). Prouver à toi-même que tu peux être heureux seul.
 - **Négocier les nouvelles conditions** : Si vous décidez de reconstruire, définissez ensemble les nouvelles règles de la relation. Pas deambigüité possible.
@@ -161,7 +181,7 @@ La femme qui a été trahie et veut reconstruire doit :
 
 > "La trahison est un révélateur, pas une surprise. Elle montre ce qui était déjà là — les failles, les manques, les non-dits. Le jour où tu découvres la trahison, le vrai travail commence."
 
-> "Le pardon n'est pas l'oubli. C'est la décision de ne plus laisser l'offense 定义每日. Mais cette décision se mérite — par des actes, pas par des mots."
+> "Le pardon n'est pas l'oubli. C'est la décision de ne plus laisser l'offense . Mais cette décision se mérite — par des actes, pas par des mots."
 
 ---
 

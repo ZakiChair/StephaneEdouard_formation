@@ -333,10 +333,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 > 
 > ---
 
-### Concepts enseignés
-
-Le Mythe du TOP 1% Déconstruit par les Chiffres · La Sélectivité Masculine vs Féminine · Le Capital Triple (Physique, Intellectuel, Économique) · Le Dilemme du Virtuel vs In Vivo
-
 ### Ce qui n'est pas couvert
 
 - le déroulé exact de cette session

@@ -94,75 +94,46 @@ L’école est une usine à fabriquer des employés de bureau serviles et corvé
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### &laquo;&nbsp;Au début, j&rsquo;étais mitigé&nbsp;&raquo; (courrier d&rsquo;un lecteur)
+### Séduction : les 12 indispensables de l&rsquo;été 2013
 
-*`web-actualite__13774_temoignage-global-2013.html.txt` · 512 mots · archive de l'auteur*
+*`web-articles__13170_seduction-indispensables-ete-2013.html.txt` · 282 mots · archive de l'auteur*
 
-« Au début, j’étais mitigé » (courrier d’un lecteur)
-« Au début, j’étais mitigé » (courrier d’un lecteur)
-Bonsoir à toi Stéphane,
-J’aurais très bien pu écrire cela de manière indirecte sur le forum ou bien simplement en commentaire d’un des rendez-vous de séminaire. Mais j’ai préféré te l’adresser directement à toi.
-Tout d’abord, je voulais te dire, même si je ne suis pas présent a
-tous
-les
-séminaires
-, que je te suis depuis 2007, année à laquelle j’ai décidé d’arrête d’être la personne que j’étais, et renaître en une nouvelle personne…
-Mon premier rendez-vous avec toi et les autres élevés était lors d’un
-coaching séduction
-. Mon avis au début, sans te le cacher, étais mitige. Je m’explique : quand tu nous as expliqué les fondamentaux, tout paraissait si logique, tout paraissait si simple qu’on avait envie d’essayer de suite. Les premiers essais ont été fatals pour moi.
-Grace à mon premier
-avec toi, j’ai enfin pris goût aux bonnes « fringues ». La bonne taille, la bonne coupe, le bon agencement de couleur… tout plein de concepts que tu nous a inculque ce jour-là mais que j’ai assimilé et que j’essaye de reproduire aujourd’hui. Je peux dire maintenant en un coup d’œil si un vêtement peut m’aller ou pas. Avant je dois t’avouer que je reposais plutôt sur ma Mère, qui a très bon goût certes avec du recul, mais cela n’aide pas vraiment pour voler de ses propres ailes si je puis dire.
-Tu as été pour moi comme un grand frère qui m’a donné de quoi affronter mes plus grandes craintes, a su me guider par ce que j’appellerai une certaine éducation. Car chez moi il n’est pas question de parler de fille ou autre…
-Je ne voulais pas attendre le nouvel an, ni une occasion « spéciale ». D’ailleurs, je me suis toujours demande qui avait décrété que tel ou tel jour devait être plus spéciale qu’un autre. Je ne vais pas tout remettre en question non plus, tu découvriras alors le personnage peut être le plus anarchique qui existe. Je m’en garderai donc fort d’aller plus loin afin de te préserver de toute remise en question de ce monde que j’ai en moi et ma pensée.
-Je voulais tout simplement te remercier et te souhaiter tout le meilleur pour ta continuation, des gens comme toi le méri
-
-### 12 mars, découvrez toutes les techniques de séduction à l&rsquo;écrit
-
-*`web-actualite__5448_techniques-seduction-ecrit.html?preview=1.txt` · 1130 mots · archive de l'auteur*
-
-Toutes les techniques de séduction à l'écrit
-12 mars, découvrez toutes les techniques de séduction à l’écrit
-12 mars, découvrez toutes les techniques de séduction à l’écrit
-Video:preview séminaire séduire à l'écrit
-Référence :
-techniques de séduction à l'écrit
-Téléchargement :
-immédiat
-Ecoute :
-illimitée
-Compatible :
-tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
-Prérequis :
-Objectifs :
-maîtriser l'utilisation des techniques orales et de visualisation pour séduire et convaincre son interlocuteur à l'écrit
-Durée totale :
-2h56mn
-Taille du fichier :
-170 Mo
-Tarif :
-150€ seul puis dégressif avec le nombre de séminaires commandés
-Séminaires complémentaires recommandés :
-Devenez intéressant II
-Devenez intéressant I
-La dernière journée de séminaire a donné lieu une journée passionnante dans une salle comble (plus une seule chaise de libre) à des témoignages dithyrambiques (
-consultables sur le forum
-) et ce sera sans doute encore le cas le 12 mars prochain avec un thème (toujours) inédit : toutes les techniques pour convaincre et
-séduire à l'écrit
-Problématique
-Je sais que vous n'y avez jamais pensé. Je sais bien. Mais réfléchissez avec moi : sur une journée de, disons, 12h, combien passez-vous de temps à séduire de vive voix ? 3 minutes votre voisine de bus (et encore, pas tous les jours, vous voyez ce que je veux dire…), 10 minutes votre collègue Clémentine à la cantine (idem) et 15 (je suis généreux) le soir dans le pub du coin. Au final, moins de 30 minutes dans une journée ordinaire. Et encore.
-En comparaison, combien de temps passez-vous à séduire (au sens large, c'est à dire
-convaincre
-) à l'écrit ?
-Par jour, c'est en moyenne :
-1h
-sur Facebook
-(moyenne nationale). Et n'essayez pas de me dire que c'est pour autre chose qu'impressionner les files de votre réseau… (et accessoirement en rencontrer d'autres)
-encore 1h ou presque pour ceux d'entre vous qui utilisent les sites de rencontre (temps notamment passé en "tchat", où vos capacités de
-séduire à l'écrit
-déterminent à elles seules la décision de la jeune fille d'accepter - ou pas - un rendez-vous)
-plusieurs heures par email à convaincre vos
-collègues de bureau
-du bien-fondé de vos décisions. Vous con
+Séduction : les 12 indispensables de l’été 2013
+Séduction : les 12 indispensables de l’été 2013
+Vous connaissez le principe.
+Vous connaissez le concept.
+Vous connaissez mes goûts.
+Bref, vous connaissez tout, sauf les 12 indispensables de l’été 2013.
+Les voilà :
+1. Aller à la plage après tout le monde (ou avant)
+2. Refuser une fille qui ne sait pas choisir ses chaussures
+3. Toujours prendre la chambre vue mer
+4. Lui faire dire
+5. Retomber dans l’enfance 1 journée entière
+6. La protéger de la lumière
+7. Apprendre le goût et le discernement
+8. Faire des polaroïds
+9. Aller à Lisbonne
+10. Accepter le dépareillé (de temps en temps)
+11. Jouer avec les enfants
+12. Un deux roues (momentanément)
+Montrez à vos amis que vous avez du goût en cliquant sur
+J’aime
+Villon
+16 mai 2013 à 12:46
+Y en a un qui veut être papa ici ..
+16 mai 2013 à 13:16
+@Villon : détrompe-toi, ou en tous cas ce n’est pas moi ;)
+Roland
+16 mai 2013 à 16:42
+Pas moi non plus.
+Geist
+17 mai 2013 à 7:36
+La première photo est proprement flippante. Je n’ai jamais été sur une plage aussi domestiquée et, même en image, ça m’effraie.
+Vingt minutes de marche sur le sentier des douaniers pour arriver à la plage, ça me parle beaucoup plus. (Ou un bateau, quand on peut.) Il n’y aura personne non plus.
+van
+21 mai 2013 à 10:23
+Ravi de voir que tu as un peu changé d’avis sur les 2 roues !
 
 ### Commandez le séminaire &laquo;&nbsp;L&rsquo;amant idéal&nbsp;&raquo;
 
@@ -206,6 +177,50 @@ vous manque...
 Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
 confident
 , il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’
+
+### Dégagez l&rsquo;énergie d&rsquo;un boxeur
+
+*`web-articles__6091_seduction-energie.html?preview=1.txt` · 1132 mots · archive de l'auteur*
+
+L'importance de l'énergie dans la séduction
+Dégagez l’énergie d’un boxeur
+Dégagez l’énergie d’un boxeur
+Video:preview séminaire dégagez l'énergie d'un boxeur
+Référence :
+énergie
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+produire et dégager plus d'énergie afin d'inspirer confiance et de devenir plus séduisant
+Durée totale :
+2h14mn
+Taille du fichier :
+55 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+L'amant idéal
+Etre sexué
+Il parait qu’il n’y a pas de vérité(s) universelle(s) ; ou alors très peu. En 5 années de Spike Séduction, j’ai tout de même eu l’occasion de faire un certain nombre de
+constats
+, constats transformés par le temps en
+certitudes
+, certitudes elles-mêmes transformées, par l’expérience et la réflexion, en
+vérités
+. Alors, je ne sais pas si la vérité qui suit est - ou non - universelle, mais en tout cas je ne lui connais aucune exception.
+Aucune
+exception en 5 ans et plusieurs centaines d’ateliers et de séminaires, avouez que «ça cause». Disons-le clairement et sans plus attendre.
+Tout garçon/homme confronté à une problématique de séduction est toujours (toujours) confronté à une problématique de manque d’énergie
+Vous avez l'impression de faire tout ce qu'il faut pour être séduisant mais les résultats se font attendre ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant.
+Vous faites tous les efforts du monde pour incarner celui que vous voulez être, mais vous avez l'impression que les autres s'entêtent dans leur perception erronée de vous ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant.
+Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l'impression que les "portes" qui vous auraient permis de le faire se referment quelques secondes avant que vous n'ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d'énergie qui est insuffisant
+Vous ne parlez jamais assez fort ? Etc. etc.
+Que ce manque d'énergie soit passager ou chronique, là n’est pas la question - du 
 
 ## Ce que la fiche dit de ce séminaire
 

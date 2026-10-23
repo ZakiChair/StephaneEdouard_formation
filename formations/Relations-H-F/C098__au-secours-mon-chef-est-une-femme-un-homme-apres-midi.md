@@ -108,6 +108,29 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 > Stephane revient sur sa dernière date de tournée : 22 novembre 2022 à Paris
 
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette formation explore formation selon les frameworks de Stéphane Édouard — au-delà des idées reçues et des solutions superficielles. Elle propose une approche structurée, fondée sur l'observation des comportements réels et l'analyse stratégique des situations. L'objectif n'est pas de promettre une transformation magique, mais de fournir des outils concrets que l'homme peut appliquer immédiatement dans sa vie quotidienne.
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
+
 ---
 
 ## Reconstitution

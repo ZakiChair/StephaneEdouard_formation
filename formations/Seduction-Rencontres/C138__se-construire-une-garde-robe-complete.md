@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 2
+pages_developpement: 8
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -191,6 +191,26 @@ Le séchage
 Jamais, ô grand jamais au soleil sous peine de décoloration immédiate.
 Toujours dans une 
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video etJeJuWOwYI
+
+*vidéo · `etJeJuWOwYI-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -256,10 +276,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > Une publication partagée par Croquis Sartoriaux
 > 
 > ---
-
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ---
 

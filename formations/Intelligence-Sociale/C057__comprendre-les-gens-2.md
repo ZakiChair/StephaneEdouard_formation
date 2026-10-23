@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 7
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -150,6 +150,26 @@ Comprendre / analyser les gens est sans doute le défi le plus intéressant qui 
 *« 55pK6U9bxjs-transcript.md » · origine : corpus*
 
 > 125. petit concept qui était pourtant parfait qui était femme mère femme enfant elle est devenue mère trop tôt vous l'avez entendu dire dans des centaines de mes de mes études de cas et résultat l'a fini avec le type qui a reconstitué l'étape qui manquait c'est à dire l'étape femme qu'est ce qu'elle dit de berkane makhlouf avec lui je me suis découverte femme et oui c'est pas grave vous n'êtes pas faire les étapes dans l'ordre par contre faut comprendre que c'est comme le dévoiement quand vous prenez
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### L'absurdité de la limitation à 110km/h démontée par un ingénieur
+
+*vidéo · `MhbMzfYHG-Q-transcript.md`*
+
+### Sonia Mabrouk se fait jeter un sort par la nouvelle égérie des verts #EELV
+
+*vidéo · `f6AnpBuaHMg-transcript.md`*
+
+### J'ai fini par trouver 1 (UN !) Pervers Narcissique (et il m'a fallu 15 ans)
+
+*vidéo · `56C4Z1eZH4E-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 5
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -112,6 +112,26 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 *« Licenciée-par-l'Empire-du-Bien-j'invite-cette-journaliste-à-rejoindre-la-mal-pensance-synthese.md » · origine : lien-declare*
 
 > Florence Mendez a publié un communiqué Instagram détaillant une agression verbale subie en mars 2022 lors de l'enregistrement de *La Bande Originale*, nécessitant l'intervention des pompiers de Radio France
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 9NH2erAsdkw
+
+*vidéo · `9NH2erAsdkw-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Ce député à l'air inoffensif cachait un gigantesque #CHAD
+
+*vidéo · `5uLG7gyXP30-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

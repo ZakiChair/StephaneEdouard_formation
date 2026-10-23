@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 10
 points_annonce: 6
 documents_materiau: 2
-pages_developpement: 4
+pages_developpement: 5
 idees_forces: 5
 citations: 3
 doublon_titre: oui
@@ -252,6 +252,14 @@ recherche de perfection
 Perfection es-tu là ?
 Je dînais tout seul l’autre soir avec
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -268,7 +276,7 @@ La créativité n'est pas un talent réservé aux artistes — c'est une compét
 - Sortir de sa zone de confort est le terreau de la créativité — le familier tue l'innovation
 - Les contraintes boostent la créativité plutôt que de la freiner
 - La créativité se nourrit de la curiosité et de l'exposition à des domaines variés
-- Le脑子 a besoin de temps de repos pour faire des connections inattendues
+- Lecerveau a besoin de temps de repos pour faire des connections inattendues
 - La peur du jugement est le premier tueur de créativité — il faut apprendre à proposer sans se juger
 
 ---

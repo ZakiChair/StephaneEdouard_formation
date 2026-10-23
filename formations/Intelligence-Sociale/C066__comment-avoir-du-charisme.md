@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 5
 points_annonce: 3
 documents_materiau: 5
-pages_developpement: 2
+pages_developpement: 8
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -234,6 +234,26 @@ Le déclic est venu à l’issue de la journée « apprenez à négocier »
 J’avais acheté, lu et étudié en détail l’intégralité des livres publiés par les « experts » du sujet, y compris la fameuse méthode enseignée à Harvard.
 Puis, par honnêteté intellectuelle, j’en avais lu quelques extraits en salle, en citant bien la source, et demandé aux participants quelle méthode était la plus aboutie, la plus recherchée, la plus efficace, entre celle de Harvard et la mienne. Et devinez ce qu’ils ont répondu ? La mienne. Sans comparaison.
 Alors sans vouloir vous raconter ma vie, dont je sais que vous vous foutez éperdument, ce moment a « débloqué » quelque chose : si, même sur un sujet aussi archi étudié et archi rebattu que la négociation, j’ai réussi à aller plus loin, par mes propres recherches, observations et ré
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

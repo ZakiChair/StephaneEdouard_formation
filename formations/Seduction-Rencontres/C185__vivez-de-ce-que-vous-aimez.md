@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 23
 citations: 0
 doublon_titre: non
@@ -90,6 +90,26 @@ doublon_titre: non
 *« Le-couple-le-plus-agaçant-de-l'année-synthese.md » · origine : lien-declare*
 
 > Les gens qui disent ne pas être stéréotypés sont souvent les plus stéréotypés.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -109,7 +109,7 @@ Multiples → Angoisses → Névrose → Anxiété. Ce modèle explique pourquoi
 
 ### Exercices / Pratiques
 
-- **Audit de vos activités** : Listez vos activités de la semaine et évaluez它们的 alignment avec vos intérêts (75/20/5)
+- **Audit de vos activités** : Listez vos activités de la semaine et évaluezleur alignment avec vos intérêts (75/20/5)
 - **Pratiquer un sport d'endurance** : Forger sa capacité à tolérer la douleur physique et psychologique
 - **Le test de la peur** : Identifiez ce que vous reportez — et demandez-vous si c'est la peur qui vous bloque
 - **Fixer des limites claires** : Apprenez à dire non — chaque fois que vous dites oui à quelque chose d'inutile, vous dites non à quelque chose d'important

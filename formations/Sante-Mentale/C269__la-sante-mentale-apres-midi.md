@@ -13,7 +13,7 @@ programme: 16
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 1
+pages_developpement: 5
 idees_forces: 0
 citations: 3
 doublon_titre: oui
@@ -101,13 +101,37 @@ Vous pouvez utiliser ces balises : <a href="" title="" rel=""> <abbr title=""> <
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### La santé mentale
+
+*podcast / vidéoscopie · `La-santé-mentale-synthese.md`*
+
+> Concepts clés Modèle XANAX** : Multiples → Angoisses → Névrose → Anxiété — chaîne causale des troubles mentaux. acronyme pédagogique pour comprendre comment on arrive à la pathologie. Sphères de la santé** : La santé et les relations sont poreuses — les relations mal gérées deteriorent la santé. On ne peut pas separer le psychique du relationnel. Dépression et genre** : Les hommes et les femmes ne "bloquent pas au même endroit" psychologiquement — mêmes symptômes au départ (angoisse), mais divergence après. Travail sur soi vs PSY-industrie** : La PSY-industrie vs l'auto-analyse pratique — le vrai travail sur soi passe par la compréhension rationnelle, pas par le dogmatisme thérapeutique. Discernement** : Le terme que Stéphane utilise depuis toujours pour décrire la capacité à voir clair en soi et dans les autres.
+
+*Termes de la formation dans ce passage : bloquent, deteriorent, endroit, gerees, industrie, poreuses*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
 
 ### Résumé
 
-Les mécanismes de la santé mentale, les différences homme/femme dans la gestion des émotions, et l'impact des relations sociales sur le bien-être psychologique. La santé mentale n'est pas un concept新兴 — c'est un campo of battle où s'affrontent la logique féminine et la logique masculine. Le modèle XANAX (Multiplies → Angoisses → Névrose → Anxiété) permet de comprendre comment on arrive à la pathologie. Les hommes et les femmes ne "bloquent pas au même endroit" psychologiquement — mêmes symptômes au départ (angoisse), mais divergence après.
+Les mécanismes de la santé mentale, les différences homme/femme dans la gestion des émotions, et l'impact des relations sociales sur le bien-être psychologique. La santé mentale n'est pas un conceptémergent — c'est un campo of battle où s'affrontent la logique féminine et la logique masculine. Le modèle XANAX (Multiplies → Angoisses → Névrose → Anxiété) permet de comprendre comment on arrive à la pathologie. Les hommes et les femmes ne "bloquent pas au même endroit" psychologiquement — mêmes symptômes au départ (angoisse), mais divergence après.
 
 ---
 

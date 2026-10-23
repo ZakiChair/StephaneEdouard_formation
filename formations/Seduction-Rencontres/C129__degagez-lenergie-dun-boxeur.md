@@ -13,7 +13,7 @@ programme: 9
 sections_annonce: 5
 points_annonce: 2
 documents_materiau: 5
-pages_developpement: 3
+pages_developpement: 5
 idees_forces: 9
 citations: 0
 doublon_titre: non
@@ -267,6 +267,18 @@ Vous faites tous les efforts du monde pour incarner celui que vous voulez être,
 Vous avez beau essayer de rentrer dans une conversation par tous les côtés, vous avez toujours l’impression que les « portes » qui vous auraient permis de le faire se referment quelques secondes avant que vous n’ayez pu les emprunter ? Il y a 99,99% de chances que ce soit votre niveau d’énergie qui est insuffisant
 Vous ne parlez jamais assez fort ? Etc. etc.
 Que ce manque d’énergie so
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

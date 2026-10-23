@@ -170,45 +170,6 @@ Je suis resté digne même dans la défaite, sans montrer de signe de perte de c
 But the problem is
 , je sais pas si je dois continuer à faire l’indifférent comme je sais t
 
-## Ce que la fiche dit de ce séminaire
-
-*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
-
-### Points clés
-
-### Le marché des rencontres
-- Première étape : libéralisation (droit de cuissage aboli).
-- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
-
-### Analyse des participants
-- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
-
-### zpdY-7SD_Sg-synthese
-# Synthèse : Je regarde (à contrecoeur) ce gamin "twerker" dans une église — zpdY-7SD_Sg
-
-<think>
-The user wants me to generate a podcast/video synthesis based on the transcript provided. Let me analyze the content carefully.
-
-This appears to be from a video by Édouard (likely Édouard, given the style references), discussing the "Benjamin Ludwig" incident - a young man who allegedly twerked in a church in Paris. Let me structure the synthesis.
-
-Key themes from the transcript:
-1. Édouard analyzes the now-infamous video of Benjamin Ludwig in a church
-2. He questions the authenticity of the video - suggesting it may be a setup/false flag operati
-
-### aBhIcSeNRxY-synthese
-# Synthèse aBhIcSeNRxY
-
-**Thèmes principaux** : Relations amoureuses, Compatibilité, Défauts de couple, Conseils pratiques
-
-**Points clés** :
-- Les détails insignifiants en apariencia peuvent devenir des problèmes majeurs dans une relation sur le long terme
-- **Deux puntos cruciales** :
-  1. **Le rapport à l'argent** : Le partage ultra-équitable des frais кому like split bills peut gâcher le plaisir. La gestion des économies et du "matelas" de sécurité est déterminante pour la résilience du couple face aux imprévus
-  2. **Le rapport à la nourriture** : Des différences alimentaires significatives créent des tensions quotidiennes constantes
-- *
-
----
-
 ---
 
 ## Reconstitution : non disponible

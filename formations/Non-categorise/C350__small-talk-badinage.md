@@ -129,10 +129,6 @@ la chose la plus simple du monde (dire des banalités, dire « n’importe quoi
 
 ---
 
-## Concepts
-
-Vidéoscopie - Très courte transcription : quelques lignes d'un entretien.
-
 ---
 
 *Identifiant canonique `C350` (index de 369 fiches).*

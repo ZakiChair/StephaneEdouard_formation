@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 6
 citations: 3
 doublon_titre: non
@@ -59,6 +59,45 @@ doublon_titre: non
 *« Je-t'aime-toujours,-mais-c'est-mieux-comme-ça-synthese.md » · origine : lien-declare*
 
 > Décryptage : "Je t'aime toujours, mais c'est mieux comme ça" = rupture définitive, pas une pause.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Synthèse : 7 signs that your "best friend" is probably in love with you — rRMa11ypzH0
+
+*podcast / vidéoscopie · `7-signs-that-your-best-friend-is-probably-in-love-with-you-synthese.md`*
+
+- Critique systématique de vos compagnes : Une amie intéressée développera une hostsilité latente envers vos choix amoureux, se manifestant a posteriori lors des ruptures, avec ce commentaire récurrent : « je l'avais senti dès le départ ».
+- Refus de présenter ses amies : Paradoxalement, vous connaîtrez l'existence de ses proches mais ne les croiserez jamais, comme si une « incompatibilité fondamentale » vous séparait d'elles.
+- Mutisme sur sa propre vie sentimentale : Ses histoires vous resteront opaques, les questions recevant des réponses laconiques (« oui », « non »), quand elles ne sont pas simplement éludées.
+- Émotions disproportionnées : Des événements anodins la plongeront dans des pleurs inexpliqués, sans qu'aucune justification ne soit jamais offerte.
+- Insistance sur le contact physique : L'exigence de câlins entre hétérosexuels crée, selon l'orateur, une tension permanente liée aux « érections involontaires » — problème qu'il qualifie lui-même d'impossible à clarifier.
+- Traitement de « gendre potentiel » par sa famille : Lors des présentations familiales, les sous-entendus matrimoniaux deviennent explicites (remarques sur le « métissage », questions sur le baptême).
+
+### Montrer son intérêt à un homme (2/2)
+
+*podcast / vidéoscopie · `Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md`*
+
+> 1. **Privilégier les signaux directs**: Un sourire, un regard prolongé, une approche physique légère sont plus efficaces que l'amitié. 2. **Éviter les prétextes**: Le tango ou autres activités de groupe comme excuse sont trop détournés — l'homme ne fait pas le lien. 3. **Le cadeau personnalisé**: Si vous voulez montrer de l'intérêt, un cadeau qui révèle votre connaissance de l'autre surclasse les mots. 4. **Reconnaître le paradoxe de l'amitié**: Si vous êtes trop disponible comme ami, l'homme ne vous verra jamais comme une option romantique. 5. **Simplifier**: Les approches les plus simples (sourire + regard + présence) sont souvent les plus efficaces. 6. ** Éviter la confrontation en groupe**: Une approche en présence d'amies génère un effet de tribunal qui coupe toute alchimie.
+
+*Termes de la formation dans ce passage : amies, directs, personnalise, tango*
+
+> Thème central Analyse des stratégies féminines pour signaler un intérêt romantique à un homme. Stéphane évalue plusieurs techniques (l'amitié comme prétexte, le tango, les cartes de visite, les cadeaux, la confrontation directe) et conclut que la simplicité et la sincérité l'emportent sur les stratégies complexes.
+
+*Termes de la formation dans ce passage : cadeaux, rate, tango*
+
+### 7 signs that your "best friend" is probably in love with you
+
+*vidéo · `rRMa11ypzH0-transcript.md`*
+
+> 17. catholique ou baptisé ou pas même si je le suis si je suis un pote si par contre je suis potentiellement son gendre tu as tout dit envie de savoir voilà et 7e case à cocher les fâcheries quand il y en a pas ce qu'une amitié sans fâcherie c'est presque louche sont disproportionnées par rapport à la réalité des faits dire que vous allez vous fâcher pour ne pas une addition mal partagé ou quelque chose qui est anecdotique et qui devrait faire l'objet de au maximum d'une demi-journée de boudry est en
+
+*Termes de la formation dans ce passage : disproportionnees, facheries, gendre*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -135,7 +174,7 @@ Approcher un homme directement, surtout dans un contexte professionnel avec une 
 
 > "L'homme ne décode pas les signaux subtils de l'amitié comme expression d'intérêt romantique — il prend l'amitié pour ce qu'elle dit."
 
-> "Les femmes privilégient l'indirect par nature (protection du ego, évitement du rejet), mais l'homme décode mieux les signaux directs. Le décalage crée des недоразумения."
+> "Les femmes privilégient l'indirect par nature (protection du ego, évitement du rejet), mais l'homme décode mieux les signaux directs. Le décalage crée des ."
 
 ---
 

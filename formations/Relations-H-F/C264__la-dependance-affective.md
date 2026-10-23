@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 1
+pages_developpement: 4
 idees_forces: 5
 citations: 3
 doublon_titre: non
@@ -117,6 +117,22 @@ Vous pouvez en faire partie gratuitement en indiquant votre email ci-dessous.
 Vous commencerez la lecture de l'article immédiatement après avoir validé.
 ACCEDER A L'ARTICLE
 Nous n'envoyons jamais de spam. jamais.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 32N-rLIGpJg
+
+*vidéo · `32N-rLIGpJg-transcript.md`*
+
+### Video ABaGrL_kdu8
+
+*vidéo · `ABaGrL_kdu8-transcript.md`*
+
+### Video lHPm1PHmdZc
+
+*vidéo · `lHPm1PHmdZc-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

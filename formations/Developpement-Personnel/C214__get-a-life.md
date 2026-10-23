@@ -187,10 +187,6 @@ Formule de Stéphane :
 - « Les stratégies de mariage traditionnel ont été conçues pour une espérance de vie de 35 ans. Aujourd'hui : 80+ ans. Le calcul a changé. »
 - « Il faut être capable d'agir malgré la peur. Le courage, ce n'est pas l'absence de peur — c'est d'avancer quand même. »
 
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
-
 ---
 
 *Identifiant canonique `C214` (index de 369 fiches).*

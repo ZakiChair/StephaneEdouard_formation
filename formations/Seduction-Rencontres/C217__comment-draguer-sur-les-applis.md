@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 1
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 6
 citations: 3
 doublon_titre: non
@@ -47,6 +47,30 @@ doublon_titre: non
 *« J'ai-oublié-comment-draguer-;-heureusement-ces-trois-là-sont-là-pour-me-le-rappeler-synthese.md » · origine : lien-declare*
 
 > Le paradoxe de l'inaccessibilite feminime : De nombreuses femmes sort en groupe compact, n'echangent regard ni parole avec personne, puis rentrent en se plaignant de n'avoir ete abordees par personne — sans prendre conscience de l'effort necessaire pour fendre un groupe et se presenter.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Tinder — Les Femmes ne Matchent PAS que le TOP 1%
+
+*podcast / vidéoscopie · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
+
+> 1. Homme valide 98% des profils → 97% de râteaux virtuels 2. Parmi les 3% de matchs, ~50% lancent une conversation 3. Parmi les conversations, ~10% donnent lieu à un rendez-vous 4. Parmi les rendez-vous, ~0,5% donne une relation
+
+*Termes de la formation dans ce passage : lancent, rateaux, virtuels*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -132,10 +156,6 @@ L'erreur fatale des femmes : rester GROUPÉES entre elles au centre d'une table.
 - « Le virtuel a supprimé la peur du refus in vivo. L'homme valide 97% des profils mais ensuite il se prend 97% de râteaux. Voilà la réalité du pourquoi de la société féminine à la base. »
 - « Capital physique attire, mais c'est le capital intellectuel qui CONVERTIT. L'art de la communication digitale est plus important que le simple physique. »
 - « Les 'beaux' qui ne savent pas écrire perdent leur avantage dès le premier message. L'homme qui écrit bien bat l'homme beau qui écrit mal. »
-
-## Concepts
-
-Le Mythe du TOP 1% Déconstruit par les Chiffres · La Sélectivité Masculine vs Féminine · Le Capital Triple (Physique, Intellectuel, Économique) · Le Dilemme du Virtuel vs In Vivo
 
 ---
 

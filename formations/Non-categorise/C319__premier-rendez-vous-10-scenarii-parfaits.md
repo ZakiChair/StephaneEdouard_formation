@@ -287,10 +287,6 @@ trop tôt… trop vite…
 
 ---
 
-## Concepts
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
-
 ---
 
 *Identifiant canonique `C319` (index de 369 fiches).*

@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 19
 citations: 3
 doublon_titre: non
@@ -85,6 +85,31 @@ doublon_titre: non
 *« Chiale-encore-un-coup,-c'est-bon-pour-l'audimat-synthese.md » · origine : lien-declare*
 
 > L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Synthèse – Vidéoscopie DS2SQWBDEm0
+
+*podcast / vidéoscopie · `Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md`*
+
+- Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
+- L'évolution : Avant 40-50 ans -> maintenant 25 ans à cause des couples précoces
+- Les "cocus" : Analyse des comments de femmes qui ont toutes trompé vs hommes qui ne l'ont pas fait
+- Le premier rencard : "Groundhog Day" - un film comme prétexte au premier rencard à 14 ans
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### #Zemmour2022, ep.1: the case of the stolen kiss
+
+*vidéo · `KmtLfLqyFXo-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 6
 points_annonce: 5
 documents_materiau: 6
-pages_developpement: 3
+pages_developpement: 9
 idees_forces: 20
 citations: 0
 doublon_titre: oui
@@ -322,6 +322,26 @@ vos rétributions (au premier lieu d’entre elles, votre salaire, ou votre fact
 vos achats importants (immobiliers, mobiliers, etc.)
 votre relation de couple (pour ceux qui en douteraient, 
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -384,10 +404,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > La négociation est l’arme la plus puissante et la plus indispensable du monde : même les chefs d’Et
 > 
 > ---
-
-## Concepts
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
 
 ---
 

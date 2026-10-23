@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 6
 points_annonce: 5
 documents_materiau: 5
-pages_developpement: 7
+pages_developpement: 10
 idees_forces: 25
 citations: 3
 doublon_titre: oui
@@ -328,6 +328,26 @@ vos rétributions (au premier lieu d’entre elles, votre salaire, ou votre fact
 vos achats importants (immobiliers, mobiliers, etc.)
 votre relation de couple (pour ceux qui en douteraient, 
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video LfkvDekiWus
+
+*vidéo · `LfkvDekiWus-transcript.md`*
+
+### The Pépita Affair vs Quotidien
+
+*vidéo · `Rr2jqPsKpFo-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video etJeJuWOwYI
+
+*vidéo · `etJeJuWOwYI-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -358,7 +378,7 @@ Avant toute négociation, identifiez votre **meilleure alternative en cas d'éch
 
 ### 2. L'ancrage psychologique et le pouvoir du premier chiffre
 
-La recherche comportementale (Kahneman, Thaler) confirme : le premier chiffre mentionné dans une négociation détermine largement la suite, même s'il est aberrant. Si vous devez vendre un service à 10 000 € et que vous annoncez "15 000", vous déplacez la perception de la valeur. Si vous devez acheter et que vous proposez "7 000" pour un objet qui en vaut 10, vous avez déjà pré-cadré l'échange. Stéphane Édouard insiste : l'ancrage fonctionne à condition d'être **crédible**. Un ancrage délirant sans justification détruit la confiance. Un ancrage légèrement夸张 (exagéré), défendu avec aplomb et rationalité, repositionne toute la négociation. Le matin, on apprend à choisir l'ancrage ; l'après-midi, on apprend à le défendre.
+La recherche comportementale (Kahneman, Thaler) confirme : le premier chiffre mentionné dans une négociation détermine largement la suite, même s'il est aberrant. Si vous devez vendre un service à 10 000 € et que vous annoncez "15 000", vous déplacez la perception de la valeur. Si vous devez acheter et que vous proposez "7 000" pour un objet qui en vaut 10, vous avez déjà pré-cadré l'échange. Stéphane Édouard insiste : l'ancrage fonctionne à condition d'être **crédible**. Un ancrage délirant sans justification détruit la confiance. Un ancrage légèrementexagéré (exagéré), défendu avec aplomb et rationalité, repositionne toute la négociation. Le matin, on apprend à choisir l'ancrage ; l'après-midi, on apprend à le défendre.
 
 ### 3. La posture physique et vocale
 
@@ -366,12 +386,12 @@ Le corps négocie avant la bouche. Dans la session matin, Stéphane introduit le
 
 ### 4. Le silence comme levier
 
-90% des négociateurs amateurs **détestent le silence**. Ils le remplissent, ils négocient contre eux-mêmes, ils accordent des concessions pour combler le vide. Le silence, dans la matrice de Stéphane, est un **outil d'extraction d'information** : quand vous posez une question et que l'autre tarde à répondre, ce délai révèle son 
+90% des négociateurs amateurs **détestent le silence**. Ils le remplissent, ils négocient contre eux-mêmes, ils accordent des concessions pour combler le vide. Le silence, dans la matrice de Stéphane, est un **outil d'extraction d'information** : quand vous posez une question et que l'autre tarde à répondre, ce délai révèle
 
 ### Exercices / Pratiques
 
 - **Exercice 1 — Cartographiez votre BATNA** : avant votre prochaine négociation importante, écrivez noir sur blanc : (a) quelle est votre meilleure alternative si l'accord n'aboutit pas ? (b) quelle est probablement celle de l'autre partie ? (c) où se situe la ZOPA ? Si vous n'avez pas de plan B solide, travaillez à vous en construire un *avant* d'entrer en négociation.
-- **Exercice 2 — Pratiquez l'ancrage calibré** : choisissez un objet de la vie courante (un salaire, un service, une voiture d'occasion). Formulez trois ancrages : un trop bas (que vous n'assumeriez pas), un réaliste, un légèrement夸张. Entraînez-vous à défendre l'ancrage réaliste avec deux arguments factuels.
+- **Exercice 2 — Pratiquez l'ancrage calibré** : choisissez un objet de la vie courante (un salaire, un service, une voiture d'occasion). Formulez trois ancrages : un trop bas (que vous n'assumeriez pas), un réaliste, un légèrementexagéré. Entraînez-vous à défendre l'ancrage réaliste avec deux arguments factuels.
 - **Exercice 3 — Entraînement au silence** : pendant une conversation banale (commande au restaurant, demande à un collègue), introduisez un silence de 5 secondes après votre dernière phrase. Observez la réaction de l'autre : comble-t-il ? S'excuse-t-il ? Révèle-t-il une information nouvelle ?
 - **Exercice 4 — Travail de la posture** : filmez-vous 2 minutes en train de présenter un projet (même imaginaire). Regardez la vidéo et identifiez trois tics de "posture basse" : pieds qui bougent, voix qui monte en fin de phrase, regard fuyant. Corrigez un tic par semaine.
 - **Exercice 5 — Identification de votre profil** : sur les cinq dernières négociations de votre vie (salaire, achat, conflit domestique), étiquetez-les : gagnant naïf, perdant diplomate, ou joueur. Identifiez le pattern récurrent.

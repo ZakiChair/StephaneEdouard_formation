@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 4
 citations: 3
 doublon_titre: non
@@ -57,6 +57,18 @@ doublon_titre: non
 *« Le-R.O.I-publicitaire-le-plus-catastrophique-de-France-Télévisions-synthese.md » · origine : lien-declare*
 
 > Les chiffres : 24 vidéos, 1,5 million de vues cumulé
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Un youtubeur geek sort de sa chambre et découvre le monde réel
+
+*vidéo · `M6bXSt0f2b0-transcript.md`*
+
+### La catin de Darmanin 🍾 (Marlène approved 👏🏽)
+
+*vidéo · `_ICd9A8YffU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -124,7 +136,7 @@ Dans le framework de Stéphane, le sommeil est un investissement dans la force v
 - **Couper les écrans 1h avant le sommeil** : Remplacez par des activités calmes — lisez ou écoutez de la musique
 - ** Éviter la caféine après 14h** : Respectez la demi-vie de la caféine
 - **Créer une chambre noire et fraîche** : 18-20°C, pas de lumière, pas de bruit
-- **Utiliser le sport comme régulateur** : L'effort physique регулирует le sommeil — mais pas dans les 3 heures avant le coucher
+- **Utiliser le sport comme régulateur** : L'effort physique le sommeil — mais pas dans les 3 heures avant le coucher
 - **Journaling avant le sommeil** : Écrire ses pensées pour les libérer du cerveau avant le sommeil
 - **Ne pas rester au lit si insomniaque** : Levez-vous après 20 minutes, faites quelque chose de calme, réessayez
 

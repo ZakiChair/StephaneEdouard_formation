@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 13
 citations: 3
 doublon_titre: non
@@ -72,6 +72,26 @@ doublon_titre: non
 
 > L'effet de mode du diagnostic HP : confondre symptômes et causes
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -107,7 +127,7 @@ Les hommes et les femmes ne gèrent pas les émotions de la même manière :
 - Différencie par les relations (parler, partager, réseaux)
 - Extériorise plus facilement ses émotions
 - Plus sujette à l'accumulation lente (les griefs s'ajoutent)
-- La logique féminine : l'émotion est une信息 à procesar, pas une perturbation à résoudre
+- La logique féminine : l'émotion est une à procesar, pas une perturbation à résoudre
 
 **Point commun** : Les hommes et les femmes bloquent au même endroit au départ (l'angoisse), mais divergent après. Les hommes éclatent ; les femmes accumulent.
 
@@ -118,7 +138,7 @@ Stéphane propose le modèle XANAX pour comprendre comment on arrive à la patho
 
 - **Multiplices** : Accumulation de facteurs (relationnels, professionnels, physiques)
 - **Angoisse** : La réponse normale au stress accumulé
-- **Névrose** : L'angoisse chronicée devient un模式
+- **Névrose** : L'angoisse chronicée devient un
 - **Anxiété** : L'état permanent où l'angoisse est la norme
 - **X** : Les manifestations (panique, phobies, dépression, etc.)
 
@@ -145,8 +165,8 @@ Ce questionnement ne supprime pas l'émotion — il vous donne de la distance pa
 
 **2. L'acceptation**
 - L'émotion n'est pas bonnes ni mauvaises — elle est
--抗拒 l'émotion l'amplifie ; l'accepter la réduit
-- "Je ressen
+- l'émotion l'amplifie ; l'accepter la réduit
+- "Je ressens de l
 
 ### Exercices / Pratiques
 

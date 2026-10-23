@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -114,6 +114,26 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 *« Tu-me-manques-synthese.md » · origine : lien-declare*
 
 > Le « tu me manques » comme signal faible : Un message de ce type n'est jamais anodin. Il survient généralement quand la personne qui l'envoie n'a pas fait le deuil de la relation précédente et doute de son choix actuel.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video KdVs2_DOmjo
+
+*vidéo · `KdVs2_DOmjo-transcript.md`*
+
+### Video rp3jksmt-cQ
+
+*vidéo · `rp3jksmt-cQ-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

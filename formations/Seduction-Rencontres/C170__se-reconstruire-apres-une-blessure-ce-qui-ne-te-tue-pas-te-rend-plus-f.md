@@ -13,7 +13,7 @@ programme: 18
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 1
-pages_developpement: 4
+pages_developpement: 9
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -195,6 +195,26 @@ agenda des relookings
 Relooking : les derniers avant / après
 Elections : votez pour votre relooking homme préféré
 Message d'un relooké à ceux qui hésitent en
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 32N-rLIGpJg
+
+*vidéo · `32N-rLIGpJg-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### J'apprends à m'adresser à un.e prof.fe non-binaire (indice : ça finit par "ule")
+
+*vidéo · `RfWaTibnFcw-transcript.md`*
+
+### Marvel a fait l'con, pt. 2/3 : le clasheur clashé 💦
+
+*vidéo · `SqNKQ3C5Yc0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

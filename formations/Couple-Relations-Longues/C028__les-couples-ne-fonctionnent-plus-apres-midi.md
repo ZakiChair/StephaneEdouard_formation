@@ -125,10 +125,6 @@ Aucune fiche du corpus ne porte ce thème de façon assez proche, et la page pro
 
 Ce qui reste : tout ce qui précède dans ce fichier — les pages produit, ses vidéos, ses podcasts et ses écrits **sur le même champ thématique**. C'est un contenu de substitution, pas le cours : l'absence est assumée plutôt que comblée par une approximation.
 
-## Concepts
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
-
 ---
 
 *Identifiant canonique `C028` (index de 369 fiches).*

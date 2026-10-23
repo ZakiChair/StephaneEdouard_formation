@@ -84,16 +84,6 @@ confiance: 0
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Intelligence sociale et entrée en grande école
-
-*`web-articles__seduction-avance__4895_intelligence-sociale-ecole.html.txt` · 1466 mots · archive de l'auteur*
-
-Salut Stéphane,
-L’été se couche doucement derrière les montagnes, les filles ne s’effeuillent plus et délaissent  leurs petites robes pour des tenues –malheureusement – plus habillées, et tout le monde fait sa rentrée ; toi en séminaire, moi en école. Je profite donc de ce point commun pour te tenir au courant de mon avancée et te faire partager une ou deux petites interrogations/appréhensions.
-J’intègre cette année l’école [Trucmuche] (anciennement [Bidule]), une école d’un niveau correct qui a le vent en poupe, et qui grimpe doucement l’échelle des classements. Je vais y passer 3 ans que j’espère faire fructifier de manière à pouvoir me donner les moyens de finir ma scolarité par un master de spécialisation côté. C’est un univers radicalement nouveau pour moi, et j’avoue que je me demande un peu par quel(s) bout(s) le prendre, hormis par celui du beer bong : en quelques mots, qu’est ce que tu conseillerais de faire, d’expérimenter, mais aussi d’éviter à un p’tit gars de 20 ans qui rentre en école ? Quels sont selon toi les bons réflexes (tant scolaires que sociaux) à adopter et quels sont les pièges à éviter (et qu’on ne voit souvent venir que trop tard) ?
-Les démons de minuit
-Ma deuxième question découle un peu de la première : en école comme tu le sais, la vie associative a son importance, et l’association qui semble la plus intéressante et la plus enrichissante est la Junior entreprise de l’école, qui se charge de travailler pour des grandes entreprises en leur rendant divers services (études de marché, analyse de plans marketing etc.). Avantages (confirmés par les anciens et les profs) : réseaux social et professionnel boostés, expérience du monde du travail avant l’heure, CV plus aguicheur et complément de formation très avantageux. Inconvénients : Charge de travail qui peut empiéter sur les cours et horaires pas toujours folichons ( »Bah oui, parfois tu peux rester jusqu’à 22h à l’école »). Il y a peu de places pour pas mal de candidatures, mais j’ai discuté un moment avec les membres et je crois qu’ils m’ont à la bonne (surtout la trésorière, une jolie petite blonde :), donc ça devrait être jouable.  Ma question est la suivante : de ton point de vue, et
-
 ### Bureau : séduire ses collègues, pourquoi faire ?
 
 *`web-articles__1328_seduire-collegue-bureau.html.txt` · 1096 mots · archive de l'auteur*
@@ -130,6 +120,22 @@ Et, peut-être le pire de tout, vous ne savez pas ce qui se passe autour de vous
 Au moins les élèves des
 ateliers de préparation à l’entretien d’embauche
 ont tellement fait preuve de détermination, d’énergie et de leadership pour obtenir le boulot de leur rêves, qu’ils ne peuvent revenir en arrière. Ils doivent continuer à faire preuve de charisme et d’extraversion, sous peine de se faire poursuivr
+
+### Bureau : comment séduire ses collègues ?
+
+*`web-articles__seduction-fondamentaux__2521_comment-seduire-au-bureau.html.txt` · 1263 mots · archive de l'auteur*
+
+Le
+précédent article job
+nous faisait un état des lieux – non exhaustif – des bienfaits et vertus d’un relationnel au travail bien maitrisé. Mais comment fait-on ? Faut-il apprendre par cœur l’intégrale des blagues de Toto ? Faut-il être capable de réciter par cœur les 10 derniers résultats du PSG et de l’OM ?
+Que dire, que faire ?
+Avant de commencer notre nouvelle vie au travail, il convient de rappeler que l’environnement est très risqué. Une réputation est faite en quelques minutes et peut ne jamais se défaire dans certains cas.
+Le pré-requis à toute entreprise de séduction de collègues est d’être compétent dans son travail, sous peine de se retrouver dans les catégories très peu reluisantes à la gauche du graphique ci-dessous. Ce graphique de réputation dans l’entreprise – que j’ai créé suite à une inspiration divine dans un TGV - devrait plaire à mes amis et confrères informaticiens, j’en suis convaincu.
+Vous êtes compétent, j’en suis sur, maintenant soyez subtil, plus que dans n’importe quelle autre situation de la vie. Votre gagne-pain est en jeu.
+Voici donc mes conseils pour améliorer votre relationnel au boulot, en commençant par les plus basiques ; c’est-à-dire comment se comporter quand on est un peu poli et qu’on a pas grandi dans une caverne.
+J’ai du mal à croire ce que je suis en train d’écrire, tellement ça semble évident. Mais comme personne ne le fait à mon bureau, je ressens le besoin de le préciser. Quand vous arrivez le matin, passez dire bonjour à tout le monde. Tous les jours, même si vous êtes de mauvaise humeur. Et n’oubliez pas la petite blague en accompagnement.
+Je suis affolé par le mode de vie au boulot de la plupart des gens. Ils arrivent le matin, prennent l’ascenseur jusqu’à leur étage, prennent le café avec leurs voisins de bureau, vont à la cantine avec leurs voisins de bureaux, remontent à leur étage et quittent le bureau le soir.
+Allez voir les gens ! Quand je pense que deux tiers des gens de mon équipe ne savent pas où se situe mon bureau ! Ne déjeunez pas tout le temps avec les mêmes personnes nom d’un chien. Non seulement, vous ne serez pas assimilés à une sorte de clan fermé sur l’extérieur, vous ne tomberez pas dans une es
 
 ## Ce que la fiche dit de ce séminaire
 

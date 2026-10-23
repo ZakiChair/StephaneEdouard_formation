@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 1
+pages_developpement: 6
 idees_forces: 26
 citations: 3
 doublon_titre: non
@@ -135,6 +135,38 @@ A 43 secondes, il regarde en haut à gauche, hemisphere dro
 - il est statique tout le long de l ‘entretien. Devant de telles accusations, il pourrait s’agiter dans tous les sens
 - il répète souvent la même chose, quand a sa maison par exemple, en utilisant les mêmes mots / expressions
 - il est hésitant des que les questions portent précisément sur son compte.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Esther Villard - La manipulation dans les relations hommes-femmes
+
+*podcast / vidéoscopie · `Esther-Villard-La-manipulation-dans-les-relations-hommes-femmes-synthese.md`*
+
+> 1. Le postulat de départ du livre Esther Villard pose comme hypothèse que : Les femmes sont des manipulatrices naturelles L'homme est un être manipulé La relation amoureuse est une dynamique de pouvoir où la femme détient les leviers de manipulation
+
+*Termes de la formation dans ce passage : detient, naturelles, postulat*
+
+> 5. L'homme manipulé L'homme ne voit pas qu'il est manipulé car : Sous l'emprise émotionnelle (l'amour comme opium) Il continue d'investir dans l'espoir de récupérer ce qu'il avait Il tout comportement de la femme comme "normal" Il minimise les signaux d'alerte Il pense que "si j'en fais plus, ça changera"
+
+*Termes de la formation dans ce passage : changera, minimise, opium*
+
+> Pourquoi les hommes ne voient pas la manipulation** : 1. **L'espoir** : "Si j'en fais plus, elle va m'aimer comme avant" 2. **L'investissement** : "J'ai déjà beaucoup investi, je ne peux pas tout perdre" 3. **L'amour-opium** : "Je l'aime, donc ce qu'elle fait doit être bien" 4. **La culpabilité internalisée** : "Si elle me traite mal, c'est que je le mérite" 5. **Le manque de référentiel** : "C'est peut-être normal, je ne sais pas"
+
+*Termes de la formation dans ce passage : internalisee, opium, referentiel*
+
+### Ce député star se fait HUMILIER en direct sur BFMTV #Redpill
+
+*vidéo · `3DRCtLtW0cM-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video y4PKeEdGQ6w
+
+*vidéo · `y4PKeEdGQ6w-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

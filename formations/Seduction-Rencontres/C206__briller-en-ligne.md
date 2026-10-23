@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 3
 idees_forces: 0
 citations: 3
 doublon_titre: oui
@@ -94,6 +94,26 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 *Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Tinder — Les Femmes ne Matchent PAS que le TOP 1%
+
+*podcast / vidéoscopie · `Tinder-on-croyait-que-les-femmes-ne-matchaient-que-le-TOP-1%...-Révélation-c'est-BIEN-MOINS-!-synthese.md`*
+
+> 1. Homme valide 98% des profils → 97% de râteaux virtuels 2. Parmi les 3% de matchs, ~50% lancent une conversation 3. Parmi les conversations, ~10% donnent lieu à un rendez-vous 4. Parmi les rendez-vous, ~0,5% donne une relation
+
+*Termes de la formation dans ce passage : lancent, rateaux, virtuels*
+
+### Tinder : on croyait que les femmes ne matchaient que le TOP 1%... Révélation c'est BIEN MOINS !
+
+*vidéo · `9-RtYURCrWA-transcript.md`*
+
+### Pour surmonter une rupture, n'imite pas cette youtubeuse
+
+*vidéo · `74kBMreIye0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -159,9 +179,9 @@ Les femmes ont massivement accès au sexsex facile. Les hommes ont massivement a
 
 - **Améliorer son capital écrit** : La communication sur les apps (messages, profil) est cruciale. Un homme avec peu de matches mais une bonne écriture convertira mieux qu'un homme beau mais avec une communication nulle.
 - **Optimiser son profil photo** : Les 3 premières secondes comptent. La photo doit montrer une image positive sans être misérabiliste. Éviter les photos de groupe (on ne sait pas qui vous êtes), les photos floues, les selfies en salle de bain.
-- **Comprendre la sélectivité féminine** : Les femmes ne cherchent pas "le plus beau" — elles cherchent une combinaison de физический + intellectuel + stabilité. Améliorer les trois dimensions.
+- **Comprendre la sélectivité féminine** : Les femmes ne cherchent pas "le plus beau" — elles cherchent une combinaison de + intellectuel + stabilité. Améliorer les trois dimensions.
 - **Capter l'attention dans les 3 premières secondes** : Le swipe se fait sur le physique (pour les femmes). Ensuite seulement, le profil et les messages prennent le relais.
-- **Convertir ses matchs** : Une fois le match obtenu, l'objectif est de converter en discussion puis en rendez-vous. La qualité de l'écriture决定.
+- **Convertir ses matchs** : Une fois le match obtenu, l'objectif est de converter en discussion puis en rendez-vous. La qualité de l'écrituredétermine.
 - **Développer le capital trips** : combiner physique, intellectuel et économique pour maximiser les matches. Un homme complet (pas parfait — complet) a plus de succès qu'un homme excellent dans un seul domaine.
 
 ---
@@ -181,10 +201,6 @@ Les femmes ont massivement accès au sexsex facile. Les hommes ont massivement a
 - « Le virtuel a supprimé la peur du refus in vivo. L'homme valide 97% des profils mais ensuite il se prend 97% de râteaux. Voilà la réalité du pourquoi de la société féminine à la base. »
 - « Le mythe du TOP 1% sert à MASENTISER les hommes au lieu de révéler la vraie dynamique. »
 - « Capital physique attire, mais c'est le capital intellectuel qui CONVERTIT. L'art de la communication digitale est plus important que le simple physique. »
-
-## Concepts
-
-Le Mythe du TOP 1% Déconstruit par les Chiffres · La Sélectivité Masculine vs Féminine · Le Capital Triple (Physique, Intellectuel, Économique) · Le Dilemme du Virtuel vs In Vivo
 
 ---
 

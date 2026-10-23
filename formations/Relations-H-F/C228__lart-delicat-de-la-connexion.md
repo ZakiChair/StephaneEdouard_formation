@@ -13,7 +13,7 @@ programme: 11
 sections_annonce: 8
 points_annonce: 8
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 0
 citations: 3
 doublon_titre: oui
@@ -157,6 +157,26 @@ Comme d’habitude. Puis vous pratiquerez, observant le monde avec une grille de
 *« Montrer-son-intérêt-à-un-homme,-pt.22-synthese.md » · origine : corpus*
 
 > Thème central Analyse des stratégies féminines pour signaler un intérêt romantique à un homme. Stéphane évalue plusieurs techniques (l'amitié comme prétexte, le tango, les cartes de visite, les cadeaux, la confrontation directe) et conclut que la simplicité et la sincérité l'emportent sur les stratégies complexes.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

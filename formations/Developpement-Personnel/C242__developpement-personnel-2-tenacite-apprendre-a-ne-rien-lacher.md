@@ -190,41 +190,6 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Prochain séminaire séduction et développement personnel
-
-*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
-
-Séduction, relooking homme - Le site de référence
-Prochain séminaire séduction et développement personnel
-Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
-(Bibi)
-(Bibi à nouveau)
-(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
-Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
-“changez de vie”
-et poursuivie par le séminaire
-“devenez intéressant”
-du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
-Prochain séminaire séduction : le pitch
-Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
-amoureuses
-, mais également
-professionnelles
-, et
-amicales
-Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
-comment
-, exactement ? Ah…
-Des nouvelles bientôt, dans
-l’agenda
-Témoignages sur le séminaire changez de vie du 19 juillet
-Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
-Développement personnel : quel but ?
-Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
-séminaire séduction
-Un commentaire
-Où et quand nous inscrivons-nous?
-
 ### Les dandys sont toujours seuls (ou les limites du développement personnel)
 
 *`web-articles__10710_developpement-%E2%80%A6imites-dangers.html.txt` · 1964 mots · archive de l'auteur*
@@ -260,6 +225,51 @@ Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 
 recherche de perfection
 Perfection es-tu là ?
 Je dînais tout seul l’autre soir avec
+
+### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+
+*`web-actualite__5347_seminaire-developpement-personnel-2.html.txt` · 1111 mots · archive de l'auteur*
+
+Tout ce que vos parents auraient dû vous apprendre  (...)
+Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+Rien. Non, rien de rien. Ce séminaire n’a rien de commun avec les séminaires Spikeséduction habituels, dont vous avez été plusieurs milliers à travers les années à reconnaître la qualité et la pertinence en matière de relations hommes-femmes, de séduction, mais aussi de cette relation à vous-même qu’il est convenu d’appeler développement personnel  (voir
+témoignages
+).
+Problématique
+Vous le savez (surtout si vous avez lu
+You can always get what you want
+), le bagage parental et scolaire détermine grandement votre trajectoire, que ce soit sociale, professionnelle ou affective. C’est un fait. En clair, c’est de la combinaison « maman-papa-école » que naissent beaucoup de croyances limitantes, de peurs de l’inconnu, de rationalisations, bref, de bornes que vous mettez à votre destin.
+Des millions de gens n’ont jamais pris la peine d’y réfléchir, ne serait-ce que pendant les quelques instants que vous mettez à lire cet article. Certains (et je l’espère, beaucoup parmi vous) en ont déjà un début de conscience. Mais si je peux me permettre, avoir
+conscience
+des choses, c’est bien joli, mais, prise seule, la conscience ne vous avancera pas bien loin.
+Un moustachu célèbre disait il n’y a pas si longtemps qu’il fallait « philosopher à coups de marteau ». Pour devenir quelqu’un et ne pas subir sa vie, c’est au marteau…piqueur (!) qu’il faut passer son éducation, et dynamiter toutes les croyances limitantes que l’on nous a tatouées partout sur le corps depuis la naissance, en termes
+de vie sociale (vous apprendrez pendant cette journée à casser votre cercle et à rentrer dans celui des gens intéressants
+de vie professionnelle (vous apprendrez pendant cette journée que ce qui paye est souvent ce qui est interdit… mais quoi ?!?
+et bien sûr… de vie amoureuse (vous découvrirez en quoi les gens font le contraire de ce qu’ils disent/conseillent, et comment l’utiliser à votre avantage)
+Programme de la journée
+(Liste non exhaustive. Comme d’habitude, vous recevrez plus que ce que vous étiez venus chercher)
+Matinée  (10h-13h)
+A – Apprendre à se conn
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- **L'amour comme moteur de transformation** : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+- **L'erreur de la séduction par le corps** : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
+
+_[extrait tronqué]_
+
+### Pour-surmonter-une-rupture,-n'imite-pas-cette-youtubeuse-synthese
+# Synthèse : Pour surmonter une rupture, n'imite pas cette youtubeuse
+
+**Video ID**: 74kBMreIye0
+**Date de synthèse**: 2026-05-29
+
+#### Thème central
+Analyse d'une youtubeuse qui conseille sur la façon de surmonter une rupture, avec décryptage des conseils dangereux ou inadaptés.
 
 ---
 

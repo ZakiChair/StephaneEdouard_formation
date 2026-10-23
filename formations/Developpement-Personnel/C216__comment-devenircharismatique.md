@@ -244,7 +244,7 @@ Il faut distinguer le charme de connexion du charme de manipulation. Le charme d
 
 ### Exercices / Pratiques
 
-- Travailler sa présence : être totalement focus dans les conversations —记住 le regard, la posture, l'attention
+- Travailler sa présence : être totalement focus dans les conversations —mémoriser le regard, la posture, l'attention
 - Développer sa confiance par l'action — le vrai charisme naît de la preuve par l'action
 - Créer des émotions positives chez les autres — faire rire, réfléchir, inspirer
 - Observer les gens charismatiques et analyser leurs techniques — pas pour copier mais pour comprendre

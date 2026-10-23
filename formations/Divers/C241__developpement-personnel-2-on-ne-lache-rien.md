@@ -190,41 +190,6 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Prochain séminaire séduction et développement personnel
-
-*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
-
-Séduction, relooking homme - Le site de référence
-Prochain séminaire séduction et développement personnel
-Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
-(Bibi)
-(Bibi à nouveau)
-(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
-Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
-“changez de vie”
-et poursuivie par le séminaire
-“devenez intéressant”
-du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
-Prochain séminaire séduction : le pitch
-Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
-amoureuses
-, mais également
-professionnelles
-, et
-amicales
-Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
-comment
-, exactement ? Ah…
-Des nouvelles bientôt, dans
-l’agenda
-Témoignages sur le séminaire changez de vie du 19 juillet
-Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
-Développement personnel : quel but ?
-Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
-séminaire séduction
-Un commentaire
-Où et quand nous inscrivons-nous?
-
 ### Les dandys sont toujours seuls (ou les limites du développement personnel)
 
 *`web-articles__10710_developpement-%E2%80%A6imites-dangers.html.txt` · 1964 mots · archive de l'auteur*
@@ -261,42 +226,40 @@ recherche de perfection
 Perfection es-tu là ?
 Je dînais tout seul l’autre soir avec
 
-## Ce que la fiche dit de ce séminaire
+### Prochain séminaire séduction et développement personnel
 
-*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
 
-### Résumé
-
-Rocaïa Diallo, née et ayant grandi à Paris, décrit le choc de taper "Parisienne" dans un moteur de recherche : des dizaines de femmes aux silhouettes et profils quasi identiques s'affichent, sans qu'elle puisse se reconnaître. L'orateur rebondit en comparant ce que Google renvoie pour les origines gambienne et sénégalaise : la Sénégalaise est représentée comme "noire et voluptueuse", tandis que la Parisienne n'a pas le droit d'être "blanche et mince" — elle doit se "métisser de force". L'autre sens (une blanche adoptant des code
-
----
-
-### Points clés
-
-### Le marché des rencontres
-- Première étape : libéralisation (droit de cuissage aboli).
-- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
-
-### Analyse des participants
-- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
-
-### aXPHzXCzgCo-synthese
-# Synthèse aXPHzXCzgCo
-
-**Thèmes principaux** : Relations amoureuses, Rupture, Traitement emotional, Guid情感
-
-**Points clés** :
-- Discussion duKas-trackataropathe et de la dépression nerveuse suite à une rupture
-- Le narrateur partage son expérience personneavec un beta-bloquant pendant un an
-- Récurrent rêve pénètrant sur la rupture qui prend des proportions thérapeutiqu
-- Exemple d'un "Alexandre" de 19 ans ayant une rupture difficile suivie d'une thérapie spécialis
-- Réflexion sur l'effort intellectuel de ne pas suspender son incrédulité
-- Le vidéo-scopesie comme moment préféré de la semaine
-
-### elle-tape-parisienne-dans-google-synthese
-# Elle tape Parisienne dans Google — Synthèse
-
-**Source** : https://www.youtube.com/watch?v=cJv08z8EzO8
+Séduction, relooking homme - Le site de référence
+Prochain séminaire séduction et développement personnel
+Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
+(Bibi)
+(Bibi à nouveau)
+(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
+Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
+“changez de vie”
+et poursuivie par le séminaire
+“devenez intéressant”
+du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
+Prochain séminaire séduction : le pitch
+Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
+amoureuses
+, mais également
+professionnelles
+, et
+amicales
+Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
+comment
+, exactement ? Ah…
+Des nouvelles bientôt, dans
+l’agenda
+Témoignages sur le séminaire changez de vie du 19 juillet
+Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
+Développement personnel : quel but ?
+Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
+séminaire séduction
+Un commentaire
+Où et quand nous inscrivons-nous?
 
 ---
 
@@ -328,10 +291,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - les exercices propres à cette session
 
 > **À citer** : `C163`, en annonçant « reconstituée depuis C163 ». Jamais `C241` — la trace serait fausse.
-
-## Concepts
-
-Le Modèle Unique injecté de "Parisienne" · L'Exotisation Positive vs l'Interdiction Culturelle · Le Double Standard de la Représentation · La Métisse Forcée vs l'Autochtone Invisible
 
 ---
 

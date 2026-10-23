@@ -13,7 +13,7 @@ programme: 26
 sections_annonce: 7
 points_annonce: 10
 documents_materiau: 5
-pages_developpement: 2
+pages_developpement: 5
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -247,6 +247,22 @@ ACCEDER A L'ARTICLE
 Nous n'envoyons jamais de spam. jamais.
 Séminaire de mai : get lucky (fabriquez votre chance)
 en vente jusqu'au 31/05/2015 mi
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Solveig Halloin @ Balance ton post
+
+*vidéo · `CEhoPgOBx20-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 6
 citations: 3
 doublon_titre: non
@@ -60,6 +60,18 @@ doublon_titre: non
 
 > Le phénomène #MeToo « lascive » : Édouard et Hugo analysent les tweets d'utilisatrices qui partagent des récits de relations toxiques au sein de couples lesbiens, se demandant si ces témoignages sont spontanés ou influencés par l'air du temps.
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video OPtQxFnZFX4
+
+*vidéo · `OPtQxFnZFX4-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -85,7 +97,7 @@ Le storytelling est l'art de captiver par les histoires. Cette formation explore
 
 ### Pourquoi le cerveau aime les histoires
 
-Les истории sont le format naturel par lequel les humains transmettent des connaissances et créent des liens. Neuroscientific studies show that :
+Les sont le format naturel par lequel les humains transmettent des connaissances et créent des liens. Neuroscientific studies show that :
 
 - Les histoires activent les zones du cerveau liées à l'expérience sensorielle
 - L'audience "vit" l'histoire plutôt que de simplement l'entendre
@@ -103,7 +115,7 @@ Toute bonne histoire suit une structure reconnaissable :
 3. **Le climax** : Le moment pivot — le point culminant de l'histoire
 4. **La résolution** : Ce que vous avez appris ou ce qui a changé — la leçon
 
-Cette structure peut être adaptée selon le contexte (court pitch vs. long рассказ).
+Cette structure peut être adaptée selon le contexte (court pitch vs. long ).
 
 ### Les détails sensoriels
 
@@ -114,9 +126,9 @@ Une histoire devient vivante quand elle inclure des détails sensoriels :
 - Kinesthésiques : partagez ce que vous avez ressenti physiquement
 - Olfactifs et gustatifs : quand pertinent, ces détails ancrent dans le réel
 
-Ces détails transforment une anecdote平平 en expérienceimmersive.
+Ces détails transforment une anecdote en expérienceimmersive.
 
-### Le savoir-raconter vs le savoir长短
+### Le savoir-raconter vs le savoir
 
 Il faut distinguer deux compétences :
 

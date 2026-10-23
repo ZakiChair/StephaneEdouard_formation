@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 3
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 6
 citations: 0
 doublon_titre: non
@@ -145,6 +145,26 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 *« Un-monde-sans-hommes-cette-nouvelle-lubie-des-séries-cache-un-projet-eugéniste-synthese.md » · origine : lien-declare*
 
 > Le CNC, sponsor de propagande : L'orateur rappelle que le Centre National du Cinéma, financé par les places de cinéma, impose des tests et stages de féminisme et d'inclusivité aux bénéficiaires — qualifies de « propagande » à tous les sens du terme.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video y4PKeEdGQ6w
+
+*vidéo · `y4PKeEdGQ6w-transcript.md`*
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### [Dossier] Affaire #Duhamel : l'état profond fait surface
+
+*vidéo · `MOOD64_4JAg-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

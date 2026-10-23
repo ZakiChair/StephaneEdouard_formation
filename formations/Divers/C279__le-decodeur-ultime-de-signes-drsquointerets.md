@@ -140,41 +140,6 @@ plusieurs heures par email à convaincre vos
 collègues de bureau
 du bien-fondé de vos décisions. Vous con
 
-## Ce que la fiche dit de ce séminaire
-
-*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
-
-### Résumé
-
-Stéphane Édouard analyse un couple composé d'un rappeur (Seth Gueko / Salvadori) et d'une mannequin métissée, dans le format "vidéos scopiques".
-
-### Points clés :
-
-1. **Le couple** : Un rappeur avec passif judiciaire et "gestuelle de racaille" et une mannequin africaine probablement métissée, se présentant comme "Monsieur et Madame".
-
-2. **Analyse comportementale** : La femme montre des signes de "fascination morbide" pour la dissection et les corps - "la branche à fond". Son sourire est décrit 
-
-### 9NePuN28dD0-synthese
-# Synthèse — Analyse du discours de Macron du 12 juillet 2021 (Vidéoscopie)
-
-**Video ID**: 9NePuN28dD0
-**URL**: https://www.youtube.com/watch?v=9NePuN28dD0
-
----
-
-### Points clés
-
-1. **Méthode : Vidéoscopie** : Analyse不计份 du fond, mais de la forme — posture, gestes, musique du langage, cohérence des notes.
-
-2. **Analyse chromatique** : 4 bleus sur image (costume, drapeau, cravate, écrans) — "ça fait un petit peu beaucoup".
-
-3. **Avertissement commercial** : Tirage au sort d'une platine vinyle Bluetooth pour les VIP du mois d'aout.
-
-4. **Формальный анализ语调** :
-   - "Pour notre unité nous devons aller vers la vaccination" — ton А polymeric, mart
-
----
-
 ---
 
 ## Reconstitution

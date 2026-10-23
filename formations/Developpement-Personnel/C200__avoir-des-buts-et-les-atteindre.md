@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 1
-pages_developpement: 0
+pages_developpement: 4
 idees_forces: 0
 citations: 3
 doublon_titre: non
@@ -32,6 +32,26 @@ doublon_titre: non
 *podcast / vidéoscopie · `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese.md`*
 
 *Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video OPtQxFnZFX4
+
+*vidéo · `OPtQxFnZFX4-transcript.md`*
+
+### Social media is taking women back to the Stone Age
+
+*vidéo · `4kLJff41LQA-transcript.md`*
+
+### Aidons cette ministre "surdouée" Macronniste à s'exprimer en public
+
+*vidéo · `G1B7SG_yp-M-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -84,7 +104,7 @@ Les grands objectifs sont atteints par des actions quotidiennes minuscules. Un h
 
 ### La résilience face aux obstacles
 
-Les obstacles ne sont pas des preuves que votre but est inaccessible — ils sont des informations sur ce qu'il faut ajuster. L'homme resilient voit un obstacle et demande "comment puis-je绕过 ce problème ?" L'homme faible voit un obstacle et dit "c'était impossible de toute façon."
+Les obstacles ne sont pas des preuves que votre but est inaccessible — ils sont des informations sur ce qu'il faut ajuster. L'homme resilient voit un obstacle et demande "comment puis-jecontourner ce problème ?" L'homme faible voit un obstacle et dit "c'était impossible de toute façon."
 
 ---
 

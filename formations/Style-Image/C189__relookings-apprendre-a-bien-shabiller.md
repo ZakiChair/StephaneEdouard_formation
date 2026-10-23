@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 7
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 7
+pages_developpement: 10
 idees_forces: 12
 citations: 0
 doublon_titre: non
@@ -119,6 +119,31 @@ Consultez notre FAQ relooking. Et pour toutes les questions auxquelles elle ne 
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
+### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+
+*`web-actualite__5347_seminaire-developpement-personnel-2.html.txt` · 1111 mots · archive de l'auteur*
+
+Tout ce que vos parents auraient dû vous apprendre  (...)
+Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+Rien. Non, rien de rien. Ce séminaire n’a rien de commun avec les séminaires Spikeséduction habituels, dont vous avez été plusieurs milliers à travers les années à reconnaître la qualité et la pertinence en matière de relations hommes-femmes, de séduction, mais aussi de cette relation à vous-même qu’il est convenu d’appeler développement personnel  (voir
+témoignages
+).
+Problématique
+Vous le savez (surtout si vous avez lu
+You can always get what you want
+), le bagage parental et scolaire détermine grandement votre trajectoire, que ce soit sociale, professionnelle ou affective. C’est un fait. En clair, c’est de la combinaison « maman-papa-école » que naissent beaucoup de croyances limitantes, de peurs de l’inconnu, de rationalisations, bref, de bornes que vous mettez à votre destin.
+Des millions de gens n’ont jamais pris la peine d’y réfléchir, ne serait-ce que pendant les quelques instants que vous mettez à lire cet article. Certains (et je l’espère, beaucoup parmi vous) en ont déjà un début de conscience. Mais si je peux me permettre, avoir
+conscience
+des choses, c’est bien joli, mais, prise seule, la conscience ne vous avancera pas bien loin.
+Un moustachu célèbre disait il n’y a pas si longtemps qu’il fallait « philosopher à coups de marteau ». Pour devenir quelqu’un et ne pas subir sa vie, c’est au marteau…piqueur (!) qu’il faut passer son éducation, et dynamiter toutes les croyances limitantes que l’on nous a tatouées partout sur le corps depuis la naissance, en termes
+de vie sociale (vous apprendrez pendant cette journée à casser votre cercle et à rentrer dans celui des gens intéressants
+de vie professionnelle (vous apprendrez pendant cette journée que ce qui paye est souvent ce qui est interdit… mais quoi ?!?
+et bien sûr… de vie amoureuse (vous découvrirez en quoi les gens font le contraire de ce qu’ils disent/conseillent, et comment l’utiliser à votre avantage)
+Programme de la journée
+(Liste non exhaustive. Comme d’habitude, vous recevrez plus que ce que vous étiez venus chercher)
+Matinée  (10h-13h)
+A – Apprendre à se conn
+
 ### Relookings soldes d&#8217;été 2008 : premières photos
 
 *`web-ateliers-workshops-cours__1210_relooking-paris-ete-2008.html.txt` · 231 mots · archive de l'auteur*
@@ -195,30 +220,25 @@ En premier rendez-vous (c’est plus
 - Parce qu’il n’y pas de honte (ouvrez « Voici » chez votre dentiste et regardez les photos volées)
 - Parce que personne (ou presque) n’a les moyens de porter des killers fringues tous les jours de la semaine
 
-### Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
+## Ce qu'il a dit et écrit sur ce sujet
 
-*`web-actualite__5347_seminaire-developpement-personnel-2.html.txt` · 1111 mots · archive de l'auteur*
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
 
-Tout ce que vos parents auraient dû vous apprendre  (...)
-Tout ce que vos parents auraient dû vous apprendre ! Rattrapage le 29 janvier
-Rien. Non, rien de rien. Ce séminaire n’a rien de commun avec les séminaires Spikeséduction habituels, dont vous avez été plusieurs milliers à travers les années à reconnaître la qualité et la pertinence en matière de relations hommes-femmes, de séduction, mais aussi de cette relation à vous-même qu’il est convenu d’appeler développement personnel  (voir
-témoignages
-).
-Problématique
-Vous le savez (surtout si vous avez lu
-You can always get what you want
-), le bagage parental et scolaire détermine grandement votre trajectoire, que ce soit sociale, professionnelle ou affective. C’est un fait. En clair, c’est de la combinaison « maman-papa-école » que naissent beaucoup de croyances limitantes, de peurs de l’inconnu, de rationalisations, bref, de bornes que vous mettez à votre destin.
-Des millions de gens n’ont jamais pris la peine d’y réfléchir, ne serait-ce que pendant les quelques instants que vous mettez à lire cet article. Certains (et je l’espère, beaucoup parmi vous) en ont déjà un début de conscience. Mais si je peux me permettre, avoir
-conscience
-des choses, c’est bien joli, mais, prise seule, la conscience ne vous avancera pas bien loin.
-Un moustachu célèbre disait il n’y a pas si longtemps qu’il fallait « philosopher à coups de marteau ». Pour devenir quelqu’un et ne pas subir sa vie, c’est au marteau…piqueur (!) qu’il faut passer son éducation, et dynamiter toutes les croyances limitantes que l’on nous a tatouées partout sur le corps depuis la naissance, en termes
-de vie sociale (vous apprendrez pendant cette journée à casser votre cercle et à rentrer dans celui des gens intéressants
-de vie professionnelle (vous apprendrez pendant cette journée que ce qui paye est souvent ce qui est interdit… mais quoi ?!?
-et bien sûr… de vie amoureuse (vous découvrirez en quoi les gens font le contraire de ce qu’ils disent/conseillent, et comment l’utiliser à votre avantage)
-Programme de la journée
-(Liste non exhaustive. Comme d’habitude, vous recevrez plus que ce que vous étiez venus chercher)
-Matinée  (10h-13h)
-A – Apprendre à se conn
+### Let's all chip in for these wealthy Swedish women that nobody (?) wants
+
+*vidéo · `WCbntTzHIaE-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

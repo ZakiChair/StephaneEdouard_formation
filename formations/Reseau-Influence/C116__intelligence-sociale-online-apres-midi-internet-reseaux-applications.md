@@ -99,83 +99,6 @@ Si je suis aussi certain que ce séminaire va répondre à vos préoccupations, 
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### 30 mars, intelligence sociale mod. II : gérer la solitude et sortir seul
-
-*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html.txt` · 1439 mots · archive de l'auteur*
-
-« And this loneliness won’t leave me alone »
-Otis Redding, S
-ittin’ on the dock of the bay
-Mon site a 7 ans, mais jamais n’a t-il eu l’âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu’il suffit de « just do it ».
-Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d’hommes, bien sûr, car pour les femmes c’est une toute autre sociologie) qu’il est
-impossible
-de pousser à faire des rencontres.
-Pourquoi certains n’y arrivent pas…
-… et n’y arriveront peut-être jamais
-Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
-Ils auront acquis la
-capacité
-à faire des rencontres, mais la plupart du temps ces rencontres n’auront pas lieu.
-La nuance est de taille et il est important de bien la comprendre sinon vous n’aurez rien compris
-: acquérir la capacité à faire des rencontres, ça n’entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
-Quel est alors l’élément manquant ? Car chercher le point commun (« pattern », diraient les anglo-saxons) à tous ces garçons c’est trouver la clé du problème.
-Et la clé du problème des rencontres se trouve à 90% du temps dans votre (in)capacité à sortir seul, autrement dit à gérer la solitude.
-La ville, c’est la solitude peuplée
-En théorie (je dis bien en théorie), chacun évolue au milieu d’un réseau de gens qui tous lui veulent du bien, l’un garantissant ses affaires, l’autre ses amours, untel aidant pour ceci et l’autre pour cela mais tous ayant la fiabilité d’une montre suisse et le désintéressement d’un héros de roman.
-C’est vrai, mais uniquement
-partiellement
-Car entre des moments (certes agréables) de la sorte, s’insèrent tout un tas d’autres – correspondant à des étapes-clés de la vie : déménagement, expatriation, ascension sociale, changement de cercle d’amis, etc. – qui se passent dans une partielle ou t
-
-### Commandez le séminaire &laquo;&nbsp;intelligence sociale mod. II : gérer la solitude et sortir seul&nbsp;&raquo;
-
-*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html?preview=1.txt` · 1676 mots · archive de l'auteur*
-
-Comment sortir seul ? Comment gérer la solitude ?
-Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
-Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
-Video:preview séminaire sortir seul pour rencontrer des femmes
-Référence :
-Intelligence sociale module 2
-Téléchargement :
-immédiat
-Ecoute :
-illimitée
-Compatible :
-tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
-Prérequis :
-Objectifs :
-mettre en place les bonnes pratiques et développer l'état d'esprit permettant de faire des rencontres seul
-Durée totale :
-3h09mn
-Taille du fichier :
-182 Mo
-Tarif :
-150€ seul puis dégressif avec le nombre de séminaires commandés
-Séminaires complémentaires recommandés :
-Intelligence sociale module 1
-Etre un leader
-Ecoutez des extraits gratuits
-Sortir seul - extrait 1
-[ 2:21 ]
-Sortir seul - extrait 2
-[ 1:44 ]
-Jamais ce site n'a eu l'âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu'il suffit de "just do it".
-Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d'hommes, bien sûr, car pour les femmes c'est une toute autre sociologie) qu'il est
-impossible
-de pousser à faire des rencontres.
-Pourquoi certains n'y arrivent pas…
-… et n'y arriveront peut-être jamais
-"And this loneliness won't leave me alone"
-Otis Redding, S
-ittin' on the dock of the bay
-Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
-Ils auront acquis la
-capacité
-à faire des rencontres, mais la plupart du temps ces rencontres n'auront pas lieu.
-La nuance est de taille et il est important de bien la comprendre sinon vous n'aurez rien compris
-: acquérir la capacité à faire des rencontres, ça n'entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
-Quel est alors l'élément manquant ? Car chercher le point com
-
 ### 25 sept 2010 : développez votre intelligence sociale
 
 *`web-actualite__4843_intelligence-sociale.html.txt` · 1245 mots · archive de l'auteur*
@@ -192,6 +115,104 @@ compétence sociale
 . Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
 Plus d’histoires
 Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon millio
+
+### Commandez le séminaire &laquo;&nbsp;intelligence sociale&nbsp;&raquo;
+
+*`web-actualite__4843_intelligence-sociale.html?preview=1.txt` · 910 mots · archive de l'auteur*
+
+Sans l'intelligence sociale, vous ne serez jamais intelligent qu'à moitié
+Commandez le séminaire
+« intelligence sociale »
+Commandez le séminaire
+« intelligence sociale »
+Video:preview séminaire intelligence sociale
+Référence :
+intelligence sociale
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+comprendre et mettre à profit les règles tacites de la vie en société pour mieux s'adapter au réel
+Durée totale :
+2h11mn
+Taille du fichier :
+63 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant I
+Devenez intéressant II
+De l’histoire (juste un peu)
+Vous ne devinerez jamais d’où provient l’expression
+compétence sociale
+. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
+Plus d’histoires
+Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon million d’a
+
+### Force et bonheur (programme online sport et alimentation)
+
+*`web-articles__10982_coaching-online-sport-alimentation.html.txt` · 244 mots · archive de l'auteur*
+
+Coaching online sport et alimentation
+Mise à jour quotidienne - Mercredi 27 juin
+Mangez mieux et devenez fort !
+Atelier 3h
+Street-session
+Atelier 10h
+Nouveau départ
+Nouveau départ
+Alimentation et séduction : Stéphane sur Direct8
+Coaching online : dégagez l’énergie d’un boxeur grâce à l’alimentation
+Models in the mirror are uglier than they appear
+Améliorer sa voix : interview avec un expert
+Luchini parle de séduction
+Pas encore de réactions sur cet article, soyez le premier à laisser un commentaire.
+1ère visite sur Spike Séduction
+Aborder une fille
+Courrier des lecteurs
+Forum relooking
+Forum séduction
+La séduction dans la presse
+Manipulation
+Personal shopper
+Relooking Paris
+Relookings avant-après
+Timidité
+Force et bonheur (programme online sport et alimentation)
+Force et bonheur (programme online sport et alimentation)
+Et pour les impatients qui veulent accéder au programme tout de suite :
+spikeseduction.com/naturacoach
+Testé, recommandé. En toute intégrité.
+devenir un homme
+naturacoach
+sport
+Le respect
+Le gagner, le conserver
+Relations longues I
+Eviter l'obsession amoureuse
+Etre sexué
+Assumez votre masculinité
+Intelligence sociale
+Etre bien partout
+Livre
+L’homme idéal
+50 leçons pour séduire la femme qui vous plaît
+Ebook
+Entretiens
+You can always get what you want
+Tous les produits »
+Agenda
+14/07 - sex friends
+12/07 - relooking
+11/07 - relooking
+05/07 - relooking
+03/07 - relooking
+Toutes les dates »
+avril 2007
 
 ## Ce que la fiche dit de ce séminaire
 

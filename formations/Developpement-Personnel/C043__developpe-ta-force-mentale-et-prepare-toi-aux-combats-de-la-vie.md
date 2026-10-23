@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 6
 points_annonce: 10
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 22
 citations: 0
 doublon_titre: oui
@@ -187,6 +187,26 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 *« Yseult-=-césar-2021-de-la-pleurniche-synthese.md » · origine : lien-declare*
 
 > Les parents de Jordana : père cadre supérieur automobile + mère infirmière = 12-15K€/mois, Mercedes, sacs Chanel
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

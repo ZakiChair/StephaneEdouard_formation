@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 15
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -198,6 +198,26 @@ Le bouche à oreille à géométrie variable
 
 > L'amour comme moteur de transformation : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video LfkvDekiWus
+
+*vidéo · `LfkvDekiWus-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -266,10 +286,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > Ingénieur en mécanique (je sais construire
 > 
 > ---
-
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ---
 

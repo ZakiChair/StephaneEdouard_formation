@@ -13,7 +13,7 @@ programme: 13
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 3
-pages_developpement: 1
+pages_developpement: 3
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -131,6 +131,18 @@ Apprendre à « dire bonjour à la dame » et tous les registres de la polites
 Basile
 Bonjour Basile,
 Excellente question que l
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### L'histoire la + abjecte de ces 10 dernières années, et pourquoi ça vous concerne
+
+*vidéo · `55pK6U9bxjs-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

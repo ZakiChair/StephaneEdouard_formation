@@ -199,76 +199,123 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Prochain séminaire séduction et développement personnel
+### 25 mai, être sexué mod.2 : au quotidien &#8211; réservez tôt et payez moins cher
 
-*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
+*`web-actualite__12982_devenir-sexue-ii-vie-reelle.html.txt` · 1796 mots · archive de l'auteur*
 
-Séduction, relooking homme - Le site de référence
-Prochain séminaire séduction et développement personnel
-Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
-(Bibi)
-(Bibi à nouveau)
-(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
-Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
-“changez de vie”
-et poursuivie par le séminaire
-“devenez intéressant”
-du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
-Prochain séminaire séduction : le pitch
-Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
-amoureuses
-, mais également
-professionnelles
-, et
-amicales
-Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
-comment
-, exactement ? Ah…
-Des nouvelles bientôt, dans
-l’agenda
-Témoignages sur le séminaire changez de vie du 19 juillet
-Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
-Développement personnel : quel but ?
-Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
-séminaire séduction
-Un commentaire
-Où et quand nous inscrivons-nous?
+25 mai, être sexué mod.2 : au quotidien – réservez tôt et payez moins cher
+25 mai, être sexué mod.2 : au quotidien – réservez tôt et payez moins cher
+Nous avons toujours été précurseurs. Dans nos 3 domaines d’expertise.
+En
+, nous avons développé des ateliers mettant en avant l’
+intelligence sociale
+plutôt que l’abrutissement de masse des techniques de séduction américaines et de leur jargon désocialisant (et nous avons, en cela, été repris par une immense majorité des gens sensés du secteur)
+Nous avons dépoussiéré le concept du
+relooking homme
+, qui était jusqu’à 2006 une pratique de vieilles dames argentées et désoeuvrées qui préconisaient une élégance désuète pour descendre le concept « dans la rue » et en faire une pierre angulaire de votre transformation (en cela aussi nous avons été imité par toute la blogosphère ou presque, qui nous a entièrement copié jusqu’à l’angle de nos photos et à nos slogans : « less is more », etc.)
+Et en
+développement personnel
+, nous avons aussi été les premiers a introduire le concept «
+» (2009 déjà, séminaire d’ailleurs donné deux fois dans la même journée devant l’affluence record), dans la lignée duquel se sont créés tout un tas de blogs prétendant vous donner les clés d’un prétendu changement de vie « à leur manière » (mais qui n’était en réalité qu’une copie sans valeur ajoutée du nôtre et de ce qu’ils avaient lu sur chez des bloggueurs américains qui ne jurent que par le « lancement orchestré »)
+Aujourd’hui encore nous allons être précurseurs, alors lisez-bien ce qui suit maintenant car vous le retrouverez bientôt sur toute la blogosphère :
+La vie « de rêve », c’est comme les films pornos :
+Un jour il faut arrêter de se * dessus et passer au réel
+J’avais une conversation intéressante l’autre jour avec un ancien client devenu ami, au sujet de la série
+Mad Men
+et particulièrement des conventions sociales à l’époque et maintenant. Assez vite, nous en sommes arrivés aux questions suivantes :
+Don Draper
+(ou quelqu’un se comportant exactement comme tel) serait-il aussi irrésistible en
+business
+aujourd’hui ?
+Réponse : probablement
+Don Draper
+(ou quelqu’un se comportant exactement comme tel) serait-il aussi irrésistible en
+aujourd
 
-### Les dandys sont toujours seuls (ou les limites du développement personnel)
+### 25 mai, être sexué mod.2 : au quotidien &#8211; réservez tôt et payez moins cher
 
-*`web-articles__10710_developpement-%E2%80%A6imites-dangers.html.txt` · 1964 mots · archive de l'auteur*
+*`web-actualite__12982_devenir-sexue-ii-vie-reelle.html__2.txt` · 882 mots · archive de l'auteur*
 
-Interrogés sur la femme parfaite dans les années 90, près d’un américain sur deux désignait Pamela Anderson et c’est tout de même difficile à concevoir sur le corps de quelqu’un dont pas une pièce n’est d’origine. Et encore plus difficile aujourd’hui quand on cherche à se souvenir à quoi elle ressemblait.
-D’abord parce qu’à force d’opérations (ou de coups de son boyfriend Tommy Lee) elle a changé de visage depuis cette époque. Et aussi parce qu’arrivée à 4x ans sans jamais dormir la nuit, elle est fripée comme ma vieille table à repasser. Prenons donc un exemple plus récent de la « perfection » telle qu’elle décide de s’incarner sur quelqu’un :
-Valeria Lukyanova.
-Enfant du pays aux paupières baissées, cette jeune russe a deux fois moins d’années au compteur que Pamela (soit 2x) et au moins 2 fois plus d’opérations sur le billard. Son objectif est prodigieusement atteint : elle ressemble à Barbie. Pardon, correctif : elle
-est
-Barbie. Les filles les plus minces que je connaisse (soit mes deux dernières copines) font du 34 en taille, mais Barbie doit faire du 25, ce qui n’est physiologiquement possible qu’en se faisant retirer des côtes. Les filles les plus belles que je connaisse (soit mes ex, plus
-Valentina Cervi
-Julianne Moore
-) ont un visage d’artiste à contempler des heures durant, mais Barbie n’a que faire de la nature qui un jour a calculé que pour sourire il fallait que nos pommettes puissent se plier un peu. Un pli pouvant être assimilé par un objectif de photographe à une ride, il a fallu faire un choix, dont la conséquence est qu’aujourd’hui même mon autoradio est plus expressif lorsqu’il me dit « hello ».
-Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 2000 ont des poupées russes, et si l’un d’entre vous trouve « parfaite » une de ces saucisses, qu’il interrompe immédiatement la lecture de ce site et tape « verse le jus » dans la barre d’adresse de son navigateur, où il rejoindra plein d’amis qui pensent comme lui. Vous êtes toujours là ? Tant mieux, je vais donc pouvoir vous expliquer sans plus attendre le rapport avec l’article du jour, la
-recherche de perfection
-Perfection es-tu là ?
-Je dînais tout seul l’autre soir avec
+25 mai, être sexué mod.2 : au quotidien – réservez tôt et payez moins cher
+25 mai, être sexué mod.2 : au quotidien – réservez tôt et payez moins cher
+Cadeau 1
+Ben Sidran,
+You gotta serve somebody
+(il y aura toujours quelqu’un au dessus de vous)
+Refrain :
+You may be an ambassador to England or France
+You may like to gamble, you might like to dance
+You may be the heavyweight champion of the world
+You may be a socialite with a long string of pearls.
+But you’re gonna have to serve somebody, yes indeed
+You’re gonna have to serve somebody,
+It may be the devil or it may be the Lord
+But you’re gonna have to serve somebody.
+Cadeau 2
+Le texte du
+Divan
+, d’Edmond de Rostand, tiré de ses
+Musardises
+Quand on est couché sur le divan bas, devant la fenêtre,
+C’est délicieux, car on ne voit pas où l’on peut bien être.
+Mollement couché, les coussins au dos, on goûte une joie,
+On ne voit plus rien entre les rideaux, que le ciel de soie.
+Ni sordides murs, ni sommets, ni toits d’arbres de décembre.
+Mais on revoit tout sitôt qu’on se met debout dans la chambre.
+Dès qu’on est debout, on revoit la cour de zinc et d’asphalte,
+Tout ce qui soudain, quand le rêve court vient lui dire : « halte » !
+L’envers des maisons, le luxe à prix réduit, gaz, tuyautages,
+Et l’affreux vitrail se reproduit, à tous les étages.
+Dès qu’on est debout, on voit brusquement tout ça reparaître,
+On s’étend, plus rien que du firmament dans une fenêtre.
+C’est pourquoi, souvent quand je me sens las de vulgaire vie
+Durant tout un jour sur le divan bas, je rêve et j’oublie.
+Et j’aime rester immobile sur le vieux divan rouge,
+Sachant qu’on détruit le carré d’azur aussitôt que l’on bouge.
+Et je n’aperçois que du bleu, du bleu, du bleu dans la baie.
+Le soleil y vient, une heure, y faire sa flambée.
+Puis, le carré bleu pâlit vers le soir,
+Prend un vert turquoise.
+Puis il s’assombrit, devient presque noir comme une ardoise,
+Et de signes clairs partout la criblant, l’invisible craie
+Vient couvrir alors d’algèbre tremblant l’ardoise sacrée.
+Oh, ne pas bouger, ne pas faire un pas vers cette fenêtre,
+Croire que la cour affreuse n’est pas, ne peut pas être.
+Oh, dire au tableau, je ne te permets que ce qui s’étoile,
+Se placer to
 
-### Les dandys sont toujours seuls (ou les limites du développement personnel)
+### 25 mai, être sexué mod.2 : au quotidien &#8211; réservez tôt et payez moins cher
 
-*`web-articles__seduction-avance__10710_developpement-personnel-limites-dangers.html.txt` · 1964 mots · archive de l'auteur*
+*`web-articles__12982_devenir-sexue-ii-vie-reelle.html.txt` · 1787 mots · archive de l'auteur*
 
-Interrogés sur la femme parfaite dans les années 90, près d’un américain sur deux désignait Pamela Anderson et c’est tout de même difficile à concevoir sur le corps de quelqu’un dont pas une pièce n’est d’origine. Et encore plus difficile aujourd’hui quand on cherche à se souvenir à quoi elle ressemblait.
-D’abord parce qu’à force d’opérations (ou de coups de son boyfriend Tommy Lee) elle a changé de visage depuis cette époque. Et aussi parce qu’arrivée à 4x ans sans jamais dormir la nuit, elle est fripée comme ma vieille table à repasser. Prenons donc un exemple plus récent de la « perfection » telle qu’elle décide de s’incarner sur quelqu’un :
-Valeria Lukyanova.
-Enfant du pays aux paupières baissées, cette jeune russe a deux fois moins d’années au compteur que Pamela (soit 2x) et au moins 2 fois plus d’opérations sur le billard. Son objectif est prodigieusement atteint : elle ressemble à Barbie. Pardon, correctif : elle
-est
-Barbie. Les filles les plus minces que je connaisse (soit mes deux dernières copines) font du 34 en taille, mais Barbie doit faire du 25, ce qui n’est physiologiquement possible qu’en se faisant retirer des côtes. Les filles les plus belles que je connaisse (soit mes ex, plus
-Valentina Cervi
-Julianne Moore
-) ont un visage d’artiste à contempler des heures durant, mais Barbie n’a que faire de la nature qui un jour a calculé que pour sourire il fallait que nos pommettes puissent se plier un peu. Un pli pouvant être assimilé par un objectif de photographe à une ride, il a fallu faire un choix, dont la conséquence est qu’aujourd’hui même mon autoradio est plus expressif lorsqu’il me dit « hello ».
-Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 2000 ont des poupées russes, et si l’un d’entre vous trouve « parfaite » une de ces saucisses, qu’il interrompe immédiatement la lecture de ce site et tape « verse le jus » dans la barre d’adresse de son navigateur, où il rejoindra plein d’amis qui pensent comme lui. Vous êtes toujours là ? Tant mieux, je vais donc pouvoir vous expliquer sans plus attendre le rapport avec l’article du jour, la
-recherche de perfection
-Perfection es-tu là ?
-Je dînais tout seul l’autre soir avec
+25 mai, être sexué mod.2 : au quotidien – réservez tôt et payez moins cher
+25 mai, être sexué mod.2 : au quotidien – réservez tôt et payez moins cher
+Nous avons toujours été précurseurs. Dans nos 3 domaines d’expertise.
+En
+, nous avons développé des ateliers mettant en avant l’
+intelligence sociale
+plutôt que l’abrutissement de masse des techniques de séduction américaines et de leur jargon désocialisant (et nous avons, en cela, été repris par une immense majorité des gens sensés du secteur)
+Nous avons dépoussiéré le concept du
+relooking homme
+, qui était jusqu’à 2006 une pratique de vieilles dames argentées et désoeuvrées qui préconisaient une élégance désuète pour descendre le concept « dans la rue » et en faire une pierre angulaire de votre transformation (en cela aussi nous avons été imité par toute la blogosphère ou presque, qui nous a entièrement copié jusqu’à l’angle de nos photos et à nos slogans : « less is more », etc.)
+Et en
+développement personnel
+, nous avons aussi été les premiers a introduire le concept «
+» (2009 déjà, séminaire d’ailleurs donné deux fois dans la même journée devant l’affluence record), dans la lignée duquel se sont créés tout un tas de blogs prétendant vous donner les clés d’un prétendu changement de vie « à leur manière » (mais qui n’était en réalité qu’une copie sans valeur ajoutée du nôtre et de ce qu’ils avaient lu sur chez des bloggueurs américains qui ne jurent que par le « lancement orchestré »)
+Aujourd’hui encore nous allons être précurseurs, alors lisez-bien ce qui suit maintenant car vous le retrouverez bientôt sur toute la blogosphère :
+La vie « de rêve », c’est comme les films pornos :
+Un jour il faut arrêter de se * dessus et passer au réel
+J’avais une conversation intéressante l’autre jour avec un ancien client devenu ami, au sujet de la série
+Mad Men
+et particulièrement des conventions sociales à l’époque et maintenant. Assez vite, nous en sommes arrivés aux questions suivantes :
+Don Draper
+(ou quelqu’un se comportant exactement comme tel) serait-il aussi irrésistible en
+business
+aujourd’hui ?
+Réponse : probablement
+Don Draper
+(ou quelqu’un se comportant exactement comme tel) serait-il aussi irrésistible en
+aujourd
 
 ## Ce que la fiche dit de ce séminaire
 

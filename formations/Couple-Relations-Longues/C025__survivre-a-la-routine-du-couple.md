@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 12
 documents_materiau: 4
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -206,6 +206,26 @@ matérielles et de confort
 … mais cette explication étant trop simple, il faut y substituer un beau wishful thinking à même de propulser l’ouvrage en tête
 des ventes sur Amazon
 (le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

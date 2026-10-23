@@ -13,7 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -116,6 +116,18 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 
 > Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -159,7 +171,7 @@ La plupart des gens passent leur vie à dire oui à des "pas mal" et "acceptable
 
 **1. Simplification physique**
 - Désencombrement comme pratique régulière
-- Chaque possession doit，要么 être utilisée régulièrement, soit être donnée ou jetée
+- Chaque possession doit, soit être utilisée régulièrement, soit être donnée ou jetée
 - Le minimalisme matériel comme libération mentale
 
 **2. Simplification relationnelle**

@@ -13,7 +13,7 @@ programme: 16
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -117,6 +117,26 @@ Les méthodes anglo-saxonnes, c’est très bien pour débuter et prendre un pet
 confiance en soi
 , pour réaliser qu’aucune fille ne mord quand on va lui parler et pour les désacraliser par la suite.
 Pour faire ça quand on ne l’a jamais fait, pas de mystère, il faut un coup de main, et pour se sentir intéressant quand on a l’impression d’avoir été terne toute sa vie, ri
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

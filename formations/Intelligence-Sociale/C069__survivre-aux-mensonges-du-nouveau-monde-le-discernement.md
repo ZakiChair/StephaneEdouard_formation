@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 7
 points_annonce: 13
 documents_materiau: 5
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -242,6 +242,26 @@ Je suis tellement raide de toi que mes goûts se calent sur les tiens à mon in
 Probabilité de dire la vérité: 3%
 Ce que ça signifie réellement :
 J’aimerais tellement vivre en peign
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

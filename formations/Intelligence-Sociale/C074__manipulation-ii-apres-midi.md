@@ -130,32 +130,6 @@ Leur existence n’étant plus en cause, la vraie question (qui vaut triple) dev
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Séminaire 12 mai : &laquo;&nbsp;Manipulation, I&nbsp;&raquo; : qui vous ment (et comment)
-
-*`web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html.txt` · 1361 mots · archive de l'auteur*
-
-Séminaire 12 mai : « Manipulation, I » :
-qui vous ment (et comment)
-Séminaire 12 mai : « Manipulation, I » :
-qui vous ment (et comment)
-Traduction :
-Les gens sont de tels menteurs.
-Regardez cette courte vidéo :
-Ca vous dit quelque chose ? Normalement, oui ; cette série, diffusée sur la Fox jusqu’à janvier dernier, a atterri en Français sur m6 et donné lieu à une multitude de livres sur l’art de détecter les mensonges cachés dans les clignements de paupière et les mouvements de lèvres. Je les ai lus, certains sont pertinents, beaucoup ne sont que des redites destinées à permettre à l’auteur de dire partout (waooou, j’ai été publié), mais cela m’a tout de même donné l’occasion de tirer une conclusion.
-Problématique
-A la base du développement personnel, il y a la volonté d’investir sur soi
-Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
-Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…)
-discernement
-Définition : (du latin discernere, « séparer, distinguer ») : opération de l’esprit par laquelle on analyse et distingue les notions, les objets de pensée. Le discernement situe les choses les unes par rapport aux autres, élimine la confusion,
-sépare le vrai du faux
-Ce séminaire,
-premier épisode d’une série consacré à la manipulation et aux moyens de la déjouer
-, aurait pu s’intituler « séminaire sur le discernement ». Trop elliptique, on aurait pu croire à une blague. Et puis ça ne faisait pas état de la place importante qui sera faite aux applications pratiques. Qui vous ment (et comment), voilà les thèmes de ce séminaire
-Qui vous ment (et comment)
-Une (au moins) personne de votre entourage proche, très proche, vous ment. Ces personnes peuvent se cacher parmi vos amis (les amis d’enfance ne sont pas épargnés, ni vos proches, et encore moins vos parents).
-Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longeant ce grand monument parisien qui borde l’hôtel pour rejoindre votre voiture, votre bus, votre métro ou votre train, vous soyez en mesure d’affirmer avec certitude l’identité de cette personne. Et aurez en bonus des pistes pour identifier la meilleure maniè
-
 ### Commandez le séminaire Manipulation II : obtenez ce que vous voulez
 
 *`web-actualite__16617_manipulation-ii-obtenez-ce-que-vous-voulez.html?preview=1.txt` · 1211 mots · archive de l'auteur*
@@ -199,6 +173,32 @@ Après la première « brique » du mur manipulation (
 détectez les mensonges et devenez celui à qui on ne la fait pas
 ), démarrons les choses sérieuses avec, ce
 samedi 26 avril, manipulation II : obtenez
+
+### Séminaire 12 mai : &laquo;&nbsp;Manipulation, I&nbsp;&raquo; : qui vous ment (et comment)
+
+*`web-actualite__10442_detecter-les-mensonges-mieux-que-lie-to-me.html.txt` · 1361 mots · archive de l'auteur*
+
+Séminaire 12 mai : « Manipulation, I » :
+qui vous ment (et comment)
+Séminaire 12 mai : « Manipulation, I » :
+qui vous ment (et comment)
+Traduction :
+Les gens sont de tels menteurs.
+Regardez cette courte vidéo :
+Ca vous dit quelque chose ? Normalement, oui ; cette série, diffusée sur la Fox jusqu’à janvier dernier, a atterri en Français sur m6 et donné lieu à une multitude de livres sur l’art de détecter les mensonges cachés dans les clignements de paupière et les mouvements de lèvres. Je les ai lus, certains sont pertinents, beaucoup ne sont que des redites destinées à permettre à l’auteur de dire partout (waooou, j’ai été publié), mais cela m’a tout de même donné l’occasion de tirer une conclusion.
+Problématique
+A la base du développement personnel, il y a la volonté d’investir sur soi
+Pour investir sur soi, il faut être à même de réaliser des choix épineux (notamment : que faire, que délaisser)
+Pour faire des choix en conscience, il faut faire preuve de… (tous en choeur…)
+discernement
+Définition : (du latin discernere, « séparer, distinguer ») : opération de l’esprit par laquelle on analyse et distingue les notions, les objets de pensée. Le discernement situe les choses les unes par rapport aux autres, élimine la confusion,
+sépare le vrai du faux
+Ce séminaire,
+premier épisode d’une série consacré à la manipulation et aux moyens de la déjouer
+, aurait pu s’intituler « séminaire sur le discernement ». Trop elliptique, on aurait pu croire à une blague. Et puis ça ne faisait pas état de la place importante qui sera faite aux applications pratiques. Qui vous ment (et comment), voilà les thèmes de ce séminaire
+Qui vous ment (et comment)
+Une (au moins) personne de votre entourage proche, très proche, vous ment. Ces personnes peuvent se cacher parmi vos amis (les amis d’enfance ne sont pas épargnés, ni vos proches, et encore moins vos parents).
+Je m’engage personnellement à ce qu’à l’issue de ce séminaire, en longeant ce grand monument parisien qui borde l’hôtel pour rejoindre votre voiture, votre bus, votre métro ou votre train, vous soyez en mesure d’affirmer avec certitude l’identité de cette personne. Et aurez en bonus des pistes pour identifier la meilleure maniè
 
 ## Ce que la fiche dit de ce séminaire
 

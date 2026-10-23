@@ -56,112 +56,96 @@ confiance: 1.0
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Rencontre avec esprit-riche.com
+### Comment être bien entouré, par Diane
 
-*`web-actualite__4174_esprit-riche.html.txt` · 636 mots · archive de l'auteur*
+*`web-articles__7308_comment-etre-bien-entoure.html.txt` · 2980 mots · archive de l'auteur*
 
-Souvenez-vous, c’était en 2007. Le forum, puis le site SpikeSeduction, ont vu fleurir un des rares anglicismes à vraiment avoir un sens en séduction :
-life-style
-(style de vie).
-Oui
-, le fameux lifestyle repris dès lors à toutes les sauces (et à toutes les url) a fait évoluer profondément les
-techniques de séduction
-, et
-non
-, le « lifestyle » ne consiste pas à boire des Martini Dry avec deux olives qui se battent en duel à la terrasse du Martinez. Mais simplement à dire qu’avant de courir les rues à la recherche de filles stylées, mieux valait que sa propre vie en ait un, de style. Ca rend le jeu de la séduction un tout petit peu plus cohérent. Restait à définir ce qu’était ce fameux style.
-Et là réside l’essentiel du travail, car, potentiellement, il peut se nicher partout : dans le choix de votre job (
-« Comment ça va ? Comme un lundi »
-), de votre logement (
-« j’achète, parce que mes parents m’ont dit que c’était mieux, et de préférence en banlieue, le mètre-carré y est plus intéressant »
-) , de vos fréquentations, de votre voiture (vous imaginez Christian Bale en Hyundai ?), bref, partout où s’offre à vous la possibilité de choisir. C’est à dire, partout tout court. Mais avant de choisir complètement sa vie, encore faut-il le bagage et les méthodes pour se la financer. Et c’est là qu’intervient Michaël. En voilà une introduction ; madame Potron, ma prof de français au lycée, aurait été fière de moi. Mais revenons à Michaël.
-Esprit riche, une vie riche d’
-esprit
-Les gens qui, sous l’emprise d’une pulsion soudaine et incontrôlée d’aider les autres à réussir leur vie, créent des sites de philanthropes, (ceux dont la méthode magique valait 54989€ mais, « parce que c’est vous », et « uniquement parce que c’est vous », tombe à 44989€ (prix barré), puis 24989 (re-barré), pour finir à 89€ seulement avec 18 ebooks et 27 dvds offerts) ne font généralement qu’essayer de remplir la leur. Raison pour laquelle je ne vous mets que très rarement entre les mains de « gourous » de leur secteur. Mais voilà, Michaël n’est pas un gourou : simplement un garçon humble et courageux, qui a compensé par le travail et les recherches personnelles ce que ses parents ne lui ont pas appr
+« Ce ne sont pas nos ennemis qui nous usent, mais nos amis. Ce ne sont pas les grandes tragédies qui nous usent, mais les petits ennuis, les pertes de temps, la biophagie sociale »
+Montherlant
+Notre entourage, c’est-à-dire ceux avec qui nous avons quotidiennement des interactions, possède une influence énorme sur notre perception du monde, nos occupations et notre équilibre psychologique. Avant même de se demander « où aller » et « que faire », beaucoup devraient ainsi s’interroger sur leurs fréquentations et faire le tri. Je vais peut-être me faire agonir d’injures pour mon intolérance mais je crois profondément que tous les gens n’ont pas la même valeur et que s’encercler de boulets et de personnes toxiques est le meilleur moyen de plonger dans la médiocrité et/ou la dépression. Vous voulez changer de vie ? Commencez par changer d’amis. Autrement dit,
+être bien entouré
+Comment être bien entouré : les profils à éviter
+Il y a, selon moi, trois profils à bannir absolument et, je vous préviens, je ne vais pas être tendre.
+Eviter les parasites (mon « préféré »)
+Le parasite, n’est pas là pour construire une belle relation sincère avec vous mais bien pour se servir. Difficilement détectable car accompagnant chacun de ses abus par de grands sourires, il ne se limite pas au taxeur professionnel: le parasite squatte souvent votre vie d’une manière beaucoup plus subtile et globale. C’est cette personne qui arrive toujours en retard et s’incruste à toutes vos soirées sans jamais vous inviter aux siennes, c’est la jolie fille qui vous appelle pour s’occuper le dimanche soir puis ne vous donne plus de nouvelles pendant 2 mois ou encore cet  « ami » à qui vous avez trouvé un emploi et dont vous attendez toujours les remerciements, c’est ,en somme, tous ceux qui prennent votre temps et votre énergie quotidiennement mais qui ne s’inquiètent jamais de votre bien-être.
+Soyons clair : ces gens-là vous considèrent comme étant « à disposition » et peuvent faire de véritables crises si vous tentez de mettre un frein à leurs exigences. Le fond du problème, c’est souvent qu’ils n’ont aucun respect pour vous (à tort ou à raison d’ailleurs) et n’imaginent même pas que vous pourriez reve
 
-### Récit de rencontre : comme deux lacs tranquilles
+### Quand une femme semble ne pas savoir ce qu&rsquo;elle veut, c&rsquo;est qu&rsquo;elle le sait trop bien (phone coaching)
 
-*`web-articles__9456_rencontre-vanessa.html.txt` · 310 mots · archive de l'auteur*
+*`web-articles__seduction-debutants__14236_femme-qui-ne-sait-pas-ce-quelle-veut.html.txt` · 516 mots · archive de l'auteur*
 
-Je hais les professeurs de français. A différents degrés, il émane toujours d’eux – même chez les plus brillants – une indéfectible odeur de raté. Mme Jobert, avec sa tête de chèvre et ses mollets de cheval. Mme Potron, bourgeoise déclassée et apprêtée dont on devait mieux se souvenir du prénom en boite échangiste qu’en salle des professeurs. Mme Folio, qui n’avait pas besoin de Moravia pour inspirer à la fois l’ennui et le mépris. Ma belle-mère également faisait partie du clan, veule et neutre comme un dictionnaire sur son étagère. Et puis tout de même, Mme Herrero. Ou Herrera. Ou Ferrera. Enfin je ne sais plus son nom car c’était la plus gentille (ce sont toujours eux qu’on se rappelle le moins), avec son ventre rond et ses ongles corrodés d’angoisse qui ne laissaient planer aucun doute sur sa nature profonde de mère de famille (…)
-Lire la suite
-sur le forum >>
-Glace à l'eau
-27 décembre 2011 à 7:03
-Le verbe est beau, j’attends la suite avec appétit. Et en attendant je m’en vais ouvrir celui d’une amie qui raffole des mots, en lui offrant les tiens.
-Ce n’est certes pas très compassionnel de contempler le malheur d’autrui, d’ailleurs j’aimerais n’y lire que pure fiction. Malheureusement la vie se montre souvent bien plus savoureuse que la plus fertile des imaginations.
-J’attends patiemment la suite.
-Roland
-27 décembre 2011 à 11:27
-Tu as aimé l’école à peu près autant que moi, dirait-on… Le chapitre 3 s’intitulant « Délicatesse », ça fera un peu de finesse dans un monde de brutes. ^^
-27 décembre 2011 à 20:16
-@Roland : Chapitre III disponible !
-Roland
-29 décembre 2011 à 10:27
-Lu et approuvé ^^
+Quand une femme semble ne pas savoir ce qu’elle veut, c’est qu’elle le sait trop bien (phone coaching)
+Debutants
+Quand une femme semble ne pas savoir ce qu’elle veut, c’est qu’elle le sait trop bien (phone coaching)
+Les femmes ne savent pas ce qu’elles veulent ? C’est ce qu’on va voir. D’un cours de théâtre à Paris à une relation de séduction à distance avec la Nouvelle-Zélande, l’histoire d’une rencontre avortée, mais pas morte, qui a besoin d’un électrochoc pour connaître (peut-être) son dernier sursaut.
+Ecoutez l’intégralité du phone coaching gratuitement
+Quand une femme ne sait pas ce qu'elle veut - phone coaching
+[ 38:26 ]
+Vous pouvez aussi le télécharger gratuitement en cliquant sur « download » (petit lien en bleu)
+Les fameuses photos du périple en Nouvelle Zélande de Mathieu
+Connaissances mobilisées
+Casser une friend zone
+Sortir seul
+Celles qui soufflent le chaud et le froid
+Vous voulez bénéficier de la même qualité de conseil que Mathieu ?
+Réservez votre phone coaching avec Stéphane
+et bénéficiez d’un conseil
+honnête
+objectif
+et de qualité (
+approfondi
+) sur votre situation. Sinon, vous pouvez toujours essayer de demander leur avis à vos ami(e)s, et comparer… A vous de voir ;)
+Que veut vraiment une fille qui vous embrasse ? Phone…
+Pourquoi elle ne répond plus, un phone coaching gratuit en…
+Retrouver une ex sur Facebook et la récupérer ? Nouveau…
+Briser la glace, connexion, jour / nuit : bienvenue aux…
+Commandez le séminaire : « casser une…
+Andy
+26 août 2013 à 22:42
+Les ultimatums , c’est des menaces. Qui aime ça ? : )
+Julien
+27 août 2013 à 0:47
+Un tel niveau d’arrogance, d’assurance reposant sur rien du tout, ça fait peur. La question est, mais qui est ce jeune garçon pour tenir un langage si assuré sur ce qu’il pense mériter des autres, et des femmes en particulier?
+A son âge, je ne me permettais pas une telle assurance reposant sur rien du tout. Trop de guignols parmis ces jeunes.
+Stéphane, tu es d’une intelligence diabolique.
+Mathieu
+27 août 2013 à 4:44
+Vu son absence de désir pour moi et les sentiments que j’ai eu pour elle, indiquer simplement que notre relation ne pourra jamais être « hyper proche » amicalement parlant me semble normal et naturel.
 
-### 2013/2014 : vous avez bien mérité une nouvelle vie
+### Dealer de bien-être, par Axel
 
-*`web-actualite__13963_nouveau-depart-013-014.html.txt` · 794 mots · archive de l'auteur*
+*`web-articles__seduction-fondamentaux__3335_neg-hits.html.txt` · 1402 mots · archive de l'auteur*
 
-L’été étant la saison des espadrilles, on est en droit d’avoir les chevilles qui enflent. J’en profite donc pour rappeler que le concept de
-« changez de vie »
-dont la popularité ne cesse de croître sur le web, c’est nous qui l’avons initié avec le séminaire du même nom, en
-2009
-Puis vint le
-« nouveau départ »
-qui était le moyen, pour vous qui vouliez plonger dans l’univers Spikeseduction sans trop savoir par quel bout le prendre, de tout englober d’un coup (tous les ateliers, tous les séminaires & tous les produits) à tarif unique et préférentiel.
-L’offre était retirée du site depuis 1 an, afin de nous consacrer entièrement à nos clients actuels, et parce que nous faisons toujours passer la qualité avant la quantité
-Elle revient, et pour 2 semaines seulement (jusqu’au 1er août)
-Voici l’équation à retenir pour cette année :
-1 nouvelle vie = 3 nouveaux départs
-Faites coïncider la rentrée de septembre avec ce changement de vie dont vous avez tant besoin.
-1.
-Nouveau départ
-état d’esprit
-Accès prioritaire en téléchargement et/ou présence salle aux 10 prochaines demi-journées de
-séminaires
-, même quand ils ne sont pas disponibles à la vente
-Accès prioritaire au programme
-Terrassez votre timidité©,
-même quand il est fermé au public (valeur : 975€)
-VIP, pour une préparation surpuissante à un nouveau job (valeur : 395€)
-VIP, pour développer et monétiser une passion créatrice : musique, écriture, etc… (valeur : 445€)
-Ebook :
-You can always get what you want
-(valeur : 34,90€)
-2.
-Nouveau départ
-look
-Ateliers
-illimités à vie (valeur : incalculable)
-3.
-Nouveau départ
-(valeur : 245€)
-(valeur : 245€)
-Journée
-(valeur : 995€)
-Soirée
-(valeur : 995€)
-1 exemplaire du livre
-L’homme idéal – 50 leçons pour séduire la femme qui vous plait
-(valeur : 19,90€)
-Un coach à votre écoute 12h/24 pour du phone coaching / email coaching illimité (valeur : 90€ l’unité de conseil)
-Tarifs : lisibilité maximale
-Chaque « nouveau départ » a le même tarif, soit :
-1990€ TTC
-(seulement)
-Je sais
-, Cela peut paraître gonflé d’écrire « 1990€ seulement », mais c’est pourtant vrai : je vous laisse calculer la valeur réelle du pack qui vous intéresse et l’économie que vous allez réaliser.
-Cette économie approche
+Scène on ne peut plus banale. Nous sommes un soir de fin de semaine, une amie fête fièrement une nouvelle année qui passe. Nos convives dansent, rient, bavardent, boivent un peu plus que de coutume. Enfoncé dans un de ces fauteuils en toile japonais, je suis en train de discuter innocemment avec Claire, jolie et sympa, et là, mes oreilles tiquent. J’entends à côté de moi, un mec, qui à l’air un peu mesquin et porte un pull marron et kaki trop grand, balancer à une fille :
+« Fille inconnue : Je vais me chercher une part de gâteau.
+Pull Kaki (en déconnant) : Ah c’est sûr, ça finira d’achever ta ligne.. »
+Ca n’avait l’air de rien, dit sur le ton de l’amusement,
+il a reçu une petite tape sur l’épaule. Et tout le monde à déjà balancé ce genre de piques à une fille un jour, tout fier de recevoir une réaction (plutôt) positive de sa part. Mais voilà, la soirée avance, et il repart
+Sans elle,
+Sans son numéro/facebook/mail
+De mon côté, je prends le numéro de la petite Claire, et me fait harceler au rythme de 4 messages par jour (avec des piques à 7-8). Si quelqu’un avait eu l’idée de placer un observateur caché dans un recoin de la pièce, tout jouait pour l’homme kaki, la demoiselle riait souvent, le tapait beaucoup, le touchait. De mon côté, c’était quelques contacts saupoudrés consciencieusement (et donc rarement) au cours de la conversation, pas de grands éclats de rires, rien d’ostentatoire, il y avait même une certaine gène entre nous…
+Mais comme à chaque fois que je suis gêné, je pense à un soir de rendez-vous, avec Valentine, jolie blonde bourgeoise, qui me plaisait au point que je cherchais tout le temps mes mots, et elle aussi. Nous nous sommes finalement embrassés sous la porte d’un immeuble Hausmanien, 1h avant mon départ en voyage. S’il y à gène, il y a tension, disait Stéphane en séminaire l’autre jour…
+Neg-hits, négation de la séduction ?
+L’histoire se répète, et avant de regarder de plus près ce que j’ai fait ce soir là, attardons-nous sur l’attitude de l’autre jeune garçon, qui sans le savoir, reflète malheureusement assez fidèlement bon nombre d’hommes d’aujourd’hui. Kaki est un mec un peu banal, il a eu son bac comme tout le monde, il s’habille à la mod
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+_[extrait tronqué]_
+
+### Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese
+# Synthèse : Le Brésil, ce nouvel eldorado de la girl-next-door occidentale — wM7cRsZKhHg
 
 
-- prénom, nom :
-- quelques lignes sur vous :
-- quel(s) nouveau(x) départ(s) vous intéressent :
-- quelles sont vos périodes de disponibilité sur Paris :
-- comment avez-vous connu Spikeseduction :
-- pourquoi faire confiance à SpikeSeduction d’après vous :
-- toute autre remarque/question nous permettent de vous aider et de vous comprendre :
+
+# Synthèse : suicides à France Télévisions et gestion RH
+
+#### Thème central
+
+_[extrait tronqué]_
 
 ---
 

@@ -181,7 +181,7 @@ Tendance à imiter les comportements des autres, amplifiée exponentiellement pa
 
 ### Homme struktureur vs Femme différenciatrice
 
-L'homme структурирует (met en ordre, hiérarchise, cherche la preuve) — la femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément pour analyser correctement les comportements de chaque genre.
+L'homme structure (met en ordre, hiérarchise, cherche la preuve) — la femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément pour analyser correctement les comportements de chaque genre.
 
 ---
 

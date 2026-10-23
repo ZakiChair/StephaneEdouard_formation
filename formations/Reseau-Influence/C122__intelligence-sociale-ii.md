@@ -13,7 +13,7 @@ programme: 6
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 2
-pages_developpement: 6
+pages_developpement: 10
 idees_forces: 22
 citations: 0
 doublon_titre: non
@@ -187,6 +187,26 @@ compétence sociale
 . Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
 Plus d’histoires
 Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon millio
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### I watched (carefully) Macron's speech, and I have a bad feeling
+
+*vidéo · `9NePuN28dD0-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
+
+### Video y4PKeEdGQ6w
+
+*vidéo · `y4PKeEdGQ6w-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

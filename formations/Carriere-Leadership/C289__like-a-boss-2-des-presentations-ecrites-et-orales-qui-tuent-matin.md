@@ -194,24 +194,6 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 
 > Auto-censure : les trigger warnings (TW) tuent la créativité, l'humour et l'ironie. Ce qui estrefoullé se retourne en putréfaction.
 
-## Ce que la fiche dit de ce séminaire
-
-*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
-
-### Résumé
-
-Stéphane répond à une vidéo d'Osez le Féminisme et analyse leur méthode, les accusant d'avoir tenté de lui faire perdre son travail.
-
-### Points clés :
-
-1. **La petition** : Osez le Féminisme avait lancé une Petition avec ~100 signatures pour le faire licencier, l'accusant d'avoir "diffamé la femme".
-
-2. **Réponse chiffrée** : Sa vidéo aura 200-500K vues vs 2 300 vues pour leur vidéo en 2 ans - "100 à 200 fois supérieure".
-
-3. **Ateliers coloriage** : Critique des stages feminism qui se limitent à des activités de niveau maternelle (colo
-
----
-
 ---
 
 ## Reconstitution

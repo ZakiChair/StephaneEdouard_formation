@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -115,6 +115,26 @@ matérielles et de confort
 des ventes sur Amazon
 (le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video LfkvDekiWus
+
+*vidéo · `LfkvDekiWus-transcript.md`*
+
+### Video OPtQxFnZFX4
+
+*vidéo · `OPtQxFnZFX4-transcript.md`*
+
+### Video etJeJuWOwYI
+
+*vidéo · `etJeJuWOwYI-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -130,7 +150,7 @@ Cette formation aborde sans filtre la réalité des couples modernes et la gesti
 - Le couple « à l'ancienne » est un mythe — les statistiques montrent que la plupart des couples ne restent pas ensemble
 - La rupture est une expérience normale, pas une catastrophe — c'est le frame qui détermine l'impact
 - L'homme qui encaisse une rupture « like a boss » ne s'effondre pas, ne supplie pas, ne menace pas
-- La femme qui encaisse une rupture « like a boss » ne manipule pas, ne victimise pas, ne menace pas de自杀
+- La femme qui encaisse une rupture « like a boss » ne manipule pas, ne victimise pas, ne menace pas desuicide
 - Le vrai échec n'est pas la rupture — c'est de ne pas en sortir grandi
 - Les « couples modernes » ne fonctionnent pas mieux que les anciens — ils fonctionnent différemment, pas mieux
 
@@ -177,7 +197,7 @@ Quand une relation se termine, les émotions sont intenses. Stéphane propose un
 
 ### Exercices / Pratiques
 
-- **Faire le diagnostic de la rupture** : Écrire sur une feuille ce qui a réellement causé la fin. Être honnête. Ne pas se cacher derrière les借口.
+- **Faire le diagnostic de la rupture** : Écrire sur une feuille ce qui a réellement causé la fin. Être honnête. Ne pas se cacher derrière lesexcuses.
 - **Identifier le cycle de l'esclavage** : Si vous êtes dans une relation où vous accumulez des frustrations, identifiez le pattern. La sortie : demander directement ce que vous voulez — ou partir avant l'explosion.
 - **Passer par les 3 étapes** : Acknowledge, Analyze, Advance. Chaque étape prend le temps qu'elle prend — mais ne pas sauter l'étape 2.
 - **Reconstruire ses capitaux** : Travailler sur ce que vous pouvez contrôler (apparence, santé, travail, compétences). Prouver à vous-même que vous pouvez être heureux seul.

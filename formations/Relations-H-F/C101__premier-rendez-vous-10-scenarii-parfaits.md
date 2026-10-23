@@ -277,6 +277,26 @@ Donc limitez vous à prendre un verre pour un premier rendez-vous, sachant que s
 trop tôt… trop vite…
 ‘, ce qui contrairement à ce que le garçon la
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Elle était l'entrepreneur.e féministe de l'année...la fin va vous surprendre
+
+*vidéo · `0H240TN_lTY-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -349,10 +369,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > La «belle époque» (fin xix – début xx) étant définitivement révolue, et les deux guerres ayant focalisées les peuples sur d’autres considérations que faire la cour, il n’est pas totalement dénué de raison de faire commencer le xxème siècle aux années 50. Du poi
 > 
 > ---
-
-## Concepts
-
-Le Mythe du TOP 1% Déconstruit par les Chiffres · La Sélectivité Masculine vs Féminine · Le Capital Triple (Physique, Intellectuel, Économique) · Le Dilemme du Virtuel vs In Vivo
 
 ---
 

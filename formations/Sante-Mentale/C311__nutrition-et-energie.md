@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 9
 citations: 3
 doublon_titre: non
@@ -75,6 +75,26 @@ doublon_titre: non
 *« L'absurdité-de-la-limitation-à-110kmh-démontée-par-un-ingénieur-synthese.md » · origine : lien-declare*
 
 > Données de sécurité : moins de 10% des décès routiers ont lieu sur autoroute (54% en zone rurale, 38% en urbain). La vitesse n'est pas la cause principale — distraction, alcool, somnolence, absence de ceinture le sont.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

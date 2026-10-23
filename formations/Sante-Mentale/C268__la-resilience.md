@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 5
 idees_forces: 13
 citations: 3
 doublon_titre: non
@@ -70,6 +70,34 @@ doublon_titre: non
 *« Vidéo-personnelle-de-Stéphane-synthese.md » · origine : lien-declare*
 
 > Le wakeboard = ski nautique avec philosophie zen
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### La résilience
+
+*podcast / vidéoscopie · `La-résilience-synthese.md`*
+
+> Distinctions importantes Résilience masculine vs féminine** : Les hommes et les femmes ne rebondissent pas de la même manière — ni au même rythme. L'homme structuralise son deuil, la femme le diferentie. Échec ponctuel vs cumulatif** : La résilience face à un échec unique diffère de la résilience face aux épreuves répétées — les cumulatives sont plus dures à digérer. Aide extérieure vs force intérieure** : La vraie résilience développe ses propres ressources, pas une dépendance aux autres. Celui qui ne peut pas se relever seul n'a pas de résilience, il a une dépendance. Display vs réalité** : La résilience affichée sur les réseaux est souvent l'inverse de la vraie résilience — celui qui parade n'a pas besoin de parader.
+
+*Termes de la formation dans ce passage : cumulatif, deuil, diferentie, display, interieure, ponctuel*
+
+> Concepts clés Résilience = Anti-fragilité** : Ce qui ne nous détruit pas nous rend plus fort — mais encore faut-il savoir process l'épreuve. Tout le monde ne sort pas renforcé d'une même épreuve. Résilience vs punchlines** : La vraie résilience n'est pas un statement sur les réseaux — c'est ce que tu fais dans les moments difficiles. Les réseaux sociaux sont le território de la faux-resilience. Travail sur l'adversité** : La résilience se construit par l'exposition controllée à l'adversité — on ne peut pas développer de résilience sans avoir été confronté au difficulté. Rebond vs stagnation** : La différence entre ceux qui rebondissent et ceux qui restent bloqués — c'est une question de choice, pas de chance. Force vitale** : La capacité à absorber les chocs sans se casser — qualité spécifiquement masculine selon la logique de Stéphane.
+
+*Termes de la formation dans ce passage : bloques, choice, confronte, controllee, fragilite, rebondissent*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video GRuFqA-Zf9I
+
+*vidéo · `GRuFqA-Zf9I-transcript.md`*
+
+### Video dSQeqZMtHLs
+
+*vidéo · `dSQeqZMtHLs-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

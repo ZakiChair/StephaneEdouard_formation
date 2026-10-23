@@ -13,7 +13,7 @@ programme: 5
 sections_annonce: 10
 points_annonce: 2
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 1
 idees_forces: 6
 citations: 2
 doublon_titre: non
@@ -135,6 +135,14 @@ Will, un ado débrouillard, quitte son milieu modeste pour s’installer chez so
 
 > Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Women in the suburbs are very happy (their big brother says so)
+
+*vidéo · `K_xNDUWIaVA-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -161,7 +169,7 @@ L'ascenseur social est un mythe moderne — la méritocratie affichée cache des
 
 **Capital économique** : L'argent, les biens, les ressources financières. Le capital le plus visible mais pas le plus important.
 
-**Capital social** : Les réseaux, les relations, les connexions. Ce capital se transmet de génération en génération et决定 votre accès aux opportunités.
+**Capital social** : Les réseaux, les relations, les connexions. Ce capital se transmet de génération en génération etdétermine votre accès aux opportunités.
 
 **Capital symbolique** : Le prestige, l'honneur, la reconnaissance. Ce capital est le plus difficile à acquire et le plus durable.
 

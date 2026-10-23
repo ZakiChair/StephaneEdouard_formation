@@ -13,7 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -115,6 +115,26 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 *« Analyse-de-cas-multiples-couples,-trahisons,-et-philosophie-de-vie-synthese.md » · origine : lien-declare*
 
 > Le concept de "deuxième marché" : Retour sur le marché des rencontres après une rupture longue
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

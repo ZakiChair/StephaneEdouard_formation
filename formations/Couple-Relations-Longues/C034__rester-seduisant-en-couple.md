@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 2
 points_annonce: 14
 documents_materiau: 5
-pages_developpement: 4
+pages_developpement: 10
 idees_forces: 8
 citations: 0
 doublon_titre: oui
@@ -237,6 +237,26 @@ c’est le moment
 - Comment amener la personne à avoir
 - Si vous avez déjà souscrit à notre offre fidélité “3 séminaires au prix de 2″ et qu’il vous reste des séminaires sur votre “crédit”, envoyez-nous un simple mail à reservations@spikeseduction.com pour confirmer votre présence, merci
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -311,10 +331,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > vous raisonnez log
 > 
 > ---
-
-## Concepts
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
 
 ---
 

@@ -138,6 +138,29 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 
 > L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
 
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Cette formation explore formation selon les frameworks de Stéphane Édouard — au-delà des idées reçues et des solutions superficielles. Elle propose une approche structurée, fondée sur l'observation des comportements réels et l'analyse stratégique des situations. L'objectif n'est pas de promettre une transformation magique, mais de fournir des outils concrets que l'homme peut appliquer immédiatement dans sa vie quotidienne.
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
+
 ---
 
 ## Reconstitution
@@ -152,10 +175,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 - « Le salariat moderne est un jeu où l'employeur a trois coups d'avance et où vous croyez jouer à égalité. Vous ne jouez pas à égalité — vous jouez à la roulette avec son revolver. » — `C005`
 - « Un homme qui ne peut pas se passer de son salaire est un homme qui ne peut pas se permettre d'avoir une conscience. C'est ça, l'enfer moderne : pas la pauvreté, mais l'impossibilité de dire non. » — `C005`
 - « Le burn-out n'est pas une maladie, c'est une démission silencieuse. Le corps et l'esprit vous disent ce que votre ego refuse d'entendre : ce système n'est pas le vôtre. » — `C005`
-
-### Concepts enseignés
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ### Ce qui n'est pas couvert
 

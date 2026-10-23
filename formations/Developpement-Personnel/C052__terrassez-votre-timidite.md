@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 2
-pages_developpement: 2
+pages_developpement: 8
 idees_forces: 4
 citations: 0
 doublon_titre: non
@@ -107,6 +107,26 @@ David
 Après avoir lu de nombreux articles sur ce site, après avoir écouté plusieurs séminaires audio, regardé le dvd, lu le livre, je suis tombé hier sur la prèmière vidéo concernant la timidité. Résultat, je me retrouve dans la plupart des critères cités. Il semblerait que cela participe ou est la cause de ce qui m’empêche d’avancer comme je le voudrais au niveau personnel mais également au niveau professionnel. De nombreuses occasions manquées… des remises en questions et toujours cette difficulté à trouver des solutions qui tiennent dans le temps. Car il me semble très difficile d’avoir en tête tous les conseils à chaque fois que l’on se retrouve dans les situations qui posent problème. Les mauvaises habitudes semblent être prêtes à refaire surface à chaque instant. Je me suis dit qu’il fallait certainement une période d’intégration et ensuite voir ce qui se passe en improvisant et en espérant que de bonnes choses puissent ressortir de tout ce travail au moment où on en a besoin. A voir comment les mauvais réflexes peuvent revenir rapidement, je me dis quelques fois que tout çà n’a peut-être servi a rien… En tout cas je partage l’idée que l’amélioration ne se fait pas du jour au lendemain…
 timidité
 vidéos
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

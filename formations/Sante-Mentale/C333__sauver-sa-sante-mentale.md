@@ -98,6 +98,36 @@ confiance en soi
 , pour réaliser qu’aucune fille ne mord quand on va lui parler et pour les désacraliser par la suite.
 Pour faire ça quand on ne l’a jamais fait, pas de mystère, il faut un coup de main, et pour se sentir intéressant quand on a l’impression d’avoir été terne toute sa vie, ri
 
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- **L'amour comme moteur de transformation** : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+- **L'erreur de la séduction par le corps** : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
+
+_[extrait tronqué]_
+
+### This-government-campaign-was-so-successful-that-you've-(probably)-never-seen-it.-synthese
+# Synthèse : This government campaign was so successful that you've (probably) never seen it. — pIYw1heR1pc
+
+
+
+
+_[extrait tronqué]_
+
+### Le-Brésil,-ce-nouvel-eldorado-de-la-girl-next-door-occidentale-synthese
+# Synthèse : Le Brésil, ce nouvel eldorado de la girl-next-door occidentale — wM7cRsZKhHg
+
+
+
+# Analyse critique de l'affaire Benjamin Ludwig : provocation, manipulation ou false flag ?
+
+---
+
+_[extrait tronqué]_
+
 ---
 
 ## Reconstitution

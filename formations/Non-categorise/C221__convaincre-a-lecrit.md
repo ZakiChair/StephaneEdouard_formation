@@ -204,6 +204,64 @@ plusieurs heures par email à convaincre vos
 collègues de bureau
 du bien-fondé de vos décisions. Vous con
 
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+La communication écrite est un espace où la logique masculine (H) et la logique féminine (F) s'affrontent sans les compensations du langage oral (ton, regard, micro-signaux). À l'écrit, tout est dissection — chaque mot porte, chaque absence de ponctuation révèle. Cette formation enseigne les mécanismes de la persuasion écrite en intégrant le cadre de l'intérêt (75/20/5) et de la preuve sociale.
+
+---
+
+### Points clés
+
+- L'écrit élimine les compensations de l'oral — la clarté et la structure deviennent obligatoires
+- La preuve sociale fonctionne encore plus fort à l'écrit (likes, partages, citations)
+- 75% des lecteurs sont mus par l'intérêt — adaptez votre message à cette motivation
+- La retenue élégante à l'écrit est plus persuasive que l'exhibition
+- Le charme à l'écrit existe mais doit être authentique — les techniques de manipulation sont repérables
+
+---
+
+### Concepts enseignés
+
+### L'intérêt comme moteur (75/20/5)
+
+75% des comportements visent l'intérêt économique, 15-20% l'émotionnel/sexy, 5% le moral/symbolique. À l'écrit, cela signifie que le lecteur cherche d'abord ce qu'il va y gagner. Votre texte doit répondre à la question silencieuse : "Pourquoi devrais-je perdre mon temps à lire ça ?"
+
+### La preuve sociale écrite
+
+Les gens imitent ce que les autres font — à l'écrit, les témoignages, les chiffres (nombre de lecteurs, de partages), les références à des autorités sont des preuves sociales. La preuve sociale amplifiée par les réseaux sociaux rend les lecteurs facilement manipulables — et rend la vôtre plus efficace si vous savez l'utiliser.
+
+### Charme et manipulation écrite
+
+Le charme est une compétence — certains l'utilisent pour manipuler. Les techniques de persuasion (répétition, autorité, réciprocité, engagement) sont des outils dont il faut connaître l'usage. Le charme authentique à l'écrit crée une connexion ; le charme manipulateur crée de la méfiance.
+
+### Réduction cognitive et écriture
+
+Face à la complexité, les gens choisissent des réponses toutes faites. Votre écriture doit simplifier sans trivialiser, structurer sans rigidifier. Le titre et le premier paragraphe sont le decideur — si vous perdez le lecteur en 30 secondes, vous l'avez perdu.
+
+---
+
+### Exercices / Pratiques
+
+- **Exercice de** : Rédigez 10 titres différents pour le même contenu — observez comment le cadre change la perception
+- **Le test des 30 secondes** : Lisez votre premier paragraphe à voix haute et chronométrez — si vous n'avez pas capté l'attention en 30 secondes, recommencez
+- **Analyse de proof sociale** : Identifiez dans vos textes les preuves sociales que vous utilisez (témoignages, chiffres, autorités) et évaluez leur force réelle
+- **Pratique de la retenue** : Réécrivez un texte en supprimant la moitié des mots — ce qui reste est l'essence
+- **La vidéoscopie textuelle** : Lisez vos messages comme si vous étiez un analyste externe — que dit vraiment le texte, pas ce que vous vouliez dire ?
+
+---
+
+### Citations de Stéphane
+
+> "L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux."
+
+> "L'intelligence, ça n'est ni le conformisme ni l'anticonformisme. C'est savoir juger à chaque instant dans chaque situation de ce qui est bon et de ce qui ne l'est pas."
+
+---
+
 ## Citations de l'auteur
 
 - « L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux. »

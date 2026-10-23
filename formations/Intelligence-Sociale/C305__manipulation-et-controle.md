@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 1
+pages_developpement: 2
 idees_forces: 0
 citations: 3
 doublon_titre: non
@@ -86,6 +86,14 @@ Mettez toutes les chances de votre côté
 Voyage dans le monde de la psycho-sociologie : comprendre les gens
 Gagner en intelligence sociale et en aisance relationnelle
 
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Gaslighting : cette drôle manière d'abréger les femmes
+
+*podcast / vidéoscopie · `Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

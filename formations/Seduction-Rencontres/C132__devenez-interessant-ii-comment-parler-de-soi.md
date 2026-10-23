@@ -265,6 +265,26 @@ Nous sommes d’accord, les dissertations du lycée sur le Bourgeois Gentilhomme
 Vous croyez sérieusement que votre dernier film au cinéma est un sujet de conversation valable avec un personne de qualité ?
 D’accord, vous allez au cinéma régulièrement avec votre carte Gaumont, vous avez 2 ou 3 livres ouverts à différents endroits de votre appartement, et vous réservez même une place de théâtre une fois par an (statistiques du français moyen, nous avons vérifié). Cela vous donne t-il de la valeur auprès de quiconque, cela vous rend-il plus intéressant qu’un autre ? Vous travaillez votre corps chez vous en faisait des pom
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video JS6GuJawMEs
+
+*vidéo · `JS6GuJawMEs-transcript.md`*
+
+### La Pécresse is a shipwreck (feat. Pierre Jovanovic) #2022 #LR
+
+*vidéo · `Ffhs9770rVU-transcript.md`*
+
+### J'apprends à m'adresser à un.e prof.fe non-binaire (indice : ça finit par "ule")
+
+*vidéo · `RfWaTibnFcw-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*

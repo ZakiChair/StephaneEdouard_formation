@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 12
 citations: 2
 doublon_titre: non
@@ -82,6 +82,18 @@ doublon_titre: non
 *« Émettre-une-critique-constructive-synthese.md » · origine : lien-declare*
 
 > Un système de gradation en trois niveaux : pour éviter la confrontation brutale, Stéphane utilise un esquema progressif avant d'en venir à la critique frontale.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### J'essaie de rire (de toutes mes forces) à l'humour France Inter
+
+*vidéo · `JkcgERFVuOU-transcript.md`*
+
+### Video rp3jksmt-cQ
+
+*vidéo · `rp3jksmt-cQ-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

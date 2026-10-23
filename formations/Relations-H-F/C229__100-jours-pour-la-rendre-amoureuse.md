@@ -327,7 +327,7 @@ L'intelligence relationnelle repose sur la compréhension de trois mécanismes f
 L'intelligence sociale, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux.
 
 ### La logique masculine et féminine
-L'homme структурирует (met en ordre, hiérarchise, prouve). La femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément avant de pouvoir les faire fonctionner ensemble.
+L'homme structure (met en ordre, hiérarchise, prouve). La femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément avant de pouvoir les faire fonctionner ensemble.
 
 **Logique masculine (H pur)** : Projets, objectifs, résolution de problèmes, création de valeur. L'homme pense en termes de "et ensuite ?" Il évalue le potentiel, pas seulement l'actuel. Il cherche un partner qui ajoute à sa vie, pas qui en dépend.
 
@@ -345,7 +345,7 @@ Multiples → Angoisses → Névrose → Anxiété
 
 Comprendre cette chaîne permet de ne pas prendre les surfaces des comportements et de chercher les causes réelles. Les problèmes "simples" en apparence peuvent révéler des anxieties profondes.
 
-### La disponi
+### La disponibili
 
 ### Exercices / Pratiques
 

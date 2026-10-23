@@ -225,24 +225,6 @@ Livre, radio, tv: au plaisir de vous faire partager ces nouvelles et incroyables
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### A l&#8217;ombre des jeunes filles en fleur
-
-*`web-articles__211_a-lombre-des-jeunes-filles-en-fleur-2.html.txt` · 264 mots · archive de l'auteur*
-
-A l’ombre des jeunes filles en fleur
-Conseil séduction - Relooking homme
-A l’ombre des jeunes filles en fleur
-Savoir qu'on n'a plus rien à espérer n'empêche pas de continuer à attendre
-A l'ombre des jeunes filles en fleur,
-Marcel Proust
-Depuis quelques temps je vivais une retraite paisible à l’ombre des rayonnages de bibliothèques quand – la chair est faible – le bruit et la fureur commencèrent à me manquer. Le samedi qui suivit cette constatation, j’allai chercher le killer-costume qui dormait au pressing comme la cape de Bruce Wayne et fit le plein de mp3 de Cowboy Bebop dans mon baladeur. Quelques minutes plus tard, je me saoulais aux odeurs d’alcool dans les rayons parfums des grands magasins.
-A la manière des chambres d’hôtel dont la blanchisserie ne masque jamais le mélange âcre des odeurs (trop) humaines qui s’y sont succédées, les rayons parfumerie, derrière la bergamote et la vanille de synthèse, recèlent toujours la puanteur du troupeau. Sous-vêtements approximatifs pour les messieurs et toilettes intimes bâclées pour les dames, l’air chargé de sudation et des postillons de l’énervement, la nature humaine ne se digère que lorsqu’elle est consommée avec parcimonie et je filai par l’escalier de secours vers les étages supérieurs.
-Models in the mirror are uglier than they appear
-Relooking gratuit
-Charisme, aura : devenez un alpha (par Zoé, lectrice de Spi...
-Jeu : école de séduction, partie V et fin
-Le démon du bien
-
 ### 10 bonnes raisons (et 3 mauvaises) de préférer les femmes après 40 ans | Spike Séduction
 
 *`web-articles__20371_femmes-40-ans.html.txt` · 1587 mots · archive de l'auteur*
@@ -261,6 +243,24 @@ Faux. L’envie de s(e faire) allonger est un paramètre entièrement personnel,
 Fausse
 bonne raison, 2. Elles seraient toutes des « bons coups »
 De plus, ayant grandi dans des années 70 patriarcales et encore peu enclines à la féminisation de notre xxième siècle (et la réduction de la liberté au plaisir individuel, théorisée en son temps par qui-on-sait), les chances que leur maman se soit penchée sur leur clitoris pour leur en expliquer le mode d’emploi sont assez maigres, ignorant probablement elles-même son existence et ses fonction
+
+### A l&#8217;ombre des jeunes filles en fleur
+
+*`web-articles__211_a-lombre-des-jeunes-filles-en-fleur-2.html.txt` · 264 mots · archive de l'auteur*
+
+A l’ombre des jeunes filles en fleur
+Conseil séduction - Relooking homme
+A l’ombre des jeunes filles en fleur
+Savoir qu'on n'a plus rien à espérer n'empêche pas de continuer à attendre
+A l'ombre des jeunes filles en fleur,
+Marcel Proust
+Depuis quelques temps je vivais une retraite paisible à l’ombre des rayonnages de bibliothèques quand – la chair est faible – le bruit et la fureur commencèrent à me manquer. Le samedi qui suivit cette constatation, j’allai chercher le killer-costume qui dormait au pressing comme la cape de Bruce Wayne et fit le plein de mp3 de Cowboy Bebop dans mon baladeur. Quelques minutes plus tard, je me saoulais aux odeurs d’alcool dans les rayons parfums des grands magasins.
+A la manière des chambres d’hôtel dont la blanchisserie ne masque jamais le mélange âcre des odeurs (trop) humaines qui s’y sont succédées, les rayons parfumerie, derrière la bergamote et la vanille de synthèse, recèlent toujours la puanteur du troupeau. Sous-vêtements approximatifs pour les messieurs et toilettes intimes bâclées pour les dames, l’air chargé de sudation et des postillons de l’énervement, la nature humaine ne se digère que lorsqu’elle est consommée avec parcimonie et je filai par l’escalier de secours vers les étages supérieurs.
+Models in the mirror are uglier than they appear
+Relooking gratuit
+Charisme, aura : devenez un alpha (par Zoé, lectrice de Spi...
+Jeu : école de séduction, partie V et fin
+Le démon du bien
 
 ### Relooking : avant après
 
@@ -327,10 +327,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 Aucune fiche du corpus ne porte ce thème de façon assez proche, et la page produit de cette formation a été **retirée du site** (le Wayback Machine n'en a pas conservé de copie).
 
 Ce qui reste : tout ce qui précède dans ce fichier — les pages produit, ses vidéos, ses podcasts et ses écrits **sur le même champ thématique**. C'est un contenu de substitution, pas le cours : l'absence est assumée plutôt que comblée par une approximation.
-
-## Concepts
-
-La Métonymie et la Préterition · Le Gage Inutile (Trigger Warning) · La Pseudo-Diversité qui Uniformise · La Trinité Patriarcale Universelle
 
 ---
 

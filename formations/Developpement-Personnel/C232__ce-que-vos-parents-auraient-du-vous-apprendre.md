@@ -211,7 +211,7 @@ La transformation demande un travail conscient : 1. Identifier la croyance 2. Re
 - Tenir un journal de vos pensées automatiques négatives — identifier les schémas récurrents
 - Questionner vos "vérités" : est-ce vraiment vrai ou est-ce une croyance héritée ?
 - Remonter à l'origine des croyances qui vous limitent — quand et pourquoi cette croyance s'est-elle installée ?
-- Créer des "expériences反驳" : chercher des preuves qui contredisent vos croyances limitantes
+- Créer des "expériencesde réfutation" : chercher des preuves qui contredisent vos croyances limitantes
 - S'exposer progressivement à ce que vous croyez impossible — l'exposition crée de nouvelles données
 - Entourer vous de personnes qui vous tirent vers le haut plutôt que vers le bas
 - Pratiquer l'auto-analyse rationnelle plutôt que d'avaler les catégories toutes faites

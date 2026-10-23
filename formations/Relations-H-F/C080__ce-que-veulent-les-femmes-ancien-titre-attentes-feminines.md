@@ -13,7 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 7
 citations: 0
 doublon_titre: oui
@@ -99,6 +99,26 @@ doublon_titre: oui
 *« Video-p1WU4JiuIzQ-synthese.md » · origine : lien-declare*
 
 > Le phénomène du "gazon plus vert" : Lorsque quelqu'un quitte une relation pour une autre, il finit naturellement par idéaliser ce qu'il a abandonné, surtout si la nouvelle situation ne répond pas pleinement à ses attentes.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Je décompte toutes ces fois où Marlène Schiappa « ne sait pas » devant le Sénat
+
+*vidéo · `KopY1Ir2cKc-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -204,10 +224,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > Les caractéristiques de l’homme «WANTED» par les femmes : taille, poids, style vestimentaire, traits de caractère, qualités, d
 > 
 > ---
-
-## Concepts
-
-La Rouerie vs l'Intelligence · Le Mécanisme de Compensation Physique (H/P) · La Rhétorique de Défense à Trois Niveaux · Le Trigger Warning comme Gage Counter-productif
 
 ---
 

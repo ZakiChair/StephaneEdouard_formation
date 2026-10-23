@@ -13,7 +13,7 @@ programme: 5
 sections_annonce: 8
 points_annonce: 3
 documents_materiau: 5
-pages_developpement: 9
+pages_developpement: 10
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -362,6 +362,26 @@ Croire que la cour affreuse n’est pas, ne peut pas être.
 Oh, dire au tableau, je ne te permets que ce qui s’étoile,
 Se placer to
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 20Qx2jb_xZU
+
+*vidéo · `20Qx2jb_xZU-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -437,10 +457,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > Vous n’allez probablement pas d
 > 
 > ---
-
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ---
 

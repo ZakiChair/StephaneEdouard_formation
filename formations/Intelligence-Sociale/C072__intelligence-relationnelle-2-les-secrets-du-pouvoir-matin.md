@@ -98,40 +98,6 @@ doublon_titre: oui
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### 27 oct, séminaire : les secrets du leadership
-
-*`web-actualite__11397_comment-devenir-un-leader.html.txt` · 1260 mots · archive de l'auteur*
-
-Vous l’aurez noté, le lancement des séminaires cette année a bien eu lieu en septembre comme d’habitude mais a pris la forme d’un
-coaching online
-. Simple décalage d’un mois donc dans la reprise des séminaires physiques et pour ce premier de la rentrée en salle, ce sont deux nouveautés que je vous propose :
-la durée : désormais
-4h au lieu de 3h
-et un
-thème inédit
-: comment influencer les autres et devenir un leader
-Le mythe du séducteur solitaire… un mythe
-Commençons par une confession. Comme vous j’ai longtemps fantasmé sur une image d’un séducteur à la fois solitaire comme le Diable, droit comme la justice et sexué comme un animal, qui surgirait dans la vie d’une femme là à l’instant même où elle s’y attend le moins (comme, par exemple,
-dans le train
-) pour y décharger un torrent insensé de joie, d’énergie et de plaisir.
-Aussi agréable que soient les pensées associées à ce noble dessin, je le regarde aujourd’hui avec tendresse et surtout auto-dérision. Entre un cowboy solitaire au parfum de cuir, d’aventure et d’ortie sauvage mais qui serait sorti de nulle part et son cousin éloigné, d’apparence beaucoup plus anodine, mais qui a su s’imposer comme leader (fut-ce leader d’opinion), une femme fera vite son choix. Et prendra le second. Et si vous en doutiez encore, regardez
-The social network
-à la scène où le jeune Mark Z., geek et puceau, se fait déboutonner le pantalon dans les toilettes du lycée par une jolie américano-asiatique 2 jours seulement après être passé au journal du lycée pour avoir créé un petit site communautaire, qui s’appellera plus tard Facebook.
-Conclusion : le mythe du séducteur solitaire tombé du ciel et auréolé d’un impénétrable mystère ne fait bander que les hommes. Les femmes, qui préfèreront toujours la lumière à l’ombre voudront d’abord d’
-un leader
-, ou de quelqu’un qui démontre les
-capacités à devenir un leader
-Leader
-ou
-suiveur
-: choisissez
-« Le fleuve coule, et la rumeur semble emporter tous les poissons dans le même courant. Mais deux espèces nagent côte à côte, et l’on ne choisit pas sa race.
-Il y a les regardants, les regardés
-. »
-Philippe Delerm,
-Il avait plu tout le dimanche
-Vous avez déjà dû en faire l’expérience (et sinon, ne
-
 ### Le 26 septembre 09, recevez les clefs du pouvoir
 
 *`web-actualite__3015_seminaire-pouvoir.html.txt` · 1710 mots · archive de l'auteur*
@@ -176,6 +142,40 @@ personnellement, professionnellement et socialement
 Conséquence des points 1. et 2., maintenant que votre
 objectif global
 a évolué et s’est élargi, 
+
+### 27 oct, séminaire : les secrets du leadership
+
+*`web-actualite__11397_comment-devenir-un-leader.html.txt` · 1260 mots · archive de l'auteur*
+
+Vous l’aurez noté, le lancement des séminaires cette année a bien eu lieu en septembre comme d’habitude mais a pris la forme d’un
+coaching online
+. Simple décalage d’un mois donc dans la reprise des séminaires physiques et pour ce premier de la rentrée en salle, ce sont deux nouveautés que je vous propose :
+la durée : désormais
+4h au lieu de 3h
+et un
+thème inédit
+: comment influencer les autres et devenir un leader
+Le mythe du séducteur solitaire… un mythe
+Commençons par une confession. Comme vous j’ai longtemps fantasmé sur une image d’un séducteur à la fois solitaire comme le Diable, droit comme la justice et sexué comme un animal, qui surgirait dans la vie d’une femme là à l’instant même où elle s’y attend le moins (comme, par exemple,
+dans le train
+) pour y décharger un torrent insensé de joie, d’énergie et de plaisir.
+Aussi agréable que soient les pensées associées à ce noble dessin, je le regarde aujourd’hui avec tendresse et surtout auto-dérision. Entre un cowboy solitaire au parfum de cuir, d’aventure et d’ortie sauvage mais qui serait sorti de nulle part et son cousin éloigné, d’apparence beaucoup plus anodine, mais qui a su s’imposer comme leader (fut-ce leader d’opinion), une femme fera vite son choix. Et prendra le second. Et si vous en doutiez encore, regardez
+The social network
+à la scène où le jeune Mark Z., geek et puceau, se fait déboutonner le pantalon dans les toilettes du lycée par une jolie américano-asiatique 2 jours seulement après être passé au journal du lycée pour avoir créé un petit site communautaire, qui s’appellera plus tard Facebook.
+Conclusion : le mythe du séducteur solitaire tombé du ciel et auréolé d’un impénétrable mystère ne fait bander que les hommes. Les femmes, qui préfèreront toujours la lumière à l’ombre voudront d’abord d’
+un leader
+, ou de quelqu’un qui démontre les
+capacités à devenir un leader
+Leader
+ou
+suiveur
+: choisissez
+« Le fleuve coule, et la rumeur semble emporter tous les poissons dans le même courant. Mais deux espèces nagent côte à côte, et l’on ne choisit pas sa race.
+Il y a les regardants, les regardés
+. »
+Philippe Delerm,
+Il avait plu tout le dimanche
+Vous avez déjà dû en faire l’expérience (et sinon, ne
 
 ### 25 sept 2010 : développez votre intelligence sociale
 

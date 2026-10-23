@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 6
 citations: 3
 doublon_titre: oui
@@ -115,6 +115,26 @@ Toujours intéressant de lire les requêtes Google : premier message à envoyer 
 
 > Le « tu me manques » comme signal faible : Un message de ce type n'est jamais anodin. Il survient généralement quand la personne qui l'envoie n'a pas fait le deuil de la relation précédente et doute de son choix actuel.
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Video etJeJuWOwYI
+
+*vidéo · `etJeJuWOwYI-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -150,7 +170,7 @@ Un homme beau qui écrit mal perd son avantage en 3 messages. Un homme "moins be
 
 ### Les stratégies qui ne marchent pas
 - **"Salut, ça va ?"** : ZERO intérêt, ZERO différenciation. Ce texto montre que vous n'avez rien à offrir.
-- **Les messages lourds** : "Tu es magnifique", "Je te trouve超 belle" — trop direct, pas de substance, pas d'humour.
+- **Les messages lourds** : "Tu es magnifique", "Je te trouvetrès belle" — trop direct, pas de substance, pas d'humour.
 - **Les messages copy-paste** : Les femmes reconnaissent immédiatement les messages génériques envoyés à toutes.
 - **Les essayages trop longs** : Pas le temps de lire un roman. La concision est clave.
 
@@ -178,7 +198,7 @@ Le premier échange par message n'est pas une "entrevue" — c'est un prélude. 
 - **Rapidité de réponse** : Une femme qui répond vite (moins de 10 minutes) montre un intérêt réel
 - **Longueur des messages** : Des réponses courtes et monosyllabiques = désintérêt
 - **Questions ouvertes** : Une femme interessée pose des questions, pas juste "lol"
-- **Émojis** : Les émojis peuvent montrer l'intérêt — mais trop
+- **Émojis** : Les émojis peuvent montrer l'intérêt — mais t
 
 ### Exercices / Pratiques
 
@@ -206,10 +226,6 @@ Le premier échange par message n'est pas une "entrevue" — c'est un prélude. 
 - « Capital physique attire, mais c'est le capital intellectuel qui CONVERTIT. L'art de la communication digitale est plus important que le simple physique. »
 - « Le texto parfait n'est pas 'lourd' — il est intelligently décalé. Il montre que vous avez de l'intelligence, de l'humour, et une vie. »
 - « Les 'beaux' qui ne savent pas écrire perdent leur avantage dès le premier message. L'homme qui écrit bien bat l'homme beau qui écrit mal. »
-
-## Concepts
-
-Le Mythe du TOP 1% Déconstruit par les Chiffres · La Sélectivité Masculine vs Féminine · Le Capital Triple (Physique, Intellectuel, Économique) · Le Dilemme du Virtuel vs In Vivo
 
 ---
 

@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 5
 documents_materiau: 5
-pages_developpement: 3
+pages_developpement: 6
 idees_forces: 8
 citations: 0
 doublon_titre: oui
@@ -256,6 +256,22 @@ Programme de la journée
 Matinée  (10h-13h)
 A – Apprendre à se conn
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Elle était l'entrepreneur.e féministe de l'année...la fin va vous surprendre
+
+*vidéo · `0H240TN_lTY-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -330,10 +346,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > Mais si vous suivez tonton Stéphane, il y a de grandes chances que vous ayez une soif plus globale de comprendre les mécanismes inconscients qu
 > 
 > ---
-
-## Concepts
-
-La Théorie vs la Pratique — L'Absence de Profondeur · Le Retard Conceptuel — Le Recycling d'Idées · L'Anthropologie basée sur les Séries TV · La Forme comme Indicateur du Malaise · L'Identité des Feministes
 
 ---
 

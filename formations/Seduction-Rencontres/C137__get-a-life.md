@@ -13,7 +13,7 @@ programme: 17
 sections_annonce: 2
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 3
 idees_forces: 18
 citations: 0
 doublon_titre: oui
@@ -113,6 +113,22 @@ Mais un coup de pied au c… n’est rien et ne fonctionne pas s’il n’est pa
 *« Smart-people-are-relational-jerks-synthese.md » · origine : lien-declare*
 
 > L'effet de mode du diagnostic HP : confondre symptômes et causes
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video LW7Put25p1Q
+
+*vidéo · `LW7Put25p1Q-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Gaslighting : cette drôle manière d’abréger les femmes
+
+*vidéo · `gaslighting--cette-drôle-manière-d’abréger-les-femmes-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -232,10 +248,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > Pensez à vos dernières semaines / mois /
 > 
 > ---
-
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ---
 

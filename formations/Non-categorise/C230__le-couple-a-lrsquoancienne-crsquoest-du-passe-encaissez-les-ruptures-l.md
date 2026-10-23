@@ -108,27 +108,48 @@ doublon_titre: oui
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### &laquo;&nbsp;Au début, j&rsquo;étais mitigé&nbsp;&raquo; (courrier d&rsquo;un lecteur)
+### Commandez le séminaire &laquo;&nbsp;L&rsquo;amant idéal&nbsp;&raquo;
 
-*`web-actualite__13774_temoignage-global-2013.html.txt` · 512 mots · archive de l'auteur*
+*`web-actualite__5665_sexe-devenir-amant-ideal.html?preview=1.txt` · 1360 mots · archive de l'auteur*
 
-« Au début, j’étais mitigé » (courrier d’un lecteur)
-« Au début, j’étais mitigé » (courrier d’un lecteur)
-Bonsoir à toi Stéphane,
-J’aurais très bien pu écrire cela de manière indirecte sur le forum ou bien simplement en commentaire d’un des rendez-vous de séminaire. Mais j’ai préféré te l’adresser directement à toi.
-Tout d’abord, je voulais te dire, même si je ne suis pas présent a
-tous
-les
-séminaires
-, que je te suis depuis 2007, année à laquelle j’ai décidé d’arrête d’être la personne que j’étais, et renaître en une nouvelle personne…
-Mon premier rendez-vous avec toi et les autres élevés était lors d’un
-coaching séduction
-. Mon avis au début, sans te le cacher, étais mitige. Je m’explique : quand tu nous as expliqué les fondamentaux, tout paraissait si logique, tout paraissait si simple qu’on avait envie d’essayer de suite. Les premiers essais ont été fatals pour moi.
-Grace à mon premier
-avec toi, j’ai enfin pris goût aux bonnes « fringues ». La bonne taille, la bonne coupe, le bon agencement de couleur… tout plein de concepts que tu nous a inculque ce jour-là mais que j’ai assimilé et que j’essaye de reproduire aujourd’hui. Je peux dire maintenant en un coup d’œil si un vêtement peut m’aller ou pas. Avant je dois t’avouer que je reposais plutôt sur ma Mère, qui a très bon goût certes avec du recul, mais cela n’aide pas vraiment pour voler de ses propres ailes si je puis dire.
-Tu as été pour moi comme un grand frère qui m’a donné de quoi affronter mes plus grandes craintes, a su me guider par ce que j’appellerai une certaine éducation. Car chez moi il n’est pas question de parler de fille ou autre…
-Je ne voulais pas attendre le nouvel an, ni une occasion « spéciale ». D’ailleurs, je me suis toujours demande qui avait décrété que tel ou tel jour devait être plus spéciale qu’un autre. Je ne vais pas tout remettre en question non plus, tu découvriras alors le personnage peut être le plus anarchique qui existe. Je m’en garderai donc fort d’aller plus loin afin de te préserver de toute remise en question de ce monde que j’ai en moi et ma pensée.
-Je voulais tout simplement te remercier et te souhaiter tout le meilleur pour ta continuation, des gens comme toi le méri
+Comment devenir un bon amant
+Commandez le séminaire
+« L’amant idéal »
+Commandez le séminaire
+« L’amant idéal »
+Video:preview séminaire sexe - devenir un bon coup
+Référence :
+sexe - amant ideal
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+avoir eu quelques expériences sexuelles
+Objectifs :
+découvrir et mettre à profit les spécificités de la psychologie féminine pour booster son plaisir sexuel et l'envie de vous faire plaisir
+Durée totale :
+2h26mn
+Taille du fichier :
+69,6Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Etre sexué
+Le 4 septembre dernier, le séminaire
+«être sexué»
+démarrait la sixième saison des séminaires SpikeSéduction, la 2010/2011. Dans une salle comble, avec l’un de mes séminaires qui m’a procuré le plus de plaisir à dispenser, notamment parce que dans la salle, au fond à droite, je distinguais la tête un peu ahurie de mon ex patron venue voir ce que son ex «employé» faisait de ses soirées. Ou plutôt de ses journées, en l’occurrence, puisque nous inaugurions par la même occasion les séminaires en après-midi (14h-17h au lieu de 20h-23h).
+Il semblerait que mon plaisir ait été communicatif puisque, en cumulant présence en salle et commandes des enregistrements mp3, ce séminaire détient toujours le record absolu d’auditeurs, avec plusieurs centaines d’entre vous qui désormais savent ce qu’adopter un comportement sexué signifie. Merci de votre fidélité, et félicitations pour avoir compris que
+vous
+êtes la seule personne sur qui vous pouvez investir avec un rendement de 100%. Plus fort qu’un lingot d’or.
+Un seul
+(conn)aître
+vous manque...
+Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
+confident
+, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’
 
 ### 12 mars, découvrez toutes les techniques de séduction à l&rsquo;écrit
 
@@ -178,48 +199,33 @@ plusieurs heures par email à convaincre vos
 collègues de bureau
 du bien-fondé de vos décisions. Vous con
 
-### Commandez le séminaire &laquo;&nbsp;L&rsquo;amant idéal&nbsp;&raquo;
+### La discussion du dimanche soir : les vrais hommes disent-ils &laquo;&nbsp;Je t&rsquo;aime&nbsp;&raquo; ?
 
-*`web-actualite__5665_sexe-devenir-amant-ideal.html?preview=1.txt` · 1360 mots · archive de l'auteur*
+*`web-articles__12936_lui-dire-je-taime.html.txt` · 1467 mots · archive de l'auteur*
 
-Comment devenir un bon amant
-Commandez le séminaire
-« L’amant idéal »
-Commandez le séminaire
-« L’amant idéal »
-Video:preview séminaire sexe - devenir un bon coup
-Référence :
-sexe - amant ideal
-Téléchargement :
-immédiat
-Ecoute :
-illimitée
-Compatible :
-tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
-Prérequis :
-avoir eu quelques expériences sexuelles
-Objectifs :
-découvrir et mettre à profit les spécificités de la psychologie féminine pour booster son plaisir sexuel et l'envie de vous faire plaisir
-Durée totale :
-2h26mn
-Taille du fichier :
-69,6Mo
-Tarif :
-150€ seul puis dégressif avec le nombre de séminaires commandés
-Séminaires complémentaires recommandés :
-Etre sexué
-Le 4 septembre dernier, le séminaire
-«être sexué»
-démarrait la sixième saison des séminaires SpikeSéduction, la 2010/2011. Dans une salle comble, avec l’un de mes séminaires qui m’a procuré le plus de plaisir à dispenser, notamment parce que dans la salle, au fond à droite, je distinguais la tête un peu ahurie de mon ex patron venue voir ce que son ex «employé» faisait de ses soirées. Ou plutôt de ses journées, en l’occurrence, puisque nous inaugurions par la même occasion les séminaires en après-midi (14h-17h au lieu de 20h-23h).
-Il semblerait que mon plaisir ait été communicatif puisque, en cumulant présence en salle et commandes des enregistrements mp3, ce séminaire détient toujours le record absolu d’auditeurs, avec plusieurs centaines d’entre vous qui désormais savent ce qu’adopter un comportement sexué signifie. Merci de votre fidélité, et félicitations pour avoir compris que
+La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
+La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
+Vous l’avez rencontrée lors d’une après midi ensoleillée. Ses cheveux soulevés par le vent semblaient pointer dans votre direction, vous avez pris votre courage à deux mains, et lui avez glissé quelques mots dans l’oreille. [...] Les mois ont passés et chaque jour à ses cotés vous sentez à quel point la vie peut être belle. C’est sûr… vous l’aimez.
+Ne partons dans un débat infini sur le sens que ces mots pourraient prendre s’ils sortaient tout droit de la bouche d’une demoiselle. Mais parlons de
 vous
-êtes la seule personne sur qui vous pouvez investir avec un rendement de 100%. Plus fort qu’un lingot d’or.
-Un seul
-(conn)aître
-vous manque...
-Que vous ayez ou non participé à ce fameux séminaire, vous devez déjà savoir qu’être sexué est un pré-requis à toute rencontre, aucune «technique» ne pouvant rattraper une absence dans ce domaine. Inutile de vous rappeler la direction de la case
-confident
-, il suffit d’avoir fait une fois l’aller-simple vers celle-ci pour ne plus jamais vouloir y remettre les pieds. Non, vraiment, inutile de vous le rappeler. Et pour savoir comment être sexué lors d’une rencontre, l’
+. L’avez-vous déjà dit.. ? Si non, peut être écrit ?
+Quelle est sa valeur à vos yeux ? Est-ce une simple formalité, ou un fruit défendu qui ne peut être décroché qu’après de longs mois de relation ? Est-il trop connoté pour que vous puissiez vous risquez à lui dire ?
+Racontez-nous votre idée du
+je t’aime
+12
+Charles
+28 avril 2013 à 20:02
+Sujet intéressant comme souvent et qui me donne l’occasion de parler de ma propre expérience :
+Plus jeune, je l’ai dit…souvent, et c’était pour moi quelque chose d’important. On se sent amoureux, on se sent bien, et on a particulièrement envie de lui faire partager. Je l’ai surement dit aussi pour obtenir quelque chose (son approbation, sa validation, etc…).
+J’ai ensuite réalisé que l’avoir dit ne me rendait pas plus heureux, elle ne m’aimait pas plus et que finalement j’avais le sentiment d’avoir perdu quelque chose (pouvoir, intérêt ).
+J’ai ensuite fait l’inverse; je ne l’ai plus dit. Conscient que les actions parlent plus que les mots, j’ai montré mon amour pour elle de multiple façons mais je ne disait rien. Jusque au jour ou la fille (une jeune russe) avec qui j’étais depuis plusieurs mois/années me dit lors d’une dispute avec un ton sentencieux: « you’ve never told me you love me. »
+Cela m’a appris que:
+La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
+J’étais surement devenu une caricature du type qu
+
+
+- La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
+- J’étais surement devenu une caricature du type qui ne ne dit pas « je t’aime »; esquivant ces mots avec des stratégies ou des phrases stylés complètement débiles.
 
 ## Ce que la fiche dit de ce séminaire
 

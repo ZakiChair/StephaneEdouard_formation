@@ -13,7 +13,7 @@ programme: 6
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 0
-pages_developpement: 4
+pages_developpement: 10
 idees_forces: 0
 citations: 3
 doublon_titre: non
@@ -126,6 +126,26 @@ De retour à la réalité, habitant la même ville, j’ai commencé à lui prop
 friend zone
 . Je continuais pourtant à la voir, en tête à tête souvent, je sentais une grande connexion émotionnelle et une certaine tension sexuel
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video iTrFh06jNBk
+
+*vidéo · `iTrFh06jNBk-transcript.md`*
+
+### Pour surmonter une rupture, n'imite pas cette youtubeuse
+
+*vidéo · `74kBMreIye0-transcript.md`*
+
+### Video _iPUMJzVTbE
+
+*vidéo · `_iPUMJzVTbE-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -140,7 +160,7 @@ La friend zone est cette situation où vous êtes classé dans la catégorie "am
 
 - La friend zone est un diagnostic, pas une fatalité — elle révèle un manque d'attraction ou d'alignement
 - L'homme qui entre dans la friend zone a généralement investi trop vite, trop tôt, sans créer l'attraction
-- Une fois en friend zone, sortiesen cré ant une nouvelle dynamique (distance,神秘感, valeur) — mais ça ne marche pas toujours
+- Une fois en friend zone, sortiesen cré ant une nouvelle dynamique (distance,, valeur) — mais ça ne marche pas toujours
 - Prévenir la friend zone est bien plus facile que d'en sortir
 - L'acceptation de la friend zone peut être la bonne décision si la femme n'est vraiment pas pour vous
 
@@ -151,7 +171,7 @@ La friend zone est cette situation où vous êtes classé dans la catégorie "am
 ### Pourquoi on entre dans la friend zone
 Les mécanismes d'entrée dans la friend zone :
 
-**1. L'investissement先行** : Vous avez invest émotionnellement avant que l'attraction ne soit créée. La femme vous a classé dans la catégorie "sûr" (l'ami) avant que vous n'ayez eu la chance de créer de la tension.
+**1. L'investissement** : Vous avez invest émotionnellement avant que l'attraction ne soit créée. La femme vous a classé dans la catégorie "sûr" (l'ami) avant que vous n'ayez eu la chance de créer de la tension.
 
 **2. La fusion précoce** : Vous avez acts comme un petit ami avant d'être un petit ami. Trop de temps ensemble, trop de connexion émotionnelle, plus de mystère.
 
@@ -193,11 +213,11 @@ Si vous êtes déjà en friend zone, il y a une stratégie en 3 étapes :
 ### Comment ne plus entrer dans la friend zone
 Prévenir est mieux que guérir :
 
-**1. 
+**1. Cr
 
 ### Exercices / Pratiques
 
-- **Faire le diagnostic** : Êtes-vous réellement en friend zone ou est-ce que vous想象的 ? Les 7 signes ci-dessus sont votre guide.
+- **Faire le diagnostic** : Êtes-vous réellement en friend zone ou est-ce que vousde ? Les 7 signes ci-dessus sont votre guide.
 - **Évaluer la situation** : Si vous décidez d'essayer de sortir, faites le calcul : investissement nécessaire vs chance de succès. Parfois le move on est plus malin.
 - **Créer de la distance** : Si vous êtes en friend zone, réduisez le contact. Pas de ghosting — juste moins de disponibilité. Observez sa réaction.
 - **Travailler sur ses capitaux** : C'est le moment detravailler sur vous (physique,intellectuel, économique) — pas de chercher à impress she

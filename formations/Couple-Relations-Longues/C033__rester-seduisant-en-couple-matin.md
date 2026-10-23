@@ -410,10 +410,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 > 
 > ---
 
-### Concepts enseignés
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
-
 ### Ce qui n'est pas couvert
 
 - le déroulé exact de cette session
@@ -421,10 +417,6 @@ Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobili
 - les exercices propres à cette session
 
 > **À citer** : `C034`, en annonçant « reconstituée depuis C034 ». Jamais `C033` — la trace serait fausse.
-
-## Concepts
-
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple
 
 ---
 

@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 2
+pages_developpement: 3
 idees_forces: 10
 citations: 3
 doublon_titre: non
@@ -120,6 +120,14 @@ A défaut de l’envoyer voir ailleurs (ce qui pourrait aussi être une solution
 Pour une trop grande majorité de femmes, l’idée même d’une relation sexuelle se résume bien souvent à attendre, allongée sur le dos, que l’homme lui prodigue ses faveurs. Vision ancestrale et caricaturale à souhait, j’en conviens, mais qui pourtant n’a guère changé en 5 siècles, milliers de témoignages d’homme à l’appui.
 A titre personnel, je me souviens avoir été réveillé la même nuit, à trois reprises, par une compagne surexcitée en plein rêve érotique, elle m’a chevauché sans me demander mon avis, et cette « prise en m
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -134,7 +142,7 @@ Cette formation explore le rôle du masculin et du féminin dans la sexualité s
 
 - La logique masculine (H pur) et la logique féminine (F) sont irréductibles — comprendre les deux est essentiel
 - Les rôles masculin/féminin dans la sexualité ne sont pas morales — ils sont fonctionnels
-- L'homme структурирует, la femme différencie — deux logiques qui se complètent
+- L'homme structure, la femme différencie — deux logiques qui se complètent
 - La combinaison des capitals (physique, intellectuel, économique) maximise l'attraction
 - Les comportements révèlent la vérité — les paroles peuvent mentir
 
@@ -192,7 +200,7 @@ Les femmes détiennent le pouvoir de sélection (80-90% des propositions sont é
 
 ### Citations de Stéphane
 
-> "L'homme структурирует (met en ordre, hiérarchise, prouve). La femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément avant de pouvoir les faire fonctionner ensemble."
+> "L'homme structure (met en ordre, hiérarchise, prouve). La femme différencie (trie, évalue, lit entre les lignes). Deux logiques irréductibles qu'il faut comprendre séparément avant de pouvoir les faire fonctionner ensemble."
 
 > "L'intelligence, ça n'est ni le conformisme ni l'anticonformisme. C'est savoir juger à chaque instant dans chaque situation de ce qui est bon et de ce qui ne l'est pas."
 

@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 24
 citations: 3
 doublon_titre: non
@@ -104,6 +104,18 @@ doublon_titre: non
 
 > Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UCJ2WPRuqs0
+
+*vidéo · `UCJ2WPRuqs0-transcript.md`*
+
+### Video Yx1MvdVoISo
+
+*vidéo · `Yx1MvdVoISo-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -131,7 +143,7 @@ La communication avec son manager est un exercice délicat qui requiert à la fo
 
 Votre manager opera dans un cadre spécifique qu'il faut comprendre :
 
-- Il a des上级au-dessus de lui — des contraintes politiques et buditaires
+- Il a dessupérieursau-dessus de lui — des contraintes politiques et buditaires
 - Il a des résultats à deliver — votre performance affecte sa performance
 - Il a un budget limité — pas toutes les requests peuvent être honorées
 - Il a plusieurs subordonnés — son temps est une ressource scarce
@@ -173,7 +185,7 @@ Votre manager va vous donner des feedbacks que vous n'allez pas aimer. Pour les 
 - **Acknowledge without defensiveness** : écouter sans se défendre est une compétence
 - **Proposez un plan d'action** : montrez que vous prenez le feedback au sérieux
 
-### Build la r
+### Bu
 
 ### Exercices / Pratiques
 

@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 3
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 12
 citations: 0
 doublon_titre: non
@@ -121,6 +121,26 @@ _(Cliquez pour agrandir)_
 *« Plaidoyer-pour-le-retour-du-bagne-synthese.md » · origine : lien-declare*
 
 > Lieux symboliques désaffectés : L'ancienne usine à chapeaux, site de production industrielle, est devenue une MJC — symbole d'une désindustrialisation replaceée par des structures d'animation socio-culturelles gauchistes.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

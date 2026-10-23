@@ -27,9 +27,10 @@ provenance.
 | Annonces développées | **135 097 mots** de la prose de l'auteur (221 fiches) |
 | Documents de matière | **1 159** — les liens que l'auteur pose lui-même (353 fiches) |
 | Idées fortes extraites | **3 506** |
-| Pages de l'auteur sur son propre séminaire | **945** (228 fiches) |
+| Pages de l'auteur sur son propre séminaire | **869** (228 fiches) |
+| Ses vidéos et podcasts sur le sujet | **677** (142 fiches) |
 | Sections d'annonce | **1 357** |
-| Mots dans le dépôt | **793 782** |
+| Mots dans le dépôt | **816 684** |
 
 ### Les statuts
 
@@ -92,6 +93,7 @@ produit. Les sources sont presented separement, jamais melangees :
 | **L'annonce du séminaire** | sa prose sur son seminaire, decoupee en sections, avec le deroule numerote, les listes et les citations | 257 |
 | **La matière qu'il a lui-même déclarée** | ses idées fortes et son verdict, extraits des 1 159 documents où il a lui-meme écrit quels fiches ils alimentent | 353 |
 | **Ce qu'il a écrit sur son propre séminaire** | les pages de son propre site retrouvé **par le nom du seminaire** — « Devenez intéressant, mod. 3 : passez maitre en story-telling » | 228 |
+| **Ce qu'il a dit et écrit sur ce sujet** | ses vidéos et podcasts, retrouvés par les **termes propres de la formation** — ses concepts, ses chapitres, qui ne se retrouvent nulle part ailleurs | 142 |
 | **Ce que la fiche dit de ce séminaire** | sa doctrine : points clés, concepts enseignés, exercices, citations | 331 |
 | **Verbatim et citations** | le texte de la section « Contenu complet », et les formules entre guillemets | 83 |
 
@@ -136,7 +138,7 @@ Contrôles passés sur l'ensemble du dépôt :
 - **3 506 / 3 506** idées fortes retrouvées **mot pour mot** dans le document
   que la fiche cite.
 - **947 / 947** sections d'annonce retrouvées dans leur page produit.
-- **1 285 / 1 285** passages de développement retrouvés mot pour mot dans la page d'archive qu'elle nomme.
+- **1 283 / 1 283** passages de développement retrouvés mot pour mot dans le document qu'ils nomment.
 - **1 776 / 1 776** blocs de doctrine retrouvés mot pour mot dans la fiche d'origine.
 - **257 / 257** citations de fiche vérifiées mot pour mot.
 - **0** fichier contenant du déchet de page (widgets YouTube, navigation).

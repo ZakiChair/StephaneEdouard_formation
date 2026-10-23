@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 6
 points_annonce: 5
 documents_materiau: 5
-pages_developpement: 7
+pages_developpement: 10
 idees_forces: 20
 citations: 3
 doublon_titre: oui
@@ -315,6 +315,26 @@ A votre niveau, vous allez au cours de cette journée devenir capable définitiv
 vos rétributions (au premier lieu d’entre elles, votre salaire, ou votre facturation si vous êtes freelance) & vos augmentations
 vos achats importants (immobiliers, mobiliers, etc.)
 votre relation de couple (pour ceux qui en douteraient, 
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video GRuFqA-Zf9I
+
+*vidéo · `GRuFqA-Zf9I-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

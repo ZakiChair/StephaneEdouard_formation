@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 2
+pages_developpement: 8
 idees_forces: 16
 citations: 2
 doublon_titre: non
@@ -138,6 +138,26 @@ Nous sommes d’accord, les dissertations du lycée sur le Bourgeois Gentilhomme
 Vous croyez sérieusement que votre dernier film au cinéma est un sujet de conversation valable avec un personne de qualité ?
 D’accord, vous allez au cinéma régulièrement avec votre carte Gaumont, vous avez 2 ou 3 livres ouverts à différents endroits de votre appartement, et vous réservez même une place de théâtre une fois par an (statistiques du français moyen, nous avons vérifié). Cela vous donne t-il de la valeur auprès de quiconque, cela vous rend-il plus intéressant qu’un autre ? Vous travaillez votre corps chez vous en faisait des pom
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### L'histoire la + abjecte de ces 10 dernières années, et pourquoi ça vous concerne
+
+*vidéo · `55pK6U9bxjs-transcript.md`*
+
+### Pour surmonter une rupture, n'imite pas cette youtubeuse
+
+*vidéo · `74kBMreIye0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -207,7 +227,7 @@ Au-delà du contenu, la forme compte :
 
 ### Exercices / Pratiques
 
-- Pratiquer devant un miroir ou en录制 pour auto-analyser sa delivery
+- Pratiquer devant un miroir ou en pour auto-analyser sa delivery
 - Commencer par des petites prises de parole (réunions, conversations de groupe) avant les grandes
 - S'entraîner à respirer diaphragmatique quotidiennement
 - Identifier 3 personnes que vous trouvez charismatiques à l'oral et analyser leurs techniques

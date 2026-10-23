@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 18
 citations: 3
 doublon_titre: non
@@ -91,6 +91,18 @@ doublon_titre: non
 *« Video-y4PKeEdGQ6w-synthese.md » · origine : lien-declare*
 
 > Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Après la déconstruction, France Culture passe à la démolition des hommes
+
+*podcast / vidéoscopie · `Après-la-déconstruction,-France-Culture-passe-à-la-démolition-des-hommes-synthese.md`*
+
+### Je regarde le 2ème clip de Wejdene
+
+*podcast / vidéoscopie · `Je-regarde-le-2&egrave;me-clip-de-Wejdene-synthese.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

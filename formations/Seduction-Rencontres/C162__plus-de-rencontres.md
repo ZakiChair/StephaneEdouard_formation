@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 2
 points_annonce: 4
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 14
 citations: 0
 doublon_titre: oui
@@ -124,6 +124,26 @@ Des astuces tirées de la pratique, c’est l’objet de ce deuxième séminaire
 *« Video-47jhynafWCc-synthese.md » · origine : lien-declare*
 
 > 143 morts violentes au sein du couple en 2021 (+21% vs année précédente), 80% de femmes
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video LW7Put25p1Q
+
+*vidéo · `LW7Put25p1Q-transcript.md`*
+
+### 30 mn gratuites du séminaire "savoir s'entourer"
+
+*vidéo · `VZDYK4RHd38-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

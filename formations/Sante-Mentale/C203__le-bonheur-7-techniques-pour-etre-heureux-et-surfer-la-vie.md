@@ -13,7 +13,7 @@ programme: 18
 sections_annonce: 2
 points_annonce: 6
 documents_materiau: 3
-pages_developpement: 9
+pages_developpement: 10
 idees_forces: 6
 citations: 2
 doublon_titre: oui
@@ -131,6 +131,67 @@ Je dois vraiment vous le dire ? Bon, allez :
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
+### La discussion du dimanche soir : les 4 conditions du bonheur
+
+*`web-actualite__12493_la-discussion-du-dimanche-soir-bonheur.html.txt` · 1173 mots · archive de l'auteur*
+
+Les 4 conditions du bonheur selon Edgar A. Poe :
+La vie en plein air
+L’amour d’un être
+Le détachement de toute ambition
+La création
+Quelles sont les conditions de votre bonheur ? Que pensez-vous de cette liste et quelles éventuelles modifications lui apporteriez-vous ?
+17
+Bilboquet
+31 mars 2013 à 20:28
+Oui plutôt d’accord, mais pas avec le point 3, le détachement de toute ambition : quand on est heureux, on l’est aussi des projets et de toutes les bonnes choses à venir.
+Et toi qu’en penses-tu ? :)
+Mint
+31 mars 2013 à 21:06
+Je rajouterai :
+Faire partie d’une communauté
+Aider les autres en mettant ces talents à disposition
+Devenir la personne que l’on veut être
+Pierre
+31 mars 2013 à 21:11
+Moi je ne suis pas trop d’accord avec le point 1, de vivre en pleine air (enfin peut être que quand je serais un peu plus vieux, je changerai d’avis :-) ).
+Et sur « le détachement de toute ambition », pourquoi pas…; ça demande réflexion, ce n’est pas une mauvaise idée. Mais ça doit être quand même assez difficile.
+Sam
+31 mars 2013 à 21:16
+Devenir la personne que l’on est (déjà) je dirais plutôt.
+neoprene
+31 mars 2013 à 22:04
+le bonheur ? obtenir ce que je désire
+Carlos
+31 mars 2013 à 22:05
+Bonsoir Stéphane, bonsoir à tous.
+Tout d’abord, je tiens à te remercier: j’ai acheté ton livre « l’homme idéal », il est excellent, il m’a redonné une perspective, et un peu d’espoir, à…40 ans…
+Moi je rajouterai un point:
+5. Aimer les autres, aimer aller parler avec les gens. Spontanément.
+1 avril 2013 à 0:49
+Moi je n’y changerais absolument rien.
+Philippe
+1 avril 2013 à 1:14
+Les 4 conditions citées plus haut sont obsolètes si on oublie de vivre dans l’instant présent. Car le bonheur ne peut être qu’ici et maintenant. Pas demain.
+Inis
+1 avril 2013 à 5:07
+Ressentir du contentement à chaque instant.
+J’espère que le bonheur, ce n’est pas les conditions précitées, sinon je suis mal barré.
+S.Mimura
+1 avril 2013 à 11:25
+Certainement vrai pour quelqu’un ayant une âme d’artiste. Je pense la liste inexacte pour tous les autres.
+Je dirais plutot des choses comme :
+N’avoir de comptes à rendre à personne
+Avoir toujours été présent pour élever son/ses enfants
+Belize
+1 avril 2013 à 12:41
+Bien manger
+terre à 
+
+
+- N’avoir de comptes à rendre à personne
+- Avoir toujours été présent pour élever son/ses enfants
+
 ### Le meilleur moyen d’être heureux est encore d’apprendre à reconnaître le beau | Spike Séduction
 
 *`web-articles__19014_reconnaitre-le-beau.html.txt` · 306 mots · archive de l'auteur*
@@ -177,40 +238,37 @@ une vraie vie de couple
 . Elle a mis un an avant de comprendre ce qu’elle désirait, j’ai mis 2 ans à m’en remettre véritablement et à savoir ce que moi je voulais aussi, je n’arrivais pas à décrocher d’elle. J’ai essayé de la reconquérir sans comprendre qu’elle n’avait jamais voulu vraiment de relation en fait.
 Ce qui était marquant dans notre relation, c’est que, malgré ce côté incompressible de la sociologie actuelle de ce genre de (jeunes) femmes, on avait de très forts sentiments l’un pou
 
-### Etes-vous vraiment heureux lorsque&#8230;
+## Ce qu'il a dit et écrit sur ce sujet
 
-*`web-actualite__5035_etes-vous-vraiment-heureux-lorsque.html.txt` · 183 mots · archive de l'auteur*
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
 
-Etes-vous
-vraiment
-heureux lorsque…
-Etes-vous
-vraiment
-heureux lorsque…
-… lorsque le réveil sonne chaque matin pour aller travailler ?
-oui
-non
-(rayez la mention inutile)
-Si vous avez rayé le non sans l’ombre d’une hésitation, alors félicitations, vous n’avez pas besoin du séminaire
-vivez de ce que vous aimez
-. Dans tous les autres cas, vous devriez peut-être venir jeter un oeil par ici…
-Informations et réservations >>
-Vous avez découvert cet article avant tous vos amis ? Faites-leur savoir
-La page best-of
-Une âme vulgaire se passe de conseils
-Courrier des lecteurs : devenir un homme, oui mais lequel - suite et fin
-Prochain séminaire séduction et développement personnel
-Agence de relooking nouvelle génération
-Lire 100% du site demanderait une centaine d'heures...
-le séminaire,
-les réponses de la séduction
-, en dvd
-47€ seulement
-l'ebook,
-Entretiens privés
-, vol.1,
-<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
-NEWSLETTER
+### Le bonheur : 7 techniques pour être heureux et surfer la vie
+
+*podcast / vidéoscopie · `Le-bonheur-7-techniques-pour-être-heureux-et-surfer-la-vie-synthese.md`*
+
+> Concepts clés Bonheur déclaré vs bonheur vécu** : Méfiance face à ceux qui "hurlent leur bonheur" face caméra — les mots assénés ne sont pas la vérité. Simplicité** : Les gens les plus heureux sont parfois des cordonniers aux activités simples — ils n'ont pas besoin de le déclarer. Présent éternel** : "L'éternité, c'est le présent qui redevient présent" — la capacité à être pleinement dans l'instant sans être dans la planification constante ou l'analyse. La grâce** : Concept distinct du bonheur — un état de fluidité avec le monde, de connexion au-delà des mots. Le bonheur en trois conditions** : Framework personnel — une condition objective + une condition subjective + une condition arbitraire = bonheur.
+
+*Termes de la formation dans ce passage : declare, distinct, eternel, eternite, fluidite, hurlent*
+
+> Mécanismes du bonheur selon Stéphane : 1. **Accepter l'impermanence** : Rien n'est acquis, tout change — la résistance au changement cause de la souffrance. Ce qui monte descend. 2. **Présence** : Être pleinement dans l'instant plutôt que de constamment analyser ou planifier. 3. **Simplicité** : Réduire les complexités inutiles, les dépendances, les attachments — moins de besoins = moins de manque. 4. **Gratitude** : Reconnaître ce qu'on a plutôt que ce qu'on n'a pas — et ne pas comparer sa situation à celle des autres. 5. **Effort significatif** : Le travail qui a du sens plutôt que le comfort — la satisfaction de avoir built something.
+
+*Termes de la formation dans ce passage : dependances, descend, impermanence, simplicite*
+
+> Applications pratiques Réduire le temps passé sur les réseaux sociaux (où le bonheur se display plutôt que se vit) Pratiquer la présence à soi-même (méditation, reflection, moments silencieux) Investir dans des relations profondes plutôt que dans la quantité de relations Accepter les émotions difficiles comme parties du bonheur global — le bonheur n'est pas l'absence de souffrance Simplifier sa vie, réduire les dépendances matérielles et émotionnelles Cultiver la grâce — la fluidité avec le monde plutôt que la lutte contre lui Lire et voyager — faire le pont entre le vécu et le mort pour éviter la simplification.
+
+*Termes de la formation dans ce passage : dependances, fluidite, materielles*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -256,7 +314,7 @@ Concept distinct du bonheur — un état de fluidité avec le monde, de connexio
 
 ### L'impermanence
 
-Rien n'est acquis, tout change — la résistance au changement cause de la souffrance. Ce qui monte descend. Accepter l'impermanence permet de ne pas s'attacher aux状态的 temporaires et de cultiver une appreciation constante.
+Rien n'est acquis, tout change — la résistance au changement cause de la souffrance. Ce qui monte descend. Accepter l'impermanence permet de ne pas s'attacher auxtemporaires temporaires et de cultiver une appreciation constante.
 
 ---
 

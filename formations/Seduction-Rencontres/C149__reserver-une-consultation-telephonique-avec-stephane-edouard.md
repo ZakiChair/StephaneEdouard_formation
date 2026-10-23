@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 12
 citations: 0
 doublon_titre: non
@@ -157,6 +157,26 @@ N’appelez que si aucune de mes formations ne semble répondre à votre questio
 
 > Le "permis de faire des enfants" questionné : certaines personnes ne devraient pas se reproduire (théorie de la sélection).
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -178,10 +198,10 @@ Read More
 Une décision importante ne se prend jamais seul
 Si vous estimez avoir besoin des conseils de Stéphane Edouard en sa qualité de
 
- 	sociologue (on ne sait jamais)
- 	spécialiste incontesté (même par ses ennemis) des relations hommes-femmes
- 	auteur à succès
- 	entrepreneur pas trop mauvais non plus
+ sociologue (on ne sait jamais)
+ spécialiste incontesté (même par ses ennemis) des relations hommes-femmes
+ auteur à succès
+ entrepreneur pas trop mauvais non plus
 
 Alors c’est ici que ça se passe
 3. size-large {margin-right:10px;}}  
@@ -192,9 +212,9 @@ Contrairement à une imbécilité ultra répandue, il y a bien des mauvaises que
 4. Voici une liste non exhaustive de ces questions qui vous feraient irrémédiablement gaspiller votre argent
 Questions bêtes
 
- 	Donne-moi une méthode pas-à-pas pour obtenir ceci ou cela
+ Donne-moi une méthode pas-à-pas pour obtenir ceci ou cela
 5. Réponse : commence, et appelle quand tu es bloqué
- 	Comment gérer (au mieux) ce qui va sans doute advenir
+ Comment gérer (au mieux) ce qui va sans doute advenir
 6. Réponse : si ça n'est pas encore arrivé, c'est que ça n'existe pas
 
 

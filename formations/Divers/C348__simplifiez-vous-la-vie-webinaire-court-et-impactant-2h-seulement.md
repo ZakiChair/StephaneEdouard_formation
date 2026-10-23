@@ -153,6 +153,32 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 
 > Le film : 3 couples (hétéro, bi, intergénérationnel) = "liberté sexuelle" de façade
 
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Segment court dédié à Patrick Sébastien, figure du petit écran français. Stéphane-Edouard rend hommage à son savoir-faire : MAGIC TV produisait le plus grand cabaret du monde avec 2,5 millions de spectateurs réguliers, pour un coût de production deux fois inférieur à la concurrence — une efficacité de gestion remarquable. Malgré le peu d'affinité personnelle avec le genre (acrobaties, clowneries), l'orateur reconnaît le professionnalisme de l'ensemble des techniciens et la capacité à produire des audiences de premier plan avec des budgets serrés. « C'est un gars bien, je dis chapeau. »
+
+**Thèmes** : Patrick Sébastien, MAGIC TV, cabaret, audience, efficacité, production, professionnalisme.
+
+---
+
+*Générée via MiniMax-M2.7*
+---
+
+### Points clés
+
+_[extrait tronqué]_
+
+### Qu'est-ce-donc-cette-diablerie-synthese
+# SYNTHESE - FnmOmeQkYWo
+
+**Vidéo analysée** : Qu'est ce donc cette diablerie ?
+**Thème central** : Analyse d'un court métrage du Mobile Film Festival (CNC)
+**Date** : 2026-05-29
+
 ---
 
 ## Reconstitution

@@ -13,7 +13,7 @@ programme: 6
 sections_annonce: 4
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 9
+pages_developpement: 10
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -199,6 +199,26 @@ Si vous êtes lecteur régulier du site vous déjà vu cette vidéo, mais je sou
 Nous sommes d’accord, les dissertations du lycée sur le Bourgeois Gentilhomme vous donnaient des envies de meurtre sur votre vieille prof de français et son bouton sur le nez. Mais aujourd’hui que vous voulez devenir des hommes et plus des petits garçons, vous comprenez que le savoir, c’est le pouvoir. Et le pouvoir, comme disait Kissinger, est un aphrodisiaque absolu.
 Vous croyez sérieusement que votre dernier film au cinéma est un sujet de conversation valable avec un personne de qualité ?
 D’accord, vous allez au cinéma régulièrement avec votre carte Gaumont, vous avez 2 ou 3 livres ouverts à différents endroits de votre appartement, et vous réservez même une place de théâtre une fois par an (statistiques du français moyen, nous avons vérifié). Cela vous donne t-il de la valeur auprès de quiconque, cela vous rend-il plus intéressant qu’un autre ? Vous travaillez votre corps chez vous en faisait des pom
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

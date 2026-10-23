@@ -204,9 +204,9 @@ La négociation est un dance à deux. Il faut savoir lire :
 
 Ces informations permettent d'adapter votre stratégie — négocier avec quelqu'un qui n'a pas le pouvoir de dire oui est une perte de temps.
 
-### Créer de la valeur : Le增量
+### Créer de la valeur : Leincrément
 
-Le vrai négociateur ne prend pas — il crée de la valeur. Le增量 (le gâteau à partager) peut être agrandi :
+Le vrai négociateur ne prend pas — il crée de la valeur. Leincrément (le gâteau à partager) peut être agrandi :
 
 - Comprendre ce qui a de la valeur pour l'autre partie (pas seulement ce qui a de la valeur pour vous)
 - Proposer des soluciones qui benefited à both parties
@@ -240,7 +240,7 @@ Le timing de la négociation compte énormément :
 - Anticiper les objections et préparer ses réponses
 - Pratiquer le silence — ne pas Filling les blancs
 - Identifier les interests derrière les positions déclarées
-- Développer sa capacité à dire non — sans理由 juste assertivement
+- Développer sa capacité à dire non — sans juste assertivement
 - Élargir le gâteau en proposant des options créatives
 
 ---
@@ -263,7 +263,7 @@ Le timing de la négociation compte énormément :
 
 ## Concepts
 
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple · À éviter : · Les bons moments :
+À éviter : · Les bons moments :
 
 ---
 

@@ -13,7 +13,7 @@ programme: 11
 sections_annonce: 5
 points_annonce: 2
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 10
 citations: 0
 doublon_titre: oui
@@ -129,6 +129,26 @@ J’ai bien conscience que, dit comme ça, cela paraît abstrait, lourd à digé
 *« Anecdote-personnelle-–-drague-d'une-gauchiste-à-Rome-synthese.md » · origine : lien-declare*
 
 > L'empathie gauchiste est inversement proportionnelle à la proximité : elle se manifeste pour les inconnueque pour les proches.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### Video rp3jksmt-cQ
+
+*vidéo · `rp3jksmt-cQ-transcript.md`*
+
+### Video GRuFqA-Zf9I
+
+*vidéo · `GRuFqA-Zf9I-transcript.md`*
+
+### Elle était l'entrepreneur.e féministe de l'année...la fin va vous surprendre
+
+*vidéo · `0H240TN_lTY-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -13,7 +13,7 @@ programme: 13
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 3
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -132,6 +132,26 @@ Basile
 Bonjour Basile,
 Excellente question que l
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video GRuFqA-Zf9I
+
+*vidéo · `GRuFqA-Zf9I-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -191,10 +211,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > ceux de la dernière catégorie, enfin, recueillent un flux constant de suffrages depuis le premier jour de leur disponibilité au téléchargement. Et ce qu'il pleuve, qu'il vente ou qu'il neige. J'en vends même pendant la finale de la Coupe du Monde (véridique) ! J'en déduis qu'ils constituent le point sensible de mon oeuvre, qu'ils font écho aux inquiétudes les plus communément partagées. L'archétype de ces séminaires, c'est « ce que vos parents »… Un condensé de croyances limitantes
 > 
 > ---
-
-## Concepts
-
-La Métonymie et la Préterition · Le Gage Inutile (Trigger Warning) · La Pseudo-Diversité qui Uniformise · La Trinité Patriarcale Universelle
 
 ---
 

@@ -13,7 +13,7 @@ programme: 5
 sections_annonce: 10
 points_annonce: 2
 documents_materiau: 5
-pages_developpement: 6
+pages_developpement: 10
 idees_forces: 17
 citations: 0
 doublon_titre: oui
@@ -243,6 +243,66 @@ Sans rentrer dans le détail, la zone de confort est un endroit (pas forcément 
 Zone de confort relatif
 La zone de confort relatif (nouveau concept) ou zone de confort atténué (un concept, plusieurs noms, normal) est une zone là aussi connue, mais dont les réactions ne vous sont pas agréables. Vous connaissez votre zone de confort, mais pour des raisons qui vous sont propres, cette zone de vous convient plus, un ou des éléments perturbateurs viennent modifier cette zone de confort. Soit, vous changez, en interne. Vos désirs, vos préoccupations, vos envies, vos rêves évoluent. C’est ce qui arrive bien souvent avec le temps, avec l’expérience, on a envie d’autres choses, et c’est
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video 4dkxZAenDDc
+
+*vidéo · `4dkxZAenDDc-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Où tonton Stéphane va essayer de réparer l'ascenseur social tout seul avec ses petites mains noires. Il l'a lui-même emprunté, donc ça fonctionnait encore il y a pas si longtemps.
+
+---
+
+### Points clés
+
+1. « Assez joué », comme me disaient mes parents quand je m'éternisais devant la console
+2. C'est que, à cet âge, les premiers jeux dits d'aventure venaient prendre des parts de marché à la castagne pure, et soudain on ne voyait plus le temps passer (il paraît d'ailleurs que certains continuent adulte, mais c'est un autre sujet, et je suis d'avis qu'il y a un temps pour tout)
+3. La cartouche était d'ailleurs la seule de toutes les Nintendo à être dorée, et nous étions assez petits et cons pour croire qu'il pouvait s'agir d'or fin
+4. The legend of Zelda : sans doute la plus longue des aventures en jeu vidéo dans les années 80
+Et à l'âge adulte ça se passe comment
+5. L'occident vous invite à changer tout ce que vous voulez, et ce le plus souvent possible
+6. C'est qu'il ne faudrait pas réfréner l'envie de consommer
+7. Changez de vêtements, changez de tête, changez de partenaire, changez de mobilier, de vaisselle, de ville et n'oubliez pas de changer de prénom et de sexe au passage
+8. Il ne faudrait pas se priver, c'est remboursé par la collectivité
+9. Mais vous le savez si vous avez le courage de me suivre… le chemin de l'enfer est pavé de bonnes intentions, et je ne vous inviterai jamais assez à vous méfier de toutes les invitations à la liberté, surtout quand elle est gratuite
+10. La liberté n'est jamais gratuite, bien au contraire, et surtout elle ne s'applique qu'à l'accessoire et jamais à l'essentiel
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
+
 ## Verbatim de l'auteur (fiche de formation)
 
 > « Assez joué », comme me disaient mes parents quand je m'éternisais devant la console. C'est que, à cet âge, les premiers jeux dits d'aventure venaient prendre des parts de marché à la castagne pure, et soudain on ne voyait plus le temps passer (il paraît d'ailleurs que certains continuent adulte, mais c'est un autre sujet, et je suis d'avis qu'il y a un temps pour tout).
@@ -255,10 +315,6 @@ La zone de confort relatif (nouveau concept) ou zone de confort atténué (un co
 > … sauf de c
 > 
 > ---
-
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ---
 

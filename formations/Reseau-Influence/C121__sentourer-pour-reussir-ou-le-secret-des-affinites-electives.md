@@ -13,7 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 2
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 5
 citations: 0
 doublon_titre: oui
@@ -101,6 +101,30 @@ doublon_titre: oui
 *« Cette-chanteuse-faisait-l'unanimité-chez-les-wokes,-mais-ça-c'était-avant-synthese.md » · origine : lien-declare*
 
 > Parcours : De Mélissa Peterson à Lizzo, en embrassant les codes du wokisme pour réussir dans l'industrie musicale.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### 30 mn gratuites du séminaire "savoir s'entourer"
+
+*vidéo · `VZDYK4RHd38-transcript.md`*
+
+> 40. idéalisée du groupe d'ados aucun groupe d'adultes ne renfermera la notion d'infini comme un groupe d'ados le deuxième problème c'est le souvenir du fusionnelle c'est qu'une amitié est née à l'âge adulte ne recevra jamais cette dose de fusionnel qu'on a eue avec la première personne qu'on a extrait de son groupe groupe qui était le même extrait du monde convergent le premier amour une exception dans le cas de gens qui sont envoyées à la guerre n'ont toujours une exception alors alors en sociologie
+
+*Termes de la formation dans ce passage : extra, fusionnelle, idealisee*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

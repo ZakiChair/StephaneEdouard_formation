@@ -13,7 +13,7 @@ programme: 11
 sections_annonce: 1
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 5
+pages_developpement: 10
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -219,6 +219,26 @@ Thee
 15 avril 2013 à 11:13
 Il y avait aussi la répétition d’une même phrase mot pour mot, et l’évitement de la négation directe.
 BldTlSwtTrs
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

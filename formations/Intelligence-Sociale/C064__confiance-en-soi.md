@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 15
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -179,6 +179,30 @@ Nous nous livrerons donc ensemble à des **techniques avancées de visualisatio
 *« Gaslighting-cette-drôle-manière-d'abréger-les-femmes-synthese.md » · origine : corpus*
 
 > 3. **Consulter un tiers de confiance** : Un ami qui connaît la situation peut aider à maintenir la perspective. Attention : il faut quelqu'un de vraiment confiance, pas quelqu'un qui va prendre parti.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Vous n'êtes pas prêts à rejoindre ce camp de masculinité
+
+*vidéo · `y9swYuM4_Jw-transcript.md`*
+
+> 68. remettre au goût du jour en disant Dieu sait que je peux me moquer des Africains quand il le méritent mais que dirait un Africain que dirait un habitant de la campagne du Zimbabwe du Togo du Mali de l'Éthiopie du nigerde que dirait-il devant ce groupe d'Européen qui plus est du pays dans des pays les plus avancés les plus riches du monde qui sont en train de démuler une danse totalement hors rythme de manière absolument grotesque torse nu au milieu de tipi comme ça à Jean le matin pour essayer de
+
+*Termes de la formation dans ce passage : africain, dirait, torse*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Ce député star se fait HUMILIER en direct sur BFMTV #Redpill
+
+*vidéo · `3DRCtLtW0cM-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -176,34 +176,22 @@ Conséquence des points 1. et 2., maintenant que votre
 objectif global
 a évolué et s’est élargi, 
 
-### &laquo;&nbsp;Moi aussi, j&#8217;ai cru pouvoir faire le malin&nbsp;&raquo;
+### 25 sept 2010 : développez votre intelligence sociale
 
-*`web-ateliers-workshops-cours__3108_temoignage-relooking-etudiant.html.txt` · 240 mots · archive de l'auteur*
+*`web-actualite__4843_intelligence-sociale.html.txt` · 1245 mots · archive de l'auteur*
 
-« Moi aussi, j’ai cru pouvoir faire (...)
-« Moi aussi, j’ai cru pouvoir faire le malin »
-Quelques jours après mon relooking étudiant avec Stéphane, voici mon sentiment: déçu.
-Déçu de moi, déçu d’avoir perdu tant de temps et d’énergie à m’inventer des milliards de bonnes raisons pour ne pas faire de relooking.
-Moi aussi, comme de nombreux lecteurs, j’ai cru pouvoir faire le malin, au chaud derrière mon écran d’ordinateur, à fouiner le net et à critiquer des relookings sans même savoir de quoi je parlais. Moi aussi je me disais qu’après tout je pouvais faire aussi bien que ce fameux Stéphane.. par fierté !
-Lire la suite sur le forum
-Découvrez des articles inédits dans notre newsletter
-A lire aussi
-Message d'un relooké à ceux qui hésitent encore
-"Je ne m’attendais vraiment pas à un relooking aussi puissant" (témoignage sur le relooking de Milan)
-"SpikeSéduction est une école de l'éducation masculine" (témoignage sur l'atelier relooking)
-"Tout ce que Spike m'a proposé avait de la classe" (témoignage sur le relooking)
-10 conseils pour préparer au mieux votre relooking, par Bio
-<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>
-Prochains événements
-27/09
-26/09
-23/10
-25/09
-16/09
-18/09
-17/09
-15/08
-Tout l'agenda
+Le 4 septembre dernier, démarrait la sixième saison des séminaires SpikeSéduction (autant que
+How I met your mother
+). Et pas de n’importe laquelle des manières : avec un record d’affluence, des nouveautés (dont l’opportunité de commander l’enregistrement audio du séminaire pour ceux qui ne peuvent pas se déplacer), et toujours sans aucune hausse de tarif. Vous l’avez manqué ? Lisez les témoignages
+sur le forum
+. Le 25 septembre prochain (oui, c’est dans moins de deux semaines), je donnerai un séminaire à nouveau 100% inédit, et le thème est peut-être le plus important de ces dernières années. Vous en entendez parler presque quotidiennement, il s’agit, wait for it, de
+l’intelligence sociale
+De l’histoire (juste un peu)
+Vous ne devinerez jamais d’où provient l’expression
+compétence sociale
+. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
+Plus d’histoires
+Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon millio
 
 ## Ce que la fiche dit de ce séminaire
 

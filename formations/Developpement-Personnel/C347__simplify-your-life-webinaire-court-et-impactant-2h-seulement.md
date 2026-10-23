@@ -13,7 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 5
-pages_developpement: 1
+pages_developpement: 4
 idees_forces: 31
 citations: 0
 doublon_titre: non
@@ -215,6 +215,22 @@ Très très bon article, j'aime le style de l...
 
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4dkxZAenDDc
+
+*vidéo · `4dkxZAenDDc-transcript.md`*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### Ce candidat prend les électrices pour des c***
+
+*vidéo · `u9JM238LY0c-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

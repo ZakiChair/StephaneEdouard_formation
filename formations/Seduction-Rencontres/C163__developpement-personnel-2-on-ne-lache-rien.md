@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 5
 points_annonce: 7
 documents_materiau: 5
-pages_developpement: 5
+pages_developpement: 10
 idees_forces: 37
 citations: 0
 doublon_titre: oui
@@ -224,41 +224,6 @@ Et comme dit celui qu’on n’a pas le droit de citer : tirez tous les boulets 
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Prochain séminaire séduction et développement personnel
-
-*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
-
-Séduction, relooking homme - Le site de référence
-Prochain séminaire séduction et développement personnel
-Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
-(Bibi)
-(Bibi à nouveau)
-(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
-Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
-“changez de vie”
-et poursuivie par le séminaire
-“devenez intéressant”
-du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
-Prochain séminaire séduction : le pitch
-Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
-amoureuses
-, mais également
-professionnelles
-, et
-amicales
-Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
-comment
-, exactement ? Ah…
-Des nouvelles bientôt, dans
-l’agenda
-Témoignages sur le séminaire changez de vie du 19 juillet
-Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
-Développement personnel : quel but ?
-Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
-séminaire séduction
-Un commentaire
-Où et quand nous inscrivons-nous?
-
 ### Les dandys sont toujours seuls (ou les limites du développement personnel)
 
 *`web-articles__10710_developpement-%E2%80%A6imites-dangers.html.txt` · 1964 mots · archive de l'auteur*
@@ -294,6 +259,61 @@ Bref, les années 80 avaient Lova Moor, les 90 Pamela Anderson-Lee, les années 
 recherche de perfection
 Perfection es-tu là ?
 Je dînais tout seul l’autre soir avec
+
+### Prochain séminaire séduction et développement personnel
+
+*`web-actualite__1374_prochain-seminaire-seduction-et-developpement-personnel.html.txt` · 380 mots · archive de l'auteur*
+
+Séduction, relooking homme - Le site de référence
+Prochain séminaire séduction et développement personnel
+Vous le savez, le 4 octobre dernier s’est tenu le plus grand séminaire de séduction & développement personnel jamais organisé en France. Vous n’avez jamais participé à un séminaire SpikeSéduction et vous vous demandez bien à quoi ça peut ressembler ? Hé bien tout simplement à ça :
+(Bibi)
+(Bibi à nouveau)
+(Dominique, formateur en littérature, qui décortiquait un texte pour vous comme d’autres désossent un poulet)
+Quant aux présents, vous avez sans doute noté dans vos tablettes le thème de notre prochain séminaire, à savoir la confiance en soi et ce qui en découle. Après une longue réflexion que vous n’aurez sans doute pas manqué de remarquer, nous avons décidé que la suite logique de notre série (entamée le 19 juillet dernier avec le premier séminaire
+“changez de vie”
+et poursuivie par le séminaire
+“devenez intéressant”
+du 4 octobre dont vous avez les images devant les yeux) était “relations : apprenez à vous imposer”.
+Prochain séminaire séduction : le pitch
+Les plus fidèles d’entre vous se souviennent des deux séminaires consacrés à l’art de gérer une relation longue, fin 2006 et début 2007 (en relation, qui fait n’importe quoi finit avec n’importe qui). Dans quelques semaines, vous découvrirez pour la première fois comment ces concepts se déclinent à l’ensemble des relations qui constituent votre réseau social : non seulement
+amoureuses
+, mais également
+professionnelles
+, et
+amicales
+Parce que, dans chacun de ces domaines comme dans les autres, il y a ceux qui se donnent la peine d’obtenir ce qu’ils méritent, et ceux qui laissent les autres décider pour eux. Mais au fait, la dernière fois que vous avez confié aux mains d’un(e) autre votre bonheur et votre destin, ça s’est fini
+comment
+, exactement ? Ah…
+Des nouvelles bientôt, dans
+l’agenda
+Témoignages sur le séminaire changez de vie du 19 juillet
+Techniques de séduction / Devenir un virtuose / Vous êtes perdu ?
+Développement personnel : quel but ?
+Dernières précisions concernant le séminaire "changez de vie" de demain 19 juillet
+séminaire séduction
+Un commentaire
+Où et quand nous inscrivons-nous?
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video y4PKeEdGQ6w
+
+*vidéo · `y4PKeEdGQ6w-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

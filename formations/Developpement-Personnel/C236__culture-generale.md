@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 3
 idees_forces: 18
 citations: 3
 doublon_titre: non
@@ -91,6 +91,22 @@ doublon_titre: non
 *« Video-y4PKeEdGQ6w-synthese.md » · origine : lien-declare*
 
 > Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### You (almost) begged me to cover the "Self-Managed High School" in Paris
+
+*vidéo · `jpYIV9IGYas-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

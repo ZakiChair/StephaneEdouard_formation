@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 3
 points_annonce: 4
 documents_materiau: 4
-pages_developpement: 6
+pages_developpement: 10
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -125,83 +125,6 @@ _Online_, à l’instar de _offline_, tout ou presque est (pour combien de temp
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### 30 mars, intelligence sociale mod. II : gérer la solitude et sortir seul
-
-*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html.txt` · 1439 mots · archive de l'auteur*
-
-« And this loneliness won’t leave me alone »
-Otis Redding, S
-ittin’ on the dock of the bay
-Mon site a 7 ans, mais jamais n’a t-il eu l’âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu’il suffit de « just do it ».
-Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d’hommes, bien sûr, car pour les femmes c’est une toute autre sociologie) qu’il est
-impossible
-de pousser à faire des rencontres.
-Pourquoi certains n’y arrivent pas…
-… et n’y arriveront peut-être jamais
-Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
-Ils auront acquis la
-capacité
-à faire des rencontres, mais la plupart du temps ces rencontres n’auront pas lieu.
-La nuance est de taille et il est important de bien la comprendre sinon vous n’aurez rien compris
-: acquérir la capacité à faire des rencontres, ça n’entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
-Quel est alors l’élément manquant ? Car chercher le point commun (« pattern », diraient les anglo-saxons) à tous ces garçons c’est trouver la clé du problème.
-Et la clé du problème des rencontres se trouve à 90% du temps dans votre (in)capacité à sortir seul, autrement dit à gérer la solitude.
-La ville, c’est la solitude peuplée
-En théorie (je dis bien en théorie), chacun évolue au milieu d’un réseau de gens qui tous lui veulent du bien, l’un garantissant ses affaires, l’autre ses amours, untel aidant pour ceci et l’autre pour cela mais tous ayant la fiabilité d’une montre suisse et le désintéressement d’un héros de roman.
-C’est vrai, mais uniquement
-partiellement
-Car entre des moments (certes agréables) de la sorte, s’insèrent tout un tas d’autres – correspondant à des étapes-clés de la vie : déménagement, expatriation, ascension sociale, changement de cercle d’amis, etc. – qui se passent dans une partielle ou t
-
-### Commandez le séminaire &laquo;&nbsp;intelligence sociale mod. II : gérer la solitude et sortir seul&nbsp;&raquo;
-
-*`web-actualite__12247_intelligence-sociale-2-sortir-seul.html?preview=1.txt` · 1676 mots · archive de l'auteur*
-
-Comment sortir seul ? Comment gérer la solitude ?
-Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
-Commandez le séminaire « intelligence sociale mod. II : gérer la solitude et sortir seul »
-Video:preview séminaire sortir seul pour rencontrer des femmes
-Référence :
-Intelligence sociale module 2
-Téléchargement :
-immédiat
-Ecoute :
-illimitée
-Compatible :
-tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
-Prérequis :
-Objectifs :
-mettre en place les bonnes pratiques et développer l'état d'esprit permettant de faire des rencontres seul
-Durée totale :
-3h09mn
-Taille du fichier :
-182 Mo
-Tarif :
-150€ seul puis dégressif avec le nombre de séminaires commandés
-Séminaires complémentaires recommandés :
-Intelligence sociale module 1
-Etre un leader
-Ecoutez des extraits gratuits
-Sortir seul - extrait 1
-[ 2:21 ]
-Sortir seul - extrait 2
-[ 1:44 ]
-Jamais ce site n'a eu l'âge de la naïveté et des serments à la ta-ga-da-tsoin-tsoin prétendant que la réussite est en chacun de nous et qu'il suffit de "just do it".
-Car la réalité est souvent faite, à qui sait où regarder, de constats complètement imprévisibles, et celui-ci en est un : il existe des gens (je veux parler d'hommes, bien sûr, car pour les femmes c'est une toute autre sociologie) qu'il est
-impossible
-de pousser à faire des rencontres.
-Pourquoi certains n'y arrivent pas…
-… et n'y arriveront peut-être jamais
-"And this loneliness won't leave me alone"
-Otis Redding, S
-ittin' on the dock of the bay
-Il y a des gens qui pourront être suivis par le meilleur coach / expert / sociologue / psychologue (rayez la mention inutile) du monde à chaque minute de leur vie et pendant des années sans que ne décolle vraiment leur vie affective et amoureuse. Et je pourrais en citer, des noms.
-Ils auront acquis la
-capacité
-à faire des rencontres, mais la plupart du temps ces rencontres n'auront pas lieu.
-La nuance est de taille et il est important de bien la comprendre sinon vous n'aurez rien compris
-: acquérir la capacité à faire des rencontres, ça n'entraîne pas forcément comme conséquence que ces rencontres se réalisent dans la réalité.
-Quel est alors l'élément manquant ? Car chercher le point com
-
 ### 25 sept 2010 : développez votre intelligence sociale
 
 *`web-actualite__4843_intelligence-sociale.html.txt` · 1245 mots · archive de l'auteur*
@@ -218,6 +141,73 @@ compétence sociale
 . Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
 Plus d’histoires
 Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon millio
+
+### Commandez le séminaire &laquo;&nbsp;intelligence sociale&nbsp;&raquo;
+
+*`web-actualite__4843_intelligence-sociale.html?preview=1.txt` · 910 mots · archive de l'auteur*
+
+Sans l'intelligence sociale, vous ne serez jamais intelligent qu'à moitié
+Commandez le séminaire
+« intelligence sociale »
+Commandez le séminaire
+« intelligence sociale »
+Video:preview séminaire intelligence sociale
+Référence :
+intelligence sociale
+Téléchargement :
+immédiat
+Ecoute :
+illimitée
+Compatible :
+tous ordinateurs, iPod, iPhone, iPad et autres lecteurs mp3
+Prérequis :
+Objectifs :
+comprendre et mettre à profit les règles tacites de la vie en société pour mieux s'adapter au réel
+Durée totale :
+2h11mn
+Taille du fichier :
+63 Mo
+Tarif :
+150€ seul puis dégressif avec le nombre de séminaires commandés
+Séminaires complémentaires recommandés :
+Devenez intéressant I
+Devenez intéressant II
+De l’histoire (juste un peu)
+Vous ne devinerez jamais d’où provient l’expression
+compétence sociale
+. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
+Plus d’histoires
+Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon million d’a
+
+### Intelligence sociale et entrée en grande école
+
+*`web-articles__seduction-avance__4895_intelligence-sociale-ecole.html.txt` · 1466 mots · archive de l'auteur*
+
+Salut Stéphane,
+L’été se couche doucement derrière les montagnes, les filles ne s’effeuillent plus et délaissent  leurs petites robes pour des tenues –malheureusement – plus habillées, et tout le monde fait sa rentrée ; toi en séminaire, moi en école. Je profite donc de ce point commun pour te tenir au courant de mon avancée et te faire partager une ou deux petites interrogations/appréhensions.
+J’intègre cette année l’école [Trucmuche] (anciennement [Bidule]), une école d’un niveau correct qui a le vent en poupe, et qui grimpe doucement l’échelle des classements. Je vais y passer 3 ans que j’espère faire fructifier de manière à pouvoir me donner les moyens de finir ma scolarité par un master de spécialisation côté. C’est un univers radicalement nouveau pour moi, et j’avoue que je me demande un peu par quel(s) bout(s) le prendre, hormis par celui du beer bong : en quelques mots, qu’est ce que tu conseillerais de faire, d’expérimenter, mais aussi d’éviter à un p’tit gars de 20 ans qui rentre en école ? Quels sont selon toi les bons réflexes (tant scolaires que sociaux) à adopter et quels sont les pièges à éviter (et qu’on ne voit souvent venir que trop tard) ?
+Les démons de minuit
+Ma deuxième question découle un peu de la première : en école comme tu le sais, la vie associative a son importance, et l’association qui semble la plus intéressante et la plus enrichissante est la Junior entreprise de l’école, qui se charge de travailler pour des grandes entreprises en leur rendant divers services (études de marché, analyse de plans marketing etc.). Avantages (confirmés par les anciens et les profs) : réseaux social et professionnel boostés, expérience du monde du travail avant l’heure, CV plus aguicheur et complément de formation très avantageux. Inconvénients : Charge de travail qui peut empiéter sur les cours et horaires pas toujours folichons ( »Bah oui, parfois tu peux rester jusqu’à 22h à l’école »). Il y a peu de places pour pas mal de candidatures, mais j’ai discuté un moment avec les membres et je crois qu’ils m’ont à la bonne (surtout la trésorière, une jolie petite blonde :), donc ça devrait être jouable.  Ma question est la suivante : de ton point de vue, et
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

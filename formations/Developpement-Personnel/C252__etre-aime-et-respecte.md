@@ -75,6 +75,34 @@ doublon_titre: non
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
+### La discussion du dimanche soir : les vrais hommes disent-ils &laquo;&nbsp;Je t&rsquo;aime&nbsp;&raquo; ?
+
+*`web-articles__12936_lui-dire-je-taime.html.txt` · 1467 mots · archive de l'auteur*
+
+La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
+La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
+Vous l’avez rencontrée lors d’une après midi ensoleillée. Ses cheveux soulevés par le vent semblaient pointer dans votre direction, vous avez pris votre courage à deux mains, et lui avez glissé quelques mots dans l’oreille. [...] Les mois ont passés et chaque jour à ses cotés vous sentez à quel point la vie peut être belle. C’est sûr… vous l’aimez.
+Ne partons dans un débat infini sur le sens que ces mots pourraient prendre s’ils sortaient tout droit de la bouche d’une demoiselle. Mais parlons de
+vous
+. L’avez-vous déjà dit.. ? Si non, peut être écrit ?
+Quelle est sa valeur à vos yeux ? Est-ce une simple formalité, ou un fruit défendu qui ne peut être décroché qu’après de longs mois de relation ? Est-il trop connoté pour que vous puissiez vous risquez à lui dire ?
+Racontez-nous votre idée du
+je t’aime
+12
+Charles
+28 avril 2013 à 20:02
+Sujet intéressant comme souvent et qui me donne l’occasion de parler de ma propre expérience :
+Plus jeune, je l’ai dit…souvent, et c’était pour moi quelque chose d’important. On se sent amoureux, on se sent bien, et on a particulièrement envie de lui faire partager. Je l’ai surement dit aussi pour obtenir quelque chose (son approbation, sa validation, etc…).
+J’ai ensuite réalisé que l’avoir dit ne me rendait pas plus heureux, elle ne m’aimait pas plus et que finalement j’avais le sentiment d’avoir perdu quelque chose (pouvoir, intérêt ).
+J’ai ensuite fait l’inverse; je ne l’ai plus dit. Conscient que les actions parlent plus que les mots, j’ai montré mon amour pour elle de multiple façons mais je ne disait rien. Jusque au jour ou la fille (une jeune russe) avec qui j’étais depuis plusieurs mois/années me dit lors d’une dispute avec un ton sentencieux: « you’ve never told me you love me. »
+Cela m’a appris que:
+La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
+J’étais surement devenu une caricature du type qu
+
+
+- La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
+- J’étais surement devenu une caricature du type qui ne ne dit pas « je t’aime »; esquivant ces mots avec des stratégies ou des phrases stylés complètement débiles.
+
 ### La discussion du dimanche soir : les vrais hommes disent-ils &laquo;&nbsp;Je t&#8217;aime&nbsp;&raquo; ?
 
 *`web-actualite__12936_lui-dire-je-taime.html.txt` · 1320 mots · archive de l'auteur*
@@ -115,33 +143,13 @@ D’ailleurs voici l’histoire: Lors d’une soirée avec des amis dans un pub,
 On s’échange quelques texto et le lendemain, on se voit pour aller boire un verre. Ca se passe super bien, elle pose beaucoup plus de questions que moi j’en pose. J’essaye de changer de sens dans le dialogue. Mais non, elle raconte ce qui lui importe dans sa vie, le boulot, ses amis…etc. Surtout le boulot, elle en parle beaucoup. Je ressens à travers ça une personne stressée qui essaye de s’évader. Je ne l’embrasse pas et lui dit que l’on se reverra. Elle monte dans le bus et s’en va. Elle m’envoie un texto immédiatement. Pour dire qu’elle a passé une bonne fin de journée. Je ne réponds que le lendemain, sans faire référence à son commentaire.
 Le week-end, on le pa
 
-### La discussion du dimanche soir : les vrais hommes disent-ils &laquo;&nbsp;Je t&rsquo;aime&nbsp;&raquo; ?
+## Ce qu'il a dit et écrit sur ce sujet
 
-*`web-articles__12936_lui-dire-je-taime.html.txt` · 1467 mots · archive de l'auteur*
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
 
-La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
-La discussion du dimanche soir : les vrais hommes disent-ils « Je t’aime » ?
-Vous l’avez rencontrée lors d’une après midi ensoleillée. Ses cheveux soulevés par le vent semblaient pointer dans votre direction, vous avez pris votre courage à deux mains, et lui avez glissé quelques mots dans l’oreille. [...] Les mois ont passés et chaque jour à ses cotés vous sentez à quel point la vie peut être belle. C’est sûr… vous l’aimez.
-Ne partons dans un débat infini sur le sens que ces mots pourraient prendre s’ils sortaient tout droit de la bouche d’une demoiselle. Mais parlons de
-vous
-. L’avez-vous déjà dit.. ? Si non, peut être écrit ?
-Quelle est sa valeur à vos yeux ? Est-ce une simple formalité, ou un fruit défendu qui ne peut être décroché qu’après de longs mois de relation ? Est-il trop connoté pour que vous puissiez vous risquez à lui dire ?
-Racontez-nous votre idée du
-je t’aime
-12
-Charles
-28 avril 2013 à 20:02
-Sujet intéressant comme souvent et qui me donne l’occasion de parler de ma propre expérience :
-Plus jeune, je l’ai dit…souvent, et c’était pour moi quelque chose d’important. On se sent amoureux, on se sent bien, et on a particulièrement envie de lui faire partager. Je l’ai surement dit aussi pour obtenir quelque chose (son approbation, sa validation, etc…).
-J’ai ensuite réalisé que l’avoir dit ne me rendait pas plus heureux, elle ne m’aimait pas plus et que finalement j’avais le sentiment d’avoir perdu quelque chose (pouvoir, intérêt ).
-J’ai ensuite fait l’inverse; je ne l’ai plus dit. Conscient que les actions parlent plus que les mots, j’ai montré mon amour pour elle de multiple façons mais je ne disait rien. Jusque au jour ou la fille (une jeune russe) avec qui j’étais depuis plusieurs mois/années me dit lors d’une dispute avec un ton sentencieux: « you’ve never told me you love me. »
-Cela m’a appris que:
-La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
-J’étais surement devenu une caricature du type qu
+### Video _iPUMJzVTbE
 
-
-- La perception des autres peut être radicalement différentes de la notre(rien de nouveau mais a ce point là…c’était grave). Les preuves de mon attachement pour elle étaient indéniables mais elle ne le voyait pas du tout comme ça.
-- J’étais surement devenu une caricature du type qui ne ne dit pas « je t’aime »; esquivant ces mots avec des stratégies ou des phrases stylés complètement débiles.
+*vidéo · `_iPUMJzVTbE-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
@@ -149,7 +157,7 @@ J’étais surement devenu une caricature du type qu
 
 ### Résumé
 
-Être aimé et respecté sont deux besoins fondamentaux, mais ils sont souvent en tension. Cette formation explore comment cultiver这两种 états : comment earn le respect, comment build l'affection真实的, et comment naviguer l'équilibre entre les deux. L'homme qui y parvient crée des relations solides et durables.
+Être aimé et respecté sont deux besoins fondamentaux, mais ils sont souvent en tension. Cette formation explore comment cultiver états : comment earn le respect, comment build l'affectionde, et comment naviguer l'équilibre entre les deux. L'homme qui y parvient crée des relations solides et durables.
 
 ---
 
@@ -197,7 +205,7 @@ L'affection ne se commande pas — elle se cultive :
 
 **L'attention véritable** : écouter vraiment, poser des questions, se rappeler des détails importants.
 
-**La vulnérabilité选定** : partager qui vous êtes vraiment — vos pensées, vos sentiments, vos fears. L'authenticité crée la connexion.
+**La vulnérabilité** : partager qui vous êtes vraiment — vos pensées, vos sentiments, vos fears. L'authenticité crée la connexion.
 
 **Le non-destructive honesty** : dire la vérité d'une manière qui respecte l'autre. Pas de mensonge, mais pas non plus de cruauté inutile.
 
@@ -215,13 +223,13 @@ Le vrai charisme est la congruence entre ce qu'on dit et ce qu'on fait :
 
 - Les gens repèrent immédiatement l'incoherence — même sans savoir la nommer
 - L'homme authentique qui fait ce qu'il dit inspire confiance et attraction
-- L'homme qui perform un personnage peut charmer un moment mais ne
+- L'homme qui perform un personnage peut charmer un moment mais ne m
 
 ### Exercices / Pratiques
 
 - Identifier vos 3 plus grandes competencia et développer les encore
 - Travailler sur votre constance : fulfill vos engagements, meme petits
--Pratiquer la présence totale dans vos conversations —记住 le regard, l'attention
+-Pratiquer la présence totale dans vos conversations —mémoriser le regard, l'attention
 - Développer votre capacité à set limits — commencer par les petites limites
 - Partager quelque chose d'authentique lors de votre prochaine conversation
 - Demander du feedback à quelqu'un de confiance sur votre balance respect/amour

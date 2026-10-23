@@ -133,10 +133,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 > 
 > ---
 
-### Concepts enseignés
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
-
 ### Ce qui n'est pas couvert
 
 - le déroulé exact de cette session

@@ -86,7 +86,7 @@ La motivation est un feu de paille — la discipline est le combustible durable.
 
 ### Points clés
 
-- La motivation est fluctuante et ненадежная — elle ne peut pas être la foundation de votre succès
+- La motivation est fluctuante et — elle ne peut pas être la foundation de votre succès
 - La discipline est une compétence qui se construit, pas un talent inné
 - L'homme discipliné agit quand il n'a pas envie — c'est précisément ce qui le différencie
 - Les habitudes structurées éliminent le besoin de motivation — vous faites simplement ce qui doit être fait

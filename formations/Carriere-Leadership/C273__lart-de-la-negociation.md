@@ -158,7 +158,7 @@ Le timing de la négociation compte énormément :
 
 ## Concepts
 
-Le Mythe des 7% · L'Économie du Couple vs la Romantique · Le Marché Immobilier au Cœur des Dynamiques de Séparation · Le Dilemme du Prisonnier Appliqué au Couple · À éviter : · Les bons moments :
+À éviter : · Les bons moments :
 
 ---
 

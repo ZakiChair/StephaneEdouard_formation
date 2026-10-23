@@ -13,7 +13,7 @@ programme: 6
 sections_annonce: 3
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 3
+pages_developpement: 9
 idees_forces: 11
 citations: 0
 doublon_titre: non
@@ -190,6 +190,72 @@ langage des femmes).
 Vous serez toujours plus attirant négligé et accompagné que seul et apprêté
 2. Faites vos devoirs pendant la journée pour jouer le soir
 C’est toujours pareil. La journée, écrasés de soleil, de repos, de piscine, bref la totale, vous ne voulez rien d’autre qu’étirer les heures. Glander, quoi. Et dans la « deuxiè
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+A y réfléchir, je connais bon nombre de personnes qui détestaient l'école. Cela pouvait être pour ses profs, pour le contenu des cours, pour le gros de la classe supérieure qui essuyait systématiquement ses chaussures sur vos tibias à la récréation, pour la jolie fille (déjà) qui vous rendait dingue à sentir si bon et… 
+
+Read More
+
+---
+
+### Points clés
+
+1. A y réfléchir, je connais bon nombre de personnes qui détestaient l'école
+2. Cela pouvait être pour ses profs, pour le contenu des cours, pour le gros de la classe supérieure qui essuyait systématiquement ses chaussures sur vos tibias à la récréation, pour la jolie fille (déjà) qui vous rendait dingue à sentir si bon et dont vous pressentiez déjà que la vie serait si facile (si toutefois elle ne se laissait pas gangréner par le germe de l'autodestruction propre aux femmes 
+3. De mon côté, j'avais deux raisons de m'y ennuyer dont chaque, seule, m'a causé de nombreuses et interminables heures à me demander quand la vraie vie allait enfin commencer
+4. Venant d'un foyer sans aucune culture – ni la première couche, ni même le vernis qui rend acceptable l'absence de la première -, le pont qu'exigeait l'immersion dans les matières abstraites me demandait plus d'énergie qu'à d'autres pour qui chaque nouvelle connaissance venait simplement s'imbriquer sur les précédentes, à la manière d'un puzzle que l'on construit patiemment
+5. Tous les enseignements essentiels à la construction d'un homme complet (non seulement intellectuellement mais socialement et manuellement) y étaient totalement absents de l'emploi du temps
+6. Je sais que je suis hors sujet mais tant pis, il faut bien dire les choses de temps en temps : à l'école on devrait d'abord apprendre à se tenir, à penser par soi-même, à s'exprimer (à l'oral et à l'écrit), à s'habiller, à se nourrir, à prendre soin de
+
+
+---
+
+### Concepts enseignés
+
+- Communication non verbale
+- Laculture du dialogue
+- Écoute active
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

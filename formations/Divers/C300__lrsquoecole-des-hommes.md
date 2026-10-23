@@ -128,22 +128,6 @@ n'est
 pas
 une partenaire fiable pour fonder une relation exclusive. C'est désarmant d'évidence, et pourtant, même sans aller jusqu'à les recruter sur SkyBlog, on ne compte plus le
 
-## Ce que la fiche dit de ce séminaire
-
-*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
-
-### Points clés
-
-### Le marché des rencontres
-- Première étape : libéralisation (droit de cuissage aboli).
-- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
-
-### Analyse des participants
-- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
-
-### Twk5FXQKdeM-synthese
-# Synthèse Twk5FXQKdeM : Sérotonine, Houellebecq et barbares
-
 ---
 
 ## Reconstitution

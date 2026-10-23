@@ -77,7 +77,7 @@ Cette formation explore la sexualité masculine et le plaisir selon les framewor
 ### Concepts enseignés
 
 ### La logique masculine dans la sexualité
-L'homme структурирует (met en ordre, hiérarchise, prouve) même dans sa sexualité. Cette logique le pousse à :
+L'homme structure (met en ordre, hiérarchise, prouve) même dans sa sexualité. Cette logique le pousse à :
 - Vouloir résoudre les problèmes plutôt que les ressentir
 - Chercher des résultats concrets
 - Évaluer le potentiel, pas seulement l'actuel

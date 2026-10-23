@@ -13,7 +13,7 @@ programme: 6
 sections_annonce: 5
 points_annonce: 0
 documents_materiau: 1
-pages_developpement: 3
+pages_developpement: 9
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -206,6 +206,26 @@ Dragué par les français qui voudraient l’avoir à leur table, et les frança
 Si son successeur se voit attribuer le charisme d’un flan pour enfants (
 dixit
 Les guignols de l’info), d’un beignet (Laurent Gerra) ou d’un fromage à pâte molle 
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video etJeJuWOwYI
+
+*vidéo · `etJeJuWOwYI-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

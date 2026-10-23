@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 31
 citations: 3
 doublon_titre: non
@@ -112,6 +112,30 @@ doublon_titre: non
 *« Elle-voue-une-haine-aux-hommes,-mais-n'assume-pas-&-supprime.-Pas-de-bol-je-réuploade-synthese.md » · origine : lien-declare*
 
 > Une démonstration par affirmation plutôt que par preuve : la vidéoscopie révèle un discours qui claims la misandrie comme compréhensible sans jamais nommer concrètement les hommes visés, alors même que l'intervenante accuse des catégories entières de la population.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+> si tu avais eu une chaîne de podcast et internet dans les années 90 et que tu avais posé la même question je pense que ton interlocuteur ou ton interlocutrice t'aurait regardé avec des yeux globuleux en te demandant de quoi tu parles parce qu'il y a encore très peu il n'y avait pas de continuum de je suis bien je suis un peu moins bien je suis atteint de troubles légers je suis atteint de troubles plus marqués je suis en trauma Non, il y avait des gens atteints de psychopathologie qu'on traitait plus ou moins bien, généralement d'ailleurs de manière assez agressive, par voie médicamenteuse, ou parfois avec des traitements de l'ordre de la barbarie, enfermement, jeûne très prolongé, voire choc électrique, etc.
+
+*Termes de la formation dans ce passage : agressive, ferme, parles, trait, voie*
+
+### Video DS2SQWBDEm0
+
+*vidéo · `DS2SQWBDEm0-transcript.md`*
+
+### Video rp3jksmt-cQ
+
+*vidéo · `rp3jksmt-cQ-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

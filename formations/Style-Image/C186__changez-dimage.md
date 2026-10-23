@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 2
 documents_materiau: 6
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 39
 citations: 0
 doublon_titre: oui
@@ -282,6 +282,30 @@ Très très bon article, j'aime le style de l...
 
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+> dont Lex a sorti qu'en fait il cachait ses smarties dans la voiture comme un lâche c'est terrible les gens sont toujours le contre-modèle ou l'incarnation des anti-vertus qu'ils prônent c'est pour ça que je pense que quand on cherche à avoir des bons conseils de quelqu'un il vaut mieux pas chercher à avoir ces conseils de quelqu'un qui paraît exemplaire sur ces sujets parce que pour moi imaginons je préfère recevoir les conseils d'un ancien obèse ou de quelqu'un qui a déjà réussi à perdre du poids pour me parler de perte de poids que de quelqu'un qui a jamais été en surpoids c'est marrant je tenais le même discours que toi relativement à l'apprentissage et au cours je remarquais que mes profs en prépa par exemple je préférais ceux qui avaient été des élèves moyens qui avaient été des élèves moyens et qui étaient devenus profs mais qui avaient rencontré des difficultés plutôt que le prof qui avait été le premier de la classe Le fort en thème, le fort en latin, le fort en maths qui devient un prof, il est insupportable.
+
+*Termes de la formation dans ce passage : eleves, maths, profs*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

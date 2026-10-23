@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 12
 documents_materiau: 3
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 0
 citations: 2
 doublon_titre: oui
@@ -201,6 +201,30 @@ matérielles et de confort
 des ventes sur Amazon
 (le jour de sa sortie tout du moins): si les femmes ne quittent pas leur m
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Elle voulait le confort, elle a eu l'ennui — Étude de cas
+
+*podcast / vidéoscopie · `Elle-voulait-le-confort,-elle-a-eu-l'ennui-synthese.md`*
+
+> 1. Offre de sécurité (mariage traditionnel) 2. Acceptation du tradeoff (ambition vs stabilité) 3. Intériorisation du rôle (devenir "maman" avant "femme") 4. Résignation progressive (l'habitude remplace le manque) 5. Réveil douloureux (les enfants grandissent, le vide apparaît)
+
+*Termes de la formation dans ce passage : ambition, grandissent, interiorisation, resignation, reveil, tradeoff*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
+### Elle était l'entrepreneur.e féministe de l'année...la fin va vous surprendre
+
+*vidéo · `0H240TN_lTY-transcript.md`*
+
+### Video 2xxduqU7hdA
+
+*vidéo · `2xxduqU7hdA-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -267,10 +291,6 @@ Devenir adulte = créer son propre chemin, pas celui que les autres attendent. L
 
 - « Tu es devenu maman avant de devenir femme. Et maintenant, tu t'ennuies — tout simplement. »
 - « Les stratégies de mariage traditionnel ont été conçues pour une espérance de vie de 35 ans. Aujourd'hui : 80+ ans. Le calcul a changé. »
-
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ---
 

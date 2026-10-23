@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 3
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 5
 citations: 3
 doublon_titre: oui
@@ -143,6 +143,26 @@ Si vous vous estimez un tant soi peu intègre, compétent et travailleur, alors 
 
 > Nice Matin découvre sa propre chaîne YouTube et analyse pourquoi la télé-réalité est sexiste
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -215,10 +235,6 @@ Stéphane est sévère sur ce point : **un homme qui se définit par son poste n
 - « Le salariat moderne est un jeu où l'employeur a trois coups d'avance et où vous croyez jouer à égalité. Vous ne jouez pas à égalité — vous jouez à la roulette avec son revolver. »
 - « Un homme qui ne peut pas se passer de son salaire est un homme qui ne peut pas se permettre d'avoir une conscience. C'est ça, l'enfer moderne : pas la pauvreté, mais l'impossibilité de dire non. »
 - « Le burn-out n'est pas une maladie, c'est une démission silencieuse. Le corps et l'esprit vous disent ce que votre ego refuse d'entendre : ce système n'est pas le vôtre. »
-
-## Concepts
-
-L'Abandon Consenti de Souveraineté · Devenir Maman avant de Devenir Femme · Le Confort comme Piège · L'Espérance de Vie et le Changement Structurel
 
 ---
 

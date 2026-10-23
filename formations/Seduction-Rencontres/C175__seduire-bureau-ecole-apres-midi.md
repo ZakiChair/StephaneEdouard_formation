@@ -84,16 +84,6 @@ confiance: 0
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### Intelligence sociale et entrée en grande école
-
-*`web-articles__seduction-avance__4895_intelligence-sociale-ecole.html.txt` · 1466 mots · archive de l'auteur*
-
-Salut Stéphane,
-L’été se couche doucement derrière les montagnes, les filles ne s’effeuillent plus et délaissent  leurs petites robes pour des tenues –malheureusement – plus habillées, et tout le monde fait sa rentrée ; toi en séminaire, moi en école. Je profite donc de ce point commun pour te tenir au courant de mon avancée et te faire partager une ou deux petites interrogations/appréhensions.
-J’intègre cette année l’école [Trucmuche] (anciennement [Bidule]), une école d’un niveau correct qui a le vent en poupe, et qui grimpe doucement l’échelle des classements. Je vais y passer 3 ans que j’espère faire fructifier de manière à pouvoir me donner les moyens de finir ma scolarité par un master de spécialisation côté. C’est un univers radicalement nouveau pour moi, et j’avoue que je me demande un peu par quel(s) bout(s) le prendre, hormis par celui du beer bong : en quelques mots, qu’est ce que tu conseillerais de faire, d’expérimenter, mais aussi d’éviter à un p’tit gars de 20 ans qui rentre en école ? Quels sont selon toi les bons réflexes (tant scolaires que sociaux) à adopter et quels sont les pièges à éviter (et qu’on ne voit souvent venir que trop tard) ?
-Les démons de minuit
-Ma deuxième question découle un peu de la première : en école comme tu le sais, la vie associative a son importance, et l’association qui semble la plus intéressante et la plus enrichissante est la Junior entreprise de l’école, qui se charge de travailler pour des grandes entreprises en leur rendant divers services (études de marché, analyse de plans marketing etc.). Avantages (confirmés par les anciens et les profs) : réseaux social et professionnel boostés, expérience du monde du travail avant l’heure, CV plus aguicheur et complément de formation très avantageux. Inconvénients : Charge de travail qui peut empiéter sur les cours et horaires pas toujours folichons ( »Bah oui, parfois tu peux rester jusqu’à 22h à l’école »). Il y a peu de places pour pas mal de candidatures, mais j’ai discuté un moment avec les membres et je crois qu’ils m’ont à la bonne (surtout la trésorière, une jolie petite blonde :), donc ça devrait être jouable.  Ma question est la suivante : de ton point de vue, et
-
 ### Bureau : séduire ses collègues, pourquoi faire ?
 
 *`web-articles__1328_seduire-collegue-bureau.html.txt` · 1096 mots · archive de l'auteur*
@@ -130,6 +120,18 @@ Et, peut-être le pire de tout, vous ne savez pas ce qui se passe autour de vous
 Au moins les élèves des
 ateliers de préparation à l’entretien d’embauche
 ont tellement fait preuve de détermination, d’énergie et de leadership pour obtenir le boulot de leur rêves, qu’ils ne peuvent revenir en arrière. Ils doivent continuer à faire preuve de charisme et d’extraversion, sous peine de se faire poursuivr
+
+### Portée disparue (après 3 semaines)
+
+*`web-articles__seduction-fondamentaux__4414_rendre-une-femme-amoureuse.html.txt` · 1559 mots · archive de l'auteur*
+
+Salut Stéphane,
+Je suis l’évolution de ton site depuis maintenant près de deux ans. je suis sénégalais et je suis peut-être pas le premier à te dire que tu te fais des adeptes à l’étranger (moi le premier). Dire que ce site a complètement bouleversé  mon univers serait peu dire. J’ai 26 ans et étudiant en commerce. jusque là, les petits conseils ramassés ici et là sur le site m’ont largement suffis (et Dieu sait que ça m’a servi ). A vrai dire, trop même! je me permets de t’écrire aujourd’hui parce que personnellement je me pose beaucoup de questions auxquelles je ne trouve aucune réponse !
+j’ai rencontré une fille dans notre business-school il y a près de 3 semaines, et dire qu’elle a de la classe serait peu dire…
+On s’est rencontré dans le hall du bâtiment ou étais entouré (je pèse mes mots) de quelques amis ainsi que de quelques amis à elle, quand elle m’a demandé une cigarette. Automatiquement je lui ai répondu que non parce que je n’encourageais pas les nouveaux fumeurs. Sur le coup, je l’ai dit sans arrière pensée, et c’est seulement après analyse que j’ai su que j’avais bien fait, vu la vitesse à laquelle elle a littéralement infiltré mon monde! De fil en aiguille elle a multiplié les signes d’intérêt (proximité, caresses, textos) ! Et c’est comme ça que je l’ai invité à prendre un café a la pause et tout a marché comme sur des roulettes. Jour suivant deuxième rendez-vous sur le banc de l’école ou on est resté 2 heures collés à parler de tout et de rien. Elle est devenue dans la semaine ma supporter n°1 pour nos petits matchs de foot entre potes, et on a passé la nuit ensemble la semaine suivante. Pendant quelques jours j’ai cru pouvoir pour la première fois vivre le grand Amour. Et résultat des courses, elle m’a largué !
+Je suis resté digne même dans la défaite, sans montrer de signe de perte de contrôle ! Mais là, je ne tiens plus, même si j’arrive encore à garder la tête haute. motif invoqué, elle disait qu’elle ne se voit pas dans une relation amoureuse, c’était il y a deux jours. là, je suis au pied du mur, parce que franchement j’ai pas envie que ça s’arrête.
+But the problem is
+, je sais pas si je dois continuer à faire l’indifférent comme je sais t
 
 ## Ce que la fiche dit de ce séminaire
 

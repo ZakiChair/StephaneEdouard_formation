@@ -13,7 +13,7 @@ programme: 9
 sections_annonce: 4
 points_annonce: 2
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 1
 idees_forces: 24
 citations: 3
 doublon_titre: non
@@ -170,6 +170,14 @@ Vous y apprendrez notamment :
 *« The-#remigration-has-already-begun-for-Yannick-Noah-synthese.md » · origine : lien-declare*
 
 > *Le contexte fiscal**
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Sonia Mabrouk se fait jeter un sort par la nouvelle égérie des verts #EELV
+
+*vidéo · `f6AnpBuaHMg-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -328,10 +328,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > 
 > ---
 
-## Concepts
-
-Le Mythe du TOP 1% Déconstruit par les Chiffres · La Sélectivité Masculine vs Féminine · Le Capital Triple (Physique, Intellectuel, Économique) · Le Dilemme du Virtuel vs In Vivo
-
 ---
 
 *Identifiant canonique `C020` (index de 369 fiches).*

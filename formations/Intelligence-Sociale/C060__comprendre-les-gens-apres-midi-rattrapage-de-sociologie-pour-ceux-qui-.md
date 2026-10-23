@@ -313,10 +313,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 > 
 > ---
 
-### Concepts enseignés
-
-La Théorie vs la Pratique — L'Absence de Profondeur · Le Retard Conceptuel — Le Recycling d'Idées · L'Anthropologie basée sur les Séries TV · La Forme comme Indicateur du Malaise · L'Identité des Feministes
-
 ### Ce qui n'est pas couvert
 
 - le déroulé exact de cette session

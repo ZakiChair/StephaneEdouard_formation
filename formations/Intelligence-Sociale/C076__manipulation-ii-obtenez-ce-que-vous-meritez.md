@@ -13,7 +13,7 @@ programme: 13
 sections_annonce: 7
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 1
+pages_developpement: 4
 idees_forces: 9
 citations: 0
 doublon_titre: oui
@@ -173,6 +173,22 @@ Après la première « brique » du mur manipulation (
 détectez les mensonges et devenez celui à qui on ne la fait pas
 ), démarrons les choses sérieuses avec, ce
 samedi 26 avril, manipulation II : obtenez
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video GRuFqA-Zf9I
+
+*vidéo · `GRuFqA-Zf9I-transcript.md`*
+
+### #QuicklyAnsweredQuestion: I'm counting JP Fanguin's scams
+
+*vidéo · `TIelArb_lgQ-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

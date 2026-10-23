@@ -13,7 +13,7 @@ programme: 9
 sections_annonce: 6
 points_annonce: 1
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 3
 idees_forces: 31
 citations: 0
 doublon_titre: oui
@@ -177,6 +177,22 @@ Bref, 2h très denses et concrètes pour apprendre à travailler sur soi et à f
 *« Video-ioOtOqb-9m0-synthese.md » · origine : lien-declare*
 
 > Trois branches d'un même mal : féminisme, antiracisme, islamisme — d'un même tronc.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4dkxZAenDDc
+
+*vidéo · `4dkxZAenDDc-transcript.md`*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### Ce candidat prend les électrices pour des c***
+
+*vidéo · `u9JM238LY0c-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

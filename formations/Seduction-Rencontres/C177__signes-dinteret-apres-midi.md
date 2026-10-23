@@ -164,28 +164,6 @@ Surtout valable en soirée et dans les lieux
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
 
-### Du (dernier ?) intérêt des grands hôtels
-
-*`web-actualite__1221_qualite-coaching.html.txt` · 896 mots · archive de l'auteur*
-
-J'ai souvent dit que je n'aimais pas les gens qui racontent leur vie sur un blog, mais ce n'était qu'une demi-vérité. Il fallait lire : les gens dont le blog n'est qu'une suite d'anecdotes personnelles dont aucune ne rencontre sur sa route un cerveau apte à en tirer une réflexion de portée plus large. Hier, donc, je me suis livré à une expérience amusante, qui a pourtant failli ne pas avoir lieu.
-3 mois déjà se sont écoulés depuis mon anniversaire. Parmi mes cadeaux, un soin du dos dans le spa de l'
-hôtel Meurice
-, à Paris. matérialisé par une petite carte couleur os dans une belle enveloppe cartonnée. Forcément, avec les ateliers de ces derniers mois
-qui se sont enchaînés
-, j'avais totalement oublié de téléphoner pour prendre rendez-vous, jusqu'à ce dimanche, où je me suis rendu compte que le cadeau n'était officiellement déjà plus valable. Armé de mon plus grand sourire (celui qui s'entend au téléphone, comme on l'apprend aux téléopératrices), j'ai appelé hier matin à la première heure pour prendre rendez-vous comme si de rien n'était, et la suite m'a paru assez intéressante pour mériter d'être racontée. Avant de la lire, remettez bien les éléments qui vont suivre à la juste perspective de l'époque dans laquelle nous vivons :
-les commerçants qui vous traitent comme un numéro dès lors qu'ils ont un tant soit peu le monopole sur le produit qu'ils distribuent
-les services publics qui jouent avec vos nerfs en vous renvoyant de service en service comme un imbécile pour la moindre opération courante
-les livreurs dont la précision dans l'heure de passage n'excède pas le "entre 8h et 17h"
-les artisans divers qui se sentent floués s'ils n'essaient pas de vous rouler
-les banques qui vous répondent avec une agressivité à la limite de l'insulte dès lors que vous faites autre chose que déposer de l'argent sur votre compte
-les serveurs qui, même après 1 smic horaire de pourboire, vous considèrent comme un gêneur et un empêcheur de rentrer tôt
-le personnel de la nuit (bars, boites) qui bat tous les records de la violence et du mépris en vous faisant sentir votre rôle de porte-monnaie servile
-les médecins, avocats, etc. qu'il faut presque appeler "de la part de" pour avoir un
-
-
-- Tous droits réservés. Reproduction / exploitation interdites sans autorisation
-
 ### Le niveau d&#8217;intérêt n&#8217;est pas binaire, par Julien
 
 *`web-articles__seduction-avance__11630_niveau-interet.html.txt` · 2801 mots · archive de l'auteur*
@@ -206,6 +184,40 @@ inférieur à 50%, vous n’avez pas passé le test d’attraction physique et c
 80-90%: objectif des deux premiers mois de relation,
 90-100%: la femme amoureuse de son homme, si vous faites tout bien pendant les deux premiers mois, vous devriez en arriver là sans trop de mal.
 (Oui, ça fait beaucoup de chiffres pour expliquer ce qu’est le niveau d’intérêt, et je n’aime pas plus que vous mettre en équations la séduction, mais j’ai eu beau chercher, je n’
+
+### 7 signes qu&#8217;il faut fuir une fille (en courant), par Julien
+
+*`web-articles__12055_filles-a-eviter.html.txt` · 3296 mots · archive de l'auteur*
+
+7 signes qu’il faut fuir une fille (en courant), par Julien
+7 signes qu’il faut fuir une fille (en courant), par Julien
+Notre précédent article
+7 raisons de ne pas sortir avec une fille Russe
+a provoqué des réactions en pagaille (et ça continue), preuve s’il en était besoin que vous êtes beaucoup plus nombreux que nous ne l’imaginions à être allé chercher le bonheur loin à l’Est, au pays des gens (mal)heureux. Julien a donc eu la bonne idée d’emboiter le pas d’Alexandre (avec son article
+pourquoi éviter les filles qui n’ont pas d’estime d’elle-même
+) et de Stéphane (avec
+les femmes à éviter
+) pour l’étendre à une recherche plus générale des
+signes
+potentiellement repérables
+chez toute personne
+, et qui doivent vous inciter à
+prendre vos jambes à votre cou
+pour ne pas perdre votre temps ni souffrir inutilement.
+Voila, c’est fini. Elle avait pourtant bien commencé, cette histoire avec cette fille. Puis, d’un coup, volte-face. Elle vous adore, oui, mais
+préfère que vous restiez amis
+. Si vous avez le malheur de lui faire comprendre que vous avez assez d’amis comme ça, elle vous explose à la figure et vous efface définitivement et sans appel de sa vie : tout est de votre faute, vous qui l’avez si mal comprise…
+Si l’histoire ci-dessus vous évoque quelque chose, félicitations, vous avez vécu l’histoire la plus formatrice et la plus douloureuse qui soit dans le petit univers de la séduction. Vous avez aussi, un temps, mis de coté tous les principes de cet univers, et oublié de juger objectivement le niveau d’intérêt de cette fille, en projetant le votre sur elle. Vous avez surtout, de fait, négligé tous les signaux qu’elle vous envoyait qui auraient du vous faire remarquer que, sur le bas coté de la route, le commissaire de course agitait le « red flag », qui vous signale de ralentir et de bien réfléchir avant de prendre le prochain virage.
+Cette fille, que je décris ci-dessus, est ce qu’on appelle une personne
+abimée
+Estime de soi
+très basse, compensée par un jeu de séduction inconscient très au point, elle peut faire tourner la tête au plus rodé des hommes qui aiment les femmes. Je l’ai rencontrée moi-même, je suis tombé dans ses filets, j’en ai pris plein la poire, 
+
+
+- Elle rigolait tout le temps, prenait les choses avec légèreté. Et ça paraissait très positif au début, alors qu’en fait c’était la traduction de: j’ai trop souffert, alors je me fous de tout. Plus rien n’a d’importance
+- Impulsive, elle prenait souvent des décisions très tranchées: divorce à un retour de business trip,  liens affectifs brutalement coupés avec des copines, elle me quitte après des vacances au soleil sans une explication
+- Besoin de dire je t’aime immédiat. Et j’étais l’homme parfait, rien à voir avec les nazes d’avant. Ca va de soi
+- Positive de surface, elle vivait chez ses parents a 28 ans, aucunes passions, fumeuse. Pourquoi? Incapable de prendre des décisions sur le long terme.
 
 ## Ce que la fiche dit de ce séminaire
 

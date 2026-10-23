@@ -205,11 +205,11 @@ Capacité à fournir un effort soutenu, à tolérer la douleur, à continuer qua
 
 ### Résilience authentique vs résilience de façade
 
-La vraie résilience, c'est ce que tu fais quand tu es écarté, licencié, humilié publiquement — pas les punchlines sur Instagram ou les cœurs перед камерой pour Pfizer. La vraie résilience se manifeste dans les moments de crise : perte d'emploi, échec sentimental, humiliation publique, maladie, confrontation avec l'autorité. La chaîne causale : 1. Exposition à l'épreuve → 2. Digestion de la douleur → 3. Extraction des leçons → 4. Renforcement.
+La vraie résilience, c'est ce que tu fais quand tu es écarté, licencié, humilié publiquement — pas les punchlines sur Instagram ou les cœurs devant caméra pour Pfizer. La vraie résilience se manifeste dans les moments de crise : perte d'emploi, échec sentimental, humiliation publique, maladie, confrontation avec l'autorité. La chaîne causale : 1. Exposition à l'épreuve → 2. Digestion de la douleur → 3. Extraction des leçons → 4. Renforcement.
 
 ### Endurance et tolérance à la douleur
 
-Capacité à supporter la douleur, la frustration, l'ennui. Qualité de plus en plus rare dans une civilization qui успокаивает la печаль и поощряет l'évitement de l'inconfort. La douleur comme information — elle signale quelque chose d'important sur ton environnement ou tes choix.
+Capacité à supporter la douleur, la frustration, l'ennui. Qualité de plus en plus rare dans une civilization qui apaise la tristesse encourage l'évitement de l'inconfort. La douleur comme information — elle signale quelque chose d'important sur ton environnement ou tes choix.
 
 ### Théorie vs Pratique
 

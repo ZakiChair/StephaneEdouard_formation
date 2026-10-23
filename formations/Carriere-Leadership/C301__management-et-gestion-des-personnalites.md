@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 14
 citations: 3
 doublon_titre: non
@@ -88,6 +88,26 @@ doublon_titre: non
 
 > 23 hommes sur 24 suicides comptabilisés, soit 96 % des victimes
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Si seulement ce pouvait être la dernière fois 🕯
+
+*vidéo · `CwU5MKuh18o-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -118,7 +138,7 @@ La caractérologie permet de classifier les personalities en types. Si les class
 - Les profils sociaux vs les profiles techniques
 - Les extravertis vs les introverts
 - Les profils orientés vers les tâches vs les profils orientés vers les relations
-- Les profils胆子大 vs les profiles risque-avers
+- Les profils vs les profiles risque-avers
 
 Chaque type a ses forces et ses faiblesses — le bon manager connaît ces différences et en profite pour constituer des équipes équilibrées.
 

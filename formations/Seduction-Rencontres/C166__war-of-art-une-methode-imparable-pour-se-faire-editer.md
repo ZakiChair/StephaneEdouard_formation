@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 7
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 12
 citations: 0
 doublon_titre: non
@@ -149,6 +149,26 @@ Témoignage 1\[ 2:58 \] Hide Player \| Play in Popup \| Download
 *« Video-y4PKeEdGQ6w-synthese.md » · origine : lien-declare*
 
 > Le « safari » : éviction successive de figures historiques du groupe (Julien Lepers, David Pujadas, Tex, Patrick Sébastien, etc.) dans une logique présentée comme un « vaste plan de mise à la retraite » disfrazé en direction générale
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### La Pécresse is a shipwreck (feat. Pierre Jovanovic) #2022 #LR
+
+*vidéo · `Ffhs9770rVU-transcript.md`*
+
+### Video LfkvDekiWus
+
+*vidéo · `LfkvDekiWus-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+### Video etJeJuWOwYI
+
+*vidéo · `etJeJuWOwYI-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

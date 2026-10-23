@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 10
 points_annonce: 10
 documents_materiau: 6
-pages_developpement: 0
+pages_developpement: 2
 idees_forces: 17
 citations: 0
 doublon_titre: oui
@@ -247,6 +247,57 @@ Vous voulez prendre de l’envergure professionnellement ? Donnez-vous en les mo
 *« Video-u8r9BLSx7UU-synthese.md » · origine : lien-declare*
 
 > L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### McKinsey Affair: A State Scandal?
+
+*vidéo · `I2CJr50M3iU-transcript.md`*
+
+### Video Twk5FXQKdeM
+
+*vidéo · `Twk5FXQKdeM-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Savoir et Savoir-faire sont sur un bateau… … qui pousse l'autre à l'eau, devient capitaine, reçoit la gloire et les honneurs Cette antinomie, cette fracture, cette lutte à mort entre – d'un côté la compétence brute, le laborieux silencieux, voire le génie autiste façon Alan Turing (l'inventeur de l'ordinateur, popularisé par un film Hollywoodien, mettant… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Savoir et Savoir-faire sont sur un bateau…
+… qui pousse l'autre à l'eau, devient capitaine, reçoit la gloire et les honneurs
+Cette antinomie, cette fracture, cette lutte à mort entre
+– d'un côté la compétence brute, le laborieux silencieux, voire le génie autiste façon Alan Turing (l'inventeur de l'ordinateur, popularisé par un film Hollywoodien, mettant en avant son incapacité pathologique à expl
+2. La bonne réponse, celle du bon sens, est que vous devez être les deux à la fois : capables de produire ce qu'on vous demande (et même légèrement plus, toujours légèrement plus), ET de le présenter en créant le désir
+3. Exemple personnel
+Un jour, j'ai commandé une mission à un prestataire
+4. Il est consultant en développement informatique front end, c'est à dire qu'il optimise l'affichage graphique des sites internet
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

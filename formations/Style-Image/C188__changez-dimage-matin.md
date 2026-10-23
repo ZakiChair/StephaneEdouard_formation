@@ -349,10 +349,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 
 > **À citer** : `C186`, en annonçant « reconstituée depuis C186 ». Jamais `C188` — la trace serait fausse.
 
-## Concepts
-
-Le Modèle Unique injecté de "Parisienne" · L'Exotisation Positive vs l'Interdiction Culturelle · Le Double Standard de la Représentation · La Métisse Forcée vs l'Autochtone Invisible
-
 ---
 
 *Identifiant canonique `C188` (index de 369 fiches).*

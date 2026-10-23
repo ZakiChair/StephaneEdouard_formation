@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 11
 documents_materiau: 9
-pages_developpement: 6
+pages_developpement: 10
 idees_forces: 28
 citations: 0
 doublon_titre: oui
@@ -339,6 +339,66 @@ Mais comment en arrive-t-on là ? A la base il faut un terreau propice, qu’une
 
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video FtBZ6sDLQM4
+
+*vidéo · `FtBZ6sDLQM4-transcript.md`*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+Quand vous « improvisez » vos débuts de relation, il se passe quoi ? J’ai donné des centaines d'études de cas, à l’issue desquelles je puis affirmer une chose avec certitude : la plupart des problèmes (souvent irrattrapables et insurmontables) dans lesquels vous vous mettez viennent du fait que vous n’avez pas su « cadrer » les… 
+
+Read More
+
+---
+
+### Points clés
+
+1. Quand vous « improvisez » vos débuts de relation, il se passe quoi
+2. J’ai donné des centaines d'études de cas, à l’issue desquelles je puis affirmer une chose avec certitude : la plupart des problèmes (souvent irrattrapables et insurmontables) dans lesquels vous vous mettez viennent du fait que vous n’avez pas su « cadrer » les choses dans les 3 premiers mois
+3. Si j’étais un webmarketeur (ou un voleur, ce qui revient à peu près au même), je vous vendrais un pilule magique pour résoudre ce problème instantanément, ou bien je vous vendrais un ebook de 47 pages du style « casé en 1 semaine »… Mais aujourd’hui, se caser avec la première femme disponible n’ai rien de compliqué, n’importe quel con peut le faire
+4. Choisir une personne qui nous plaît, qui ne nous connaît ni d’Eve ni d’Adam, et faire monter son niveau d’intérêt de rien du tout à &gt;90 % en trois mois, c’est une autre paire de manches, et c’est le sujet du séminaire
+5. Réfléchissons ensemble un instant, avec notre fameuse « veste de sociologue » (les sociologues ont souvent une veste, souvent moche, mais c’est un autre débat)
+PETITE SOCIOLOGIE DE LA RENCONTRE
+Comment faisait votre grand-père
+6. A l’époque de nos grands-parents, les rencontres étaient rares, mais finalement assez simples
+7. A vingt ou vingt cinq ans, si vous n’étiez toujours pas marié, la réputation courait dans le village que vous étiez « à prendre », on évaluait précisément votre patrimoine terrien, bovin et ovin, puis les familles s’arrangeaient sans effo
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

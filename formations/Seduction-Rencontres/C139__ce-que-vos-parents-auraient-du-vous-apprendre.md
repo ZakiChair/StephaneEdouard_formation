@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 3
+pages_developpement: 9
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -167,6 +167,26 @@ Programme de la journée
 Matinée  (10h-13h)
 A – Apprendre à se conn
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video 1gpHfNf76g0
+
+*vidéo · `1gpHfNf76g0-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video kjMBBW4fruY
+
+*vidéo · `kjMBBW4fruY-transcript.md`*
+
+### Video 3_Fxd7sKZFc
+
+*vidéo · `3_Fxd7sKZFc-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -255,10 +275,6 @@ _Aucune citation disponible dans le résumé. Le contenu complet nécessite un a
 > Un moustachu célèbre disait il n'y a pas si longtemps qu'il fallait « philosopher à coups de marteau ». Pour devenir quelqu'un et ne pas subir sa vie, c'est au marteau…piqueur ( ! ) qu'il faut passer son éducation, et dynamiter toutes les croyances limitantes que l'on nous a tatouées partout sur le corps depuis la naissance,
 > 
 > ---
-
-## Concepts
-
-La Métonymie et la Préterition · Le Gage Inutile (Trigger Warning) · La Pseudo-Diversité qui Uniformise · La Trinité Patriarcale Universelle
 
 ---
 

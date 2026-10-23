@@ -171,15 +171,11 @@ Osez sortir seul
 
 ### Points clés
 
-### Le marché des rencontres
-- Première étape : libéralisation (droit de cuissage aboli).
-- Deuxième étape : dérégulation — polygamie latente, 10 hommes accaparent 80% des femmes attractives.
+- **Le titre provocateur** : "Arracher" contenu une violence symbolique que les critiques ont mal interprétée
+- **Le concept de disponibilité** : Vacances au sens de "vaquer à ses occupations" - celui qui a du temps et de l'intelligence est convoité
+- **L'étude de cas** : Nicolas, 32 ans de Lyon, appelle pou
 
-### Analyse des participants
-- Profile prédit par l'auteur : hommes avec "petites mains de paille", grosse pomme d'adam, menton rentrée, épaules voûtées, voix faible — métiers : informaticiens, ingénieurs
-
-### Twk5FXQKdeM-synthese
-# Synthèse Twk5FXQKdeM : Sérotonine, Houellebecq et barbares
+---
 
 ---
 

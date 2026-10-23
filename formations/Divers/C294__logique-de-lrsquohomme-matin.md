@@ -138,12 +138,6 @@ trop tôt… trop vite…
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
 
-### Résumé
-
-Rocaïa Diallo, née et ayant grandi à Paris, décrit le choc de taper "Parisienne" dans un moteur de recherche : des dizaines de femmes aux silhouettes et profils quasi identiques s'affichent, sans qu'elle puisse se reconnaître. L'orateur rebondit en comparant ce que Google renvoie pour les origines gambienne et sénégalaise : la Sénégalaise est représentée comme "noire et voluptueuse", tandis que la Parisienne n'a pas le droit d'être "blanche et mince" — elle doit se "métisser de force". L'autre sens (une blanche adoptant des code
-
----
-
 ### Points clés
 
 - **Le titre provocateur** : "Arracher" contenu une violence symbolique que les critiques ont mal interprétée
@@ -153,14 +147,21 @@ Rocaïa Diallo, née et ayant grandi à Paris, décrit le choc de taper "Parisie
 ### plaidoyer-pour-le-retour-du-bagne-synthese
 # Synthèse : Plaidoyer pour le retour du bagne — plaidoyer-pour-le-retour-du-bagne
 
-<think>The user wants me to generate a structured summary of this podcast transcript in French, following the specified format with sections for title, theme central, points clés, analyse, and conclusion.
 
-Let me analyze the transcript. The podcast discusses a "stage de citoyenneté" (citizenship workshop) attended by young adults in the Yvelines department, organized by the prison integration and probation service. The host (Édouard) critiques the disconnect between the formal language used by officials and the reality of the participants, and makes various ob
 
-### elle-tape-parisienne-dans-google-synthese
-# Elle tape Parisienne dans Google — Synthèse
+---
 
-**Source** : https://www.youtube.com/watch?v=cJv08z8EzO8
+# Synthèse : Plaidoyer pour le retour du bagne
+
+**Source** : YouTube — Vidéoscopie (Édouard)
+
+---
+
+#### Thème central
+
+Cette vidéo analyse un reportage sur un « stage de citoyenneté » organisé par le service pénitentiaire d'insertion et de probation des Yvelines, réunissant quatorze jeunes adultes délinquants dans une ancienne usine reconvertie en MJC. L'auteur y développe une réflexion critique sur l'échec de l'intégration, la fracture culturelle entre les institutions et les publics visés, et propose un « programme » de « redressement » fondé sur la discipline, le dress code et la maîtrise linguistique.
+
+---
 
 ---
 

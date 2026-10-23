@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 12
 points_annonce: 0
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 21
 citations: 0
 doublon_titre: oui
@@ -178,6 +178,26 @@ En commandant un produit chez moi, vous rémunérez le travail d’un passionné
 *« Video-py5soTfXpxQ-synthese.md » · origine : lien-declare*
 
 > Le discours adolescence des adultes — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video rp3jksmt-cQ
+
+*vidéo · `rp3jksmt-cQ-transcript.md`*
+
+### Video UaIIxVUQExQ
+
+*vidéo · `UaIIxVUQExQ-transcript.md`*
+
+### Video _z11PNOSbnM
+
+*vidéo · `_z11PNOSbnM-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

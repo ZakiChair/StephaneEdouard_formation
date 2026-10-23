@@ -143,30 +143,6 @@ Séduction : du timide au tombeur (from AFC to PUA)
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
 
-## Ce que la fiche dit de ce séminaire
-
-*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
-
-### Résumé
-
-Réflexion philosophique sur le bonheur declaré vs le bonheur authentique, et méfiance envers ceux qui ont besoin de hurler leur bonheur face caméra.
-
-### Points clés
-
-- Citation de Romain Gary : "Les gens les plus heureux qu'il avait rencontrés étaient parfois des cordonniers avec des activités simples et solitaires"
-- Ces personnes n'auraient jamais besoin de déclarer explicitement qu'ils sont heureux
-- Méfiance face aux gens qui ont besoin d'hurler leur bonheur face caméra
-- "Les mots assénés, je m'en méfie"
-- Le bonheur authentique ne se déclare pas, il se ressent et se v
-
-### 8AQZQ5cqIiU-synthese
-# Synthèse — That time I found myself (unexpectedly) debating with the spokesperson for the National Front
-
-**Video ID**: 8AQZQ5cqIiU
-**URL**: https://www.youtube.com/watch?v=8AQZQ5cqIiU
-
----
-
 ---
 
 ## Reconstitution

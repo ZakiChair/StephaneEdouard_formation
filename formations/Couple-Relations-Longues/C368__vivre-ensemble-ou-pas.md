@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 12
 citations: 3
 doublon_titre: non
@@ -65,6 +65,38 @@ doublon_titre: non
 *« La-France-a-un-nouvel-intellectuel...-le-monde-entier-nous-l'envie-synthese.md » · origine : lien-declare*
 
 > "Entre-documenter" : documenter sans êtredans le réel, depuis une bulle.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Faire appartement à part — La nouvelle lubie des couples bobos
+
+*podcast / vidéoscopie · `Faire-appart'-à-part,-la-nouvelle-lubie-des-couples-bobos-synthese.md`*
+
+> Distinctions importantes Hygiène différente = seuils de tolérance différents** : Les hommes et les femmes ont des standards d'hygiène différents. "Synchroniser les rythmes de sommeil" est une hérésie. Investissement temporaire vs engagement long terme** : Les hommes investissent beaucoup dans la conquête, puis se désinvestissent après. Ce n'est pas une fatalité — c'est un pattern évitable. Multi-domiciles vsmono domicile** : Les couples qui réussissent vraiment sont multi-domiciles. Ils ne s'enferment pas sous le même toit ad vitam.
+
+*Termes de la formation dans ce passage : domiciles, enferment, heresie, hygiene, multi, rythmes*
+
+> Applications pratiques Opter pour deux chambres** : Recommandation pour les couples qui restent ensemble — ne pas tout partager. Respecter les espaces de l'autre** : Ne pas tout mélanger — garder une partie de son indépendance. Comprendre que la jalousie n'est pas le sujet** : "Ça n'a rien à voir avec la jalousie ou la confiance, c'est une question d'hygiène de vie et de respect des espaces."
+
+*Termes de la formation dans ce passage : chambres, espaces, hygiene*
+
+### 🔴 #MavaChou / Adrien : ma #vidéoscopie de leur rupture (fév. 2021)
+
+*vidéo · `aaRbe0uTTpo-transcript.md`*
+
+### Faire appart' à part, la nouvelle lubie des couples bobos
+
+*vidéo · `fp8atkK18eY-transcript.md`*
+
+> 21. comme gentil garçon est un garçon gentil gentil garçon n'est pas un garçon gentil un garçon gentil rarement un gentil garçon les couples de gens qui ont réussi en général sont multi domicile c'est très rare qui s'enferme sous le même toit advitam ne serait ce que parce que leur activité généralement réclament du goût de voyager ou ne pas être aux mêmes heures etc les couples qui réussissent après il faut se méfier des billets on prend souvent comme couples qui ont réussi nos grands parents nos
+
+*Termes de la formation dans ce passage : multi, toit, vitam*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

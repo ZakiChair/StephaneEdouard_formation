@@ -95,9 +95,9 @@ L'homme qui contrôle sa compagne par peur de la trahison commet une erreur de c
 
 ### La jalousie dans le cycle de la relation
 La jalousie suit un cycle prévisible dans les relations :
-1. **Phase initiale** : Absence de jalousie (l'attraction屏蔽 la peur)
+1. **Phase initiale** : Absence de jalousie (l'attraction la peur)
 2. **Phase de stabilisation** : Émergence des premières insecurities
-3. **Phase detest** : La jalo
+3. **Phase detest** : La jalous
 
 ### Exercices / Pratiques
 
@@ -112,7 +112,7 @@ La jalousie suit un cycle prévisible dans les relations :
 
 ### Citations de Stéphane
 
-> "La jalousie masculine réagit à la trahison sexuelle. La jalousie féminine réagit à l'abandon émotionnel. Ce n'est pas la même émotion — c'est pour ça que les hommes et les femmes se的话语听不懂 quand il s'agit de jalousie."
+> "La jalousie masculine réagit à la trahison sexuelle. La jalousie féminine réagit à l'abandon émotionnel. Ce n'est pas la même émotion — c'est pour ça que les hommes et les femmes sede quand il s'agit de jalousie."
 
 > "L'homme qui contrôle par peur de la trahison ne protège pas sa relation — il la détruit. Une femme qui se sent contrôlée ne respecte pas son homme. Elle le craint."
 

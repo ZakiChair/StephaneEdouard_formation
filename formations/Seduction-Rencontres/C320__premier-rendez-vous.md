@@ -277,6 +277,26 @@ Donc limitez vous à prendre un verre pour un premier rendez-vous, sachant que s
 trop tôt… trop vite…
 ‘, ce qui contrairement à ce que le garçon la
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -368,10 +388,6 @@ Le concept des 100 jours pour construire une relation repose sur :
 - « Le premier rendez-vous n'est pas une 'entrevue' — c'est un prélude. L'objectif : donner envie d'un deuxième, pas tout savoir sur l'autre en une soirée. »
 - « L'intelligence relationnelle, c'est de voir clair dans les événements qui se produisent socialement. Les gens ne disent jamais toute la vérité ni jamais 100% de mensonges — c'est un tissu complexe entre les deux. »
 - « L'homme qui veut construire une relation doit d'abord comprendre comment les femmes fonctionnent vraiment — pas les stereotypes, pas les discours officiels, mais les mécanismes réels. »
-
-## Concepts
-
-Le Mythe du TOP 1% Déconstruit par les Chiffres · La Sélectivité Masculine vs Féminine · Le Capital Triple (Physique, Intellectuel, Économique) · Le Dilemme du Virtuel vs In Vivo
 
 ---
 

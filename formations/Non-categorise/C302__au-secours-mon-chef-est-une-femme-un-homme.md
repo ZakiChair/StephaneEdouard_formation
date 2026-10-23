@@ -111,10 +111,6 @@ Et puis, de toutes façons, citez-moi un autre expert des différences hommes-fe
 
 ---
 
-## Concepts
-
-Le Modèle Unique injecté de "Parisienne" · L'Exotisation Positive vs l'Interdiction Culturelle · Le Double Standard de la Représentation · La Métisse Forcée vs l'Autochtone Invisible
-
 ---
 
 *Identifiant canonique `C302` (index de 369 fiches).*

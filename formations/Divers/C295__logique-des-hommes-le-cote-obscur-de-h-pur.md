@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 2
-pages_developpement: 8
+pages_developpement: 9
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -89,6 +89,49 @@ Contrairement à ce que pense beaucoup, l’obsession amoureuse n’est donc pas
 Premièrement, à l’origine, on trouve quasiment toujours une situation de stagnation, d’ennui diffus  qui conduit à l’attente d’un élément perturbateur. Or quelqu’un qui a toujours vivoté d’une manière agréable mais pas exceptionnelle a développé plus d’occupations routinières qu’une personne qui s’est déjà consacré entièrement à un projet ambitieux. Elle est donc moins prédisposée à ressentir la vacuité de son existence et le désir d’aventure. On dit souvent que la dépression est l’apanage des pays riches : ce n’est pas uniquement parce que la survie matérielle capte l’attention , c’est aussi parce qu’il y a des possibilités de mobilité sociale et existentielle plus fortes dans les régions prospères. Si on n’est pas capable d’imaginer une vie plus excitante que celle qu’on a, on ne risque pas , en effet, de fantasmer sur ce qu’on pourrait avoir.
 Deuxièmement, je crois vraiment que la sensibilité d’une personne est un indicateur fort de sa profondeur spirituelle. Beaucoup d’étude ont ainsi montrées la corrélation qui existait entre intelligence et dépression. D’une manière générale, nous avons tous une tension intérieure, qui est le moteur de l’action, de la motivation et du dépassement de soi . Quand cette pression interne n’est pas dirigée sur un but positif, elle se transforme en angoisse qui ronge et détruit celui qui la porte. L’intell
 
+### Revue de presse, #1: actualité des rencontres, du couple et des relations hommes-femmes | Spike S&eacute;duction
+
+*`web-actualite__21198_revue-de-presse-1.html.txt` · 1039 mots · archive de l'auteur*
+
+– Cliquez sur les liens (ou sur l’image) pour accéder à l’article source –
+Marché du travail féminin
+Cinéma
+Anne Athaway jugée trop vieille à 32 ans par les producteurs de la communauté d’Hollywood, la dure loi du remplacement de l’actrice en milieu de carrière, qui se sent toujours Femme-Enfant mais ressemble trop à une Femme-Femme –
+fr.cinema.yahoo.com
+Baiser d’au revoir à la femme enfant qui était en elle
+Pinups & starlettes
+Pour mal finir, vous avez le choix: boxe, ou prostitution. Mais dans le second cas, il y aura toujours quelqu’un pour vous inventer un « pureté » sur l’épitaphe –
+telerama.fr
+« Elle avait une moralité, un honnêteté et une forme de pureté. Elle méritait mieux, elle méritait plus »
+Quand une activité professionnelle exige d’être faite dans l’obscurité, elle finit, en général, mal
+Mannequinat
+On a trouvé un « mannequin » d’1m95. Tout, tout, tout pour se rendre heureuse par le truchement de l’objectif photographique et du regard concupiscent de l’homme. Tout
+Mannequinat, suite
+« La nouvelle Miss Alsace n’est autre que la nièce du chef cuisinier renommé. Les prochains objectifs de la plus belle fille d’Alsace ? Profiter du jour présent, sans oublier son
+master
+en
+marketing
+qui se profile à l’horizon ».
+Tout est dit. –
+lalsace.fr
+La couronne de la reine, mais la reine de quoi?
+Culture
+Christine Angot sort un livre. Pas de chance, quelqu’un l’a lu et va en dévoiler des passages. Il s’appelle Nicolas Ungemuth.
+Christine Angot, notre quota de femmes-écrivains promues par le communautarisme et le hold-up idéologique de
+psyrose
+« Aucun être humain lecteur occasionnel ou régulier- n’est préparé à une écriture aussi spectaculairement catastrophique, à un vocabulaire aussi pauvre, à une ponctuation aussi mal employée »(…) « un ennui colossal dans le fond, et cet ennui rend la lecture encore plus ardue qu’elle ne l’était déjà dans la forme. C’est le drame actuel de nombreux écrivains français : persuadés que leur vie est passionnante, ils se sentent obligés de la consigner et d’en faire profiter les multitudes »
+–
+Lefigaro.fr
+Extraits:
+«- Pierre!
+– Oui.
+– … Tu m’aimes?
+– Regarde-moi.
+– Je te regarde.
+– Je t’aime Rachel.
+– Moi aussi, tu sais.»
+«- Eh bien
+
 ### Commandez le séminaire logique des femmes
 
 *`web-actualite__17102_logique-des-femmes.html?preview=1.txt` · 1109 mots · archive de l'auteur*
@@ -132,38 +175,60 @@ tchat
 ), vous entendrez des dizaines de
 révé
 
-### Courrier des lecteurs : logique des femmes et nutrition | Spike Séduction
+## Ce qu'il a dit et écrit sur ce sujet
 
-*`web-articles__20103_courrier-des-lecteurs-logique-des-femmes-et-nutrition.html.txt` · 466 mots · archive de l'auteur*
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
 
-Stéphane,
-Je suis actuellement en stage dans un cabinet de nutrition où j’apprends des techniques d’entretien motivationnel, les principes de base de l’alliance thérapeutique et d’une manière plus générale, tout ce qui me servira à mener des entretiens. Anorexie, boulimie, obésité, troubles du comportement alimentaire… je vois défiler pas mal de patientes et ce qui me frappe c’est que je vois dans ma pratique quotidienne des illustrations de
-tous tes séminaires
-Je ne t’apprends rien en effet si je te dis que le 95% de la clientèle des cabinets de thérapie (encore plus pour tout ce qui touche à l’alimentation) sont des femmes.
-De la manipulation à l’état pur
-, du langage et de la
-logique des femmes
-dans tous les sens,
-des secret agendas
-qui font froid dans le dos (j’essaie de ne pas trop penser au mari ou au conjoint dans l’histoire pour rester le plus professionnel possible)… Bref tu auras compris que les journées sont épuisantes donc j’ai trouvé le moyen de me changer les idées ce week end.
-Persol sur le nez, j’ai passé mon dimanche au volant d’une vieille Austin de 1932 magnifiquement restaurée par un passionné. N’importe qui devrait apprendre à rouler dans une telle voiture. Le jeu dans le volant, les sensations sur la route, les suspensions quasiment inexistantes, le klaxon d’époque, un vrai bonheur sur la route.
-Bonne semaine et à bientôt,
-Simon
-p.s.
-Le dernier podcast
-est top. Le video apporte une vraie valeur ajoutée. En témoigne le nombre de vue sur Youtube ;)
-Comment séduire : les 5 règles fondamentales
-Comment séduire une femme : de votre voisine de palier tout mignonne et qui vous plairait bien, à une inconnue abordée dans la rue, ou encore sur internet, les règles ne sont pas fondamentalement différentes.
-D'abord, vous aurez fait un grand pas lorsque vous aurez compris que la plupart de...
-lisez la suite
-Le contenu de nos articles est réservé à nos membres.
-Vous pouvez en faire partie gratuitement en indiquant votre email ci-dessous.
-Vous commencerez la lecture de l'article
-immédiatement après avoir validé.
-ACCEDER A L'ARTICLE
-Nous n'envoyons jamais de spam. jamais.
-Séminaire de mai : get lucky (fabriquez votre chance)
-en vente jusqu'au 31/05/2015 mi
+### Cultive ta confiance en toi
+
+*podcast / vidéoscopie · `Cultive-ta-confiance-en-toi-synthese.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- **L'amour comme moteur de transformation** : L'amour vrai pousse les personnes intéressantes à devenir meilleures pour mériter l'affection de celui ou celle qu'elles apprécient.
+- **L'erreur de la séduction par le corps** : Donner facilement son corps ne crée pas d'attachement durable chez l'homme, au contraire — celui-ci se détourne une fois satisfait.
+
+_[extrait tronqué]_
+
+### This-government-campaign-was-so-successful-that-you've-(probably)-never-seen-it.-synthese
+# Synthèse : This government campaign was so successful that you've (probably) never seen it. — pIYw1heR1pc
+
+
+
+
+_[extrait tronqué]_
+
+### Cultive-ta-confiance-en-toi-synthese
+# Cultive ta confiance en toi
+
+#### Thème central
+La confiance en soi comme foundation de l'action, les mécanismes de construction de l'estime de soi, et la différence entre confiance authentique et arrogance compensatrice.
+
+#### Concepts clés
+- **Confiance en soi vs arrogance** : La confiance permet d'agir ; l'arrogance est une compensation d'un manque profond — le premier crée, le second masque.
+- **Preuve par l'action** : La confiance se construit par des actes réussis, pas par des declarations — on ne peut pas declarer sa confiance, on la démontre.
+- **Risque et confiance** : Plus on prend de risque, plus on développe sa confiance — le comfort est l'ennemi de la confiance.
+- **Homme vs Femme** : Les mécanismes de construction de la confiance diffèrent selon le genre — l'homme a besoin de preuves tangibles, la femme de reconnaissance relationnelle.
+- **Charisme vs confiance** : Ce n'est pas parce que tu es charismatique que tu as confiance en toi — le charisme peut être une façade.
+
+#### Distinctions importantes
+- **Confiance en soi vs confiance dans les autres** : Deux choses distinctes — on peut avoir l'une sans l'autre. L'homme peut avoir confiance en ses capacités tout en se méfiant des autres.
+- **Apparence vs substance** : Une confiance affichée peut être une façade — la vraie confiance est plus discrète, plus modeste.
+- **Estime de soi vs confiance en soi** : L'estime de soi est globale (je suis quelqu'un de bien), la confiance en soi est spécifique à un domaine (je sais faire ça).
+- **Jolie ≠ confiant** : Ce n'est pas parce que tu es jolie que tu as confiance en toi — les filles jolis sont nombreuses à ne pas avoir confiance en elles.
+
+#### Mécanismes / Logique
+La confiance en soi se construit selon un mécanisme d'amplification :
+
+1. **Action → Résultats → Confiance renforcée → Nouvelles actions**
+2. **Échec → Apprentissage → Adaptation → Respiration**
+
+Le cercle vicieux de la sous-confiance :
+- Échec → Inte
 
 ---
 

@@ -225,10 +225,6 @@ Le contenu de session de cette formation est **derrière le paywall**. Il n'est 
 > 
 > ---
 
-### Concepts enseignés
-
-La Métonymie et la Préterition · Le Gage Inutile (Trigger Warning) · La Pseudo-Diversité qui Uniformise · La Trinité Patriarcale Universelle
-
 ### Ce qui n'est pas couvert
 
 - le déroulé exact de cette session
@@ -236,10 +232,6 @@ La Métonymie et la Préterition · Le Gage Inutile (Trigger Warning) · La Pseu
 - les exercices propres à cette session
 
 > **À citer** : `C148`, en annonçant « reconstituée depuis C148 ». Jamais `C147` — la trace serait fausse.
-
-## Concepts
-
-La Métonymie et la Préterition · Le Gage Inutile (Trigger Warning) · La Pseudo-Diversité qui Uniformise · La Trinité Patriarcale Universelle
 
 ---
 

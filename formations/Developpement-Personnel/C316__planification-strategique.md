@@ -141,7 +141,7 @@ Planifier signifie faire des choix — et chaque choix implique un trade-off. Le
 
 ### L'adaptabilité
 
-Le plan doit être un living document — il évolue avec vous. Les circonstances changent, les opportunités émergent, les priorités se shiftent. L'homme qui планifiait rigidement sans_adapter est aussi perdu que celui qui ne планifiait pas du tout.
+Le plan doit être un living document — il évolue avec vous. Les circonstances changent, les opportunités émergent, les priorités se shiftent. L'homme qui planifiait rigidement sans_adapter est aussi perdu que celui qui ne planifiait pas du tout.
 
 ---
 
@@ -150,9 +150,9 @@ Le plan doit être un living document — il évolue avec vous. Les circonstance
 - **Définir votre vision à 10 ans** : Prenez une journée pour écrire comment vous voulez que votre vie soit dans 10 ans — pas de limites, soñ grand
 - **Backwards planning** : Partez de votre vision et travaillez en arrière — qu'est-ce qui doit être vrai dans 5 ans ? Dans 3 ans ? Dans 1 an ?
 - **Définir vos 3 priorités** : Identifiez les 3 domaines les plus importants pour votre vision — concentrez 80% de votre énergie là-dessus
-- **Planification hebdomadaire** : Chaque dimanche, planifiez votre semaine — quésto делать each day pour avancer vers vos objectifs
+- **Planification hebdomadaire** : Chaque dimanche, planifiez votre semaine — quésto each day pour avancer vers vos objectifs
 - ** Revue quotidienne** : Chaque matin, revoyez votre plan de la semaine et identifiez les 3 actions prioritaires de la journée
-- **Gestion des blocs de temps** : Bloquez du temps日历 pour le travail deep sur vos priorités — ne laissez pas les réunions dévorer votre temps
+- **Gestion des blocs de temps** : Bloquez du temps pour le travail deep sur vos priorités — ne laissez pas les réunions dévorer votre temps
 - **Ajuster sans guilt** : Si un plan ne fonctionne pas, ajustez — ne restez pas sur un chemin qui ne mène nulle part par orgueil
 
 ---

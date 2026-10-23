@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 4
 points_annonce: 8
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 1
 idees_forces: 6
 citations: 0
 doublon_titre: oui
@@ -126,6 +126,14 @@ Venez découvrir le contenu en français le plus approfondi sur le sujet du rés
 *« Ces-nouvelles-humoristes-obligées-de-s'enlaidir-pour-passer-sur-#Brut-et-#Konbini-synthese.md » · origine : lien-declare*
 
 > L'auto-enlaidissement comme rite de passage : L'humoriste présente un effort visible de se rendre peu séduisante (cheveux gras, t-shirt déformé, jupe en jean), ce qui constitue un marqueur culturel identifié des humoristes de gauche sur les réseaux sociaux
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video OPtQxFnZFX4
+
+*vidéo · `OPtQxFnZFX4-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

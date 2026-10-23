@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 1
+pages_developpement: 2
 idees_forces: 11
 citations: 3
 doublon_titre: non
@@ -116,6 +116,14 @@ Très très bon article, j'aime le style de l...
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Comment se construire une esthétique
+
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -149,7 +157,7 @@ L'élégance vraie est personnelle, le conformisme est une fuite de la singulari
 
 ### La retenue comme marque de distinction
 
-Savoir se retenir de trop en montrer est une marque de distinction. La subtilité, le understatements, le choix de ne pas tout révéler — voilà ce qui distingue l'homme класса de l'homme qui cherche l'attention. Cette retenue s'applique à tout : la tenue (ne pas tout montrer de son corps), le langage (ne pas tout dire de ses opinions), la présentation (ne pas surcharger). Le trop est toujours vulgarité — le juste assez est toujours classe.
+Savoir se retenir de trop en montrer est une marque de distinction. La subtilité, le understatements, le choix de ne pas tout révéler — voilà ce qui distingue l'homme de l'homme qui cherche l'attention. Cette retenue s'applique à tout : la tenue (ne pas tout montrer de son corps), le langage (ne pas tout dire de ses opinions), la présentation (ne pas surcharger). Le trop est toujours vulgarité — le juste assez est toujours classe.
 
 ### Le corps comme message
 

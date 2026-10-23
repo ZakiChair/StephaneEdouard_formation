@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 7
 points_annonce: 1
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 11
 citations: 0
 doublon_titre: oui
@@ -197,6 +197,26 @@ Enfin (3), sortir des sentiers battus ( _think outside the box_) pour vous propo
 *« Émettre-une-critique-constructive-synthese.md » · origine : lien-declare*
 
 > Un système de gradation en trois niveaux : pour éviter la confrontation brutale, Stéphane utilise un esquema progressif avant d'en venir à la critique frontale.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video AmB1ezrQpY4
+
+*vidéo · `AmB1ezrQpY4-transcript.md`*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

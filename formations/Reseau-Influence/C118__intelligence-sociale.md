@@ -13,7 +13,7 @@ programme: 5
 sections_annonce: 6
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 6
+pages_developpement: 10
 idees_forces: 32
 citations: 0
 doublon_titre: oui
@@ -243,6 +243,81 @@ compétence sociale
 . Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres bouzes innommables d’ennui mou. Pour revenir à ce qui nous intéresse, il faut savoir que plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus-qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants.
 Plus d’histoires
 Il faut le reconnaître, vous avez bien progressé. Grâce au contenu (de qualité, disons, diversifiée) disponible sur les différents sites de séduction depuis les années 2004-2005, le niveau moyen des dizaines de milliers d’hommes qui se sont intéressés au sujet est monté plus vite que le cours de la bourse. Tant mieux. Mais il reste que nous avons toujours un bon millio
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+> Ça existe, c'est une qualité qui est même d'ailleurs dans certaines industries notées. Je crois que c'était le constructeur automobile Toyota dans ses principes de Sigma qu'il avait institutionnalisé dans les années 90. Je crois que les ouvriers étaient en partie notés sur l'intelligence sociale et pas que sur l'intelligence technique.
+
+*Termes de la formation dans ce passage : automobile, constructeur, ouvriers*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
+
+### Video 47jhynafWCc
+
+*vidéo · `47jhynafWCc-transcript.md`*
+
+### Video 4sDXHjsrlIY
+
+*vidéo · `4sDXHjsrlIY-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+JUSTE UN PEU D’HISTOIRE Vous ne devinerez jamais d’où provient l’expression intelligence sociale. Indice : des couloirs d’une usine. Plus particulièrement, une usine d’un constructeur automobile. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres outils… 
+
+Read More
+
+---
+
+### Points clés
+
+1. JUSTE UN PEU D’HISTOIRE
+Vous ne devinerez jamais d’où provient l’expression intelligence sociale
+2. Plus particulièrement, une usine d’un constructeur automobile
+3. Et pour être encore plus précis, du constructeur qui a produit ces dernières années des modèles aussi bouleversants que la Prius, la Yaris, l’Auris, et tout un tas d’autres outils à quatre roues pour utilisateurs pragmatiques qui n'ont que faire du style et du plaisir de conduire
+4. Plusieurs dizaines d’années auparavant, dans le cadre de la mise en place d’un de ces processus qualité dont les japonais avaient le secret, il a été décidé que les ouvriers seraient évalués non seulement sur leur productivité intrinsèque, mais également sur leur capacité à obtenir auprès des bonnes personnes les informations nécessaires à leur travail
+5. Et voilà, un bleu de travail, un casque anti-bruit, une ou deux questions, et hop, le top de la séduction de l’ère post-industrielle
+6. Bon, d’accord, tout n’est pas aussi simple que cela, mais il y a une origine à tout, et celle-ci ne brille pas forcément toujours des feux les plus attrayants
+7. C'est ainsi qu'est né le concept d'intelligence sociale
+8. + D’HISTOIRES
+Il faut le reconnaître, vous avez bien progressé
+9. Grâce au contenu (de qualité, disons, « diversifiée ») disponible sur les réseaux (as)sociaux, le niveau moyen des hommes (et des femmes) qui se sont intéressés au sujet est monté plus vite que le cours des acti
+
+
+---
+
+### Concepts enseignés
+
+- Intelligence émotionnelle
+- Empathie cognitive
+- Lecture des signaux sociaux
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

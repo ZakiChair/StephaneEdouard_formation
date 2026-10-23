@@ -96,7 +96,7 @@ Cette formation explore la sexualité et le désir selon les frameworks de Stép
 ### Points clés
 
 - Le désir n'est pas une étincelle qui "arrive" — c'est un processus qui se construit
-- La logique masculine (H pur) et la logique féminine (F)对待 le désir différemment
+- La logique masculine (H pur) et la logique féminine (F) le désir différemment
 - L'homme qui veut créer du désir doit d'abord avoir sa propre vie, son propre remplissage
 - Le désir dépend de facteurs identifiables : communication, temps, partage d'expériences
 - Les comportements révèlent la vérité — les paroles peuvent mentir

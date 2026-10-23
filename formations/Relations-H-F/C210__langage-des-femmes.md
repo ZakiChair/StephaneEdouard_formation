@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 8
+pages_developpement: 10
 idees_forces: 34
 citations: 3
 doublon_titre: oui
@@ -226,13 +226,25 @@ photos de relooking
 Renseignez-vous sur nos
 coachs séduction et relooking
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video m54h8ZXqHO0
+
+*vidéo · `m54h8ZXqHO0-transcript.md`*
+
+### La dette sexuelle — Analyse d'un concept (avec Justine)
+
+*podcast / vidéoscopie · `La-dette-sexuelle-Analyse-d'un-concept-(avec-Justine)-synthese.md`*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
 
 ### Résumé
 
-Cette formation explore ce que думают vraiment les femmes — ce qui se passe dans leur esprit face aux hommes, aux relations, et aux situations amoureuses. Stéphane décode les mécanismes de pensée féminins au-delà des stereotypes et des discours officiels, en s'appuyant sur l'observation clinique plutôt que sur l'idéologie. Comprendre le vrai langage des femmes, c'est pouvoir lire les signaux d'intérêt et de désintérêt avec précision — et éviter les malentendus qui détruisent les relations.
+Cette formation explore ce que pensent vraiment les femmes — ce qui se passe dans leur esprit face aux hommes, aux relations, et aux situations amoureuses. Stéphane décode les mécanismes de pensée féminins au-delà des stereotypes et des discours officiels, en s'appuyant sur l'observation clinique plutôt que sur l'idéologie. Comprendre le vrai langage des femmes, c'est pouvoir lire les signaux d'intérêt et de désintérêt avec précision — et éviter les malentendus qui détruisent les relations.
 
 ---
 

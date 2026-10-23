@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 5
-pages_developpement: 0
+pages_developpement: 1
 idees_forces: 18
 citations: 3
 doublon_titre: non
@@ -99,6 +99,18 @@ doublon_titre: non
 
 > L'autophagie : Lorsque le créateur n'a rien à vendre hormis lui-même, il finit par se consommer lui-même — à l'image d'un restaurant sans menu qui ne peut servir que de la « chair à saucisse ». Le contenu, c'est soi.
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Comment se construire une esthétique
+
+*podcast / vidéoscopie · `Comment-se-construire-une-esthétique-synthese.md`*
+
+> Applications pratiques Développer son sens de l'observation (regarder comment les gens élégants s'habillent) Investir dans peu de pièces de qualité plutôt que dans beaucoup de pièces jetables Identifier ses caractéristiques physiques et les sublimer plutôt que les cacher Accepter que l'esthétique authentique prend du temps à développer — elle ne s'achète pas Éviter les tentations de l'uniformisation (modes, trends) qui tuent la singularité
+
+*Termes de la formation dans ce passage : caracteristiques, jetables, sublimer*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -128,7 +140,7 @@ La manière dont on s'habille reflète qui on est — mais aussi ce qu'on veut m
 
 ### Le principe d'investissement intelligent
 
-Un homme bien habillé a besoin de moins de pièces qu'il ne le croit. L'investissement intelligent consiste à acheter peu mais correctement : une bonne veste, des pantalons bien coupes, des chemise blanches de qualité, des souliers en cuir bien entretenus. Ces pièces polyvalentes permettent de créer множество de tenues avec un minimum d'articles. La qualité prime sur la quantité — un blazer bien coupé durera dix ans là où un blazer bon marché aura l'air défoncé après deux saisons.
+Un homme bien habillé a besoin de moins de pièces qu'il ne le croit. L'investissement intelligent consiste à acheter peu mais correctement : une bonne veste, des pantalons bien coupes, des chemise blanches de qualité, des souliers en cuir bien entretenus. Ces pièces polyvalentes permettent de créer un ensemble de de tenues avec un minimum d'articles. La qualité prime sur la quantité — un blazer bien coupé durera dix ans là où un blazer bon marché aura l'air défoncé après deux saisons.
 
 ### La connaissance de soi morphologique
 

@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 6
 points_annonce: 10
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 1
 idees_forces: 24
 citations: 3
 doublon_titre: oui
@@ -176,6 +176,18 @@ Cette journée sera une succession de techniques et de concepts sur la base de d
 
 > L'amour n'est pas un bouton on/off mais une courbe de niveau d'intérêt qui varie
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Développe ta force mentale et prépare-toi aux combats de la vie
+
+*podcast / vidéoscopie · `Développe-ta-force-mentale-et-prépare-toi-aux-combats-de-la-vie-synthese.md`*
+
+> Distinctions importantes Homme vs Femme** : Les femmes fonctionnent par la douceur, les hommes par la force — acceptation de la douleur, de la fatigue, de la difficulté. La canalisation des pulsions violentes est un travail spécifiquement masculin. Théorie vs Pratique** : On peut parler de résilience sans l'avoir vécue — l'expérience authentique laisse des traces que le déclaratif ne peut pas reproduire. Résilience individuelle vs collective** : La capacité à digérer les échecs personnels diffère de la capacité à gérer les échecs collectifs d'une communauté. Souffrance displayée vs tue** : Ce qui se montre sur les réseaux (souffrance comme capital sympathie) n'a rien à voir avec la vraie capacité de résilience.
+
+*Termes de la formation dans ce passage : canalisation, douceur, pulsions*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
@@ -209,7 +221,7 @@ La vraie résilience, c'est ce que tu fais quand tu es écarté, licencié, humi
 
 ### L'endurance et la tolérance à la douleur
 
-Capacité à supporter la douleur, la frustration, l'ennui. Qualité de plus en plus rare dans une civilisation qui успокаивает la печаль и поощряет l'évitement de l'inconfort. L'homme doit apprendre à accepter la douleur plutôt qu'à la fuir. La capacité à endurer est ce qui sépare l'homme de l'enfant.
+Capacité à supporter la douleur, la frustration, l'ennui. Qualité de plus en plus rare dans une civilisation qui apaise la tristesse encourage l'évitement de l'inconfort. L'homme doit apprendre à accepter la douleur plutôt qu'à la fuir. La capacité à endurer est ce qui sépare l'homme de l'enfant.
 
 ### La canalisation des pulsions
 

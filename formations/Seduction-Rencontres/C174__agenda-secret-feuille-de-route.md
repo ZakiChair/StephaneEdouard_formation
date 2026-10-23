@@ -13,7 +13,7 @@ programme: 10
 sections_annonce: 9
 points_annonce: 5
 documents_materiau: 4
-pages_developpement: 1
+pages_developpement: 3
 idees_forces: 9
 citations: 0
 doublon_titre: oui
@@ -240,6 +240,18 @@ de la femme, c’est plus qu’une volonté, qu’un souhait ou qu’un désir. 
 tout
 faire pour que cela se produise. Sauf accident, ou rencontre avec un homme susceptible de l’infléchir.
 Problémati
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video pTfB7aLrwN0
+
+*vidéo · `pTfB7aLrwN0-transcript.md`*
+
+### Ni fille ni garçon : je regarde le "Zone interdite" spécial trans
+
+*vidéo · `zCvGNoXJMEI-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

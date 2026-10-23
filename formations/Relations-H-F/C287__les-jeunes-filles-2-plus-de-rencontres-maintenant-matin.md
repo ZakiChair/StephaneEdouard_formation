@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 1
-pages_developpement: 3
+pages_developpement: 9
 idees_forces: 7
 citations: 0
 doublon_titre: oui
@@ -57,6 +57,40 @@ confiance: 0
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
+### Le voyage en avion, pt. II : faire des rencontres
+
+*`web-articles__12226_aborder-inconnue-avion.html.txt` · 2647 mots · archive de l'auteur*
+
+Deuxième article de notre série
+savoir-être au masculin
+: l’aéroport est un divin terrain d’application de votre
+intelligence sociale
+. Vous êtes invité à nous faire partager vos expériences de voyage en commentaire ci-dessous.
+J’avoue que les commentaires du premier article de la série m’ont un peu « saisi », la plupart consistant à rappeler qu’il était plus pratique et confortable de voyager comme un plouc : t-shirt, sweat-shirt etc. C’est tout de même assez effrayant comme « réponse automatique » , surtout après la lecture d’un article qui tente de démontrer le contraire non ? Comme d’habitude la contradiction vient de cette bonne vieille dichotomie simpliste (complètement fausse, mais hélas vraie dans l’esprit de celui qui n’y connaît rien au vêtement) : être « classe » consisterait à porter un costume-cravate en toutes circonstances comme Oncle Barney ou récemment David Beckham.
+La classe, c’est l’alliance du pratique et du confortable
+dans une situation donnée
+Il y a des situations où il est relativement « classe » de porter un tshirt ou un hoodie (sweat-shirt en coton à capuche), mais l’avion n’en fait pas partie.
+Enfin bref.
+A l’aéroport
+Le « verrou » du check-in
+Dans la mesure du possible évitez les vols avant 8-9h du matin (vous savez, les vols les moins chers sur les comparateurs de prix), qui effacent toute possibilité de dormir correctement la nuit qui précède et vous font démarrer le voyage avec un quota fatigue dont il faudra plusieurs jours pour vous débarrasser.
+Faites-en sorte d’arriver :
+2h avant votre vol pour un vol international
+1h30 pour un vol local
+jamais moins d’1h avant, quoi qu’il vous en coûte
+Cela vous donne le temps et surtout la
+tranquillité d’esprit
+(ça n’a pas de prix) pour parer à tout imprévu. Les aéroports sont dans l’ensemble des endroits propres, agréables et bien éclairés : aucun intérêt à partir à la dernière minute pour les traverser en courant, mieux vaut arriver en avance avec un bon livre ou un peu de travail et s’attabler.
+Qui plus est, cela vous évitera peut-être la désagréable surprise d’apprendre, comme cela m’est arrivé il y a quelques années, que dans certains pays comme les Pays-bas, l’Allemagne et la Suisse, à
+
+
+- et dans ce contexte ultra sécurisant.
+- L’art de briser la glace faisant notamment partie des choses qui s’apprennent
+- emporter une serviette ultra séchante.
+- demander des échantillons de gels douche et dentifrice en magasin.
+- des vêtements versatiles, qui se combinent facilement pour ajouter/retirer une couche en fonction de la température (ex pour un étudiant : t-shirts unis avec de belles couleurs + pull gris col en V ou gilet zippé).
+- une mini-boussole de 1cm de diamètre (utile à l’étranger pour se repérer vite sans forfait data, et pratique en mégalopole quand on sort des transports en commun).
+
 ### La discussion du dimanche soir : le système bloque t-il les rencontres ?
 
 *`web-actualite__12714_la-discussion-du-dimanche-soir-sexe-empire.html.txt` · 1285 mots · archive de l'auteur*
@@ -94,40 +128,6 @@ Rose Selavy
 14 avril 2013 à 22:31
 C
 
-### Le voyage en avion, pt. II : faire des rencontres
-
-*`web-articles__12226_aborder-inconnue-avion.html.txt` · 2647 mots · archive de l'auteur*
-
-Deuxième article de notre série
-savoir-être au masculin
-: l’aéroport est un divin terrain d’application de votre
-intelligence sociale
-. Vous êtes invité à nous faire partager vos expériences de voyage en commentaire ci-dessous.
-J’avoue que les commentaires du premier article de la série m’ont un peu « saisi », la plupart consistant à rappeler qu’il était plus pratique et confortable de voyager comme un plouc : t-shirt, sweat-shirt etc. C’est tout de même assez effrayant comme « réponse automatique » , surtout après la lecture d’un article qui tente de démontrer le contraire non ? Comme d’habitude la contradiction vient de cette bonne vieille dichotomie simpliste (complètement fausse, mais hélas vraie dans l’esprit de celui qui n’y connaît rien au vêtement) : être « classe » consisterait à porter un costume-cravate en toutes circonstances comme Oncle Barney ou récemment David Beckham.
-La classe, c’est l’alliance du pratique et du confortable
-dans une situation donnée
-Il y a des situations où il est relativement « classe » de porter un tshirt ou un hoodie (sweat-shirt en coton à capuche), mais l’avion n’en fait pas partie.
-Enfin bref.
-A l’aéroport
-Le « verrou » du check-in
-Dans la mesure du possible évitez les vols avant 8-9h du matin (vous savez, les vols les moins chers sur les comparateurs de prix), qui effacent toute possibilité de dormir correctement la nuit qui précède et vous font démarrer le voyage avec un quota fatigue dont il faudra plusieurs jours pour vous débarrasser.
-Faites-en sorte d’arriver :
-2h avant votre vol pour un vol international
-1h30 pour un vol local
-jamais moins d’1h avant, quoi qu’il vous en coûte
-Cela vous donne le temps et surtout la
-tranquillité d’esprit
-(ça n’a pas de prix) pour parer à tout imprévu. Les aéroports sont dans l’ensemble des endroits propres, agréables et bien éclairés : aucun intérêt à partir à la dernière minute pour les traverser en courant, mieux vaut arriver en avance avec un bon livre ou un peu de travail et s’attabler.
-Qui plus est, cela vous évitera peut-être la désagréable surprise d’apprendre, comme cela m’est arrivé il y a quelques années, que dans certains pays comme les Pays-bas, l’Allemagne et la Suisse, à
-
-
-- et dans ce contexte ultra sécurisant.
-- L’art de briser la glace faisant notamment partie des choses qui s’apprennent
-- emporter une serviette ultra séchante.
-- demander des échantillons de gels douche et dentifrice en magasin.
-- des vêtements versatiles, qui se combinent facilement pour ajouter/retirer une couche en fonction de la température (ex pour un étudiant : t-shirts unis avec de belles couleurs + pull gris col en V ou gilet zippé).
-- une mini-boussole de 1cm de diamètre (utile à l’étranger pour se repérer vite sans forfait data, et pratique en mégalopole quand on sort des transports en commun).
-
 ### &laquo;&nbsp;Certains l&rsquo;aiment chaud&nbsp;&raquo; : devoirs de vacances pour rencontres d&rsquo;été
 
 *`web-articles__seduction-fondamentaux__13994_rencontrer-femmes-vacances-ete.html.txt` · 1054 mots · archive de l'auteur*
@@ -154,6 +154,79 @@ langage des femmes).
 Vous serez toujours plus attirant négligé et accompagné que seul et apprêté
 2. Faites vos devoirs pendant la journée pour jouer le soir
 C’est toujours pareil. La journée, écrasés de soleil, de repos, de piscine, bref la totale, vous ne voulez rien d’autre qu’étirer les heures. Glander, quoi. Et dans la « deuxiè
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### SYNTHESE - 4kLJff41LQA
+
+*podcast / vidéoscopie · `Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese.md`*
+
+- Les 3 catégories de promotion sponsorisée qui tuent un réseau social : chirurgie pénienne masculine, ralentissement du vieillissement féminin, gains sans travailler.
+- L'analyse de contenu révèle la mort de Facebook/Instagram : 80% des publicités sont dans ces 3 catégories.
+- L'accent mis sur l'origine communautaire des "formatrices" — immigrées africaines qui apprennent à "massacrer" d'autres femmes.
+- La "baisse du QI" corrélée à ces phénomènes de crédulité collective.
+- Le paradoxe de la feminista qui prône l'égalité maisdede。
+- L'anorexie sociale comme équivalent moderne de l'épilation — être "transgressif" = ne pas s'épiler.
+
+> "Les réseaux sociaux se meurent — et ce qui les tue, c'est la promotion de l'artifice et de l'exploitation."
+
+### Social media is taking women back to the Stone Age
+
+*vidéo · `4kLJff41LQA-transcript.md`*
+
+> 1. La vidéoscopie, c'est votre moment préféré de la semaine. À force, quand vous êtes des dizaines, que dis-je, des centaines à me soumettre les mêmes extraits, ça veut dire que ça a raisonné chez vous. Ça veut dire que ça va être du caviar, du wasabi, du Grand Mendz, du ce que vous voulez. Et dans ces cas-là, on n'attend pas plus avant de commencer. Direct, paf ! C'est une mode qui fait des ravages chez les jeunes filles, des injections d'acide hyaluronique à bas prix, pratiqué en toute
+
+*Termes de la formation dans ce passage : acide, hyaluronique, injections*
+
+> 3. [Applaudissements] maintenant. J'arrive même plus sourire, c'est tout figé. Envoyé spécial le business de l'esthétique low cost qui fleurit sur les réseaux sociaux. Oui. Oui. Bah que dire sur cette introduction ? J'ai l'impression que ça va être du grand Mz, c'est que ça va être difficile de se retenir de taper sur l'ambulance low low cost. Aujourd'hui, je vais apprendre quelques gestes de médecine esthétique en toute illégalité. D'accord. Donc j'imagine que là c'est la journaliste avec un
+
+*Termes de la formation dans ce passage : cost, envoye, special*
+
+> 20. dans un visage. Enfin, c'est je sais pas. Elle a dû elle a dû lui casser l'aiguille sur l'os du menton, je sais pas comment on appelle ça. Les injections, les ciles, les ombles, l'épilation en soi. Je ne sais pas comment le la community manager d'envoyer spécial s'est débrouillé, mais les extraits sont très décous et disponibles en h morceaux dans un ordre pas forcément chronologique. Donc bref, à qui la faute, peu importe. En tout cas, je vous livrerai mes réflexions un peu au fil de l'eau. Pas
+
+*Termes de la formation dans ce passage : envoye, injections, special*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Ce candidat prend les électrices pour des c***
+
+*vidéo · `u9JM238LY0c-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+_[extrait tronqué]_
+
+### Ce-candidat-prend-les-électrices-pour-des-c-synthese
+# Synthèse : Ce candidat prend les électrices pour des c*** — u9JM238LY0c
+
+
+
+# Ce candidat prend les électrices pour des c*** — Synthèse
+
+---
+
+#### Thème central
+
+Cette vidéo analyse la prestation de Jean-Luc Mélenchon lors d'une interview sur LCI organisée spécialementement pour les femmes, dans le cadre de la campagne présidentielle de 2022. L'auteur, Édouard, découpe avec précision les mécanismes rhétoriques du candidat LFI : retournement de la charge de la preuve, faux dilemmes, simulate de surdité, et rhétorique creuse autour du mot-valise « marchandes ». Le constat est sans appel : Mélenchon « prend les électrices pour des c*** » en leur servant un discours paternaliste et en esquivant les questions substantielles.
+
+---
+
+
+_[extrait tronqué]_
+
+#### Vidéoscopie-–-Reportage-Envoyé-Spécial-sur-les-injections-d'acide-hyaluronique-low-cost-sur-Instagra-synthese
+# SYNTHESE - 4kLJff41LQA
+
+**Vidéo analysée** : Vidéoscopie – Reportage Envoyé Spécial sur les injections d'acide hyaluronique low cost sur Instagram
+**Thème central** : Le business de l'esthétique clandestine sur les réseaux sociaux et ses dangers pour les jeunes filles.
 
 ---
 

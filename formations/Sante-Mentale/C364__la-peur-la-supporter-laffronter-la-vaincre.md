@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 17
 documents_materiau: 2
-pages_developpement: 0
+pages_developpement: 1
 idees_forces: 4
 citations: 2
 doublon_titre: oui
@@ -245,13 +245,25 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 
 > Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
 
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Vaincre la peur
+
+*podcast / vidéoscopie · `Vaincre-la-peur-synthese.md`*
+
+> Concepts clés Peur comme signal** : La peur signale quelque chose — l'analyser plutôt que la fuir. Toute peur contient une information utile. Courage vs témérité** : Le courage, c'est d'agir malgré la peur ; la témérité, c'est ignorer la peur (irresponsabilité). Le courage demande de la wisdom. Peur de la peur** : La phobie de la peur elle-même — cercle vicieux de l'évitement qui amplifie l'anxiété. Gestion de l'angoisse** : Techniques pour réduire l'angoisse sans la medication — respiration, exposition, restructuration cognitive. Pulsion de mort vs peur** : La peur est un mécanisme sain de protection — c'est la pulsion de mort qui pousse à la destruction.
+
+*Termes de la formation dans ce passage : ignorer, irresponsabilite, phobie, temerite*
+
 ## Ce que la fiche dit de ce séminaire
 
 *La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
 
 ### Résumé
 
-La peur comme mécanisme de protection qui peut devenir блокирующим, et les stratégies pour l'intégrer plutôt que la fuir. L'homme doit apprendre à avancer malgré la peur, pas à l'éliminer. La peur de la honte ou de la douleur sont souvent plus paralysantes que la peur elle-même — c'est l'anticipation qui cause la souffrance. Le courage, c'est d'agir malgré la peur ; la témérité, c'est ignorer la peur (irresponsabilité).
+La peur comme mécanisme de protection qui peut devenir bloquant, et les stratégies pour l'intégrer plutôt que la fuir. L'homme doit apprendre à avancer malgré la peur, pas à l'éliminer. La peur de la honte ou de la douleur sont souvent plus paralysantes que la peur elle-même — c'est l'anticipation qui cause la souffrance. Le courage, c'est d'agir malgré la peur ; la témérité, c'est ignorer la peur (irresponsabilité).
 
 ---
 

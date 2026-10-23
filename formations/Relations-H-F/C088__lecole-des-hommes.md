@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 4
-pages_developpement: 3
+pages_developpement: 4
 idees_forces: 17
 citations: 0
 doublon_titre: non
@@ -145,6 +145,45 @@ Apprendre à « dire bonjour à la dame » et tous les registres de la polites
 Basile
 Bonjour Basile,
 Excellente question que l
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Résumé
+
+El famoso premier livre de Stéphane Edouard, pour la première fois réédité au format numérique et à prix doux. Plus aucune raison de le pirater, et c’est aussi une façon de dire merci pour les centaines d’heures de contenu gratuit sur Youtube.
+
+---
+
+### Points clés
+
+1. El famoso premier livre de Stéphane Edouard, pour la première fois réédité au format numérique et à prix doux
+2. Plus aucune raison de le pirater, et c’est aussi une façon de dire merci pour les centaines d’heures de contenu gratuit sur Youtube
+
+
+---
+
+### Exercices / Pratiques
+
+- À compléter après transcription des contenus audio
+- Exercice 1 : _(issu de la formation payante)_
+- Exercice 2 : _(issu de la formation payante)_
+
+---
+
+### Citations de Stéphane
+
+_Aucune citation disponible dans le résumé. Le contenu complet nécessite un accès à la formation payante._
+---
 
 ## Verbatim de l'auteur (fiche de formation)
 

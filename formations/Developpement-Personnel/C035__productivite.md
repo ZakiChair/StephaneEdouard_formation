@@ -13,7 +13,7 @@ programme: 8
 sections_annonce: 0
 points_annonce: 0
 documents_materiau: 3
-pages_developpement: 0
+pages_developpement: 1
 idees_forces: 12
 citations: 0
 doublon_titre: oui
@@ -85,6 +85,14 @@ doublon_titre: oui
 *« Video-u8r9BLSx7UU-synthese.md » · origine : lien-declare*
 
 > L'OJIM (Observatoire du Journalisme), dans une brochure dédiée au « néo-féminisme », documente les dérives d'une presse féminine devenue un « prêt à liker, prédigéré », déconnectée des réalités économiques.
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video JcGsPBD9E_w
+
+*vidéo · `JcGsPBD9E_w-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

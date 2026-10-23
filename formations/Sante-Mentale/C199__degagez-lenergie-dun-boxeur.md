@@ -274,7 +274,7 @@ Que ce manque d’énergie so
 
 ### Résumé
 
-L'énergie comme ressource vitale pour l'homme — la capacité à fournir un effort soutenu, à tolérer la fatigue, à maintenir sa force mentale dans l'adversité. L'énergie n'est pas un concept abstrait mais une réalité physiologique et psychologique qui dépend de multiples facteurs : le sommeil, l'alimentation, l'état mental, et l'investissement dans une mission. L'homme qui a de l'énergie est un homme qui peut agir,和保护 son essence féminine en lui offrant un refuge stable.
+L'énergie comme ressource vitale pour l'homme — la capacité à fournir un effort soutenu, à tolérer la fatigue, à maintenir sa force mentale dans l'adversité. L'énergie n'est pas un concept abstrait mais une réalité physiologique et psychologique qui dépend de multiples facteurs : le sommeil, l'alimentation, l'état mental, et l'investissement dans une mission. L'homme qui a de l'énergie est un homme qui peut agir,et son essence féminine en lui offrant un refuge stable.
 
 ---
 

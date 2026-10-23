@@ -13,7 +13,7 @@ programme: 14
 sections_annonce: 7
 points_annonce: 13
 documents_materiau: 2
-pages_developpement: 1
+pages_developpement: 7
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -228,6 +228,65 @@ Je suis tellement raide de toi que mes goûts se calent sur les tiens à mon in
 Probabilité de dire la vérité: 3%
 Ce que ça signifie réellement :
 J’aimerais tellement vivre en peign
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Synthèse : Video py5soTfXpxQ — py5soTfXpxQ
+
+*podcast / vidéoscopie · `Video-py5soTfXpxQ-synthese.md`*
+
+- Le discours adolescence des adultes — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
+- La redéfinition du capitalisme et du modèle libéral — Édouard exige des journalistes qu'ils définissent les concepts qu'ils mobilisent : un monde libéral repose sur la libre circulation des hommes, la non-entrave à l'accumulation des capitaux, et l'encouragement à Exhiber et purger ses passions par l'acte d'achat. Or, la France redistribute trop pour être qualifiée d'ultra-libérale.
+- La méritocratie dans tous les domaines — Même les agriculteurs français réaliseient des chiffres d'affaires à plusieurs millions d'euros en menant leurs affaires intelligemment. La logique entrepreneuriale n'est pas de droite : c'est simplement la volonté qui prime sur l'envie de se plaindre.
+- Le rapport au travail et la honte — Il existe un lexique récent autour du mal-être au travail, davantage développé par les femmes qui ont tendance à se définir par leur emploi, là où les hommes s'en distancient plus facilement.
+
+### Video py5soTfXpxQ
+
+*vidéo · `py5soTfXpxQ-transcript.md`*
+
+> Voilà, même sans l'imperfait du subjonctif qui est superflu. Une définition. êtes-vous capable quand vous mobilisez un concept comme libéral néolibéral ou capitaliste êtes vous capable d'en nommer la d a minima la définition et a fortiori de l'actualiser en fonction du contexte parce qu'évidemment que le libéralisme au 17e siècle n'est pas celui du 20e que le communisme ne serait-ce qu au 19e ou au 20e n'est pas celui au 21e il n'est pas question comme certains le font à mon avis à tort de comparer je sais pas yann brossat à lénine ou stalin il est facile de confondre les chèvres et les moutons étant donné que ces deux espèces ont un tas de caractéristiques communes moi je voudrais interdire aux lectrices de marie claire madame et elle déco de mobiliser des thèmes comme capitalisme et libéral sans les définir c'est quoi le capitalisme c'est quoi un monde libéral je sais pas c'est un monde fondé sur une économie répondant à trois critères la libre circulation des hommes la non entrave à l'accumulation des capitaux et l'encouragement de chaque consommateur à exhiber et à purger toutes ses passions par l'acte d'achat c'est à dire le fait de désinhiber le désir de ce que possède son voisin un d'où la fameuse expression anglo-saxonne keeping up with the johns donc plus un voisin exhibe une piscine ou un SUV ou je sais pas quoi, plus l'autre en a envie.
+
+*Termes de la formation dans ce passage : capitalisme, caracteristique, liberal*
+
+### Un youtubeur geek sort de sa chambre et découvre le monde réel
+
+*vidéo · `M6bXSt0f2b0-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+## Ce que la fiche dit de ce séminaire
+
+*La doctrine de la fiche elle-même : ses points clés, ses concepts enseignés, ses exercices, ses citations. Écrite pour ce séminaire.*
+
+### Points clés
+
+- **Le discours adolescence des adultes** — Des femmes approchant ou dépassant la trentaine adoptent un vocabulaire et une posture typiquement adolescents : elles se disent « paumées », ne se reconnaissent pas dans les modèles dominants, ce qui devrait logiquement appartenir à la phase de rébellion adolescence. Le problème, c'est qu'elles ne sont plus des adolescentes.
+
+- **Le mythe du « retour chez maman »** — Rentrer chez ses parents symbolise une « rétractation intra-utérine ». Ce comportement, décrit comme caractéristique des « peuples du sud » et des pays sous-développés, est incompatibile avec la mentalité entrepreneuriale : « burner one's ships ». En Scandinavie, en Suisse ou à Singapour, il est inconcevable qu'un quadragénaire retourne chez ses parents pour cherchez un nouveau « mécène » relationnel.
+
+- **La redéfinition du capitalisme et du modèle libéral** — Édouard exige des journalistes qu'ils définissent les concepts qu'ils mobilisent : un monde libéral repose sur la libre circulation des hommes, la non-entrave à l'accumulation des capitaux, et l'encouragement à Exhiber et purger ses passions par l'acte d'achat. Or, la France redistribute trop pour être qualifiée d'ultra-libérale.
+
+- **La psychologie de l'irresponsabilité** — Le message « c'est cool d'être paumé » est une forme de « psychologie de l'irresponsabilité » où l'on attribue son emploi à une « chance divine arbitraire » plutôt qu'à ses propres compétences. La réalité du marché du travail révèle que l'immense majorité des gens sont négligents ; avec un minimum d'efficacité et d'attention au détail, on surpasse facilement ses concurrents.
+
+
+_[extrait tronqué]_
+
+### Video-yCgVt4zZejg-synthese
+# Synthèse : Video yCgVt4zZejg — yCgVt4zZejg
+
+
+
+---
+
+# Synthèse du podcast – Critique du livre de Stéphane Édouard
+
+#### Thème central
+
+L'auteur analyse un ouvrage de Stéphane Édouard, sociologue reconnu pour ses travaux sur les dynamiques relationnelles, et livre une critique nuancée d'un livre sur la séduction et la construction de soi. Le propos dépasse la simple technique de drague pour explorer ce qui rend une personne véritablement attractive : la transformation personnelle au service de l'autre.
 
 ---
 

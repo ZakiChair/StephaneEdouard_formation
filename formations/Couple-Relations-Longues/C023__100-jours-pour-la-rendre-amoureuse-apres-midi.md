@@ -260,34 +260,6 @@ La plupart des problèmes (souvent irrattrapables et insurmontables) dans lesque
 Si j’étais un webmarketeur (ou un voleur, ce qui revient à peu près au même), je vous vendrais un pilule magique pour résoudre ce problème instantanément, ou bien je vous vendrais un ebook de 47 pages du style « casé en 1 semaine »…
 Mais aujourd’hui, se ca
 
-### Hiver 2012 : faites-vous vacciner contre l&#8217;obsession amoureuse
-
-*`web-actualite__8751_obsession-amoureuse-vaccin.html.txt` · 1409 mots · archive de l'auteur*
-
-Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
-Hiver 2012 : faites-vous vacciner contre l’obsession amoureuse
-Vous me connaissez – la plupart d’entre vous tout du moins – : j’aime bien glisser une petite plaisanterie ou un jeu de mots dans l’introduction des séminaires ou des articles importants. Il en ira un peu différemment aujourd’hui, le sujet est trop important pour plaisanter, ne serait-ce qu’un instant. Le thème du prochain séminaire, ceux qui ont vu la
-dernière vidéo
-le savaient en avant-première, c’est
-l’obsession amoureuse
-(aussi appelée one-itis dans des temps pas si éloignés).
-Et si on ne rigole pas avec l’obsession amoureuse, c’est qu’elle peut, à l’instar d’une maladie grave, mettre des pans entiers de votre existence dans le caniveau pour l’éternité. Et c’est long, l’éternité.
-Les symptômes de l’obsession amoureuse
-C’est elle qui est partie
-Vous avez eu un mal de chien à vous y faire et à rompre les ponts. C’est d’ailleurs un euphémisme, il y a eu autant de ruptures que de réconciliations provisoires et de nouveaux (faux) départs
-La personne habite une partie de votre esprit comme on squatte un appartement : sans vous demander la permission
-Vous occultez ou minimisez les raisons objectives qui vous ont séparé / ce qui vous éloigne d’elle
-(suite) … et lorsque vos amis vous les rappellent – ces raisons -, vous rationalisez. I.e vous lui trouvez une raison logique pour avoir agi ainsi, la dédouanant toujours un peu au passage
-Vous vous êtes surpris (à plusieurs reprises) à établir des comparaisons entre vos relations suivantes et la personne en question. Comparaisons qui tournaient systématiquement à l’avantage de… Je vous laisse deviner qui
-Vous préféreriez prendre un bain d’acide plutôt que de la voir avec un autre que vous. A fortiori heureuse.
-Vous ne comprenez toujours pas vraiment pourquoi c’est fini
-Etc. etc.
-Liste non exhaustive
-Je vous l’avais dit, moi non plus je n’ai pas envie de rire avec ça.
-Les conséquences de l’obsession amoureuse
-Vous désirez revoir la personne autant que vous redoutez de la croiser
-Vous avez l’impression d’être toujours plus fatigué que vous ne le devriez ; le souvenir de cet échec a ôté une partie de
-
 ### Suis-moi je te&#8230; l&#8217;article sur l&#8217;obsession amoureuse, partie I
 
 *`web-articles__1097_fuis-moi-je-te-suis-suis-moi-je-te-fuis.html.txt` · 1321 mots · archive de l'auteur*
@@ -312,6 +284,18 @@ Mais comment en arrive-t-on là ? A la base il faut un terreau propice, qu’une
 
 
 - Tous droits réservés. Reproduction / exploitation interdites sans autorisation
+
+### L’obsession amoureuse de l&#8217;autre côté du miroir
+
+*`web-articles__seduction-avance__6905_obsession-amoureuse-ou-one-itis.html.txt` · 1632 mots · archive de l'auteur*
+
+L'obsession amoureuse de l’autre côté du miroir
+L’obsession amoureuse de l’autre côté du miroir
+L’obsession amoureuse est généralement vécue comme exceptionnelle et unique : celui qui la ressent se perçoit, comme malade, touché par un mal honteux et rare dont le reste du monde est épargné. Pourtant, je connais peu d’expériences aussi universelle et gardez vous bien de vous croire plus malin car j’ai vu les plus cyniques et les plus sauvages d’entre nous se faire prendre au piège. Quels mécanismes nous entrainent dans cette spirale  et comment en sortir ? Deux questions souvent posées et dont les réponses sont pourtant assez simples…
+Les mécanisme de l’obsession amoureuse : entre ennui et désir.
+Contrairement à ce que pense beaucoup, l’obsession amoureuse n’est donc pas le sort des ratés et des faibles, au contraire. Pourquoi ?
+Premièrement, à l’origine, on trouve quasiment toujours une situation de stagnation, d’ennui diffus  qui conduit à l’attente d’un élément perturbateur. Or quelqu’un qui a toujours vivoté d’une manière agréable mais pas exceptionnelle a développé plus d’occupations routinières qu’une personne qui s’est déjà consacré entièrement à un projet ambitieux. Elle est donc moins prédisposée à ressentir la vacuité de son existence et le désir d’aventure. On dit souvent que la dépression est l’apanage des pays riches : ce n’est pas uniquement parce que la survie matérielle capte l’attention , c’est aussi parce qu’il y a des possibilités de mobilité sociale et existentielle plus fortes dans les régions prospères. Si on n’est pas capable d’imaginer une vie plus excitante que celle qu’on a, on ne risque pas , en effet, de fantasmer sur ce qu’on pourrait avoir.
+Deuxièmement, je crois vraiment que la sensibilité d’une personne est un indicateur fort de sa profondeur spirituelle. Beaucoup d’étude ont ainsi montrées la corrélation qui existait entre intelligence et dépression. D’une manière générale, nous avons tous une tension intérieure, qui est le moteur de l’action, de la motivation et du dépassement de soi . Quand cette pression interne n’est pas dirigée sur un but positif, elle se transforme en angoisse qui ronge et détruit celui qui la porte. L’intell
 
 ## Ce que la fiche dit de ce séminaire
 

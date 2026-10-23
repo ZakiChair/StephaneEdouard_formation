@@ -141,67 +141,6 @@ Je dois vraiment vous le dire ? Bon, allez :
 
 *Pages de son propre site, retrouvées par le nom du séminaire. C'est sa prose sur cette formation, pas un commentaire extérieur.*
 
-### La discussion du dimanche soir : les 4 conditions du bonheur
-
-*`web-actualite__12493_la-discussion-du-dimanche-soir-bonheur.html.txt` · 1173 mots · archive de l'auteur*
-
-Les 4 conditions du bonheur selon Edgar A. Poe :
-La vie en plein air
-L’amour d’un être
-Le détachement de toute ambition
-La création
-Quelles sont les conditions de votre bonheur ? Que pensez-vous de cette liste et quelles éventuelles modifications lui apporteriez-vous ?
-17
-Bilboquet
-31 mars 2013 à 20:28
-Oui plutôt d’accord, mais pas avec le point 3, le détachement de toute ambition : quand on est heureux, on l’est aussi des projets et de toutes les bonnes choses à venir.
-Et toi qu’en penses-tu ? :)
-Mint
-31 mars 2013 à 21:06
-Je rajouterai :
-Faire partie d’une communauté
-Aider les autres en mettant ces talents à disposition
-Devenir la personne que l’on veut être
-Pierre
-31 mars 2013 à 21:11
-Moi je ne suis pas trop d’accord avec le point 1, de vivre en pleine air (enfin peut être que quand je serais un peu plus vieux, je changerai d’avis :-) ).
-Et sur « le détachement de toute ambition », pourquoi pas…; ça demande réflexion, ce n’est pas une mauvaise idée. Mais ça doit être quand même assez difficile.
-Sam
-31 mars 2013 à 21:16
-Devenir la personne que l’on est (déjà) je dirais plutôt.
-neoprene
-31 mars 2013 à 22:04
-le bonheur ? obtenir ce que je désire
-Carlos
-31 mars 2013 à 22:05
-Bonsoir Stéphane, bonsoir à tous.
-Tout d’abord, je tiens à te remercier: j’ai acheté ton livre « l’homme idéal », il est excellent, il m’a redonné une perspective, et un peu d’espoir, à…40 ans…
-Moi je rajouterai un point:
-5. Aimer les autres, aimer aller parler avec les gens. Spontanément.
-1 avril 2013 à 0:49
-Moi je n’y changerais absolument rien.
-Philippe
-1 avril 2013 à 1:14
-Les 4 conditions citées plus haut sont obsolètes si on oublie de vivre dans l’instant présent. Car le bonheur ne peut être qu’ici et maintenant. Pas demain.
-Inis
-1 avril 2013 à 5:07
-Ressentir du contentement à chaque instant.
-J’espère que le bonheur, ce n’est pas les conditions précitées, sinon je suis mal barré.
-S.Mimura
-1 avril 2013 à 11:25
-Certainement vrai pour quelqu’un ayant une âme d’artiste. Je pense la liste inexacte pour tous les autres.
-Je dirais plutot des choses comme :
-N’avoir de comptes à rendre à personne
-Avoir toujours été présent pour élever son/ses enfants
-Belize
-1 avril 2013 à 12:41
-Bien manger
-terre à 
-
-
-- N’avoir de comptes à rendre à personne
-- Avoir toujours été présent pour élever son/ses enfants
-
 ### Force et bonheur (programme online sport et alimentation)
 
 *`web-articles__10982_coaching-online-sport-alimentation.html.txt` · 244 mots · archive de l'auteur*
@@ -262,6 +201,67 @@ Agenda
 03/07 - relooking
 Toutes les dates »
 avril 2007
+
+### La discussion du dimanche soir : les 4 conditions du bonheur
+
+*`web-actualite__12493_la-discussion-du-dimanche-soir-bonheur.html.txt` · 1173 mots · archive de l'auteur*
+
+Les 4 conditions du bonheur selon Edgar A. Poe :
+La vie en plein air
+L’amour d’un être
+Le détachement de toute ambition
+La création
+Quelles sont les conditions de votre bonheur ? Que pensez-vous de cette liste et quelles éventuelles modifications lui apporteriez-vous ?
+17
+Bilboquet
+31 mars 2013 à 20:28
+Oui plutôt d’accord, mais pas avec le point 3, le détachement de toute ambition : quand on est heureux, on l’est aussi des projets et de toutes les bonnes choses à venir.
+Et toi qu’en penses-tu ? :)
+Mint
+31 mars 2013 à 21:06
+Je rajouterai :
+Faire partie d’une communauté
+Aider les autres en mettant ces talents à disposition
+Devenir la personne que l’on veut être
+Pierre
+31 mars 2013 à 21:11
+Moi je ne suis pas trop d’accord avec le point 1, de vivre en pleine air (enfin peut être que quand je serais un peu plus vieux, je changerai d’avis :-) ).
+Et sur « le détachement de toute ambition », pourquoi pas…; ça demande réflexion, ce n’est pas une mauvaise idée. Mais ça doit être quand même assez difficile.
+Sam
+31 mars 2013 à 21:16
+Devenir la personne que l’on est (déjà) je dirais plutôt.
+neoprene
+31 mars 2013 à 22:04
+le bonheur ? obtenir ce que je désire
+Carlos
+31 mars 2013 à 22:05
+Bonsoir Stéphane, bonsoir à tous.
+Tout d’abord, je tiens à te remercier: j’ai acheté ton livre « l’homme idéal », il est excellent, il m’a redonné une perspective, et un peu d’espoir, à…40 ans…
+Moi je rajouterai un point:
+5. Aimer les autres, aimer aller parler avec les gens. Spontanément.
+1 avril 2013 à 0:49
+Moi je n’y changerais absolument rien.
+Philippe
+1 avril 2013 à 1:14
+Les 4 conditions citées plus haut sont obsolètes si on oublie de vivre dans l’instant présent. Car le bonheur ne peut être qu’ici et maintenant. Pas demain.
+Inis
+1 avril 2013 à 5:07
+Ressentir du contentement à chaque instant.
+J’espère que le bonheur, ce n’est pas les conditions précitées, sinon je suis mal barré.
+S.Mimura
+1 avril 2013 à 11:25
+Certainement vrai pour quelqu’un ayant une âme d’artiste. Je pense la liste inexacte pour tous les autres.
+Je dirais plutot des choses comme :
+N’avoir de comptes à rendre à personne
+Avoir toujours été présent pour élever son/ses enfants
+Belize
+1 avril 2013 à 12:41
+Bien manger
+terre à 
+
+
+- N’avoir de comptes à rendre à personne
+- Avoir toujours été présent pour élever son/ses enfants
 
 ## Ce que la fiche dit de ce séminaire
 

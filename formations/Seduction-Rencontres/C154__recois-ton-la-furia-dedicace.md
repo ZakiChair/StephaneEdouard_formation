@@ -13,7 +13,7 @@ programme: 0
 sections_annonce: 2
 points_annonce: 12
 documents_materiau: 1
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 0
 citations: 0
 doublon_titre: oui
@@ -67,6 +67,26 @@ PS : Les tomes en promotion ne sont pas dédicacés.
 *podcast / vidéoscopie · `Ces-traits-de-caractère-insupportables-qui-étaient-décelables-en-2-mn-synthese.md`*
 
 *Ce document alimente la formation mais ne contient ni idée forte ni verdict : il est cité ici comme source de rattachement, pas comme matière développée.*
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Social media is taking women back to the Stone Age
+
+*vidéo · `4kLJff41LQA-transcript.md`*
+
+### Video r9xXxVtAxHE
+
+*vidéo · `r9xXxVtAxHE-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 

@@ -13,7 +13,7 @@ programme: 12
 sections_annonce: 9
 points_annonce: 17
 documents_materiau: 4
-pages_developpement: 0
+pages_developpement: 6
 idees_forces: 4
 citations: 0
 doublon_titre: oui
@@ -256,6 +256,26 @@ Je ne détiens pas la vérité absolue, pas plus que je ne la tiens de Dieu ou d
 *« France-has-a-new-sociologist...-and-it's-a-summary,-pt.-2-synthese.md » · origine : lien-declare*
 
 > Le paradigme : "La politique n'est pas une catégorie pertinente" - appel à ne pas respecter la loi
+
+## Ce qu'il a dit et écrit sur ce sujet
+
+*Retrouvés par les termes propres de cette formation — ses concepts, ses chapitres — dans ses vidéos et ses podcasts. Le vocabulaire de la fiche ne se retrouve nulle part ailleurs : ces documents portent bien ce sujet.*
+
+### Video F7a7VWOlznU
+
+*vidéo · `F7a7VWOlznU-transcript.md`*
+
+### Video -7uA56RNw3k
+
+*vidéo · `-7uA56RNw3k-transcript.md`*
+
+### Video 1fJc04l_4lU
+
+*vidéo · `1fJc04l_4lU-transcript.md`*
+
+### Video 4lz2qaRDGFU
+
+*vidéo · `4lz2qaRDGFU-transcript.md`*
 
 ## Ce que la fiche dit de ce séminaire
 
